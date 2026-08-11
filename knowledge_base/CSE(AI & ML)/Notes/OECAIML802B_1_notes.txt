@@ -1,0 +1,102 @@
+METADATA
+Paper Code:OECAIML802B
+Subject Name: Research Methodology
+# RM Unit 1 – Extracted & Formatted Content
+
+## Chunk 1: 1-Mark Questions
+
+| Sl. No. | Question                                                         |
+| ------- | ---------------------------------------------------------------- |
+| 1       | Differentiate between research methods and research methodology. |
+| 2       | What is a literature review? Mention its importance.             |
+| 3       | What is a hypothesis? State its characteristics.                 |
+| 4       | What is random sampling?                                         |
+| 5       | Define research methodology.                                     |
+| 6       | What is research?                                                |
+| 7       | What is applied research?                                        |
+| 8       | What is literature review?                                       |
+| 9       | What is quantitative research?                                   |
+| 10      | What is qualitative research?                                    |
+| 11      | What is a hypothesis?                                            |
+| 12      | What is analytical research?                                     |
+| 13      | What is descriptive research?                                    |
+| 14      | What is a research problem?                                      |
+
+Source:  
+
+---
+
+# Chunk 2: 5-Mark Questions
+
+| Sl. No. | Question                                                         |
+| ------- | ---------------------------------------------------------------- |
+| 15      | What is a working hypothesis?                                    |
+| 16      | Differentiate primary and secondary sources.                     |
+| 17      | What is literature review and its importance?                    |
+| 18      | Explain the need for defining a research problem.                |
+| 19      | What are the criteria of good research?                          |
+| 20      | What is conceptual vs empirical research?                        |
+| 21      | Explain quantitative vs qualitative research.                    |
+| 22      | Distinguish between applied and fundamental research.            |
+| 23      | Explain descriptive and analytical research.                     |
+| 24      | Differentiate between research methods and research methodology. |
+
+Source: 
+
+---
+
+# Chunk 3: 15-Mark Questions
+
+### Q25.
+
+Explain the process of defining and formulating a research problem. Discuss the role of literature review and development of working hypothesis in research design.
+
+### Q26.
+
+Explain critical literature review and identification of research gaps. Explain development of working hypothesis.
+
+### Q27.
+
+What are the criteria of good research? Explain in detail.
+
+How to select a research problem? Explain what factors and criteria should be involved in selecting a good research problem.
+
+### Q28.
+
+Explain primary and secondary sources of literature. Explain the concept of applied and basic research process.
+
+### Q29.
+
+Explain the process of defining and formulating a research problem. Discuss the importance of literature review in research.
+
+### Q30.
+
+Explain the types of research in detail. Discuss research methods vs methodology.
+
+Source:  
+
+---
+
+# Chunk 4: Important Topics Covered in Unit 1
+
+Based on the question bank, Unit 1 focuses on:
+
+1. Research and Research Methodology
+2. Research Methods vs Methodology
+3. Research Problem Formulation
+4. Literature Review
+5. Research Gaps
+6. Working Hypothesis
+7. Types of Research
+
+   * Basic/Fundamental Research
+   * Applied Research
+   * Analytical Research
+   * Descriptive Research
+   * Quantitative Research
+   * Qualitative Research
+   * Conceptual Research
+   * Empirical Research
+8. Sampling (Random Sampling)
+9. Primary and Secondary Sources
+10. Criteria of Good Research
