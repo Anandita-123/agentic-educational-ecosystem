@@ -1,0 +1,865 @@
+# SUBJECT_METADATA
+
+subject_name: Operating Systems
+paper_code: PCC-CS502
+program: Computer Science
+
+---
+
+chunk_id: OS_U1_001
+unit: Introduction to Operating Systems
+topic: Operating System
+
+content: Definition, objectives, and functions of an operating system. Role of an operating system as an interface between users, applications, and hardware.
+
+keywords: operating system, OS
+
+---
+
+chunk_id: OS_U1_002
+unit: Introduction to Operating Systems
+topic: Evolution of Operating Systems
+
+content: Historical development and generations of operating systems.
+
+keywords: generations of operating systems
+
+---
+
+chunk_id: OS_U1_003
+unit: Introduction to Operating Systems
+topic: Types of Operating Systems
+
+content: Batch operating systems, multiprogramming systems, multitasking systems, time-sharing systems, distributed systems, real-time systems, and embedded operating systems.
+
+keywords: operating system types
+
+---
+
+chunk_id: OS_U1_004
+unit: Introduction to Operating Systems
+topic: Operating System Services
+
+content: Process management, memory management, file management, device management, security, protection, and user interface services.
+
+keywords: OS services
+
+---
+
+chunk_id: OS_U1_005
+unit: Introduction to Operating Systems
+topic: System Calls
+
+content: Mechanism through which user programs request services from the operating system kernel.
+
+keywords: system calls
+
+---
+
+chunk_id: OS_U1_006
+unit: Introduction to Operating Systems
+topic: Layered Operating System Architecture
+
+content: Layered structure of operating systems and its advantages and limitations.
+
+keywords: layered OS
+
+---
+
+chunk_id: OS_U1_007
+unit: Introduction to Operating Systems
+topic: Monolithic Operating System
+
+content: Monolithic kernel architecture and its characteristics.
+
+keywords: monolithic kernel
+
+---
+
+chunk_id: OS_U1_008
+unit: Introduction to Operating Systems
+topic: Microkernel Architecture
+
+content: Microkernel design and separation of core kernel services from user-space services.
+
+keywords: microkernel
+
+---
+
+chunk_id: OS_U1_009
+unit: Introduction to Operating Systems
+topic: Virtual Machine Concept
+
+content: Virtual machine architecture and abstraction of hardware resources.
+
+keywords: virtual machine
+
+---
+
+chunk_id: OS_U1_010
+unit: Introduction to Operating Systems
+topic: UNIX Operating System
+
+content: Architecture, features, and characteristics of UNIX operating systems.
+
+keywords: UNIX
+
+---
+
+chunk_id: OS_U1_011
+unit: Introduction to Operating Systems
+topic: Windows Operating System
+
+content: Architecture, features, and characteristics of Microsoft Windows operating systems.
+
+keywords: windows operating system
+
+---
+
+chunk_id: OS_U2_001
+unit: Processes and Threads
+topic: Process
+
+content: Definition of a process and its role in program execution.
+
+keywords: process
+
+---
+
+chunk_id: OS_U2_002
+unit: Processes and Threads
+topic: Process Relationships
+
+content: Parent-child processes and process hierarchies.
+
+keywords: process relationship
+
+---
+
+chunk_id: OS_U2_003
+unit: Processes and Threads
+topic: Process States
+
+content: New, ready, running, waiting, suspended, and terminated states of a process.
+
+keywords: process states
+
+---
+
+chunk_id: OS_U2_004
+unit: Processes and Threads
+topic: Process State Transitions
+
+content: Transitions among process states during execution.
+
+keywords: process state transition
+
+---
+
+chunk_id: OS_U2_005
+unit: Processes and Threads
+topic: Process Control Block
+
+content: Structure and purpose of the Process Control Block (PCB).
+
+keywords: PCB
+
+---
+
+chunk_id: OS_U2_006
+unit: Processes and Threads
+topic: Context Switching
+
+content: Mechanism of saving and restoring process states during CPU scheduling.
+
+keywords: context switching
+
+---
+
+chunk_id: OS_U2_007
+unit: Processes and Threads
+topic: Thread
+
+content: Definition and characteristics of threads as lightweight execution units.
+
+keywords: thread
+
+---
+
+chunk_id: OS_U2_008
+unit: Processes and Threads
+topic: Thread States
+
+content: Different execution states of a thread.
+
+keywords: thread states
+
+---
+
+chunk_id: OS_U2_009
+unit: Processes and Threads
+topic: Benefits of Threads
+
+content: Improved responsiveness, resource sharing, scalability, and parallelism.
+
+keywords: thread benefits
+
+---
+
+chunk_id: OS_U2_010
+unit: Processes and Threads
+topic: Types of Threads
+
+content: User-level threads and kernel-level threads.
+
+keywords: user thread, kernel thread
+
+---
+
+chunk_id: OS_U2_011
+unit: Processes and Threads
+topic: Multithreading
+
+content: Execution of multiple threads within a process.
+
+keywords: multithreading
+
+---
+
+chunk_id: OS_U2_012
+unit: CPU Scheduling
+topic: Process Scheduling
+
+content: Allocation of CPU resources among competing processes.
+
+keywords: process scheduling
+
+---
+
+chunk_id: OS_U2_013
+unit: CPU Scheduling
+topic: Scheduling Objectives
+
+content: Fairness, efficiency, responsiveness, throughput, and resource utilization.
+
+keywords: scheduling objectives
+
+---
+
+chunk_id: OS_U2_014
+unit: CPU Scheduling
+topic: Types of Schedulers
+
+content: Long-term, medium-term, and short-term schedulers.
+
+keywords: schedulers
+
+---
+
+chunk_id: OS_U2_015
+unit: CPU Scheduling
+topic: Scheduling Criteria
+
+content: CPU utilization, throughput, turnaround time, waiting time, and response time.
+
+keywords: scheduling criteria
+
+---
+
+chunk_id: OS_U2_016
+unit: CPU Scheduling
+topic: FCFS Scheduling
+
+content: First Come First Serve CPU scheduling algorithm.
+
+keywords: FCFS
+
+---
+
+chunk_id: OS_U2_017
+unit: CPU Scheduling
+topic: SJF Scheduling
+
+content: Shortest Job First scheduling algorithm.
+
+keywords: SJF
+
+---
+
+chunk_id: OS_U2_018
+unit: CPU Scheduling
+topic: Round Robin Scheduling
+
+content: Time-sharing scheduling using fixed time quantum.
+
+keywords: round robin, RR
+
+---
+
+chunk_id: OS_U2_019
+unit: CPU Scheduling
+topic: Preemptive Scheduling
+
+content: Scheduling methods allowing interruption of running processes.
+
+keywords: preemptive scheduling
+
+---
+
+chunk_id: OS_U2_020
+unit: CPU Scheduling
+topic: Non-Preemptive Scheduling
+
+content: Scheduling methods where running processes retain CPU until completion or blocking.
+
+keywords: non preemptive scheduling
+
+---
+
+chunk_id: OS_U2_021
+unit: CPU Scheduling
+topic: Multiprocessor Scheduling
+
+content: Scheduling techniques used in systems with multiple processors.
+
+keywords: multiprocessor scheduling
+
+---
+
+chunk_id: OS_U2_022
+unit: CPU Scheduling
+topic: Rate Monotonic Scheduling
+
+content: Fixed-priority scheduling algorithm for real-time systems.
+
+keywords: RM scheduling
+
+---
+
+chunk_id: OS_U2_023
+unit: CPU Scheduling
+topic: Earliest Deadline First Scheduling
+
+content: Dynamic-priority real-time scheduling algorithm.
+
+keywords: EDF scheduling
+
+---
+
+chunk_id: OS_U3_001
+unit: Inter Process Communication
+topic: Inter Process Communication
+
+content: Communication and synchronization mechanisms between processes.
+
+keywords: IPC
+
+---
+
+chunk_id: OS_U3_002
+unit: Inter Process Communication
+topic: Critical Section Problem
+
+content: Shared resource access and synchronization challenges.
+
+keywords: critical section
+
+---
+
+chunk_id: OS_U3_003
+unit: Inter Process Communication
+topic: Race Condition
+
+content: Undesirable behavior caused by concurrent access to shared resources.
+
+keywords: race condition
+
+---
+
+chunk_id: OS_U3_004
+unit: Inter Process Communication
+topic: Mutual Exclusion
+
+content: Techniques ensuring exclusive access to shared resources.
+
+keywords: mutual exclusion
+
+---
+
+chunk_id: OS_U3_005
+unit: Inter Process Communication
+topic: Peterson Solution
+
+content: Software solution to the critical section problem for two processes.
+
+keywords: peterson solution
+
+---
+
+chunk_id: OS_U3_006
+unit: Inter Process Communication
+topic: Producer Consumer Problem
+
+content: Synchronization problem involving shared buffers.
+
+keywords: producer consumer
+
+---
+
+chunk_id: OS_U3_007
+unit: Inter Process Communication
+topic: Semaphores
+
+content: Synchronization primitives used for process coordination.
+
+keywords: semaphore
+
+---
+
+chunk_id: OS_U3_008
+unit: Inter Process Communication
+topic: Event Counters
+
+content: Synchronization mechanism based on event occurrence tracking.
+
+keywords: event counter
+
+---
+
+chunk_id: OS_U3_009
+unit: Inter Process Communication
+topic: Monitors
+
+content: High-level synchronization construct for mutual exclusion.
+
+keywords: monitor
+
+---
+
+chunk_id: OS_U3_010
+unit: Inter Process Communication
+topic: Message Passing
+
+content: Process communication using message exchange.
+
+keywords: message passing
+
+---
+
+chunk_id: OS_U3_011
+unit: Inter Process Communication
+topic: Readers Writers Problem
+
+content: Synchronization problem involving concurrent reading and writing.
+
+keywords: readers writers
+
+---
+
+chunk_id: OS_U3_012
+unit: Inter Process Communication
+topic: Dining Philosophers Problem
+
+content: Classical synchronization problem demonstrating deadlock and resource allocation issues.
+
+keywords: dining philosophers
+
+---
+
+chunk_id: OS_U4_001
+unit: Deadlocks
+topic: Deadlock
+
+content: Situation where processes are permanently blocked waiting for resources held by each other.
+
+keywords: deadlock
+
+---
+
+chunk_id: OS_U4_002
+unit: Deadlocks
+topic: Deadlock Conditions
+
+content: Mutual exclusion, hold and wait, no preemption, and circular wait.
+
+keywords: deadlock conditions
+
+---
+
+chunk_id: OS_U4_003
+unit: Deadlocks
+topic: Deadlock Prevention
+
+content: Techniques to eliminate at least one deadlock condition.
+
+keywords: deadlock prevention
+
+---
+
+chunk_id: OS_U4_004
+unit: Deadlocks
+topic: Deadlock Avoidance
+
+content: Resource allocation strategies to avoid unsafe states.
+
+keywords: deadlock avoidance
+
+---
+
+chunk_id: OS_U4_005
+unit: Deadlocks
+topic: Bankers Algorithm
+
+content: Deadlock avoidance algorithm based on safe-state analysis.
+
+keywords: bankers algorithm
+
+---
+
+chunk_id: OS_U4_006
+unit: Deadlocks
+topic: Deadlock Detection and Recovery
+
+content: Methods for identifying deadlocks and recovering system operation.
+
+keywords: deadlock detection, deadlock recovery
+
+---
+
+chunk_id: OS_U5_001
+unit: Memory Management
+topic: Memory Management
+
+content: Allocation and control of memory resources among processes.
+
+keywords: memory management
+
+---
+
+chunk_id: OS_U5_002
+unit: Memory Management
+topic: Logical and Physical Address
+
+content: Address translation between logical and physical memory spaces.
+
+keywords: logical address, physical address
+
+---
+
+chunk_id: OS_U5_003
+unit: Memory Management
+topic: Contiguous Memory Allocation
+
+content: Fixed and variable partition memory allocation techniques.
+
+keywords: contiguous allocation
+
+---
+
+chunk_id: OS_U5_004
+unit: Memory Management
+topic: Fragmentation
+
+content: Internal fragmentation, external fragmentation, and memory compaction.
+
+keywords: fragmentation
+
+---
+
+chunk_id: OS_U5_005
+unit: Memory Management
+topic: Paging
+
+content: Memory management scheme using fixed-size pages and frames.
+
+keywords: paging
+
+---
+
+chunk_id: OS_U5_006
+unit: Memory Management
+topic: Page Allocation
+
+content: Allocation of pages to physical memory frames.
+
+keywords: page allocation
+
+---
+
+chunk_id: OS_U5_007
+unit: Memory Management
+topic: Page Protection and Sharing
+
+content: Memory protection and resource sharing through paging mechanisms.
+
+keywords: page protection
+
+---
+
+chunk_id: OS_U5_008
+unit: Memory Management
+topic: Virtual Memory
+
+content: Memory management technique extending physical memory using secondary storage.
+
+keywords: virtual memory
+
+---
+
+chunk_id: OS_U5_009
+unit: Memory Management
+topic: Locality of Reference
+
+content: Temporal and spatial locality in program execution.
+
+keywords: locality of reference
+
+---
+
+chunk_id: OS_U5_010
+unit: Memory Management
+topic: Page Fault
+
+content: Event triggered when a referenced page is absent from physical memory.
+
+keywords: page fault
+
+---
+
+chunk_id: OS_U5_011
+unit: Memory Management
+topic: Working Set
+
+content: Collection of actively used pages during process execution.
+
+keywords: working set
+
+---
+
+chunk_id: OS_U5_012
+unit: Memory Management
+topic: Dirty Bit
+
+content: Memory management flag indicating modified pages.
+
+keywords: dirty bit
+
+---
+
+chunk_id: OS_U5_013
+unit: Memory Management
+topic: Optimal Page Replacement
+
+content: Page replacement strategy with minimum theoretical page faults.
+
+keywords: optimal replacement
+
+---
+
+chunk_id: OS_U5_014
+unit: Memory Management
+topic: FIFO Page Replacement
+
+content: First In First Out page replacement algorithm.
+
+keywords: FIFO page replacement
+
+---
+
+chunk_id: OS_U5_015
+unit: Memory Management
+topic: Second Chance Algorithm
+
+content: Modified FIFO page replacement using reference bits.
+
+keywords: second chance
+
+---
+
+chunk_id: OS_U5_016
+unit: Memory Management
+topic: NRU Page Replacement
+
+content: Not Recently Used page replacement algorithm.
+
+keywords: NRU
+
+---
+
+chunk_id: OS_U5_017
+unit: Memory Management
+topic: LRU Page Replacement
+
+content: Least Recently Used page replacement algorithm.
+
+keywords: LRU
+
+---
+
+chunk_id: OS_U6_001
+unit: Input Output and File Systems
+topic: I/O Hardware
+
+content: Input-output devices, device controllers, and data transfer mechanisms.
+
+keywords: IO hardware
+
+---
+
+chunk_id: OS_U6_002
+unit: Input Output and File Systems
+topic: Direct Memory Access
+
+content: DMA-based data transfer between memory and devices without CPU intervention.
+
+keywords: DMA
+
+---
+
+chunk_id: OS_U6_003
+unit: Input Output and File Systems
+topic: Interrupt Handlers
+
+content: Software routines that respond to hardware interrupts.
+
+keywords: interrupt handler
+
+---
+
+chunk_id: OS_U6_004
+unit: Input Output and File Systems
+topic: Device Drivers
+
+content: Software modules controlling hardware devices.
+
+keywords: device driver
+
+---
+
+chunk_id: OS_U6_005
+unit: Input Output and File Systems
+topic: Device Independent I/O
+
+content: Generalized I/O interface independent of specific hardware devices.
+
+keywords: device independent IO
+
+---
+
+chunk_id: OS_U6_006
+unit: File Management
+topic: File System
+
+content: Organization and management of files and directories.
+
+keywords: file system
+
+---
+
+chunk_id: OS_U6_007
+unit: File Management
+topic: File Operations
+
+content: File creation, deletion, reading, writing, and modification.
+
+keywords: file operations
+
+---
+
+chunk_id: OS_U6_008
+unit: File Management
+topic: Directory Structure
+
+content: Hierarchical organization of directories and files.
+
+keywords: directory structure
+
+---
+
+chunk_id: OS_U6_009
+unit: File Management
+topic: File Allocation Methods
+
+content: Contiguous, linked, and indexed file allocation techniques.
+
+keywords: file allocation
+
+---
+
+chunk_id: OS_U6_010
+unit: File Management
+topic: Free Space Management
+
+content: Bit vector, linked list, and grouping techniques for tracking free disk space.
+
+keywords: free space management
+
+---
+
+chunk_id: OS_U6_011
+unit: File Management
+topic: Directory Implementation
+
+content: Linear list and hash-table directory implementations.
+
+keywords: directory implementation
+
+---
+
+chunk_id: OS_U6_012
+unit: Disk Management
+topic: Disk Structure
+
+content: Physical and logical organization of magnetic disks.
+
+keywords: disk structure
+
+---
+
+chunk_id: OS_U6_013
+unit: Disk Management
+topic: Disk Scheduling Algorithms
+
+content: FCFS, SSTF, SCAN, and C-SCAN disk scheduling techniques.
+
+keywords: disk scheduling
+
+---
+
+chunk_id: OS_U6_014
+unit: Disk Management
+topic: Disk Reliability
+
+content: Reliability issues and fault tolerance in storage systems.
+
+keywords: disk reliability
+
+---
+
+chunk_id: OS_U6_015
+unit: Disk Management
+topic: Disk Formatting
+
+content: Low-level and high-level disk formatting procedures.
+
+keywords: disk formatting
+
+---
+
+chunk_id: OS_U6_016
+unit: Disk Management
+topic: Boot Block
+
+content: Special disk area used during system startup.
+
+keywords: boot block
+
+---
+
+chunk_id: OS_U6_017
+unit: Disk Management
+topic: Bad Blocks
+
+content: Detection and management of defective disk sectors.
+
+keywords: bad blocks

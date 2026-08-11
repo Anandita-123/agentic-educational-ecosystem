@@ -1,0 +1,575 @@
+# SUBJECT_METADATA
+
+subject_name: Graph Theory
+paper_code: PECAIML 501C
+category: Professional Elective
+
+---
+
+chunk_id: GT_U1_001
+unit: Introduction to Graph Theory
+topic: Graph Fundamentals
+
+content: Introduction to graph theory, historical development, graph terminology, vertices, edges, and graph-based modeling.
+
+keywords: graph theory, graph fundamentals
+
+---
+
+chunk_id: GT_U1_002
+unit: Introduction to Graph Theory
+topic: Subgraphs
+
+content: Definition of subgraphs, induced subgraphs, spanning subgraphs, and their properties.
+
+keywords: subgraph
+
+---
+
+chunk_id: GT_U1_003
+unit: Introduction to Graph Theory
+topic: Graph Isomorphism
+
+content: Isomorphic graphs, graph equivalence, graph matching, and methods for determining graph isomorphism.
+
+keywords: graph isomorphism
+
+---
+
+chunk_id: GT_U1_004
+unit: Introduction to Graph Theory
+topic: Matrix Representation of Graphs
+
+content: Adjacency matrix, incidence matrix, and matrix-based graph representations.
+
+keywords: adjacency matrix, incidence matrix
+
+---
+
+chunk_id: GT_U1_005
+unit: Introduction to Graph Theory
+topic: Degree of a Vertex
+
+content: Vertex degree, in-degree, out-degree, degree sequence, and graph properties.
+
+keywords: vertex degree
+
+---
+
+chunk_id: GT_U1_006
+unit: Introduction to Graph Theory
+topic: Directed Walks Paths and Cycles
+
+content: Walks, trails, paths, cycles, and connectivity concepts in directed graphs.
+
+keywords: directed graph, path, cycle
+
+---
+
+chunk_id: GT_U1_007
+unit: Introduction to Graph Theory
+topic: Connectivity in Directed Graphs
+
+content: Strong connectivity, weak connectivity, and reachability in directed graphs.
+
+keywords: graph connectivity
+
+---
+
+chunk_id: GT_U1_008
+unit: Introduction to Graph Theory
+topic: Eulerian Digraphs
+
+content: Eulerian paths, Eulerian circuits, and conditions for Eulerian directed graphs.
+
+keywords: eulerian graph
+
+---
+
+chunk_id: GT_U1_009
+unit: Introduction to Graph Theory
+topic: Hamiltonian Digraphs
+
+content: Hamiltonian paths, Hamiltonian cycles, and conditions for Hamiltonian directed graphs.
+
+keywords: hamiltonian graph
+
+---
+
+chunk_id: GT_U1_010
+unit: Introduction to Graph Theory
+topic: Special Graphs
+
+content: Classification and properties of special graph structures used in graph theory.
+
+keywords: special graphs
+
+---
+
+chunk_id: GT_U1_011
+unit: Introduction to Graph Theory
+topic: Graph Complements
+
+content: Complement graphs, construction methods, and properties.
+
+keywords: graph complement
+
+---
+
+chunk_id: GT_U1_012
+unit: Introduction to Graph Theory
+topic: Graph Operations
+
+content: Graph union, graph sum, Cartesian product, graph composition, and graph construction techniques.
+
+keywords: graph operations, cartesian product
+
+---
+
+chunk_id: GT_U1_013
+unit: Introduction to Graph Theory
+topic: Graphic Sequences
+
+content: Degree sequences, graphical sequences, and graph realization concepts.
+
+keywords: graphic sequence
+
+---
+
+chunk_id: GT_U1_014
+unit: Introduction to Graph Theory
+topic: LAN Problem Modeling
+
+content: Graph-theoretic modeling of Local Area Networks (LANs) and communication networks.
+
+keywords: LAN graph model
+
+---
+
+chunk_id: GT_U1_015
+unit: Introduction to Graph Theory
+topic: Havel Hakimi Criterion
+
+content: Havel-Hakimi algorithm for determining whether a degree sequence is graphical.
+
+keywords: havel hakimi
+
+---
+
+chunk_id: GT_U1_016
+unit: Introduction to Graph Theory
+topic: Realization of Graphic Sequences
+
+content: Construction of graphs from valid graphical degree sequences.
+
+keywords: graph realization
+
+---
+
+chunk_id: GT_U2_001
+unit: Connected Graphs and Shortest Paths
+topic: Connected Graphs
+
+content: Definitions, properties, and classifications of connected graphs.
+
+keywords: connected graph
+
+---
+
+chunk_id: GT_U2_002
+unit: Connected Graphs and Shortest Paths
+topic: Distance in Graphs
+
+content: Graph distance, shortest path length, eccentricity, radius, and diameter.
+
+keywords: graph distance
+
+---
+
+chunk_id: GT_U2_003
+unit: Connected Graphs and Shortest Paths
+topic: Cut Vertices and Cut Edges
+
+content: Articulation points, bridges, graph vulnerability, and connectivity analysis.
+
+keywords: cut vertex, bridge
+
+---
+
+chunk_id: GT_U2_004
+unit: Connected Graphs and Shortest Paths
+topic: Blocks
+
+content: Block decomposition and biconnected graph structures.
+
+keywords: graph blocks
+
+---
+
+chunk_id: GT_U2_005
+unit: Connected Graphs and Shortest Paths
+topic: Weighted Graphs
+
+content: Graphs with weighted edges and applications in optimization problems.
+
+keywords: weighted graph
+
+---
+
+chunk_id: GT_U2_006
+unit: Connected Graphs and Shortest Paths
+topic: Dijkstra Shortest Path Algorithm
+
+content: Single-source shortest path algorithm for weighted graphs with non-negative edge weights.
+
+keywords: dijkstra algorithm
+
+---
+
+chunk_id: GT_U2_007
+unit: Connected Graphs and Shortest Paths
+topic: Floyd Warshall Algorithm
+
+content: All-pairs shortest path algorithm using dynamic programming.
+
+keywords: floyd warshall
+
+---
+
+chunk_id: GT_U3_001
+unit: Trees
+topic: Tree Fundamentals
+
+content: Definitions, properties, characterizations, and applications of trees in graph theory.
+
+keywords: tree graph
+
+---
+
+chunk_id: GT_U3_002
+unit: Trees
+topic: Number of Trees
+
+content: Enumeration of labeled and unlabeled trees.
+
+keywords: counting trees
+
+---
+
+chunk_id: GT_U3_003
+unit: Trees
+topic: Cayley Formula
+
+content: Cayley's formula for counting labeled trees.
+
+keywords: cayley formula
+
+---
+
+chunk_id: GT_U3_004
+unit: Trees
+topic: Kirchhoff Matrix Tree Theorem
+
+content: Determining the number of spanning trees using matrix methods.
+
+keywords: kirchhoff theorem
+
+---
+
+chunk_id: GT_U3_005
+unit: Trees
+topic: Minimum Spanning Trees
+
+content: Spanning trees with minimum total edge weight and optimization applications.
+
+keywords: MST
+
+---
+
+chunk_id: GT_U3_006
+unit: Trees
+topic: Kruskal Algorithm
+
+content: Greedy algorithm for constructing minimum spanning trees.
+
+keywords: kruskal algorithm
+
+---
+
+chunk_id: GT_U3_007
+unit: Trees
+topic: Prim Algorithm
+
+content: Incremental greedy algorithm for minimum spanning tree construction.
+
+keywords: prim algorithm
+
+---
+
+chunk_id: GT_U3_008
+unit: Trees
+topic: Bipartite Graphs
+
+content: Properties, characterizations, and applications of bipartite graphs.
+
+keywords: bipartite graph
+
+---
+
+chunk_id: GT_U3_009
+unit: Trees
+topic: Line Graphs
+
+content: Construction and properties of line graphs.
+
+keywords: line graph
+
+---
+
+chunk_id: GT_U3_010
+unit: Trees
+topic: Chordal Graphs
+
+content: Chordal graphs, perfect elimination ordering, and applications.
+
+keywords: chordal graph
+
+---
+
+chunk_id: GT_U3_011
+unit: Trees
+topic: Eulerian Graphs
+
+content: Eulerian circuits, Eulerian paths, and graph traversal applications.
+
+keywords: eulerian graph
+
+---
+
+chunk_id: GT_U3_012
+unit: Trees
+topic: Fleury Algorithm
+
+content: Algorithm for finding Eulerian paths and circuits.
+
+keywords: fleury algorithm
+
+---
+
+chunk_id: GT_U3_013
+unit: Trees
+topic: Chinese Postman Problem
+
+content: Route optimization problem involving traversal of all graph edges.
+
+keywords: chinese postman problem
+
+---
+
+chunk_id: GT_U3_014
+unit: Trees
+topic: Hamilton Graphs
+
+content: Hamiltonian paths, cycles, and graph traversal properties.
+
+keywords: hamilton graph
+
+---
+
+chunk_id: GT_U4_001
+unit: Independent Sets Coverings and Matchings
+topic: Independent Sets
+
+content: Independent vertex sets, maximal independent sets, and graph optimization.
+
+keywords: independent set
+
+---
+
+chunk_id: GT_U4_002
+unit: Independent Sets Coverings and Matchings
+topic: Vertex Cover
+
+content: Covering sets, minimum vertex cover, and graph covering problems.
+
+keywords: vertex cover
+
+---
+
+chunk_id: GT_U4_003
+unit: Independent Sets Coverings and Matchings
+topic: Matchings
+
+content: Matchings, maximum matchings, and matching theory in graphs.
+
+keywords: graph matching
+
+---
+
+chunk_id: GT_U4_004
+unit: Independent Sets Coverings and Matchings
+topic: Bipartite Matchings
+
+content: Matching algorithms and properties specific to bipartite graphs.
+
+keywords: bipartite matching
+
+---
+
+chunk_id: GT_U4_005
+unit: Independent Sets Coverings and Matchings
+topic: Hall Theorem
+
+content: Hall's Marriage Theorem and existence conditions for perfect matchings.
+
+keywords: hall theorem
+
+---
+
+chunk_id: GT_U4_006
+unit: Independent Sets Coverings and Matchings
+topic: Konig Theorem
+
+content: Relationship between matchings and vertex covers in bipartite graphs.
+
+keywords: konig theorem
+
+---
+
+chunk_id: GT_U4_007
+unit: Independent Sets Coverings and Matchings
+topic: Perfect Matchings
+
+content: Perfect matching concepts, conditions, and applications.
+
+keywords: perfect matching
+
+---
+
+chunk_id: GT_U4_008
+unit: Independent Sets Coverings and Matchings
+topic: Greedy and Approximation Algorithms
+
+content: Approximation and greedy approaches for graph optimization problems.
+
+keywords: approximation algorithms
+
+---
+
+chunk_id: GT_U5_001
+unit: Vertex Colorings
+topic: Graph Coloring Fundamentals
+
+content: Vertex coloring, chromatic number, coloring constraints, and applications.
+
+keywords: graph coloring
+
+---
+
+chunk_id: GT_U5_002
+unit: Vertex Colorings
+topic: Cliques and Chromatic Number
+
+content: Relationship between clique number and graph coloring.
+
+keywords: clique, chromatic number
+
+---
+
+chunk_id: GT_U5_003
+unit: Vertex Colorings
+topic: Mycielski Theorem
+
+content: Construction of triangle-free graphs with high chromatic number.
+
+keywords: mycielski theorem
+
+---
+
+chunk_id: GT_U5_004
+unit: Vertex Colorings
+topic: Greedy Coloring Algorithm
+
+content: Sequential graph coloring using greedy strategies.
+
+keywords: greedy coloring
+
+---
+
+chunk_id: GT_U5_005
+unit: Vertex Colorings
+topic: Coloring of Chordal Graphs
+
+content: Efficient coloring methods for chordal graphs.
+
+keywords: chordal graph coloring
+
+---
+
+chunk_id: GT_U5_006
+unit: Vertex Colorings
+topic: Brooks Theorem
+
+content: Upper bounds on chromatic number based on maximum degree.
+
+keywords: brooks theorem
+
+---
+
+chunk_id: GT_U5_007
+unit: Vertex Colorings
+topic: Edge Coloring
+
+content: Edge coloring concepts, constraints, and optimization.
+
+keywords: edge coloring
+
+---
+
+chunk_id: GT_U5_008
+unit: Vertex Colorings
+topic: Gupta Vizing Theorem
+
+content: Classification of graphs based on edge chromatic number.
+
+keywords: vizing theorem
+
+---
+
+chunk_id: GT_U5_009
+unit: Vertex Colorings
+topic: Class 1 and Class 2 Graphs
+
+content: Edge-coloring classifications and their properties.
+
+keywords: class 1 graph, class 2 graph
+
+---
+
+chunk_id: GT_U5_010
+unit: Vertex Colorings
+topic: Edge Coloring of Bipartite Graphs
+
+content: Special edge-coloring properties and algorithms for bipartite graphs.
+
+keywords: bipartite edge coloring
+
+---
+
+chunk_id: GT_U5_011
+unit: Vertex Colorings
+topic: Hajos Union
+
+content: Hajos construction and applications in graph coloring theory.
+
+keywords: hajos union
+
+---
+
+chunk_id: GT_U5_012
+unit: Vertex Colorings
+topic: Scheduling Applications of Edge Coloring
+
+content: Use of graph edge coloring techniques in scheduling and resource allocation problems.
+
+keywords: scheduling, equitable edge coloring

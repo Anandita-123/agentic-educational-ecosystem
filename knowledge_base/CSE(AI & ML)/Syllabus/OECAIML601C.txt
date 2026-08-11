@@ -1,0 +1,295 @@
+# SUBJECT_METADATA
+
+subject_name: Neural Networks
+paper_code: OECAIML601C
+category: Open Elective Course
+
+---
+
+chunk_id: NN_U1_001
+unit: Introduction to Neural Networks
+topic: Learning Paradigms
+
+content: Overview of various learning paradigms including supervised learning, unsupervised learning, reinforcement learning, and their applications in intelligent systems.
+
+keywords: learning paradigms, supervised learning, unsupervised learning
+
+---
+
+chunk_id: NN_U1_002
+unit: Introduction to Neural Networks
+topic: Deep Learning Perspectives and Issues
+
+content: Introduction to deep learning frameworks, emerging trends, challenges, opportunities, and practical issues in deep learning systems.
+
+keywords: deep learning, learning frameworks, AI challenges
+
+---
+
+chunk_id: NN_U1_003
+unit: Introduction to Neural Networks
+topic: Fundamental Learning Techniques
+
+content: Review of fundamental machine learning and neural network learning techniques, optimization concepts, and training methodologies.
+
+keywords: machine learning, learning techniques, neural networks
+
+---
+
+chunk_id: NN_U2_001
+unit: Feed Forward Neural Networks
+topic: Artificial Neural Networks
+
+content: Introduction to artificial neural networks, biological inspiration, neuron models, network architectures, and applications.
+
+keywords: artificial neural networks, ANN, neuron model
+
+---
+
+chunk_id: NN_U2_002
+unit: Feed Forward Neural Networks
+topic: Activation Functions
+
+content: Activation functions used in neural networks including sigmoid, tanh, ReLU, and their role in nonlinear learning.
+
+keywords: activation functions, sigmoid, ReLU, tanh
+
+---
+
+chunk_id: NN_U2_003
+unit: Feed Forward Neural Networks
+topic: Multilayer Neural Networks
+
+content: Architecture of multilayer neural networks, hidden layers, forward propagation, and representation learning.
+
+keywords: multilayer perceptron, MLP, hidden layers
+
+---
+
+chunk_id: NN_U2_004
+unit: Feed Forward Neural Networks
+topic: Neural Network Operations and Properties
+
+content: Neural network computations, connectivity patterns, cardinality concepts, and operational characteristics of learning systems.
+
+keywords: neural network operations, connectivity, cardinality
+
+---
+
+chunk_id: NN_U3_001
+unit: Training Neural Networks
+topic: Risk Minimization
+
+content: Principles of empirical and structural risk minimization, learning objectives, and generalization performance.
+
+keywords: risk minimization, generalization
+
+---
+
+chunk_id: NN_U3_002
+unit: Training Neural Networks
+topic: Loss Functions
+
+content: Common loss functions for classification and regression tasks, optimization objectives, and performance evaluation.
+
+keywords: loss functions, classification loss, regression loss
+
+---
+
+chunk_id: NN_U3_003
+unit: Training Neural Networks
+topic: Backpropagation Algorithm
+
+content: Backpropagation learning algorithm, gradient computation, weight updates, and neural network training procedures.
+
+keywords: backpropagation, gradient descent, training
+
+---
+
+chunk_id: NN_U3_004
+unit: Training Neural Networks
+topic: Regularization Techniques
+
+content: Methods to prevent overfitting including L1 regularization, L2 regularization, dropout, and weight constraints.
+
+keywords: regularization, overfitting prevention
+
+---
+
+chunk_id: NN_U3_005
+unit: Training Neural Networks
+topic: Model Selection and Optimization
+
+content: Model selection strategies, hyperparameter tuning, optimization algorithms, and performance improvement techniques.
+
+keywords: model selection, optimization, hyperparameter tuning
+
+---
+
+chunk_id: NN_U4_001
+unit: Conditional Random Fields
+topic: Introduction to Conditional Random Fields
+
+content: Fundamentals of Conditional Random Fields (CRFs), probabilistic graphical models, and sequence prediction tasks.
+
+keywords: CRF, graphical models, sequence labeling
+
+---
+
+chunk_id: NN_U4_002
+unit: Conditional Random Fields
+topic: Linear Chain CRFs
+
+content: Structure and applications of linear chain Conditional Random Fields for sequential data modeling.
+
+keywords: linear chain CRF, sequence modeling
+
+---
+
+chunk_id: NN_U4_003
+unit: Conditional Random Fields
+topic: Partition Function and Markov Networks
+
+content: Partition functions, Markov networks, probabilistic dependencies, and graphical model representations.
+
+keywords: partition function, Markov network
+
+---
+
+chunk_id: NN_U4_004
+unit: Conditional Random Fields
+topic: Belief Propagation
+
+content: Belief propagation algorithms, inference techniques, and probabilistic message passing in graphical models.
+
+keywords: belief propagation, inference
+
+---
+
+chunk_id: NN_U4_005
+unit: Conditional Random Fields
+topic: Training CRFs
+
+content: Parameter estimation, optimization methods, and learning algorithms for Conditional Random Fields.
+
+keywords: CRF training, parameter estimation
+
+---
+
+chunk_id: NN_U4_006
+unit: Conditional Random Fields
+topic: Hidden Markov Models and Entropy
+
+content: Hidden Markov Models (HMMs), entropy concepts, probabilistic sequence modeling, and comparative analysis with CRFs.
+
+keywords: HMM, entropy, sequence prediction
+
+---
+
+chunk_id: NN_U5_001
+unit: Deep Learning Architectures
+topic: Deep Feed Forward Networks
+
+content: Deep feed forward neural networks, layered representations, hierarchical feature extraction, and learning mechanisms.
+
+keywords: deep feedforward networks, deep neural networks
+
+---
+
+chunk_id: NN_U5_002
+unit: Deep Learning Architectures
+topic: Deep Learning Regularization
+
+content: Regularization methods for deep learning models including weight decay, batch normalization, and generalization enhancement.
+
+keywords: deep learning regularization, batch normalization
+
+---
+
+chunk_id: NN_U5_003
+unit: Deep Learning Architectures
+topic: Training Deep Models
+
+content: Strategies for training deep neural networks, optimization challenges, vanishing gradients, and convergence techniques.
+
+keywords: deep model training, optimization
+
+---
+
+chunk_id: NN_U5_004
+unit: Deep Learning Architectures
+topic: Dropout Techniques
+
+content: Dropout as a regularization method, prevention of co-adaptation, and improved model robustness.
+
+keywords: dropout, regularization
+
+---
+
+chunk_id: NN_U5_005
+unit: Deep Learning Architectures
+topic: Convolutional Neural Networks
+
+content: CNN architecture, convolution operations, pooling layers, feature extraction, and image processing applications.
+
+keywords: CNN, convolutional neural network, computer vision
+
+---
+
+chunk_id: NN_U5_006
+unit: Deep Learning Architectures
+topic: Recurrent Neural Networks
+
+content: Recurrent Neural Networks (RNNs), sequence learning, temporal dependencies, and applications in sequential data.
+
+keywords: RNN, sequence learning, recurrent networks
+
+---
+
+chunk_id: NN_U5_007
+unit: Deep Learning Architectures
+topic: Deep Belief Networks
+
+content: Deep Belief Networks (DBNs), unsupervised pretraining, hierarchical representation learning, and probabilistic modeling.
+
+keywords: deep belief network, DBN
+
+---
+
+chunk_id: NN_U6_001
+unit: Deep Learning Research and Applications
+topic: Object Recognition
+
+content: Deep learning techniques for object recognition, image classification, feature learning, and visual perception systems.
+
+keywords: object recognition, image classification
+
+---
+
+chunk_id: NN_U6_002
+unit: Deep Learning Research and Applications
+topic: Sparse Coding
+
+content: Sparse coding methods, efficient feature representation, dictionary learning, and dimensionality reduction techniques.
+
+keywords: sparse coding, feature representation
+
+---
+
+chunk_id: NN_U6_003
+unit: Deep Learning Research and Applications
+topic: Computer Vision Applications
+
+content: Applications of deep learning in computer vision including detection, segmentation, recognition, and scene understanding.
+
+keywords: computer vision, image analysis
+
+---
+
+chunk_id: NN_U6_004
+unit: Deep Learning Research and Applications
+topic: Natural Language Processing
+
+content: Deep learning methods for natural language processing, text classification, language modeling, translation, and understanding.
+
+keywords: NLP, language processing, text analytics

@@ -1,0 +1,515 @@
+# SUBJECT_METADATA
+
+subject_name: Mathematics-II A
+paper_code: BS-M201
+program: AIML
+
+---
+
+chunk_id: MATH2A_U1_001
+unit: Basic Probability
+topic: Probability Space
+
+content: Definition of probability spaces, sample spaces, events, and probability measures.
+
+keywords: probability space, sample space, events, probability measure
+
+---
+
+chunk_id: MATH2A_U1_002
+unit: Basic Probability
+topic: Conditional Probability
+
+content: Definition, computation, and applications of conditional probability.
+
+keywords: conditional probability, dependent events
+
+---
+
+chunk_id: MATH2A_U1_003
+unit: Basic Probability
+topic: Independence of Events
+
+content: Definition and properties of independent events in probability theory.
+
+keywords: independence, independent events
+
+---
+
+chunk_id: MATH2A_U1_004
+unit: Basic Probability
+topic: Discrete Random Variables
+
+content: Definition, probability mass functions, and properties of discrete random variables.
+
+keywords: discrete random variable, PMF
+
+---
+
+chunk_id: MATH2A_U1_005
+unit: Basic Probability
+topic: Independent Random Variables
+
+content: Concept and properties of mutually independent random variables.
+
+keywords: independent random variables
+
+---
+
+chunk_id: MATH2A_U1_006
+unit: Basic Probability
+topic: Multinomial Distribution
+
+content: Definition, properties, and applications of the multinomial probability distribution.
+
+keywords: multinomial distribution, discrete probability
+
+---
+
+chunk_id: MATH2A_U1_007
+unit: Basic Probability
+topic: Poisson Approximation to Binomial Distribution
+
+content: Approximation of binomial distributions using Poisson distributions under suitable conditions.
+
+keywords: Poisson approximation, binomial distribution
+
+---
+
+chunk_id: MATH2A_U1_008
+unit: Basic Probability
+topic: Bernoulli Trials
+
+content: Infinite sequences of Bernoulli trials and their probabilistic properties.
+
+keywords: Bernoulli trials, Bernoulli process
+
+---
+
+chunk_id: MATH2A_U1_009
+unit: Basic Probability
+topic: Sum of Independent Random Variables
+
+content: Distribution and statistical properties of sums of independent random variables.
+
+keywords: sum of random variables, independence
+
+---
+
+chunk_id: MATH2A_U1_010
+unit: Basic Probability
+topic: Expectation of Discrete Random Variables
+
+content: Mathematical expectation and expected value of discrete random variables.
+
+keywords: expectation, expected value
+
+---
+
+chunk_id: MATH2A_U1_011
+unit: Basic Probability
+topic: Moments
+
+content: Raw moments and central moments of probability distributions.
+
+keywords: moments, statistical moments
+
+---
+
+chunk_id: MATH2A_U1_012
+unit: Basic Probability
+topic: Variance of a Sum
+
+content: Calculation of variance for sums of random variables.
+
+keywords: variance, random variables
+
+---
+
+chunk_id: MATH2A_U1_013
+unit: Basic Probability
+topic: Correlation Coefficient
+
+content: Measurement of linear dependence between random variables.
+
+keywords: correlation coefficient, covariance
+
+---
+
+chunk_id: MATH2A_U1_014
+unit: Basic Probability
+topic: Chebyshev's Inequality
+
+content: Statement, interpretation, and applications of Chebyshev's inequality.
+
+keywords: Chebyshev inequality, probability bounds
+
+---
+
+chunk_id: MATH2A_U2_001
+unit: Continuous Probability Distributions
+topic: Continuous Random Variables
+
+content: Definition and properties of continuous random variables.
+
+keywords: continuous random variable
+
+---
+
+chunk_id: MATH2A_U2_002
+unit: Continuous Probability Distributions
+topic: Distribution Functions
+
+content: Cumulative distribution functions and their properties.
+
+keywords: CDF, cumulative distribution function
+
+---
+
+chunk_id: MATH2A_U2_003
+unit: Continuous Probability Distributions
+topic: Probability Density Functions
+
+content: Definition and properties of probability density functions.
+
+keywords: PDF, density function
+
+---
+
+chunk_id: MATH2A_U2_004
+unit: Continuous Probability Distributions
+topic: Normal Distribution
+
+content: Properties, parameters, and applications of the normal probability distribution.
+
+keywords: normal distribution, Gaussian distribution
+
+---
+
+chunk_id: MATH2A_U2_005
+unit: Continuous Probability Distributions
+topic: Exponential Distribution
+
+content: Definition, properties, and applications of the exponential distribution.
+
+keywords: exponential distribution
+
+---
+
+chunk_id: MATH2A_U2_006
+unit: Continuous Probability Distributions
+topic: Gamma Distribution
+
+content: Definition, properties, and applications of the gamma distribution.
+
+keywords: gamma distribution
+
+---
+
+chunk_id: MATH2A_U3_001
+unit: Bivariate Distributions
+topic: Bivariate Random Variables
+
+content: Definition and representation of bivariate random variables.
+
+keywords: bivariate distribution, joint distribution
+
+---
+
+chunk_id: MATH2A_U3_002
+unit: Bivariate Distributions
+topic: Joint Probability Distribution
+
+content: Joint probability distributions and their properties.
+
+keywords: joint distribution, probability
+
+---
+
+chunk_id: MATH2A_U3_003
+unit: Bivariate Distributions
+topic: Distribution of Sums
+
+content: Distribution of the sum of two random variables.
+
+keywords: sum distribution, random variables
+
+---
+
+chunk_id: MATH2A_U3_004
+unit: Bivariate Distributions
+topic: Distribution of Quotients
+
+content: Distribution of the quotient of random variables.
+
+keywords: quotient distribution
+
+---
+
+chunk_id: MATH2A_U3_005
+unit: Bivariate Distributions
+topic: Conditional Density Functions
+
+content: Definition and computation of conditional probability density functions.
+
+keywords: conditional density, conditional probability
+
+---
+
+chunk_id: MATH2A_U3_006
+unit: Bivariate Distributions
+topic: Bayes' Rule
+
+content: Bayes' theorem and applications in probability and statistical inference.
+
+keywords: Bayes rule, Bayesian probability
+
+---
+
+chunk_id: MATH2A_U4_001
+unit: Basic Statistics
+topic: Measures of Central Tendency
+
+content: Mean, median, and mode as measures of central tendency.
+
+keywords: mean, median, mode
+
+---
+
+chunk_id: MATH2A_U4_002
+unit: Basic Statistics
+topic: Statistical Moments
+
+content: Moments and their role in describing statistical distributions.
+
+keywords: moments, statistics
+
+---
+
+chunk_id: MATH2A_U4_003
+unit: Basic Statistics
+topic: Skewness
+
+content: Measurement and interpretation of asymmetry in statistical distributions.
+
+keywords: skewness, asymmetry
+
+---
+
+chunk_id: MATH2A_U4_004
+unit: Basic Statistics
+topic: Kurtosis
+
+content: Measurement and interpretation of peakedness in statistical distributions.
+
+keywords: kurtosis, distribution shape
+
+---
+
+chunk_id: MATH2A_U4_005
+unit: Basic Statistics
+topic: Binomial Distribution
+
+content: Definition, parameters, and statistical properties of the binomial distribution.
+
+keywords: binomial distribution
+
+---
+
+chunk_id: MATH2A_U4_006
+unit: Basic Statistics
+topic: Poisson Distribution
+
+content: Definition, parameters, and statistical properties of the Poisson distribution.
+
+keywords: Poisson distribution
+
+---
+
+chunk_id: MATH2A_U4_007
+unit: Basic Statistics
+topic: Normal Distribution in Statistics
+
+content: Statistical parameters and applications of the normal distribution.
+
+keywords: normal distribution, statistics
+
+---
+
+chunk_id: MATH2A_U4_008
+unit: Basic Statistics
+topic: Correlation Analysis
+
+content: Measurement and interpretation of relationships between variables.
+
+keywords: correlation, statistical analysis
+
+---
+
+chunk_id: MATH2A_U4_009
+unit: Basic Statistics
+topic: Regression Analysis
+
+content: Concepts and methods of regression analysis.
+
+keywords: regression, prediction
+
+---
+
+chunk_id: MATH2A_U4_010
+unit: Basic Statistics
+topic: Rank Correlation
+
+content: Measurement of association using rank-based correlation methods.
+
+keywords: rank correlation, Spearman correlation
+
+---
+
+chunk_id: MATH2A_U5_001
+unit: Applied Statistics
+topic: Least Squares Method
+
+content: Principle of least squares and its use in curve fitting.
+
+keywords: least squares, curve fitting
+
+---
+
+chunk_id: MATH2A_U5_002
+unit: Applied Statistics
+topic: Fitting of Straight Lines
+
+content: Determination of best-fit straight lines using least squares techniques.
+
+keywords: linear fitting, regression line
+
+---
+
+chunk_id: MATH2A_U5_003
+unit: Applied Statistics
+topic: Fitting of Second Degree Parabolas
+
+content: Curve fitting of quadratic functions using least squares methods.
+
+keywords: parabola fitting, quadratic regression
+
+---
+
+chunk_id: MATH2A_U5_004
+unit: Applied Statistics
+topic: Fitting of General Curves
+
+content: Least squares fitting of nonlinear and generalized curves.
+
+keywords: curve fitting, nonlinear regression
+
+---
+
+chunk_id: MATH2A_U5_005
+unit: Applied Statistics
+topic: Large Sample Test for Single Proportion
+
+content: Hypothesis testing for a single population proportion using large samples.
+
+keywords: proportion test, large sample test
+
+---
+
+chunk_id: MATH2A_U5_006
+unit: Applied Statistics
+topic: Large Sample Test for Difference of Proportions
+
+content: Hypothesis testing for comparing two population proportions.
+
+keywords: difference of proportions, z-test
+
+---
+
+chunk_id: MATH2A_U5_007
+unit: Applied Statistics
+topic: Large Sample Test for Single Mean
+
+content: Hypothesis testing for a population mean using large samples.
+
+keywords: mean test, z-test
+
+---
+
+chunk_id: MATH2A_U5_008
+unit: Applied Statistics
+topic: Large Sample Test for Difference of Means
+
+content: Hypothesis testing for comparing two population means using large samples.
+
+keywords: difference of means, hypothesis testing
+
+---
+
+chunk_id: MATH2A_U5_009
+unit: Applied Statistics
+topic: Large Sample Test for Difference of Standard Deviations
+
+content: Statistical testing involving comparison of standard deviations.
+
+keywords: standard deviation test, hypothesis testing
+
+---
+
+chunk_id: MATH2A_U6_001
+unit: Small Sample Statistics
+topic: Small Sample Test for Single Mean
+
+content: Hypothesis testing for a population mean using small sample data.
+
+keywords: t-test, single mean
+
+---
+
+chunk_id: MATH2A_U6_002
+unit: Small Sample Statistics
+topic: Small Sample Test for Difference of Means
+
+content: Hypothesis testing for comparing two means using small samples.
+
+keywords: two-sample t-test, difference of means
+
+---
+
+chunk_id: MATH2A_U6_003
+unit: Small Sample Statistics
+topic: Small Sample Test for Correlation Coefficients
+
+content: Significance testing of correlation coefficients based on small samples.
+
+keywords: correlation test, hypothesis testing
+
+---
+
+chunk_id: MATH2A_U6_004
+unit: Small Sample Statistics
+topic: Test for Ratio of Variances
+
+content: Statistical testing involving comparison of variances using F-distribution.
+
+keywords: F-test, variance ratio
+
+---
+
+chunk_id: MATH2A_U6_005
+unit: Small Sample Statistics
+topic: Chi-Square Goodness of Fit Test
+
+content: Chi-square test used to evaluate how well observed data fit a theoretical distribution.
+
+keywords: chi-square test, goodness of fit
+
+---
+
+chunk_id: MATH2A_U6_006
+unit: Small Sample Statistics
+topic: Chi-Square Test of Independence
+
+content: Chi-square test used to determine independence between categorical variables.
+
+keywords: chi-square independence test, contingency table

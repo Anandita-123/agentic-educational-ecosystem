@@ -1,0 +1,515 @@
+# SUBJECT_METADATA
+
+subject_name: Soft Skill & Interpersonal Communication
+paper_code: OECAIML802C
+category: Open Elective
+
+---
+
+chunk_id: SSIC_U1_001
+unit: Introduction to Soft Skills
+topic: A New Approach to Learning
+
+content: Understanding modern approaches to learning, personal development, and continuous improvement.
+
+keywords: learning, personal development
+
+---
+
+chunk_id: SSIC_U1_002
+unit: Introduction to Soft Skills
+topic: Planning and Goal Setting
+
+content: Importance of planning, setting personal and professional goals, and strategies for achieving them.
+
+keywords: planning, goal setting
+
+---
+
+chunk_id: SSIC_U1_003
+unit: Introduction to Soft Skills
+topic: Human Perceptions
+
+content: Understanding how people perceive situations, individuals, and environments, and its impact on communication.
+
+keywords: human perception, understanding people
+
+---
+
+chunk_id: SSIC_U1_004
+unit: Introduction to Soft Skills
+topic: Types of Soft Skills
+
+content: Overview of various soft skills required for personal growth and workplace effectiveness.
+
+keywords: soft skills, interpersonal skills
+
+---
+
+chunk_id: SSIC_U1_005
+unit: Introduction to Soft Skills
+topic: Self-Management Skills
+
+content: Techniques for managing time, emotions, behavior, and personal responsibilities effectively.
+
+keywords: self-management, personal effectiveness
+
+---
+
+chunk_id: SSIC_U1_006
+unit: Introduction to Soft Skills
+topic: Developing Potential and Self-Actualization
+
+content: Strategies for identifying strengths, maximizing potential, and achieving self-actualization.
+
+keywords: self-actualization, personal growth
+
+---
+
+chunk_id: SSIC_U1_007
+unit: Introduction to Soft Skills
+topic: Need Achievement and Spiritual Intelligence
+
+content: Understanding achievement motivation and the role of spiritual intelligence in personal success.
+
+keywords: achievement motivation, spiritual intelligence
+
+---
+
+chunk_id: SSIC_U2_001
+unit: Conflict Resolution and Stress Management
+topic: Seeking Win-Win Solutions
+
+content: Conflict resolution techniques focused on achieving mutually beneficial outcomes.
+
+keywords: win-win solution, conflict resolution
+
+---
+
+chunk_id: SSIC_U2_002
+unit: Conflict Resolution and Stress Management
+topic: Interpersonal Conflicts
+
+content: Nature, causes, and examples of interpersonal conflicts in personal and professional environments.
+
+keywords: interpersonal conflict, conflict management
+
+---
+
+chunk_id: SSIC_U2_003
+unit: Conflict Resolution and Stress Management
+topic: Conflict Resolution Strategies
+
+content: Practical approaches and solutions for resolving interpersonal conflicts effectively.
+
+keywords: conflict resolution, negotiation
+
+---
+
+chunk_id: SSIC_U2_004
+unit: Conflict Resolution and Stress Management
+topic: Types of Conflicts
+
+content: Classification of conflicts and methods for handling different conflict situations.
+
+keywords: conflict types, dispute management
+
+---
+
+chunk_id: SSIC_U2_005
+unit: Conflict Resolution and Stress Management
+topic: Becoming a Conflict Resolution Expert
+
+content: Skills and competencies required for successful conflict management and mediation.
+
+keywords: mediation, conflict expertise
+
+---
+
+chunk_id: SSIC_U2_006
+unit: Conflict Resolution and Stress Management
+topic: Types of Stress
+
+content: Understanding various forms of stress and their impact on personal and professional life.
+
+keywords: stress, stress types
+
+---
+
+chunk_id: SSIC_U2_007
+unit: Conflict Resolution and Stress Management
+topic: Self-Awareness About Stress
+
+content: Identifying personal stress triggers and recognizing signs of stress.
+
+keywords: stress awareness, self-awareness
+
+---
+
+chunk_id: SSIC_U2_008
+unit: Conflict Resolution and Stress Management
+topic: Stress Regulation
+
+content: Techniques and strategies for managing stress and maintaining mental well-being.
+
+keywords: stress management, emotional regulation
+
+---
+
+chunk_id: SSIC_U3_001
+unit: Habits and Personal Effectiveness
+topic: Guiding Principles of Habits
+
+content: Understanding the role of habits in shaping behavior and personal effectiveness.
+
+keywords: habits, personal development
+
+---
+
+chunk_id: SSIC_U3_002
+unit: Habits and Personal Effectiveness
+topic: Identifying Good and Bad Habits
+
+content: Methods for recognizing productive and unproductive habits and their impact on success.
+
+keywords: good habits, bad habits
+
+---
+
+chunk_id: SSIC_U3_003
+unit: Habits and Personal Effectiveness
+topic: Habit Cycle
+
+content: Understanding the cue-routine-reward cycle that drives habit formation.
+
+keywords: habit cycle, behavior change
+
+---
+
+chunk_id: SSIC_U3_004
+unit: Habits and Personal Effectiveness
+topic: Breaking Bad Habits
+
+content: Strategies for eliminating harmful habits and replacing them with positive behaviors.
+
+keywords: habit change, self-improvement
+
+---
+
+chunk_id: SSIC_U3_005
+unit: Habits and Personal Effectiveness
+topic: Zeigarnik Effect
+
+content: Application of the Zeigarnik Effect to improve productivity, motivation, and task completion.
+
+keywords: Zeigarnik effect, productivity
+
+---
+
+chunk_id: SSIC_U3_006
+unit: Habits and Personal Effectiveness
+topic: Forming Habits of Success
+
+content: Techniques for building habits that contribute to long-term personal and professional success.
+
+keywords: success habits, habit formation
+
+---
+
+chunk_id: SSIC_U4_001
+unit: Communication Fundamentals
+topic: Significance of Listening
+
+content: Importance of listening as a core communication skill and its role in effective interactions.
+
+keywords: listening skills, communication
+
+---
+
+chunk_id: SSIC_U4_002
+unit: Communication Fundamentals
+topic: Active Listening
+
+content: Techniques and benefits of active listening for improved understanding and communication.
+
+keywords: active listening, effective communication
+
+---
+
+chunk_id: SSIC_U4_003
+unit: Communication Fundamentals
+topic: Barriers to Active Listening
+
+content: Common obstacles that hinder active listening and methods to overcome them.
+
+keywords: listening barriers, communication barriers
+
+---
+
+chunk_id: SSIC_U4_004
+unit: Communication Fundamentals
+topic: Basic Telephone Skills
+
+content: Essential telephone communication practices for professional interactions.
+
+keywords: telephone skills, communication etiquette
+
+---
+
+chunk_id: SSIC_U4_005
+unit: Communication Fundamentals
+topic: Advanced Telephone Skills
+
+content: Techniques for handling complex telephone conversations professionally and effectively.
+
+keywords: telephone communication, customer interaction
+
+---
+
+chunk_id: SSIC_U4_006
+unit: Communication Fundamentals
+topic: Essential Telephone Communication
+
+content: Best practices for maintaining professionalism and clarity during telephone conversations.
+
+keywords: telephone etiquette, verbal communication
+
+---
+
+chunk_id: SSIC_U5_001
+unit: Technology and Communication
+topic: Technological Personality
+
+content: Impact of technology usage patterns on communication styles and interpersonal behavior.
+
+keywords: technology, communication behavior
+
+---
+
+chunk_id: SSIC_U5_002
+unit: Technology and Communication
+topic: Mobile Personality
+
+content: Influence of mobile devices on communication habits and personal interactions.
+
+keywords: mobile communication, digital behavior
+
+---
+
+chunk_id: SSIC_U5_003
+unit: Technology and Communication
+topic: E-Mail Principles
+
+content: Fundamental principles for writing professional and effective emails.
+
+keywords: email communication, email writing
+
+---
+
+chunk_id: SSIC_U5_004
+unit: Technology and Communication
+topic: Common E-Mail Mistakes
+
+content: Practices to avoid while composing and sending professional emails.
+
+keywords: email mistakes, communication errors
+
+---
+
+chunk_id: SSIC_U5_005
+unit: Technology and Communication
+topic: Netiquette
+
+content: Guidelines and standards for proper behavior and communication in online environments.
+
+keywords: netiquette, online communication
+
+---
+
+chunk_id: SSIC_U5_006
+unit: Technology and Communication
+topic: E-Mail Etiquette
+
+content: Professional standards and etiquette for email communication in academic and workplace settings.
+
+keywords: email etiquette, professional communication
+
+---
+
+chunk_id: SSIC_U6_001
+unit: Communication Skills
+topic: Effective Communication
+
+content: Principles and techniques for clear, concise, and impactful communication.
+
+keywords: effective communication, communication skills
+
+---
+
+chunk_id: SSIC_U6_002
+unit: Communication Skills
+topic: Personality-Based Communication Barriers
+
+content: Communication barriers arising from the sender’s or receiver’s personality traits and attitudes.
+
+keywords: communication barriers, personality
+
+---
+
+chunk_id: SSIC_U6_003
+unit: Communication Skills
+topic: Interpersonal Transaction Barriers
+
+content: Challenges in communication caused by interpersonal interactions and misunderstandings.
+
+keywords: interpersonal communication, transaction analysis
+
+---
+
+chunk_id: SSIC_U6_004
+unit: Communication Skills
+topic: Miscommunication
+
+content: Causes, consequences, and prevention of miscommunication in various contexts.
+
+keywords: miscommunication, communication errors
+
+---
+
+chunk_id: SSIC_U6_005
+unit: Communication Skills
+topic: Introduction to Non-Verbal Communication
+
+content: Overview of non-verbal communication and its significance in conveying messages.
+
+keywords: non-verbal communication, body language
+
+---
+
+chunk_id: SSIC_U6_006
+unit: Communication Skills
+topic: Non-Verbal Communication Assessment
+
+content: Self-assessment techniques for evaluating and improving non-verbal communication skills.
+
+keywords: communication assessment, non-verbal cues
+
+---
+
+chunk_id: SSIC_U7_001
+unit: Non-Verbal Communication
+topic: Importance of Non-Verbal Communication
+
+content: Role of gestures, expressions, posture, and body language in effective communication.
+
+keywords: body language, non-verbal skills
+
+---
+
+chunk_id: SSIC_U7_002
+unit: Non-Verbal Communication
+topic: Types of Non-Verbal Communication
+
+content: Various forms of non-verbal communication including facial expressions, gestures, posture, and eye contact.
+
+keywords: non-verbal types, gestures
+
+---
+
+chunk_id: SSIC_U7_003
+unit: Non-Verbal Communication
+topic: Basics and Universals of Non-Verbal Communication
+
+content: Universal non-verbal behaviors and their interpretation across cultures.
+
+keywords: non-verbal behavior, communication cues
+
+---
+
+chunk_id: SSIC_U7_004
+unit: Non-Verbal Communication
+topic: Interpreting Non-Verbal Cues
+
+content: Understanding and analyzing body language and other non-verbal signals.
+
+keywords: non-verbal cues, body language interpretation
+
+---
+
+chunk_id: SSIC_U7_005
+unit: Non-Verbal Communication
+topic: Body Language for Interviews
+
+content: Effective body language techniques for job interviews and professional interactions.
+
+keywords: interview skills, body language
+
+---
+
+chunk_id: SSIC_U7_006
+unit: Non-Verbal Communication
+topic: Body Language for Group Discussions
+
+content: Appropriate non-verbal communication practices for successful participation in group discussions.
+
+keywords: group discussion, body language
+
+---
+
+chunk_id: SSIC_U8_001
+unit: Presentation Skills and Human Relations
+topic: Overcoming Fear of Presentation
+
+content: Techniques for managing nervousness and building confidence during presentations.
+
+keywords: presentation anxiety, confidence building
+
+---
+
+chunk_id: SSIC_U8_002
+unit: Presentation Skills and Human Relations
+topic: Becoming a Professional Presenter
+
+content: Skills required to deliver effective and engaging professional presentations.
+
+keywords: presentation skills, professional speaking
+
+---
+
+chunk_id: SSIC_U8_003
+unit: Presentation Skills and Human Relations
+topic: Role of Body Language in Presentations
+
+content: Importance of posture, gestures, and facial expressions in enhancing presentation effectiveness.
+
+keywords: presentation body language, communication
+
+---
+
+chunk_id: SSIC_U8_004
+unit: Presentation Skills and Human Relations
+topic: Using Visual Aids
+
+content: Effective use of visual tools and presentation media to improve audience engagement.
+
+keywords: visual aids, presentation tools
+
+---
+
+chunk_id: SSIC_U8_005
+unit: Presentation Skills and Human Relations
+topic: Effective Reading Skills
+
+content: Techniques for improving reading comprehension, speed, and retention.
+
+keywords: reading skills, comprehension
+
+---
+
+chunk_id: SSIC_U8_006
+unit: Presentation Skills and Human Relations
+topic: Human Relations
+
+content: Building trust, integrity, and positive interpersonal relationships in personal and professional environments.
+
+keywords: human relations, trust, integrity

@@ -1,0 +1,575 @@
+# SUBJECT_METADATA
+
+subject_name: Mathematics-II B
+paper_code: BS-M202
+program: AIML
+
+---
+
+chunk_id: MATH2B_U1_001
+unit: Multivariate Calculus - Integration
+topic: Double Integrals in Cartesian Coordinates
+
+content: Definition, evaluation, and applications of double integrals in Cartesian coordinate systems.
+
+keywords: double integrals, Cartesian coordinates, multiple integration
+
+---
+
+chunk_id: MATH2B_U1_002
+unit: Multivariate Calculus - Integration
+topic: Change of Order of Integration
+
+content: Techniques for changing the order of integration in double integrals.
+
+keywords: change of order, double integration
+
+---
+
+chunk_id: MATH2B_U1_003
+unit: Multivariate Calculus - Integration
+topic: Change of Variables
+
+content: Transformation of variables in multiple integrals, including Cartesian-to-polar coordinate conversion.
+
+keywords: change of variables, polar coordinates, Jacobian
+
+---
+
+chunk_id: MATH2B_U1_004
+unit: Multivariate Calculus - Integration
+topic: Area Using Double Integrals
+
+content: Computation of planar areas using double integration techniques.
+
+keywords: area calculation, double integrals
+
+---
+
+chunk_id: MATH2B_U1_005
+unit: Multivariate Calculus - Integration
+topic: Volume Using Double Integrals
+
+content: Evaluation of volumes using double integrals.
+
+keywords: volume calculation, multiple integration
+
+---
+
+chunk_id: MATH2B_U1_006
+unit: Multivariate Calculus - Integration
+topic: Center of Mass
+
+content: Determination of center of mass for regions with constant and variable density distributions.
+
+keywords: center of mass, mass distribution
+
+---
+
+chunk_id: MATH2B_U1_007
+unit: Multivariate Calculus - Integration
+topic: Center of Gravity
+
+content: Calculation of center of gravity for physical bodies with constant and variable densities.
+
+keywords: center of gravity, centroid
+
+---
+
+chunk_id: MATH2B_U1_008
+unit: Multivariate Calculus - Integration
+topic: Triple Integrals in Cartesian Coordinates
+
+content: Definition, evaluation, and applications of triple integrals in Cartesian coordinate systems.
+
+keywords: triple integrals, volume integration
+
+---
+
+chunk_id: MATH2B_U1_009
+unit: Multivariate Calculus - Integration
+topic: Orthogonal Curvilinear Coordinates
+
+content: Coordinate systems with mutually orthogonal coordinate curves and surfaces.
+
+keywords: orthogonal curvilinear coordinates, coordinate transformation
+
+---
+
+chunk_id: MATH2B_U1_010
+unit: Multivariate Calculus - Integration
+topic: Applications to Cubes
+
+content: Applications of multiple integrals involving cubic regions.
+
+keywords: cube, multiple integration
+
+---
+
+chunk_id: MATH2B_U1_011
+unit: Multivariate Calculus - Integration
+topic: Applications to Spheres
+
+content: Applications of multiple integrals involving spherical regions.
+
+keywords: sphere, spherical coordinates
+
+---
+
+chunk_id: MATH2B_U1_012
+unit: Multivariate Calculus - Integration
+topic: Applications to Rectangular Parallelepipeds
+
+content: Applications of multiple integrals involving rectangular parallelepiped regions.
+
+keywords: rectangular parallelepiped, volume integration
+
+---
+
+chunk_id: MATH2B_U1_013
+unit: Multivariate Calculus - Integration
+topic: Scalar Line Integrals
+
+content: Definition, evaluation, and applications of scalar line integrals.
+
+keywords: scalar line integral, path integral
+
+---
+
+chunk_id: MATH2B_U1_014
+unit: Multivariate Calculus - Integration
+topic: Vector Line Integrals
+
+content: Definition, evaluation, and applications of vector line integrals.
+
+keywords: vector line integral, work integral
+
+---
+
+chunk_id: MATH2B_U1_015
+unit: Multivariate Calculus - Integration
+topic: Scalar Surface Integrals
+
+content: Definition and evaluation of scalar surface integrals.
+
+keywords: scalar surface integral, surface integration
+
+---
+
+chunk_id: MATH2B_U1_016
+unit: Multivariate Calculus - Integration
+topic: Vector Surface Integrals
+
+content: Definition and evaluation of vector surface integrals.
+
+keywords: vector surface integral, flux integral
+
+---
+
+chunk_id: MATH2B_U1_017
+unit: Multivariate Calculus - Integration
+topic: Green's Theorem
+
+content: Statement, interpretation, and applications of Green's theorem in vector calculus.
+
+keywords: Green theorem, line integral, vector calculus
+
+---
+
+chunk_id: MATH2B_U1_018
+unit: Multivariate Calculus - Integration
+topic: Gauss Divergence Theorem
+
+content: Statement, interpretation, and applications of Gauss divergence theorem.
+
+keywords: Gauss theorem, divergence theorem, flux
+
+---
+
+chunk_id: MATH2B_U1_019
+unit: Multivariate Calculus - Integration
+topic: Stokes' Theorem
+
+content: Statement, interpretation, and applications of Stokes' theorem.
+
+keywords: Stokes theorem, curl, surface integral
+
+---
+
+chunk_id: MATH2B_U2_001
+unit: First Order Ordinary Differential Equations
+topic: Exact Differential Equations
+
+content: Solution methods and properties of exact first-order differential equations.
+
+keywords: exact differential equation, ODE
+
+---
+
+chunk_id: MATH2B_U2_002
+unit: First Order Ordinary Differential Equations
+topic: Linear Differential Equations
+
+content: Solution of first-order linear ordinary differential equations.
+
+keywords: linear differential equation, integrating factor
+
+---
+
+chunk_id: MATH2B_U2_003
+unit: First Order Ordinary Differential Equations
+topic: Bernoulli Differential Equation
+
+content: Transformation and solution of Bernoulli differential equations.
+
+keywords: Bernoulli equation, nonlinear ODE
+
+---
+
+chunk_id: MATH2B_U2_004
+unit: First Order Ordinary Differential Equations
+topic: Equations Solvable for p
+
+content: First-order differential equations that can be solved explicitly for p = dy/dx.
+
+keywords: solvable for p, differential equations
+
+---
+
+chunk_id: MATH2B_U2_005
+unit: First Order Ordinary Differential Equations
+topic: Equations Solvable for y
+
+content: Differential equations that can be solved explicitly for the dependent variable y.
+
+keywords: solvable for y, ODE
+
+---
+
+chunk_id: MATH2B_U2_006
+unit: First Order Ordinary Differential Equations
+topic: Equations Solvable for x
+
+content: Differential equations that can be solved explicitly for the independent variable x.
+
+keywords: solvable for x, ODE
+
+---
+
+chunk_id: MATH2B_U2_007
+unit: First Order Ordinary Differential Equations
+topic: Clairaut's Equation
+
+content: Form, solution, and properties of Clairaut-type differential equations.
+
+keywords: Clairaut equation, singular solution
+
+---
+
+chunk_id: MATH2B_U3_001
+unit: Higher Order Ordinary Differential Equations
+topic: Second-Order Linear Differential Equations with Constant Coefficients
+
+content: Methods for solving second-order linear differential equations with constant coefficients.
+
+keywords: second order ODE, constant coefficients
+
+---
+
+chunk_id: MATH2B_U3_002
+unit: Higher Order Ordinary Differential Equations
+topic: D-Operator Method
+
+content: Solution of linear differential equations using differential operator notation.
+
+keywords: D operator, operator method
+
+---
+
+chunk_id: MATH2B_U3_003
+unit: Higher Order Ordinary Differential Equations
+topic: Second-Order Linear Differential Equations with Variable Coefficients
+
+content: Methods for solving second-order linear differential equations with variable coefficients.
+
+keywords: variable coefficient ODE
+
+---
+
+chunk_id: MATH2B_U3_004
+unit: Higher Order Ordinary Differential Equations
+topic: Variation of Parameters
+
+content: Method of variation of parameters for solving non-homogeneous differential equations.
+
+keywords: variation of parameters, ODE solution
+
+---
+
+chunk_id: MATH2B_U3_005
+unit: Higher Order Ordinary Differential Equations
+topic: Cauchy-Euler Equation
+
+content: Solution techniques for Cauchy-Euler differential equations.
+
+keywords: Cauchy-Euler equation, equidimensional equation
+
+---
+
+chunk_id: MATH2B_U3_006
+unit: Higher Order Ordinary Differential Equations
+topic: Power Series Solutions
+
+content: Solving differential equations using power series expansions.
+
+keywords: power series solution, differential equations
+
+---
+
+chunk_id: MATH2B_U3_007
+unit: Higher Order Ordinary Differential Equations
+topic: Legendre Polynomials
+
+content: Definition, properties, recurrence relations, and applications of Legendre polynomials.
+
+keywords: Legendre polynomials, orthogonal functions
+
+---
+
+chunk_id: MATH2B_U3_008
+unit: Higher Order Ordinary Differential Equations
+topic: Bessel Functions of the First Kind
+
+content: Definition, properties, and applications of Bessel functions of the first kind.
+
+keywords: Bessel functions, special functions
+
+---
+
+chunk_id: MATH2B_U4_001
+unit: Complex Variables - Differentiation
+topic: Complex Differentiation
+
+content: Differentiation of complex-valued functions and conditions for differentiability.
+
+keywords: complex differentiation, analytic function
+
+---
+
+chunk_id: MATH2B_U4_002
+unit: Complex Variables - Differentiation
+topic: Cauchy-Riemann Equations
+
+content: Necessary conditions for analyticity of complex functions.
+
+keywords: Cauchy-Riemann equations, analytic function
+
+---
+
+chunk_id: MATH2B_U4_003
+unit: Complex Variables - Differentiation
+topic: Analytic Functions
+
+content: Definition, properties, and examples of analytic functions.
+
+keywords: analytic function, holomorphic function
+
+---
+
+chunk_id: MATH2B_U4_004
+unit: Complex Variables - Differentiation
+topic: Harmonic Functions
+
+content: Definition and properties of harmonic functions in complex analysis.
+
+keywords: harmonic function, Laplace equation
+
+---
+
+chunk_id: MATH2B_U4_005
+unit: Complex Variables - Differentiation
+topic: Harmonic Conjugates
+
+content: Determination of harmonic conjugate functions associated with harmonic functions.
+
+keywords: harmonic conjugate, analytic function
+
+---
+
+chunk_id: MATH2B_U4_006
+unit: Complex Variables - Differentiation
+topic: Complex Exponential Function
+
+content: Properties and applications of the complex exponential function.
+
+keywords: exponential function, complex analysis
+
+---
+
+chunk_id: MATH2B_U4_007
+unit: Complex Variables - Differentiation
+topic: Complex Trigonometric Functions
+
+content: Properties and identities of trigonometric functions in the complex plane.
+
+keywords: complex trigonometric functions
+
+---
+
+chunk_id: MATH2B_U4_008
+unit: Complex Variables - Differentiation
+topic: Complex Logarithmic Function
+
+content: Definition, branches, and properties of the complex logarithm.
+
+keywords: complex logarithm, branch cut
+
+---
+
+chunk_id: MATH2B_U4_009
+unit: Complex Variables - Differentiation
+topic: Conformal Mapping
+
+content: Angle-preserving transformations and their applications.
+
+keywords: conformal mapping, complex transformation
+
+---
+
+chunk_id: MATH2B_U4_010
+unit: Complex Variables - Differentiation
+topic: Möbius Transformations
+
+content: Definition, properties, and geometric interpretation of Möbius transformations.
+
+keywords: Mobius transformation, bilinear transformation
+
+---
+
+chunk_id: MATH2B_U5_001
+unit: Complex Variables - Integration
+topic: Contour Integrals
+
+content: Definition, evaluation, and applications of contour integrals in the complex plane.
+
+keywords: contour integral, complex integration
+
+---
+
+chunk_id: MATH2B_U5_002
+unit: Complex Variables - Integration
+topic: Cauchy-Goursat Theorem
+
+content: Statement and significance of the Cauchy-Goursat theorem.
+
+keywords: Cauchy-Goursat theorem, analytic functions
+
+---
+
+chunk_id: MATH2B_U5_003
+unit: Complex Variables - Integration
+topic: Cauchy Integral Formula
+
+content: Statement, interpretation, and applications of the Cauchy integral formula.
+
+keywords: Cauchy integral formula
+
+---
+
+chunk_id: MATH2B_U5_004
+unit: Complex Variables - Integration
+topic: Liouville's Theorem
+
+content: Statement and applications of Liouville's theorem.
+
+keywords: Liouville theorem, bounded entire function
+
+---
+
+chunk_id: MATH2B_U5_005
+unit: Complex Variables - Integration
+topic: Maximum Modulus Theorem
+
+content: Statement and implications of the maximum modulus theorem.
+
+keywords: maximum modulus theorem
+
+---
+
+chunk_id: MATH2B_U5_006
+unit: Complex Variables - Integration
+topic: Taylor Series in Complex Analysis
+
+content: Taylor series expansion of analytic functions.
+
+keywords: Taylor series, analytic functions
+
+---
+
+chunk_id: MATH2B_U5_007
+unit: Complex Variables - Integration
+topic: Zeros of Analytic Functions
+
+content: Properties and behavior of zeros of analytic functions.
+
+keywords: zeros of analytic functions
+
+---
+
+chunk_id: MATH2B_U5_008
+unit: Complex Variables - Integration
+topic: Singularities
+
+content: Classification and analysis of singular points of complex functions.
+
+keywords: singularity, isolated singularity
+
+---
+
+chunk_id: MATH2B_U5_009
+unit: Complex Variables - Integration
+topic: Laurent Series
+
+content: Laurent series representation of complex functions near singularities.
+
+keywords: Laurent series, complex expansion
+
+---
+
+chunk_id: MATH2B_U5_010
+unit: Complex Variables - Integration
+topic: Residues
+
+content: Computation and applications of residues in complex analysis.
+
+keywords: residue, complex integration
+
+---
+
+chunk_id: MATH2B_U5_011
+unit: Complex Variables - Integration
+topic: Cauchy Residue Theorem
+
+content: Statement and applications of the residue theorem for contour integration.
+
+keywords: residue theorem, contour integration
+
+---
+
+chunk_id: MATH2B_U5_012
+unit: Complex Variables - Integration
+topic: Evaluation of Definite Integrals Using Residues
+
+content: Evaluation of definite integrals involving trigonometric functions using residue methods.
+
+keywords: definite integrals, residue method, sine integral, cosine integral
+
+---
+
+chunk_id: MATH2B_U5_013
+unit: Complex Variables - Integration
+topic: Bromwich Contour Integrals
+
+content: Evaluation of improper integrals using Bromwich contour techniques.
+
+keywords: Bromwich contour, improper integrals, complex integration

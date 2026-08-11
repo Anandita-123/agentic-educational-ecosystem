@@ -1,0 +1,305 @@
+# SUBJECT_METADATA
+
+subject_name: Distributed Systems
+paper_code: PECAIML-601C
+category: Professional Elective
+
+---
+
+chunk_id: DS_U1_001
+unit: Introduction to Distributed Systems
+topic: Distributed Data Processing
+
+content: Fundamentals of distributed data processing, characteristics of distributed environments, and the need for distributed computing systems.
+
+keywords: distributed data processing, distributed computing
+
+---
+
+chunk_id: DS_U1_002
+unit: Introduction to Distributed Systems
+topic: Distributed Database Systems
+
+content: Introduction to Distributed Database Systems (DDBS), architecture, components, and differences from centralized database systems.
+
+keywords: DDBS, distributed databases
+
+---
+
+chunk_id: DS_U1_003
+unit: Introduction to Distributed Systems
+topic: Advantages and Challenges of DDBS
+
+content: Benefits and drawbacks of distributed database systems, performance considerations, scalability, availability, and common problem areas.
+
+keywords: distributed databases, scalability, availability
+
+---
+
+chunk_id: DS_U1_004
+unit: Introduction to Distributed Systems
+topic: Database and Network Concepts
+
+content: Overview of database concepts and computer networking fundamentals required for distributed database management systems.
+
+keywords: database concepts, computer networks
+
+---
+
+chunk_id: DS_U1_005
+unit: Introduction to Distributed Systems
+topic: Distributed DBMS Architecture
+
+content: Architecture of distributed database management systems, components, communication models, and system organization.
+
+keywords: distributed DBMS architecture, system design
+
+---
+
+chunk_id: DS_U1_006
+unit: Introduction to Distributed Systems
+topic: Transparency and Global Directory
+
+content: Distribution transparencies in DDBMS including location, replication, and fragmentation transparency, along with global directory management issues.
+
+keywords: transparency, global directory, fragmentation transparency
+
+---
+
+chunk_id: DS_U2_001
+unit: Distributed Database Design
+topic: Design Strategies
+
+content: Alternative distributed database design strategies, top-down and bottom-up approaches, and system planning considerations.
+
+keywords: database design, design strategies
+
+---
+
+chunk_id: DS_U2_002
+unit: Distributed Database Design
+topic: Distributed Design Issues
+
+content: Key issues in distributed database design including data distribution, performance optimization, and system scalability.
+
+keywords: distributed design, scalability, optimization
+
+---
+
+chunk_id: DS_U2_003
+unit: Distributed Database Design
+topic: Fragmentation Techniques
+
+content: Horizontal, vertical, and mixed fragmentation methods for distributing database relations across multiple sites.
+
+keywords: fragmentation, horizontal fragmentation, vertical fragmentation
+
+---
+
+chunk_id: DS_U2_004
+unit: Distributed Database Design
+topic: Data Allocation
+
+content: Strategies for allocating data fragments across distributed sites, replication policies, and allocation optimization.
+
+keywords: data allocation, replication
+
+---
+
+chunk_id: DS_U2_005
+unit: Semantics and Data Control
+topic: View Management
+
+content: Management of distributed database views, virtual relations, and user-specific data representations.
+
+keywords: view management, virtual relations
+
+---
+
+chunk_id: DS_U2_006
+unit: Semantics and Data Control
+topic: Data Security and Integrity
+
+content: Security mechanisms, authorization controls, and semantic integrity constraints in distributed database systems.
+
+keywords: data security, integrity constraints, authorization
+
+---
+
+chunk_id: DS_U2_007
+unit: Query Processing
+topic: Distributed Query Processing
+
+content: Objectives, architecture, and characterization of query processors in distributed database systems.
+
+keywords: query processing, distributed queries
+
+---
+
+chunk_id: DS_U2_008
+unit: Query Processing
+topic: Query Decomposition and Localization
+
+content: Query decomposition techniques, localization of distributed data, and layered query processing architecture.
+
+keywords: query decomposition, data localization
+
+---
+
+chunk_id: DS_U3_001
+unit: Distributed Query Optimization
+topic: Fundamentals of Query Optimization
+
+content: Factors affecting query optimization, performance metrics, and optimization goals in distributed database environments.
+
+keywords: query optimization, performance metrics
+
+---
+
+chunk_id: DS_U3_002
+unit: Distributed Query Optimization
+topic: Centralized Query Optimization
+
+content: Techniques and algorithms used in centralized query optimization and execution planning.
+
+keywords: centralized optimization, execution plans
+
+---
+
+chunk_id: DS_U3_003
+unit: Distributed Query Optimization
+topic: Distributed Optimization Algorithms
+
+content: Ordering of fragment queries and distributed query optimization algorithms for efficient execution.
+
+keywords: distributed optimization, fragment queries
+
+---
+
+chunk_id: DS_U3_004
+unit: Transaction Management
+topic: Transaction Concepts
+
+content: Fundamentals of transactions, ACID properties, transaction lifecycle, and distributed transaction processing.
+
+keywords: transactions, ACID properties
+
+---
+
+chunk_id: DS_U3_005
+unit: Transaction Management
+topic: Transaction Models
+
+content: Goals, characteristics, and taxonomy of transaction models used in distributed database systems.
+
+keywords: transaction models, distributed transactions
+
+---
+
+chunk_id: DS_U3_006
+unit: Concurrency Control
+topic: Centralized and Distributed Concurrency Control
+
+content: Concurrency control techniques in centralized and distributed database systems, synchronization, and consistency maintenance.
+
+keywords: concurrency control, synchronization
+
+---
+
+chunk_id: DS_U3_007
+unit: Concurrency Control
+topic: Distributed Concurrency Algorithms and Deadlocks
+
+content: Distributed concurrency control algorithms, deadlock detection, prevention, and resolution techniques.
+
+keywords: deadlock management, concurrency algorithms
+
+---
+
+chunk_id: DS_U4_001
+unit: Reliability and Recovery
+topic: Reliability Issues in DDBS
+
+content: Reliability requirements in distributed database systems and techniques for ensuring dependable operation.
+
+keywords: reliability, fault tolerance
+
+---
+
+chunk_id: DS_U4_002
+unit: Reliability and Recovery
+topic: Failure Types and Reliability Techniques
+
+content: Classification of failures in distributed systems and techniques for improving reliability and availability.
+
+keywords: system failures, reliability techniques
+
+---
+
+chunk_id: DS_U4_003
+unit: Reliability and Recovery
+topic: Commit Protocols
+
+content: Distributed commit protocols including two-phase commit and mechanisms for maintaining transaction consistency.
+
+keywords: commit protocols, two-phase commit
+
+---
+
+chunk_id: DS_U4_004
+unit: Reliability and Recovery
+topic: Recovery Protocols
+
+content: Recovery mechanisms, rollback procedures, checkpointing, and system restoration techniques.
+
+keywords: recovery protocols, checkpointing, rollback
+
+---
+
+chunk_id: DS_U5_001
+unit: Parallel Database Systems
+topic: Parallel Architectures
+
+content: Architecture of parallel database systems, shared-memory, shared-disk, and shared-nothing architectures.
+
+keywords: parallel databases, parallel architectures
+
+---
+
+chunk_id: DS_U5_002
+unit: Parallel Database Systems
+topic: Parallel Query Processing
+
+content: Techniques for executing database queries in parallel to improve performance and scalability.
+
+keywords: parallel query processing, scalability
+
+---
+
+chunk_id: DS_U6_001
+unit: Advanced Topics in Distributed Systems
+topic: Mobile Databases
+
+content: Concepts of mobile databases, mobile data management, synchronization, and challenges in mobile environments.
+
+keywords: mobile databases, synchronization
+
+---
+
+chunk_id: DS_U6_002
+unit: Advanced Topics in Distributed Systems
+topic: Distributed Object Management
+
+content: Management of distributed objects, object-oriented distributed systems, and middleware support.
+
+keywords: distributed objects, object management
+
+---
+
+chunk_id: DS_U6_003
+unit: Advanced Topics in Distributed Systems
+topic: Multi-Databases
+
+content: Multi-database systems, heterogeneous database integration, interoperability, and federated database concepts.
+
+keywords: multi-databases, federated databases, interoperability

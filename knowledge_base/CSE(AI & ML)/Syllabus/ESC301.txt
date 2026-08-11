@@ -1,0 +1,595 @@
+# SUBJECT_METADATA
+
+subject_name: Analog and Digital Electronics
+paper_code: ESC-301
+program: AIML
+
+---
+
+chunk_id: ADE_U1_001
+unit: Analog Electronics
+topic: Class-A Amplifier
+
+content: Operating principle, characteristics, power output, efficiency, advantages, and limitations of Class-A amplifiers.
+
+keywords: class A amplifier, amplifier efficiency, power amplifier
+
+---
+
+chunk_id: ADE_U1_002
+unit: Analog Electronics
+topic: Class-B Amplifier
+
+content: Operating principle, characteristics, power output, efficiency, crossover distortion, advantages, and limitations of Class-B amplifiers.
+
+keywords: class B amplifier, crossover distortion
+
+---
+
+chunk_id: ADE_U1_003
+unit: Analog Electronics
+topic: Class-AB Amplifier
+
+content: Operating principle and characteristics of Class-AB amplifiers, combining features of Class-A and Class-B amplifiers.
+
+keywords: class AB amplifier
+
+---
+
+chunk_id: ADE_U1_004
+unit: Analog Electronics
+topic: Class-C Amplifier
+
+content: Operating principle, efficiency, and applications of Class-C amplifiers in high-frequency circuits.
+
+keywords: class C amplifier, RF amplifier
+
+---
+
+chunk_id: ADE_U1_005
+unit: Analog Electronics
+topic: Feedback in Electronic Circuits
+
+content: Basic concepts of feedback, types of feedback, and their effects on amplifier performance.
+
+keywords: feedback, positive feedback, negative feedback
+
+---
+
+chunk_id: ADE_U1_006
+unit: Analog Electronics
+topic: Oscillators
+
+content: Basic concepts of oscillation and generation of periodic waveforms without external input signals.
+
+keywords: oscillator, oscillation
+
+---
+
+chunk_id: ADE_U1_007
+unit: Analog Electronics
+topic: Phase Shift Oscillator
+
+content: Construction, working principle, and frequency determination of phase shift oscillators.
+
+keywords: phase shift oscillator
+
+---
+
+chunk_id: ADE_U1_008
+unit: Analog Electronics
+topic: Wien Bridge Oscillator
+
+content: Circuit configuration, working principle, and applications of Wien bridge oscillators.
+
+keywords: Wien bridge oscillator
+
+---
+
+chunk_id: ADE_U1_009
+unit: Analog Electronics
+topic: Astable Multivibrator
+
+content: Free-running multivibrator producing continuous square-wave output without stable states.
+
+keywords: astable multivibrator
+
+---
+
+chunk_id: ADE_U1_010
+unit: Analog Electronics
+topic: Monostable Multivibrator
+
+content: Multivibrator having one stable state and one quasi-stable state.
+
+keywords: monostable multivibrator
+
+---
+
+chunk_id: ADE_U1_011
+unit: Analog Electronics
+topic: Schmitt Trigger
+
+content: Comparator circuit with hysteresis used for noise immunity and waveform shaping.
+
+keywords: Schmitt trigger, hysteresis
+
+---
+
+chunk_id: ADE_U1_012
+unit: Analog Electronics
+topic: 555 Timer IC
+
+content: Internal architecture, operating modes, and applications of the 555 timer integrated circuit.
+
+keywords: 555 timer, timer IC
+
+---
+
+chunk_id: ADE_U2_001
+unit: Digital Electronics
+topic: Binary Number System
+
+content: Representation of numbers using the binary numbering system and related arithmetic operations.
+
+keywords: binary number system
+
+---
+
+chunk_id: ADE_U2_002
+unit: Digital Electronics
+topic: Boolean Algebra
+
+content: Fundamental laws, identities, and operations of Boolean algebra.
+
+keywords: Boolean algebra, logic algebra
+
+---
+
+chunk_id: ADE_U2_003
+unit: Digital Electronics
+topic: BCD Code
+
+content: Binary Coded Decimal representation and applications.
+
+keywords: BCD code, decimal coding
+
+---
+
+chunk_id: ADE_U2_004
+unit: Digital Electronics
+topic: ASCII Code
+
+content: American Standard Code for Information Interchange used for character representation.
+
+keywords: ASCII, character encoding
+
+---
+
+chunk_id: ADE_U2_005
+unit: Digital Electronics
+topic: EBCDIC Code
+
+content: Extended Binary Coded Decimal Interchange Code used in computer systems.
+
+keywords: EBCDIC, character encoding
+
+---
+
+chunk_id: ADE_U2_006
+unit: Digital Electronics
+topic: Gray Code
+
+content: Binary numbering system where adjacent values differ by only one bit.
+
+keywords: Gray code
+
+---
+
+chunk_id: ADE_U2_007
+unit: Digital Electronics
+topic: Code Conversion
+
+content: Conversion techniques among Binary, BCD, Gray, ASCII, and EBCDIC codes.
+
+keywords: code conversion
+
+---
+
+chunk_id: ADE_U2_008
+unit: Digital Electronics
+topic: One's Complement Representation
+
+content: Signed binary number representation using one's complement method.
+
+keywords: one's complement, signed numbers
+
+---
+
+chunk_id: ADE_U2_009
+unit: Digital Electronics
+topic: Two's Complement Representation
+
+content: Signed binary number representation using two's complement method.
+
+keywords: two's complement, signed numbers
+
+---
+
+chunk_id: ADE_U2_010
+unit: Digital Electronics
+topic: Binary Arithmetic
+
+content: Arithmetic operations including addition, subtraction, multiplication, and division in binary systems.
+
+keywords: binary arithmetic
+
+---
+
+chunk_id: ADE_U2_011
+unit: Digital Electronics
+topic: Venn Diagrams
+
+content: Graphical representation of logical and set relationships.
+
+keywords: Venn diagram, logic
+
+---
+
+chunk_id: ADE_U2_012
+unit: Digital Electronics
+topic: Sum of Products Form
+
+content: Representation of Boolean expressions in SOP form.
+
+keywords: SOP, sum of products
+
+---
+
+chunk_id: ADE_U2_013
+unit: Digital Electronics
+topic: Product of Sums Form
+
+content: Representation of Boolean expressions in POS form.
+
+keywords: POS, product of sums
+
+---
+
+chunk_id: ADE_U2_014
+unit: Digital Electronics
+topic: Boolean Expression Minimization
+
+content: Simplification of Boolean expressions using algebraic methods.
+
+keywords: Boolean minimization, logic simplification
+
+---
+
+chunk_id: ADE_U2_015
+unit: Digital Electronics
+topic: Half Adder
+
+content: Combinational circuit for adding two single-bit binary numbers.
+
+keywords: half adder
+
+---
+
+chunk_id: ADE_U2_016
+unit: Digital Electronics
+topic: Full Adder
+
+content: Combinational circuit for adding three binary bits including carry input.
+
+keywords: full adder
+
+---
+
+chunk_id: ADE_U2_017
+unit: Digital Electronics
+topic: Half Subtractor
+
+content: Combinational circuit for subtracting two binary digits.
+
+keywords: half subtractor
+
+---
+
+chunk_id: ADE_U2_018
+unit: Digital Electronics
+topic: Full Subtractor
+
+content: Combinational circuit for subtracting binary digits with borrow input.
+
+keywords: full subtractor
+
+---
+
+chunk_id: ADE_U2_019
+unit: Digital Electronics
+topic: Encoder
+
+content: Combinational circuit that converts multiple input lines into coded outputs.
+
+keywords: encoder
+
+---
+
+chunk_id: ADE_U2_020
+unit: Digital Electronics
+topic: Decoder
+
+content: Combinational circuit that converts coded inputs into multiple outputs.
+
+keywords: decoder
+
+---
+
+chunk_id: ADE_U2_021
+unit: Digital Electronics
+topic: Comparator
+
+content: Digital circuit used to compare binary numbers.
+
+keywords: comparator
+
+---
+
+chunk_id: ADE_U2_022
+unit: Digital Electronics
+topic: Multiplexer
+
+content: Data selector circuit used to route one input from multiple sources.
+
+keywords: multiplexer, MUX
+
+---
+
+chunk_id: ADE_U2_023
+unit: Digital Electronics
+topic: Demultiplexer
+
+content: Circuit that routes a single input to one of several outputs.
+
+keywords: demultiplexer, DEMUX
+
+---
+
+chunk_id: ADE_U2_024
+unit: Digital Electronics
+topic: Parity Generator
+
+content: Circuit used to generate parity bits for error detection.
+
+keywords: parity generator, error detection
+
+---
+
+chunk_id: ADE_U3_001
+unit: Sequential Circuits
+topic: Latch
+
+content: Basic memory element used to store one bit of information.
+
+keywords: latch, memory element
+
+---
+
+chunk_id: ADE_U3_002
+unit: Sequential Circuits
+topic: SR Flip-Flop
+
+content: Set-Reset flip-flop and its operating characteristics.
+
+keywords: SR flip flop
+
+---
+
+chunk_id: ADE_U3_003
+unit: Sequential Circuits
+topic: JK Flip-Flop
+
+content: Operation and characteristic table of JK flip-flops.
+
+keywords: JK flip flop
+
+---
+
+chunk_id: ADE_U3_004
+unit: Sequential Circuits
+topic: D Flip-Flop
+
+content: Data flip-flop used for data storage and synchronization.
+
+keywords: D flip flop
+
+---
+
+chunk_id: ADE_U3_005
+unit: Sequential Circuits
+topic: T Flip-Flop
+
+content: Toggle flip-flop and its applications in counters.
+
+keywords: T flip flop
+
+---
+
+chunk_id: ADE_U3_006
+unit: Sequential Circuits
+topic: JK Master-Slave Flip-Flop
+
+content: Construction and operation of master-slave JK flip-flops.
+
+keywords: master slave flip flop
+
+---
+
+chunk_id: ADE_U3_007
+unit: Sequential Circuits
+topic: SISO Register
+
+content: Serial-In Serial-Out shift register operation.
+
+keywords: SISO register
+
+---
+
+chunk_id: ADE_U3_008
+unit: Sequential Circuits
+topic: SIPO Register
+
+content: Serial-In Parallel-Out shift register operation.
+
+keywords: SIPO register
+
+---
+
+chunk_id: ADE_U3_009
+unit: Sequential Circuits
+topic: PISO Register
+
+content: Parallel-In Serial-Out shift register operation.
+
+keywords: PISO register
+
+---
+
+chunk_id: ADE_U3_010
+unit: Sequential Circuits
+topic: PIPO Register
+
+content: Parallel-In Parallel-Out shift register operation.
+
+keywords: PIPO register
+
+---
+
+chunk_id: ADE_U3_011
+unit: Sequential Circuits
+topic: Ring Counter
+
+content: Shift-register-based counter with cyclic data movement.
+
+keywords: ring counter
+
+---
+
+chunk_id: ADE_U3_012
+unit: Sequential Circuits
+topic: Johnson Counter
+
+content: Twisted ring counter and its operational characteristics.
+
+keywords: Johnson counter
+
+---
+
+chunk_id: ADE_U3_013
+unit: Sequential Circuits
+topic: Synchronous Counter
+
+content: Counter in which all flip-flops receive the clock signal simultaneously.
+
+keywords: synchronous counter
+
+---
+
+chunk_id: ADE_U3_014
+unit: Sequential Circuits
+topic: Asynchronous Counter
+
+content: Ripple counter where flip-flops are triggered sequentially.
+
+keywords: asynchronous counter, ripple counter
+
+---
+
+chunk_id: ADE_U3_015
+unit: Sequential Circuits
+topic: Mod-N Counter
+
+content: Counter designed to cycle through N states before resetting.
+
+keywords: Mod N counter
+
+---
+
+chunk_id: ADE_U4_001
+unit: Data Conversion and Logic Families
+topic: Digital-to-Analog Conversion
+
+content: Basic principles of converting digital signals into analog outputs.
+
+keywords: DAC, digital to analog conversion
+
+---
+
+chunk_id: ADE_U4_002
+unit: Data Conversion and Logic Families
+topic: R-2R Ladder DAC
+
+content: Digital-to-analog conversion using R-2R resistor ladder networks.
+
+keywords: R-2R ladder DAC
+
+---
+
+chunk_id: ADE_U4_003
+unit: Data Conversion and Logic Families
+topic: Analog-to-Digital Conversion
+
+content: Basic principles of converting analog signals into digital form.
+
+keywords: ADC, analog to digital conversion
+
+---
+
+chunk_id: ADE_U4_004
+unit: Data Conversion and Logic Families
+topic: Successive Approximation ADC
+
+content: Analog-to-digital conversion using the successive approximation technique.
+
+keywords: SAR ADC, successive approximation
+
+---
+
+chunk_id: ADE_U4_005
+unit: Data Conversion and Logic Families
+topic: TTL Logic Family
+
+content: Characteristics, operation, and applications of Transistor-Transistor Logic circuits.
+
+keywords: TTL, logic family
+
+---
+
+chunk_id: ADE_U4_006
+unit: Data Conversion and Logic Families
+topic: ECL Logic Family
+
+content: Characteristics and operation of Emitter-Coupled Logic circuits.
+
+keywords: ECL, logic family
+
+---
+
+chunk_id: ADE_U4_007
+unit: Data Conversion and Logic Families
+topic: MOS Logic Family
+
+content: Characteristics and applications of Metal-Oxide Semiconductor logic circuits.
+
+keywords: MOS, logic family
+
+---
+
+chunk_id: ADE_U4_008
+unit: Data Conversion and Logic Families
+topic: CMOS Logic Family
+
+content: Characteristics, advantages, and applications of Complementary MOS logic circuits.
+
+keywords: CMOS, logic family

@@ -1,0 +1,355 @@
+# SUBJECT_METADATA
+
+subject_name: Data Mining
+paper_code: PECAIML-601B
+category: Professional Elective
+
+---
+
+chunk_id: DM_U1_001
+unit: Introduction to Data Mining and Analytics
+topic: Overview of Data Mining and Predictive Analytics
+
+content: Introduction to data mining, predictive analytics, key objectives, applications, limitations, and the role of data-driven decision-making in modern organizations.
+
+keywords: data mining, predictive analytics, data-driven decisions
+
+---
+
+chunk_id: DM_U1_002
+unit: Introduction to Data Mining and Analytics
+topic: Applications and Limitations of Analytics
+
+content: Areas where predictive analytics is effective, situations where it may not apply, challenges in implementation, and practical considerations.
+
+keywords: analytics applications, limitations of analytics
+
+---
+
+chunk_id: DM_U1_003
+unit: Introduction to Data Mining and Analytics
+topic: Data Science Fundamentals
+
+content: The interdisciplinary field of Data Science, integration of statistics, machine learning, computing, and domain knowledge for extracting insights from data.
+
+keywords: data science, interdisciplinary analytics
+
+---
+
+chunk_id: DM_U1_004
+unit: Introduction to Data Mining and Analytics
+topic: Challenges in Big Data Analytics
+
+content: Potential pitfalls of analytics including poor-quality data, big bad data, local sparsity issues, and limitations of large datasets.
+
+keywords: big data challenges, data quality, local sparsity
+
+---
+
+chunk_id: DM_U1_005
+unit: Introduction to Data Mining and Analytics
+topic: Career Opportunities in Analytics
+
+content: Career paths in data mining, predictive analytics, and data science, along with an overview of analytics education and professional opportunities.
+
+keywords: analytics careers, data science careers
+
+---
+
+chunk_id: DM_U2_001
+unit: Data Preprocessing
+topic: Data Cleaning and Preparation
+
+content: Data preprocessing techniques including data cleaning, transformation, normalization, and preparation for mining and predictive modeling.
+
+keywords: data preprocessing, data cleaning
+
+---
+
+chunk_id: DM_U2_002
+unit: Data Preprocessing
+topic: Missing Value Treatment and Imputation
+
+content: Handling missing values, informative missingness, imputation methods, and their impact on model performance.
+
+keywords: missing values, imputation, data quality
+
+---
+
+chunk_id: DM_U3_001
+unit: Unsupervised Learning
+topic: Data Visualization for Exploration
+
+content: Exploratory data analysis using visualization tools, pattern discovery, trend analysis, and data interpretation techniques.
+
+keywords: data visualization, exploratory data analysis
+
+---
+
+chunk_id: DM_U3_002
+unit: Unsupervised Learning
+topic: Principal Component Analysis
+
+content: Principal Component Analysis (PCA), dimensionality reduction, feature extraction, and variance preservation techniques.
+
+keywords: PCA, dimensionality reduction
+
+---
+
+chunk_id: DM_U3_003
+unit: Unsupervised Learning
+topic: Cluster Analysis
+
+content: Cluster analysis techniques, grouping similar observations, cluster evaluation, and applications in data mining.
+
+keywords: clustering, cluster analysis
+
+---
+
+chunk_id: DM_U3_004
+unit: Unsupervised Learning
+topic: Variable Clustering
+
+content: Variable clustering methods for grouping related variables and reducing redundancy in datasets.
+
+keywords: variable clustering, feature grouping
+
+---
+
+chunk_id: DM_U3_005
+unit: Unsupervised Learning
+topic: Market Basket Analysis
+
+content: Association rule mining, market basket analysis, frequent itemsets, support, confidence, and lift measures.
+
+keywords: market basket analysis, association rules
+
+---
+
+chunk_id: DM_U3_006
+unit: Unsupervised Learning
+topic: Explanatory vs Predictive Modeling
+
+content: Differences between explanatory and predictive modeling approaches and their implications for analytics projects.
+
+keywords: explanatory modeling, predictive modeling
+
+---
+
+chunk_id: DM_U4_001
+unit: Predictive Modeling
+topic: Underfitting and Overfitting
+
+content: Concepts of underfitting and overfitting in predictive modeling, causes, consequences, and mitigation strategies.
+
+keywords: underfitting, overfitting
+
+---
+
+chunk_id: DM_U4_002
+unit: Predictive Modeling
+topic: Model Selection Criteria
+
+content: Evaluation measures such as AICc, BIC, ERIC, and their use in balancing model complexity and predictive performance.
+
+keywords: AICc, BIC, ERIC, model selection
+
+---
+
+chunk_id: DM_U5_001
+unit: Model Validation
+topic: Validation Strategies
+
+content: Techniques for validating predictive models, including holdout validation, cross-validation, and performance estimation methods.
+
+keywords: model validation, cross-validation
+
+---
+
+chunk_id: DM_U5_002
+unit: Model Validation
+topic: Predictive Inference
+
+content: Assessing model predictive behavior and drawing reliable predictive inferences from validation results.
+
+keywords: predictive inference, model assessment
+
+---
+
+chunk_id: DM_U6_001
+unit: Supervised Learning for Classification
+topic: k-Nearest Neighbors
+
+content: k-Nearest Neighbors (KNN) classification algorithm, distance measures, parameter selection, and applications.
+
+keywords: KNN, classification
+
+---
+
+chunk_id: DM_U6_002
+unit: Supervised Learning for Classification
+topic: Decision Trees and Random Forests
+
+content: Decision tree learning, tree construction, random forest ensembles, and classification performance improvement.
+
+keywords: decision trees, random forests
+
+---
+
+chunk_id: DM_U6_003
+unit: Supervised Learning for Classification
+topic: Naïve Bayes Classification
+
+content: Probabilistic classification using Naïve Bayes, Bayesian principles, assumptions, and practical applications.
+
+keywords: naive bayes, probabilistic classification
+
+---
+
+chunk_id: DM_U6_004
+unit: Supervised Learning for Classification
+topic: Neural Networks for Classification
+
+content: Neural network architectures, training methods, and classification applications using artificial neural networks.
+
+keywords: neural networks, classification
+
+---
+
+chunk_id: DM_U6_005
+unit: Supervised Learning for Classification
+topic: Logistic Regression and Generalized Regression
+
+content: Logistic regression and generalized regression techniques for classification and predictive analytics.
+
+keywords: logistic regression, generalized regression
+
+---
+
+chunk_id: DM_U6_006
+unit: Supervised Learning for Classification
+topic: Support Vector Machines and Discriminant Analysis
+
+content: Support Vector Machines (SVM), margin-based classification, kernel methods, and discriminant analysis techniques.
+
+keywords: SVM, discriminant analysis
+
+---
+
+chunk_id: DM_U6_007
+unit: Supervised Learning for Classification
+topic: Boosted Classification Models
+
+content: Boosting methods applied to neural networks and decision tree models for improving classification accuracy.
+
+keywords: boosting, ensemble classification
+
+---
+
+chunk_id: DM_U7_001
+unit: Supervised Learning for Prediction
+topic: Multiple Linear Regression Review
+
+content: Multiple linear regression concepts, model assumptions, interpretation, and predictive applications.
+
+keywords: multiple linear regression, prediction
+
+---
+
+chunk_id: DM_U7_002
+unit: Supervised Learning for Prediction
+topic: Influence and Multicollinearity
+
+content: Detection and treatment of influential observations and multicollinearity in regression models.
+
+keywords: influence analysis, multicollinearity
+
+---
+
+chunk_id: DM_U7_003
+unit: Supervised Learning for Prediction
+topic: Principal Component Regression
+
+content: Principal Component Regression (PCR), dimensionality reduction in regression, and predictive modeling.
+
+keywords: PCR, regression analysis
+
+---
+
+chunk_id: DM_U7_004
+unit: Supervised Learning for Prediction
+topic: Neural Networks for Prediction
+
+content: Neural network-based regression models and predictive learning techniques.
+
+keywords: neural networks, regression
+
+---
+
+chunk_id: DM_U7_005
+unit: Supervised Learning for Prediction
+topic: Regularized Regression Methods
+
+content: Generalized regression methods including LASSO, adaptive LASSO, LARS, Ridge Regression, and Elastic Net for predictive modeling.
+
+keywords: LASSO, Ridge Regression, Elastic Net, LARS
+
+---
+
+chunk_id: DM_U7_006
+unit: Supervised Learning for Prediction
+topic: Variable Selection Techniques
+
+content: Traditional variable selection approaches including Forward Selection and All Possible Models methods.
+
+keywords: forward selection, variable selection
+
+---
+
+chunk_id: DM_U8_001
+unit: Model Assessment and Ensemble Learning
+topic: Predictive Model Assessment
+
+content: Evaluation of predictive models using scoring techniques, prediction error analysis, and performance metrics.
+
+keywords: model assessment, prediction error
+
+---
+
+chunk_id: DM_U8_002
+unit: Model Assessment and Ensemble Learning
+topic: Classification Performance Measures
+
+content: ROC curves, Lift curves, profit matrices, and criteria for evaluating classification models.
+
+keywords: ROC curve, Lift curve, profit matrix
+
+---
+
+chunk_id: DM_U8_003
+unit: Model Assessment and Ensemble Learning
+topic: Model Comparison Techniques
+
+content: Methods for comparing predictive and classification models using statistical and business performance criteria.
+
+keywords: model comparison, performance evaluation
+
+---
+
+chunk_id: DM_U8_004
+unit: Model Assessment and Ensemble Learning
+topic: Ensemble Modeling
+
+content: Ensemble learning techniques for combining multiple predictive models to improve performance and robustness.
+
+keywords: ensemble learning, model combination
+
+---
+
+chunk_id: DM_U8_005
+unit: Model Assessment and Ensemble Learning
+topic: Bagging and Boosting
+
+content: Bagging and boosting strategies, ensemble construction, variance reduction, and predictive accuracy enhancement.
+
+keywords: bagging, boosting, ensemble methods

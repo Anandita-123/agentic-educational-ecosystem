@@ -1,0 +1,305 @@
+# SUBJECT_METADATA
+
+subject_name: Internet of Things
+paper_code: OEC-AIML701A
+category: Open Elective
+
+---
+
+chunk_id: IOT_U1_001
+unit: Environmental Parameters Measurement and Monitoring
+topic: Importance of Measurement and Monitoring
+
+content: Fundamentals of environmental measurement and monitoring, significance of data collection, and its role in IoT-based systems.
+
+keywords: environmental monitoring, measurement systems, IoT
+
+---
+
+chunk_id: IOT_U1_002
+unit: Environmental Parameters Measurement and Monitoring
+topic: Environmental Parameters in IoT Applications
+
+content: Various environmental parameters such as temperature, humidity, air quality, and pressure that are monitored using IoT technologies.
+
+keywords: environmental parameters, IoT monitoring
+
+---
+
+chunk_id: IOT_U1_003
+unit: Environmental Parameters Measurement and Monitoring
+topic: Effects of Adverse Environmental Conditions
+
+content: Impact of unfavorable environmental conditions on living beings and the importance of continuous monitoring through IoT systems.
+
+keywords: adverse conditions, environmental impact, IoT applications
+
+---
+
+chunk_id: IOT_U2_001
+unit: Sensors and Their Working Principles
+topic: Introduction to Sensors
+
+content: Fundamentals of sensors, sensing mechanisms, classification of sensors, and their role in Internet of Things applications.
+
+keywords: sensors, sensing technology, IoT devices
+
+---
+
+chunk_id: IOT_U2_002
+unit: Sensors and Their Working Principles
+topic: Sensor Working Principles
+
+content: Operating principles of various sensors and the conversion of physical parameters into measurable electrical signals.
+
+keywords: sensor principles, transducers
+
+---
+
+chunk_id: IOT_U2_003
+unit: Sensors and Their Working Principles
+topic: Selection of Sensors for Practical Applications
+
+content: Criteria for sensor selection including accuracy, sensitivity, cost, reliability, and application requirements.
+
+keywords: sensor selection, sensor characteristics
+
+---
+
+chunk_id: IOT_U2_004
+unit: Sensors and Their Working Principles
+topic: Capacitive Sensors
+
+content: Structure, working principle, advantages, and applications of capacitive sensors in environmental monitoring.
+
+keywords: capacitive sensors, sensing devices
+
+---
+
+chunk_id: IOT_U2_005
+unit: Sensors and Their Working Principles
+topic: Resistive Sensors
+
+content: Resistive sensing techniques, operating principles, and applications in temperature and pressure measurement.
+
+keywords: resistive sensors, resistance measurement
+
+---
+
+chunk_id: IOT_U2_006
+unit: Sensors and Their Working Principles
+topic: Surface Acoustic Wave Sensors
+
+content: Surface Acoustic Wave (SAW) sensors, sensing mechanisms, and applications in industrial and environmental monitoring.
+
+keywords: SAW sensors, acoustic wave sensors
+
+---
+
+chunk_id: IOT_U2_007
+unit: Sensors and Their Working Principles
+topic: Sensors for Temperature, Pressure, Humidity and Gas Detection
+
+content: Specialized sensors used for measuring temperature, pressure, humidity, toxic gases, and environmental conditions.
+
+keywords: temperature sensors, humidity sensors, gas sensors
+
+---
+
+chunk_id: IOT_U3_001
+unit: Characteristics and Modelling of Sensors
+topic: Important Characteristics of Sensors
+
+content: Key sensor characteristics including sensitivity, selectivity, accuracy, precision, response time, and stability.
+
+keywords: sensor characteristics, sensitivity, accuracy
+
+---
+
+chunk_id: IOT_U3_002
+unit: Characteristics and Modelling of Sensors
+topic: Determination of Sensor Characteristics
+
+content: Methods for evaluating and determining sensor performance parameters under practical conditions.
+
+keywords: sensor evaluation, performance analysis
+
+---
+
+chunk_id: IOT_U3_003
+unit: Characteristics and Modelling of Sensors
+topic: Fractional Order Elements and Constant Phase Impedance
+
+content: Fractional order elements, constant phase impedance behavior, and their applications in advanced sensing systems.
+
+keywords: fractional order elements, constant phase impedance
+
+---
+
+chunk_id: IOT_U3_004
+unit: Characteristics and Modelling of Sensors
+topic: Sensing Applications of Fractional Order Elements
+
+content: Applications of constant phase impedance in humidity sensing, water quality monitoring, and milk quality assessment.
+
+keywords: humidity sensing, water quality, milk quality
+
+---
+
+chunk_id: IOT_U3_005
+unit: Characteristics and Modelling of Sensors
+topic: Impedance Spectroscopy
+
+content: Principles of impedance spectroscopy and its use in sensor characterization and performance analysis.
+
+keywords: impedance spectroscopy, sensor analysis
+
+---
+
+chunk_id: IOT_U3_006
+unit: Characteristics and Modelling of Sensors
+topic: Equivalent Circuit Modelling of Sensors
+
+content: Equivalent circuit representation of sensors and mathematical modelling techniques for sensor behavior analysis.
+
+keywords: sensor modelling, equivalent circuits
+
+---
+
+chunk_id: IOT_U3_007
+unit: Characteristics and Modelling of Sensors
+topic: Smart Sensors and Their Importance
+
+content: Concept of smart sensors, intelligent sensing capabilities, and advantages in modern IoT environments.
+
+keywords: smart sensors, intelligent sensing
+
+---
+
+chunk_id: IOT_U3_008
+unit: Characteristics and Modelling of Sensors
+topic: Adoption of Smart Sensors
+
+content: Industrial and consumer adoption of smart sensors, benefits, challenges, and emerging applications.
+
+keywords: smart sensor adoption, IoT applications
+
+---
+
+chunk_id: IOT_U4_001
+unit: Smart Sensor Architecture and Fabrication
+topic: Architecture of Smart Sensors
+
+content: Components, architecture, and operational framework of smart sensors used in intelligent monitoring systems.
+
+keywords: smart sensor architecture, sensor systems
+
+---
+
+chunk_id: IOT_U4_002
+unit: Smart Sensor Architecture and Fabrication
+topic: Components and Features of Smart Sensors
+
+content: Key components of smart sensors including sensing elements, processors, communication modules, and memory units.
+
+keywords: sensor components, smart sensor features
+
+---
+
+chunk_id: IOT_U4_003
+unit: Smart Sensor Architecture and Fabrication
+topic: Sensor Fabrication Techniques
+
+content: Manufacturing processes and fabrication methods used in the development of conventional and smart sensors.
+
+keywords: sensor fabrication, manufacturing processes
+
+---
+
+chunk_id: IOT_U4_004
+unit: Smart Sensor Architecture and Fabrication
+topic: Electrode Fabrication Methods
+
+content: Electrode fabrication techniques including screen printing, photolithography, and electroplating.
+
+keywords: electrode fabrication, screen printing, photolithography
+
+---
+
+chunk_id: IOT_U4_005
+unit: Smart Sensor Architecture and Fabrication
+topic: Sensing Film Deposition Techniques
+
+content: Physical and chemical vapor deposition methods, anodization, and sol-gel techniques used for sensing film fabrication.
+
+keywords: vapor deposition, anodization, sol-gel
+
+---
+
+chunk_id: IOT_U5_001
+unit: Smart Sensor Interface and Integration
+topic: Interface Electronics for Smart Sensors
+
+content: Electronic interface circuits, signal conditioning techniques, and integration of smart sensors with processing systems.
+
+keywords: interface electronics, signal conditioning
+
+---
+
+chunk_id: IOT_U5_002
+unit: Smart Sensor Interface and Integration
+topic: Challenges in Smart Sensor Interfacing
+
+content: Technical challenges in sensor interfacing, communication, calibration, and integration with IoT platforms.
+
+keywords: sensor interfacing, integration challenges
+
+---
+
+chunk_id: IOT_U5_003
+unit: Smart Sensor Interface and Integration
+topic: Silicon Technology in Smart Sensors
+
+content: Role of silicon technology in sensor miniaturization, integration, performance enhancement, and cost reduction.
+
+keywords: silicon technology, MEMS sensors
+
+---
+
+chunk_id: IOT_U5_004
+unit: Smart Sensor Interface and Integration
+topic: Future Research Scope in Smart Sensors
+
+content: Emerging research directions, innovative sensing technologies, and future opportunities in smart sensor development.
+
+keywords: sensor research, future technologies
+
+---
+
+chunk_id: IOT_U6_001
+unit: Recent Trends in Smart Sensors
+topic: Smart Sensors for Everyday Life
+
+content: Applications of smart sensors in healthcare, smart homes, transportation, environmental monitoring, and consumer electronics.
+
+keywords: smart homes, healthcare sensors, IoT devices
+
+---
+
+chunk_id: IOT_U6_002
+unit: Recent Trends in Smart Sensors
+topic: Evolving Sensor Technologies
+
+content: Emerging sensor technologies, advanced sensing materials, intelligent sensing systems, and next-generation sensor solutions.
+
+keywords: advanced sensors, sensor technologies
+
+---
+
+chunk_id: IOT_U6_003
+unit: Recent Trends in Smart Sensors
+topic: Modern Sensor Architectures
+
+content: Recent developments in sensor architectures, integrated sensing platforms, edge intelligence, and IoT-enabled smart systems.
+
+keywords: sensor architecture, edge intelligence, smart systems

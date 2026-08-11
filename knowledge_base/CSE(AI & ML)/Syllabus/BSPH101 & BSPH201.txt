@@ -1,0 +1,315 @@
+# SUBJECT_METADATA
+
+subject_name: Physics-I
+paper_code: BS-PH101, BS-PH201
+program: AIML
+
+---
+
+chunk_id: PHY_U1_001
+unit: Mechanics
+topic: Constraints and Friction
+
+content: Problems involving constraints and friction in classical mechanics.
+
+keywords: mechanics, constraints, friction, classical mechanics
+
+---
+
+chunk_id: PHY_U1_002
+unit: Mechanics
+topic: Vector Calculus
+
+content: Basic concepts of vector calculus and partial differential equations.
+
+keywords: vector calculus, partial differential equations, PDE
+
+---
+
+chunk_id: PHY_U1_003
+unit: Mechanics
+topic: Potential Energy Function
+
+content: Potential energy function F = -grad(V), equipotential surfaces, and physical significance of the gradient operator.
+
+keywords: potential energy, gradient, equipotential surfaces, conservative field
+
+---
+
+chunk_id: PHY_U1_004
+unit: Mechanics
+topic: Conservative and Non-Conservative Forces
+
+content: Definition, characteristics, and differences between conservative and non-conservative forces.
+
+keywords: conservative force, non-conservative force, work done, energy conservation
+
+---
+
+chunk_id: PHY_U1_005
+unit: Mechanics
+topic: Conservation Laws
+
+content: Conservation of energy and conservation of momentum in physical systems.
+
+keywords: conservation of energy, conservation of momentum, mechanics
+
+---
+
+chunk_id: PHY_U1_006
+unit: Mechanics
+topic: Non-Inertial Frames of Reference
+
+content: Motion observed from accelerating frames and the concept of pseudo forces.
+
+keywords: non-inertial frame, pseudo force, accelerated frame
+
+---
+
+chunk_id: PHY_U1_007
+unit: Mechanics
+topic: Harmonic Motion
+
+content: Simple harmonic oscillator, damped harmonic motion, forced oscillations, and resonance.
+
+keywords: SHM, harmonic oscillator, damping, forced oscillation, resonance
+
+---
+
+chunk_id: PHY_U1_008
+unit: Mechanics
+topic: Rigid Body Dynamics
+
+content: Motion of rigid bodies in two-dimensional and three-dimensional space, angular velocity vector, and moment of inertia.
+
+keywords: rigid body dynamics, angular velocity, rotational motion, moment of inertia
+
+---
+
+chunk_id: PHY_U2_001
+unit: Optics
+topic: Interference and Diffraction
+
+content: Distinction between interference and diffraction. Introduction to Fresnel diffraction and Fraunhofer diffraction.
+
+keywords: interference, diffraction, Fresnel diffraction, Fraunhofer diffraction
+
+---
+
+chunk_id: PHY_U2_002
+unit: Optics
+topic: Fraunhofer Diffraction at Slits
+
+content: Fraunhofer diffraction at single slit, double slit, and multiple slits. Expressions for maxima, minima, intensity, and qualitative discussion of fringe formation.
+
+keywords: single slit diffraction, double slit diffraction, multiple slit diffraction, fringe pattern
+
+---
+
+chunk_id: PHY_U2_003
+unit: Optics
+topic: Diffraction Grating
+
+content: Diffraction grating, resolution formula, characteristics of diffraction gratings, and practical applications.
+
+keywords: diffraction grating, grating resolution, spectroscopy
+
+---
+
+chunk_id: PHY_U2_004
+unit: Optics
+topic: Polarization
+
+content: Polarization of light, polarization by reflection, polarization by double reflection, scattering of light, circular polarization, elliptical polarization, and optical activity.
+
+keywords: polarization, circular polarization, elliptical polarization, optical activity
+
+---
+
+chunk_id: PHY_U2_005
+unit: Optics
+topic: Lasers
+
+content: Principles and operation of lasers including population inversion, pumping mechanisms, laser modes, and threshold population inversion.
+
+keywords: laser, population inversion, pumping, laser modes, threshold inversion
+
+---
+
+chunk_id: PHY_U3_001
+unit: Electromagnetism and Material Properties
+topic: Maxwell's Equations
+
+content: Fundamental Maxwell's equations governing electromagnetic phenomena.
+
+keywords: Maxwell equations, electromagnetism, electric field, magnetic field
+
+---
+
+chunk_id: PHY_U3_002
+unit: Electromagnetism and Material Properties
+topic: Dielectric Properties
+
+content: Polarization, permeability, dielectric constant, polar dielectrics, non-polar dielectrics, internal electric fields in solids, Clausius-Mossotti equation, and applications of dielectric materials.
+
+keywords: dielectric constant, polarization, permeability, Clausius-Mossotti equation, dielectric materials
+
+---
+
+chunk_id: PHY_U3_003
+unit: Electromagnetism and Material Properties
+topic: Magnetic Properties
+
+content: Magnetization, magnetic permeability, magnetic susceptibility, classification of magnetic materials, ferromagnetism, magnetic domains, hysteresis, and applications.
+
+keywords: magnetization, susceptibility, ferromagnetism, magnetic domains, hysteresis
+
+---
+
+chunk_id: PHY_U4_001
+unit: Quantum Mechanics
+topic: Introduction to Quantum Physics
+
+content: Fundamental concepts and development of quantum physics.
+
+keywords: quantum physics, modern physics
+
+---
+
+chunk_id: PHY_U4_002
+unit: Quantum Mechanics
+topic: Black Body Radiation
+
+content: Black body radiation and its explanation using the photon concept.
+
+keywords: black body radiation, photon theory, Planck radiation
+
+---
+
+chunk_id: PHY_U4_003
+unit: Quantum Mechanics
+topic: Compton Effect
+
+content: Compton scattering and its significance in demonstrating the particle nature of light.
+
+keywords: Compton effect, photon scattering, quantum theory
+
+---
+
+chunk_id: PHY_U4_004
+unit: Quantum Mechanics
+topic: de Broglie Hypothesis
+
+content: Matter waves, de Broglie wavelength, and wave-particle duality.
+
+keywords: de Broglie hypothesis, matter waves, wave-particle duality
+
+---
+
+chunk_id: PHY_U4_005
+unit: Quantum Mechanics
+topic: Verification of Matter Waves
+
+content: Experimental verification of matter waves predicted by de Broglie theory.
+
+keywords: matter waves, electron diffraction, wave verification
+
+---
+
+chunk_id: PHY_U4_006
+unit: Quantum Mechanics
+topic: Uncertainty Principle
+
+content: Heisenberg uncertainty principle and its implications in quantum mechanics.
+
+keywords: uncertainty principle, Heisenberg principle, quantum measurement
+
+---
+
+chunk_id: PHY_U4_007
+unit: Quantum Mechanics
+topic: Schrödinger Wave Equation
+
+content: Fundamental formulation and significance of the Schrödinger wave equation.
+
+keywords: Schrödinger equation, wave mechanics, quantum states
+
+---
+
+chunk_id: PHY_U4_008
+unit: Quantum Mechanics
+topic: Particle in a Box
+
+content: Quantum mechanical model of a particle confined within an infinite potential well.
+
+keywords: particle in a box, infinite potential well, quantum confinement
+
+---
+
+chunk_id: PHY_U4_009
+unit: Quantum Mechanics
+topic: Quantum Harmonic Oscillator
+
+content: Quantum treatment of harmonic oscillatory motion.
+
+keywords: quantum harmonic oscillator, quantized energy levels
+
+---
+
+chunk_id: PHY_U4_010
+unit: Quantum Mechanics
+topic: Hydrogen Atom
+
+content: Quantum mechanical model and energy levels of the hydrogen atom.
+
+keywords: hydrogen atom, atomic model, quantum energy levels
+
+---
+
+chunk_id: PHY_U5_001
+unit: Statistical Mechanics
+topic: Macrostate and Microstate
+
+content: Definitions and significance of macrostates and microstates in statistical systems.
+
+keywords: macrostate, microstate, statistical mechanics
+
+---
+
+chunk_id: PHY_U5_002
+unit: Statistical Mechanics
+topic: Density of States
+
+content: Concept and importance of density of states in physical systems.
+
+keywords: density of states, DOS, statistical physics
+
+---
+
+chunk_id: PHY_U5_003
+unit: Statistical Mechanics
+topic: Maxwell-Boltzmann Statistics
+
+content: Qualitative treatment of Maxwell-Boltzmann statistical distribution.
+
+keywords: Maxwell-Boltzmann statistics, classical statistics
+
+---
+
+chunk_id: PHY_U5_004
+unit: Statistical Mechanics
+topic: Fermi-Dirac Statistics
+
+content: Qualitative treatment of Fermi-Dirac statistical distribution.
+
+keywords: Fermi-Dirac statistics, fermions, quantum statistics
+
+---
+
+chunk_id: PHY_U5_005
+unit: Statistical Mechanics
+topic: Bose-Einstein Statistics
+
+content: Qualitative treatment of Bose-Einstein statistical distribution.
+
+keywords: Bose-Einstein statistics, bosons, quantum statistics

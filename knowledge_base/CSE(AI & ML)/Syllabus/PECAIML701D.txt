@@ -1,0 +1,265 @@
+# SUBJECT_METADATA
+
+subject_name: Multi-Agent Intelligent Systems
+paper_code: PEC-AIML701D
+category: Professional Elective
+
+---
+
+chunk_id: MAIS_U1_001
+unit: Introduction to Agent Systems
+topic: What is an Agent
+
+content: Introduction to intelligent agents, characteristics of agents, autonomy, reactivity, proactiveness, and social ability in agent-based systems.
+
+keywords: agent, intelligent agent, autonomy
+
+---
+
+chunk_id: MAIS_U1_002
+unit: Introduction to Agent Systems
+topic: Agents and Objects
+
+content: Comparison between agents and objects, similarities and differences in behavior, communication, and autonomy.
+
+keywords: agents, objects, object-oriented systems
+
+---
+
+chunk_id: MAIS_U1_003
+unit: Introduction to Agent Systems
+topic: Agents and Expert Systems
+
+content: Relationship between intelligent agents and expert systems, knowledge representation, reasoning mechanisms, and decision support.
+
+keywords: expert systems, knowledge representation
+
+---
+
+chunk_id: MAIS_U1_004
+unit: Introduction to Agent Systems
+topic: Agents and Distributed Systems
+
+content: Distributed computing concepts, agent-based distributed systems, communication, coordination, and resource sharing.
+
+keywords: distributed systems, agent communication
+
+---
+
+chunk_id: MAIS_U1_005
+unit: Introduction to Agent Systems
+topic: Applications of Agent Systems
+
+content: Typical application areas of agent-based systems including e-commerce, robotics, distributed problem solving, and intelligent information systems.
+
+keywords: agent applications, intelligent systems
+
+---
+
+chunk_id: MAIS_U2_001
+unit: Intelligent Agents
+topic: Design of Intelligent Agents
+
+content: Principles of intelligent agent design, architectures, goals, decision-making processes, and agent behavior models.
+
+keywords: intelligent agent design, agent architecture
+
+---
+
+chunk_id: MAIS_U2_002
+unit: Intelligent Agents
+topic: Reasoning Agents
+
+content: Reasoning-based agents, symbolic reasoning mechanisms, and agent programming approaches such as AgentO.
+
+keywords: reasoning agents, AgentO
+
+---
+
+chunk_id: MAIS_U2_003
+unit: Intelligent Agents
+topic: Reactive Agents
+
+content: Reactive agent systems, behavior-based architectures, and subsumption architecture for intelligent behavior.
+
+keywords: reactive agents, subsumption architecture
+
+---
+
+chunk_id: MAIS_U2_004
+unit: Intelligent Agents
+topic: Hybrid Agents
+
+content: Hybrid agent architectures combining reactive and deliberative components, including Procedural Reasoning Systems (PRS).
+
+keywords: hybrid agents, PRS
+
+---
+
+chunk_id: MAIS_U2_005
+unit: Intelligent Agents
+topic: Layered Agent Architectures
+
+content: Layered approaches to agent design, interaction between layers, and InterRAP architecture.
+
+keywords: layered agents, InterRAP
+
+---
+
+chunk_id: MAIS_U2_006
+unit: Intelligent Agents
+topic: Agent Programming Frameworks
+
+content: Contemporary Java-based frameworks for agent development including JACK Intelligent Agents and JAM systems.
+
+keywords: JACK, JAM, agent programming
+
+---
+
+chunk_id: MAIS_U3_001
+unit: Multi-Agent Systems
+topic: Introduction to Multi-Agent Systems
+
+content: Fundamentals of multi-agent systems, agent interactions, collaboration, competition, and distributed intelligence.
+
+keywords: multi-agent systems, distributed intelligence
+
+---
+
+chunk_id: MAIS_U3_002
+unit: Multi-Agent Systems
+topic: Classification of Multi-Agent Interactions
+
+content: Types of interactions among agents including cooperative and non-cooperative behaviors, and their implications.
+
+keywords: cooperative agents, non-cooperative agents
+
+---
+
+chunk_id: MAIS_U3_003
+unit: Multi-Agent Systems
+topic: Zero-Sum and Non-Zero-Sum Interactions
+
+content: Game-theoretic interactions, zero-sum games, non-zero-sum games, and strategic decision making among agents.
+
+keywords: zero-sum games, game theory
+
+---
+
+chunk_id: MAIS_U3_004
+unit: Multi-Agent Systems
+topic: Cooperation in Multi-Agent Systems
+
+content: Concepts of cooperation, collaborative problem solving, and mechanisms that enable agents to work together.
+
+keywords: cooperation, collaboration
+
+---
+
+chunk_id: MAIS_U3_005
+unit: Multi-Agent Systems
+topic: Prisoner's Dilemma and Axelrod's Experiments
+
+content: Prisoner's Dilemma as a model of cooperation and competition, Axelrod's experiments, and emergence of cooperative behavior.
+
+keywords: prisoner's dilemma, Axelrod experiments
+
+---
+
+chunk_id: MAIS_U3_006
+unit: Multi-Agent Systems
+topic: Auctions and Voting Systems
+
+content: Mechanisms for interaction among self-interested agents, including auctions, voting systems, and resource allocation.
+
+keywords: auctions, voting systems
+
+---
+
+chunk_id: MAIS_U3_007
+unit: Multi-Agent Systems
+topic: Negotiation Among Agents
+
+content: Negotiation strategies, protocols, bargaining models, and conflict resolution in multi-agent environments.
+
+keywords: negotiation, bargaining
+
+---
+
+chunk_id: MAIS_U3_008
+unit: Multi-Agent Systems
+topic: Cooperative Distributed Problem Solving
+
+content: Cooperative Distributed Problem Solving (CDPS), task decomposition, distributed planning, and coordination techniques.
+
+keywords: CDPS, distributed problem solving
+
+---
+
+chunk_id: MAIS_U3_009
+unit: Multi-Agent Systems
+topic: Partial Global Planning
+
+content: Partial Global Planning techniques for coordinating multiple agents and achieving system-wide objectives.
+
+keywords: partial global planning, coordination
+
+---
+
+chunk_id: MAIS_U3_010
+unit: Multi-Agent Systems
+topic: Coherence and Coordination
+
+content: Methods for maintaining coherence, synchronization, and coordination among multiple autonomous agents.
+
+keywords: coordination, coherence
+
+---
+
+chunk_id: MAIS_U3_011
+unit: Multi-Agent Systems
+topic: Agent Communication Languages
+
+content: Communication mechanisms for agents, speech acts, message structures, and interaction protocols.
+
+keywords: agent communication, speech acts
+
+---
+
+chunk_id: MAIS_U3_012
+unit: Multi-Agent Systems
+topic: KQML and KIF
+
+content: Knowledge Query and Manipulation Language (KQML), Knowledge Interchange Format (KIF), and agent communication standards.
+
+keywords: KQML, KIF, communication protocols
+
+---
+
+chunk_id: MAIS_U3_013
+unit: Multi-Agent Systems
+topic: FIPA Framework
+
+content: Foundation for Intelligent Physical Agents (FIPA) standards, communication protocols, and interoperability among agents.
+
+keywords: FIPA, agent standards
+
+---
+
+chunk_id: MAIS_U4_001
+unit: Advanced Topics in Multi-Agent Systems
+topic: Contemporary Research Issues
+
+content: Study of advanced and emerging topics in multi-agent intelligent systems based on current research literature and recent developments.
+
+keywords: multi-agent research, emerging technologies
+
+---
+
+chunk_id: MAIS_U4_002
+unit: Advanced Topics in Multi-Agent Systems
+topic: Recent Trends in Agent-Based Intelligence
+
+content: Modern applications and research directions in agent technologies including autonomous systems, intelligent coordination, and distributed AI.
+
+keywords: autonomous agents, distributed AI, intelligent coordination

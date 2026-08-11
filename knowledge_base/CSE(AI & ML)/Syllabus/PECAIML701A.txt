@@ -1,0 +1,305 @@
+# SUBJECT_METADATA
+
+subject_name: Social Network Analysis
+paper_code: PECAIML701A
+category: Professional Elective
+
+---
+
+chunk_id: SNA_U1_001
+unit: Introduction to Social Networks
+topic: Introduction to Social Web
+
+content: Overview of social networks, social web platforms, online communities, and the significance of social network analysis in modern applications.
+
+keywords: social web, social networks, online communities
+
+---
+
+chunk_id: SNA_U1_002
+unit: Introduction to Social Networks
+topic: Nodes, Edges and Network Measures
+
+content: Fundamental concepts of graph theory including nodes, edges, degree, centrality measures, and network connectivity.
+
+keywords: nodes, edges, network measures, graph theory
+
+---
+
+chunk_id: SNA_U1_003
+unit: Introduction to Social Networks
+topic: Describing Nodes and Edges
+
+content: Attributes and properties of nodes and edges, relationship representation, and network characterization techniques.
+
+keywords: node attributes, edge properties
+
+---
+
+chunk_id: SNA_U1_004
+unit: Introduction to Social Networks
+topic: Describing Networks
+
+content: Structural properties of networks including density, clustering coefficient, path length, and network topology.
+
+keywords: network topology, network density, clustering coefficient
+
+---
+
+chunk_id: SNA_U1_005
+unit: Introduction to Social Networks
+topic: Network Layouts and Visualization
+
+content: Graph layout techniques, visualization methods, and representation of network structures for analytical purposes.
+
+keywords: network visualization, graph layouts
+
+---
+
+chunk_id: SNA_U1_006
+unit: Introduction to Social Networks
+topic: Visualizing Network Features
+
+content: Methods for visualizing centrality, communities, connectivity patterns, and other important network characteristics.
+
+keywords: network features, visual analytics
+
+---
+
+chunk_id: SNA_U2_001
+unit: Tie Strength and Network Propagation
+topic: Role of Tie Strength
+
+content: Concept of tie strength, strong and weak ties, social relationships, and their influence on information flow in networks.
+
+keywords: tie strength, strong ties, weak ties
+
+---
+
+chunk_id: SNA_U2_002
+unit: Tie Strength and Network Propagation
+topic: Measuring Tie Strength
+
+content: Quantitative and qualitative methods for evaluating tie strength and relationship intensity within social networks.
+
+keywords: tie strength measurement, relationship analysis
+
+---
+
+chunk_id: SNA_U2_003
+unit: Tie Strength and Network Propagation
+topic: Tie Strength and Network Structures
+
+content: Relationship between tie strength and network structures, clustering behavior, and community formation.
+
+keywords: network structures, social relationships
+
+---
+
+chunk_id: SNA_U2_004
+unit: Tie Strength and Network Propagation
+topic: Network Propagation
+
+content: Information diffusion, contagion models, influence spread, and propagation processes within social networks.
+
+keywords: network propagation, information diffusion
+
+---
+
+chunk_id: SNA_U2_005
+unit: Tie Strength and Network Propagation
+topic: Link Prediction
+
+content: Link prediction techniques, relationship forecasting, graph-based prediction models, and recommendation systems.
+
+keywords: link prediction, relationship forecasting
+
+---
+
+chunk_id: SNA_U2_006
+unit: Tie Strength and Network Propagation
+topic: Entity Resolution
+
+content: Entity matching, duplicate detection, identity resolution, and integration of social network data sources.
+
+keywords: entity resolution, identity matching
+
+---
+
+chunk_id: SNA_U2_007
+unit: Tie Strength and Network Propagation
+topic: Social Network Case Studies
+
+content: Practical case studies demonstrating social network analysis techniques and real-world applications.
+
+keywords: case study, social network applications
+
+---
+
+chunk_id: SNA_U3_001
+unit: Community Discovery
+topic: Introduction to Community Discovery
+
+content: Fundamentals of community detection, network partitioning, and identification of closely connected groups.
+
+keywords: community detection, network partitioning
+
+---
+
+chunk_id: SNA_U3_002
+unit: Community Discovery
+topic: Communities in Context
+
+content: Understanding communities within different social contexts and evaluating their significance in network analysis.
+
+keywords: communities, social context
+
+---
+
+chunk_id: SNA_U3_003
+unit: Community Discovery
+topic: Quality Functions for Communities
+
+content: Community evaluation metrics, modularity, quality functions, and performance assessment of community structures.
+
+keywords: modularity, quality functions
+
+---
+
+chunk_id: SNA_U3_004
+unit: Community Discovery
+topic: Kernighan-Lin Algorithm
+
+content: Kernighan-Lin graph partitioning algorithm, optimization process, and applications in community detection.
+
+keywords: Kernighan-Lin algorithm, graph partitioning
+
+---
+
+chunk_id: SNA_U3_005
+unit: Community Discovery
+topic: Agglomerative Algorithms
+
+content: Hierarchical agglomerative clustering techniques and their application to social network community discovery.
+
+keywords: agglomerative clustering, hierarchical clustering
+
+---
+
+chunk_id: SNA_U3_006
+unit: Community Discovery
+topic: Spectral Algorithms
+
+content: Spectral graph methods, eigenvalue-based clustering, and community identification using matrix representations.
+
+keywords: spectral clustering, graph spectra
+
+---
+
+chunk_id: SNA_U3_007
+unit: Community Discovery
+topic: Multi-Level Graph Partitioning
+
+content: Multi-level graph partitioning approaches for scalable community detection in large social networks.
+
+keywords: graph partitioning, multi-level methods
+
+---
+
+chunk_id: SNA_U3_008
+unit: Community Discovery
+topic: Markov Clustering
+
+content: Markov Clustering (MCL) algorithm, random walk processes, and cluster identification in network graphs.
+
+keywords: Markov clustering, MCL algorithm
+
+---
+
+chunk_id: SNA_U3_009
+unit: Community Discovery
+topic: Alternative Community Detection Approaches
+
+content: Other approaches to community discovery including heuristic, probabilistic, and optimization-based techniques.
+
+keywords: community detection methods, graph clustering
+
+---
+
+chunk_id: SNA_U4_001
+unit: Social Influence Analysis
+topic: Introduction to Social Influence
+
+content: Concepts of social influence, influence dynamics, and the impact of social relationships on behavior and decision making.
+
+keywords: social influence, influence dynamics
+
+---
+
+chunk_id: SNA_U4_002
+unit: Social Influence Analysis
+topic: Influence-Related Statistics
+
+content: Statistical measures used to evaluate influence, influence propagation, and network-based behavioral patterns.
+
+keywords: influence statistics, network analytics
+
+---
+
+chunk_id: SNA_U4_003
+unit: Social Influence Analysis
+topic: Social Similarity and Influence
+
+content: Relationship between social similarity and influence, behavioral convergence, and social interaction patterns.
+
+keywords: social similarity, behavioral influence
+
+---
+
+chunk_id: SNA_U4_004
+unit: Social Influence Analysis
+topic: Homophily in Social Networks
+
+content: Homophily principle, similarity-based connections, and its effects on network formation and information diffusion.
+
+keywords: homophily, social similarity
+
+---
+
+chunk_id: SNA_U4_005
+unit: Social Influence Analysis
+topic: Existential Tests for Social Influence
+
+content: Methods and models used to determine the existence and significance of social influence within networks.
+
+keywords: influence testing, social influence models
+
+---
+
+chunk_id: SNA_U4_006
+unit: Social Influence Analysis
+topic: Influence and Actions
+
+content: Influence-driven actions, behavioral responses, adoption patterns, and decision-making processes in networks.
+
+keywords: influence actions, adoption behavior
+
+---
+
+chunk_id: SNA_U4_007
+unit: Social Influence Analysis
+topic: Influence and Interactions
+
+content: Analysis of influence through user interactions, communication patterns, and relationship dynamics.
+
+keywords: social interactions, influence propagation
+
+---
+
+chunk_id: SNA_U4_008
+unit: Social Influence Analysis
+topic: Influence Maximization in Viral Marketing
+
+content: Influence maximization techniques, viral marketing strategies, seed node selection, and diffusion optimization in social networks.
+
+keywords: influence maximization, viral marketing, diffusion models

@@ -1,0 +1,365 @@
+# SUBJECT_METADATA
+
+subject_name: Quantum Computing
+paper_code: PEC-AIML701C
+category: Professional Elective
+
+---
+
+chunk_id: QC_U1_001
+unit: Qubits and Quantum States
+topic: Introduction to Qubits
+
+content: Fundamentals of qubits, quantum information representation, superposition, and differences between classical bits and quantum bits.
+
+keywords: qubit, superposition, quantum information
+
+---
+
+chunk_id: QC_U1_002
+unit: Qubits and Quantum States
+topic: Vector Spaces in Quantum Computing
+
+content: Vector spaces, vector representation of quantum states, properties of vector spaces, and applications in quantum mechanics.
+
+keywords: vector spaces, quantum states
+
+---
+
+chunk_id: QC_U1_003
+unit: Qubits and Quantum States
+topic: Linear Combination and Spanning Sets
+
+content: Linear combination of vectors, spanning sets, uniqueness of spanning sets, and representation of quantum states.
+
+keywords: linear combination, spanning set
+
+---
+
+chunk_id: QC_U1_004
+unit: Qubits and Quantum States
+topic: Basis and Dimensions
+
+content: Basis vectors, dimensionality of vector spaces, orthonormal bases, and quantum state representation.
+
+keywords: basis, dimensions, orthonormal basis
+
+---
+
+chunk_id: QC_U1_005
+unit: Qubits and Quantum States
+topic: Inner Products and Orthonormality
+
+content: Inner product operations, orthogonality, orthonormal vectors, and their significance in quantum systems.
+
+keywords: inner product, orthonormality
+
+---
+
+chunk_id: QC_U1_006
+unit: Qubits and Quantum States
+topic: Gram-Schmidt Orthogonalization
+
+content: Gram-Schmidt orthogonalization process for constructing orthonormal bases in vector spaces.
+
+keywords: Gram-Schmidt, orthogonalization
+
+---
+
+chunk_id: QC_U1_007
+unit: Qubits and Quantum States
+topic: Bra-Ket Formalism
+
+content: Dirac bra-ket notation, representation of quantum states, operators, and quantum computations.
+
+keywords: bra-ket notation, Dirac notation
+
+---
+
+chunk_id: QC_U1_008
+unit: Qubits and Quantum States
+topic: Cauchy-Schwarz and Triangle Inequalities
+
+content: Mathematical inequalities used in vector spaces including the Cauchy-Schwarz inequality and triangle inequality.
+
+keywords: Cauchy-Schwarz inequality, triangle inequality
+
+---
+
+chunk_id: QC_U2_001
+unit: Matrices and Operators
+topic: Quantum Observables
+
+content: Quantum observables, measurement operators, and their role in determining physical properties of quantum systems.
+
+keywords: observables, quantum measurement
+
+---
+
+chunk_id: QC_U2_002
+unit: Matrices and Operators
+topic: Pauli Operators and Pauli Matrices
+
+content: Pauli operators, Pauli matrices, their algebraic properties, and applications in quantum computing.
+
+keywords: Pauli matrices, Pauli operators
+
+---
+
+chunk_id: QC_U2_003
+unit: Matrices and Operators
+topic: Outer Products and Closure Relation
+
+content: Outer product operations, closure relations, and representation of quantum states and operators.
+
+keywords: outer product, closure relation
+
+---
+
+chunk_id: QC_U2_004
+unit: Matrices and Operators
+topic: Matrix Representation of Operators
+
+content: Representation of quantum operators using matrices, matrix algebra, and operator transformations.
+
+keywords: matrix representation, quantum operators
+
+---
+
+chunk_id: QC_U2_005
+unit: Matrices and Operators
+topic: Operators in Two-Dimensional Spaces
+
+content: Matrix representation of operators in two-dimensional quantum systems and qubit spaces.
+
+keywords: two-dimensional operators, qubit systems
+
+---
+
+chunk_id: QC_U2_006
+unit: Matrices and Operators
+topic: Hermitian, Unitary and Normal Operators
+
+content: Properties and significance of Hermitian, unitary, and normal operators in quantum mechanics.
+
+keywords: Hermitian operators, unitary operators, normal operators
+
+---
+
+chunk_id: QC_U2_007
+unit: Matrices and Operators
+topic: Eigenvalues and Eigenvectors
+
+content: Eigenvalues, eigenvectors, eigenvalue equations, and their role in quantum measurements.
+
+keywords: eigenvalues, eigenvectors
+
+---
+
+chunk_id: QC_U2_008
+unit: Matrices and Operators
+topic: Spectral Decomposition
+
+content: Spectral decomposition of operators and its applications in quantum state analysis.
+
+keywords: spectral decomposition
+
+---
+
+chunk_id: QC_U2_009
+unit: Matrices and Operators
+topic: Trace and Expectation Value
+
+content: Trace of an operator, properties of trace, expectation values, and statistical interpretation of quantum measurements.
+
+keywords: trace operator, expectation value
+
+---
+
+chunk_id: QC_U2_010
+unit: Matrices and Operators
+topic: Projection and Positive Operators
+
+content: Projection operators, positive operators, and their applications in quantum state measurements.
+
+keywords: projection operator, positive operator
+
+---
+
+chunk_id: QC_U3_001
+unit: Quantum Mechanics Foundations
+topic: Commutator Algebra
+
+content: Commutators, commutator algebra, operator relationships, and applications in quantum mechanics.
+
+keywords: commutator algebra, operators
+
+---
+
+chunk_id: QC_U3_002
+unit: Quantum Mechanics Foundations
+topic: Heisenberg Uncertainty Principle
+
+content: Heisenberg uncertainty principle, uncertainty relations, and limitations of quantum measurements.
+
+keywords: uncertainty principle, quantum measurement
+
+---
+
+chunk_id: QC_U3_003
+unit: Quantum Mechanics Foundations
+topic: Polar Decomposition and Singular Values
+
+content: Polar decomposition of operators, singular value decomposition, and matrix analysis techniques.
+
+keywords: polar decomposition, singular values
+
+---
+
+chunk_id: QC_U3_004
+unit: Quantum Mechanics Foundations
+topic: Postulates of Quantum Mechanics
+
+content: Fundamental postulates of quantum mechanics governing quantum states, measurements, and system evolution.
+
+keywords: quantum mechanics postulates
+
+---
+
+chunk_id: QC_U4_001
+unit: Tensor Products and Density Operators
+topic: Composite Quantum Systems
+
+content: Representation of composite quantum systems, multipartite states, and quantum state combinations.
+
+keywords: composite systems, quantum states
+
+---
+
+chunk_id: QC_U4_002
+unit: Tensor Products and Density Operators
+topic: Tensor Products of Quantum States
+
+content: Tensor products of vectors, construction of multi-qubit states, and composite system representation.
+
+keywords: tensor product, multi-qubit systems
+
+---
+
+chunk_id: QC_U4_003
+unit: Tensor Products and Density Operators
+topic: Tensor Products of Operators and Matrices
+
+content: Tensor products involving operators and matrices and their use in quantum circuit modeling.
+
+keywords: tensor product matrices, quantum operators
+
+---
+
+chunk_id: QC_U4_004
+unit: Tensor Products and Density Operators
+topic: Density Operators for Pure and Mixed States
+
+content: Density matrix formalism, pure states, mixed states, and statistical representation of quantum systems.
+
+keywords: density operator, pure states, mixed states
+
+---
+
+chunk_id: QC_U4_005
+unit: Tensor Products and Density Operators
+topic: Properties of Density Operators
+
+content: Key properties of density operators, state characterization, and quantum statistical descriptions.
+
+keywords: density matrix properties
+
+---
+
+chunk_id: QC_U4_006
+unit: Tensor Products and Density Operators
+topic: Reduced Density Operators and Partial Trace
+
+content: Practical computation of reduced density matrices using partial trace operations and subsystem analysis.
+
+keywords: reduced density matrix, partial trace
+
+---
+
+chunk_id: QC_U4_007
+unit: Tensor Products and Density Operators
+topic: Density Operators and Bloch Vectors
+
+content: Bloch sphere representation, Bloch vectors, and visualization of qubit states using density operators.
+
+keywords: Bloch vector, Bloch sphere
+
+---
+
+chunk_id: QC_U5_001
+unit: Quantum Measurement Theory
+topic: Quantum State Distinguishability
+
+content: Methods for distinguishing quantum states and understanding quantum measurement outcomes.
+
+keywords: quantum states, state distinguishability
+
+---
+
+chunk_id: QC_U5_002
+unit: Quantum Measurement Theory
+topic: Projective Measurements
+
+content: Projective measurement framework, measurement operators, eigenstates, and measurement postulates.
+
+keywords: projective measurement, quantum measurement
+
+---
+
+chunk_id: QC_U5_003
+unit: Quantum Measurement Theory
+topic: Measurements on Composite Systems
+
+content: Quantum measurements performed on composite systems and entangled quantum states.
+
+keywords: composite systems, entanglement measurement
+
+---
+
+chunk_id: QC_U5_004
+unit: Quantum Measurement Theory
+topic: Generalized Measurements
+
+content: Generalized quantum measurements beyond projective measurements and their applications.
+
+keywords: generalized measurements
+
+---
+
+chunk_id: QC_U5_005
+unit: Quantum Measurement Theory
+topic: Positive Operator-Valued Measures
+
+content: Positive Operator-Valued Measures (POVMs), generalized measurement framework, and quantum information applications.
+
+keywords: POVM, quantum measurement theory
+
+---
+
+chunk_id: QC_U6_001
+unit: Recent Trends and Applications
+topic: Recent Trends in Quantum Computing Research
+
+content: Emerging developments in quantum computing, quantum algorithms, hardware advancements, and current research directions.
+
+keywords: quantum computing research, quantum algorithms
+
+---
+
+chunk_id: QC_U6_002
+unit: Recent Trends and Applications
+topic: Quantum Computing and Genetic Programming
+
+content: Applications of quantum computing in genetic programming, optimization problems, evolutionary computation, and intelligent systems.
+
+keywords: genetic programming, quantum optimization, evolutionary computation

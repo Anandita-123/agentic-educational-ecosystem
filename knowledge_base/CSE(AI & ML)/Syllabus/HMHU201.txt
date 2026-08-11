@@ -1,0 +1,465 @@
+# SUBJECT_METADATA
+
+subject_name: English
+paper_code: HM-HU201
+program: AIML
+
+---
+
+chunk_id: ENG_U1_001
+unit: Vocabulary Building
+topic: Word Formation
+
+content: Introduction to word formation processes used in English vocabulary development.
+
+keywords: word formation, vocabulary, morphology
+
+---
+
+chunk_id: ENG_U1_002
+unit: Vocabulary Building
+topic: Compounding
+
+content: Formation of new words by combining two or more existing words.
+
+keywords: compounding, word formation
+
+---
+
+chunk_id: ENG_U1_003
+unit: Vocabulary Building
+topic: Back Formation
+
+content: Creation of new words by removing actual or perceived affixes from existing words.
+
+keywords: back formation, morphology
+
+---
+
+chunk_id: ENG_U1_004
+unit: Vocabulary Building
+topic: Clipping
+
+content: Formation of shortened words by removing parts of longer words.
+
+keywords: clipping, shortened words
+
+---
+
+chunk_id: ENG_U1_005
+unit: Vocabulary Building
+topic: Blending
+
+content: Creation of new words by combining parts of two existing words.
+
+keywords: blending, word creation
+
+---
+
+chunk_id: ENG_U1_006
+unit: Vocabulary Building
+topic: Root Words from Foreign Languages
+
+content: Use of root words derived from Latin, Greek, French, and other languages in English vocabulary.
+
+keywords: root words, etymology, foreign languages
+
+---
+
+chunk_id: ENG_U1_007
+unit: Vocabulary Building
+topic: Prefixes
+
+content: Use of prefixes from foreign languages to create derivative words.
+
+keywords: prefixes, word formation
+
+---
+
+chunk_id: ENG_U1_008
+unit: Vocabulary Building
+topic: Suffixes
+
+content: Use of suffixes from foreign languages to create derivative words.
+
+keywords: suffixes, word formation
+
+---
+
+chunk_id: ENG_U1_009
+unit: Vocabulary Building
+topic: Synonyms
+
+content: Words having similar meanings and their applications in communication.
+
+keywords: synonyms, vocabulary
+
+---
+
+chunk_id: ENG_U1_010
+unit: Vocabulary Building
+topic: Antonyms
+
+content: Words having opposite meanings and their applications in communication.
+
+keywords: antonyms, vocabulary
+
+---
+
+chunk_id: ENG_U1_011
+unit: Vocabulary Building
+topic: Abbreviations
+
+content: Standard abbreviated forms commonly used in written and professional communication.
+
+keywords: abbreviations, short forms
+
+---
+
+chunk_id: ENG_U1_012
+unit: Vocabulary Building
+topic: Acronyms
+
+content: Abbreviations formed from the initial letters of words and pronounced as a word.
+
+keywords: acronyms, abbreviations
+
+---
+
+chunk_id: ENG_U2_001
+unit: Basic Writing Skills
+topic: Sentence Structure
+
+content: Fundamental structure and organization of English sentences.
+
+keywords: sentence structure, grammar
+
+---
+
+chunk_id: ENG_U2_002
+unit: Basic Writing Skills
+topic: Simple Sentences
+
+content: Construction and use of simple sentences containing a single independent clause.
+
+keywords: simple sentence
+
+---
+
+chunk_id: ENG_U2_003
+unit: Basic Writing Skills
+topic: Compound Sentences
+
+content: Construction and use of compound sentences containing multiple independent clauses.
+
+keywords: compound sentence
+
+---
+
+chunk_id: ENG_U2_004
+unit: Basic Writing Skills
+topic: Complex Sentences
+
+content: Construction and use of complex sentences containing independent and dependent clauses.
+
+keywords: complex sentence
+
+---
+
+chunk_id: ENG_U2_005
+unit: Basic Writing Skills
+topic: Phrases
+
+content: Use and types of phrases in sentence construction.
+
+keywords: phrases, grammar
+
+---
+
+chunk_id: ENG_U2_006
+unit: Basic Writing Skills
+topic: Clauses
+
+content: Use and types of clauses in sentence construction.
+
+keywords: clauses, grammar
+
+---
+
+chunk_id: ENG_U2_007
+unit: Basic Writing Skills
+topic: Sentence Transformation
+
+content: Techniques for transforming sentences while preserving meaning.
+
+keywords: sentence transformation
+
+---
+
+chunk_id: ENG_U2_008
+unit: Basic Writing Skills
+topic: Active Voice
+
+content: Construction and usage of active voice sentences.
+
+keywords: active voice
+
+---
+
+chunk_id: ENG_U2_009
+unit: Basic Writing Skills
+topic: Passive Voice
+
+content: Construction and usage of passive voice sentences.
+
+keywords: passive voice
+
+---
+
+chunk_id: ENG_U2_010
+unit: Basic Writing Skills
+topic: Narration
+
+content: Direct and indirect speech transformation techniques.
+
+keywords: narration, reported speech
+
+---
+
+chunk_id: ENG_U2_011
+unit: Basic Writing Skills
+topic: Punctuation
+
+content: Importance and correct use of punctuation marks in writing.
+
+keywords: punctuation, writing skills
+
+---
+
+chunk_id: ENG_U2_012
+unit: Basic Writing Skills
+topic: Coherence in Writing
+
+content: Logical arrangement of sentences and paragraphs to improve readability.
+
+keywords: coherence, paragraph organization
+
+---
+
+chunk_id: ENG_U2_013
+unit: Basic Writing Skills
+topic: Cohesion in Writing
+
+content: Use of linguistic devices to connect ideas within paragraphs and documents.
+
+keywords: cohesion, writing organization
+
+---
+
+chunk_id: ENG_U2_014
+unit: Basic Writing Skills
+topic: Precise Writing
+
+content: Techniques for expressing ideas clearly, accurately, and concisely.
+
+keywords: precision, concise writing
+
+---
+
+chunk_id: ENG_U3_001
+unit: Common Errors in Writing
+topic: Subject-Verb Agreement
+
+content: Rules ensuring grammatical agreement between subjects and verbs.
+
+keywords: subject verb agreement, grammar
+
+---
+
+chunk_id: ENG_U3_002
+unit: Common Errors in Writing
+topic: Noun-Pronoun Agreement
+
+content: Rules governing agreement between nouns and corresponding pronouns.
+
+keywords: noun pronoun agreement
+
+---
+
+chunk_id: ENG_U3_003
+unit: Common Errors in Writing
+topic: Misplaced Modifiers
+
+content: Identification and correction of misplaced modifiers in sentences.
+
+keywords: misplaced modifiers
+
+---
+
+chunk_id: ENG_U3_004
+unit: Common Errors in Writing
+topic: Articles
+
+content: Correct usage of definite and indefinite articles.
+
+keywords: articles, grammar
+
+---
+
+chunk_id: ENG_U3_005
+unit: Common Errors in Writing
+topic: Prepositions
+
+content: Correct use of prepositions in sentence construction.
+
+keywords: prepositions
+
+---
+
+chunk_id: ENG_U3_006
+unit: Common Errors in Writing
+topic: Redundancy
+
+content: Identification and elimination of unnecessary repetition in writing.
+
+keywords: redundancy, concise writing
+
+---
+
+chunk_id: ENG_U3_007
+unit: Common Errors in Writing
+topic: Cliches
+
+content: Recognition and avoidance of overused expressions in formal writing.
+
+keywords: cliches, writing quality
+
+---
+
+chunk_id: ENG_U4_001
+unit: Nature and Style of Sensible Writing
+topic: Description Writing
+
+content: Techniques for describing objects, events, people, and situations effectively.
+
+keywords: descriptive writing
+
+---
+
+chunk_id: ENG_U4_002
+unit: Nature and Style of Sensible Writing
+topic: Definition Writing
+
+content: Methods for defining concepts clearly and accurately.
+
+keywords: definition writing
+
+---
+
+chunk_id: ENG_U4_003
+unit: Nature and Style of Sensible Writing
+topic: Classification Writing
+
+content: Organizing information into categories for clear communication.
+
+keywords: classification writing
+
+---
+
+chunk_id: ENG_U4_004
+unit: Nature and Style of Sensible Writing
+topic: Evidence and Examples
+
+content: Supporting arguments and explanations using examples and evidence.
+
+keywords: examples, evidence, support
+
+---
+
+chunk_id: ENG_U4_005
+unit: Nature and Style of Sensible Writing
+topic: Introduction Writing
+
+content: Techniques for writing effective introductions.
+
+keywords: introduction, writing
+
+---
+
+chunk_id: ENG_U4_006
+unit: Nature and Style of Sensible Writing
+topic: Conclusion Writing
+
+content: Techniques for writing effective conclusions.
+
+keywords: conclusion, writing
+
+---
+
+chunk_id: ENG_U5_001
+unit: Writing Practices
+topic: Reading Comprehension
+
+content: Understanding, analyzing, and answering questions based on written passages.
+
+keywords: comprehension, reading skills
+
+---
+
+chunk_id: ENG_U5_002
+unit: Writing Practices
+topic: Precis Writing
+
+content: Condensing a passage into a concise summary while retaining essential information.
+
+keywords: precis writing, summarization
+
+---
+
+chunk_id: ENG_U5_003
+unit: Writing Practices
+topic: Essay Writing
+
+content: Planning, organizing, and composing structured essays.
+
+keywords: essay writing
+
+---
+
+chunk_id: ENG_U5_004
+unit: Writing Practices
+topic: Business Letter Writing
+
+content: Format and principles of professional business correspondence.
+
+keywords: business letter
+
+---
+
+chunk_id: ENG_U5_005
+unit: Writing Practices
+topic: Cover Letter Writing
+
+content: Preparation of professional cover letters for employment applications.
+
+keywords: cover letter
+
+---
+
+chunk_id: ENG_U5_006
+unit: Writing Practices
+topic: Curriculum Vitae (CV)
+
+content: Structure and preparation of professional curriculum vitae documents.
+
+keywords: CV, resume
+
+---
+
+chunk_id: ENG_U5_007
+unit: Writing Practices
+topic: Email Writing
+
+content: Professional email structure, etiquette, and communication practices.
+
+keywords: email writing, professional communication

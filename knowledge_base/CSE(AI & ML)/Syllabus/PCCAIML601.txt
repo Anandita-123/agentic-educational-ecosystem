@@ -1,0 +1,275 @@
+# SUBJECT_METADATA
+
+subject_name: Application of Machine Learning in Industries
+paper_code: PCC-AIML601
+category: Professional Core
+
+---
+
+chunk_id: AMLI_U1_001
+unit: Supervised Learning Fundamentals
+topic: Introduction to Machine Learning in Industry
+
+content: Overview of machine learning applications in industrial domains, problem-solving approaches, data-driven decision making, predictive analytics, automation, and intelligent systems.
+
+keywords: machine learning industry, industrial AI, predictive analytics
+
+---
+
+chunk_id: AMLI_U1_002
+unit: Supervised Learning Fundamentals
+topic: Linear Regression
+
+content: Linear regression for predictive modeling, relationship analysis between dependent and independent variables, parameter estimation, and practical business applications.
+
+keywords: linear regression, regression analysis
+
+---
+
+chunk_id: AMLI_U1_003
+unit: Supervised Learning Fundamentals
+topic: Multivariate Linear Regression
+
+content: Multivariate linear regression involving multiple independent variables for complex prediction problems in industrial environments.
+
+keywords: multivariate regression
+
+---
+
+chunk_id: AMLI_U2_001
+unit: Classification Models
+topic: Logistic Regression
+
+content: Logistic regression for binary and multiclass classification, probability estimation, decision boundaries, and classification tasks.
+
+keywords: logistic regression, classification
+
+---
+
+chunk_id: AMLI_U2_002
+unit: Classification Models
+topic: Regularization Techniques
+
+content: Regularization methods for reducing overfitting, improving model generalization, and controlling model complexity.
+
+keywords: regularization, overfitting
+
+---
+
+chunk_id: AMLI_U2_003
+unit: Classification Models
+topic: Practical Model Implementation
+
+content: Practical considerations in machine learning implementation including data preprocessing, model training, validation, deployment, and performance monitoring.
+
+keywords: model implementation, machine learning workflow
+
+---
+
+chunk_id: AMLI_U3_001
+unit: Tree Based Learning
+topic: Decision Trees
+
+content: Decision tree algorithms, tree construction, splitting criteria, classification, regression, and interpretability.
+
+keywords: decision tree
+
+---
+
+chunk_id: AMLI_U3_002
+unit: Tree Based Learning
+topic: Decision Tree Pruning
+
+content: Techniques for reducing decision tree complexity through pre-pruning and post-pruning to improve generalization.
+
+keywords: decision tree pruning
+
+---
+
+chunk_id: AMLI_U3_003
+unit: Tree Based Learning
+topic: Decision Tree Implementation
+
+content: Practical implementation of decision tree models for industrial applications and predictive systems.
+
+keywords: decision tree implementation
+
+---
+
+chunk_id: AMLI_U4_001
+unit: Support Vector Machines
+topic: Support Vector Machines
+
+content: Support Vector Machines (SVM), margin maximization, support vectors, kernel methods, and classification applications.
+
+keywords: SVM, support vector machine
+
+---
+
+chunk_id: AMLI_U4_002
+unit: Support Vector Machines
+topic: Practical SVM Applications
+
+content: Implementation strategies, parameter tuning, kernel selection, and real-world deployment of support vector machine models.
+
+keywords: SVM implementation
+
+---
+
+chunk_id: AMLI_U5_001
+unit: Ensemble Learning
+topic: Boosting Fundamentals
+
+content: Ensemble learning through boosting, combining weak learners to improve predictive performance and model accuracy.
+
+keywords: boosting, ensemble learning
+
+---
+
+chunk_id: AMLI_U5_002
+unit: Ensemble Learning
+topic: Boosting with Decision Trees
+
+content: Implementation of boosting algorithms using decision trees as base learners for classification and regression tasks.
+
+keywords: boosting decision trees
+
+---
+
+chunk_id: AMLI_U5_003
+unit: Ensemble Learning
+topic: Boosting Algorithms
+
+content: Comparative study and implementation of popular boosting methods used in industrial machine learning systems.
+
+keywords: boosting algorithms
+
+---
+
+chunk_id: AMLI_U6_001
+unit: Machine Learning Project Development
+topic: Problem Formulation
+
+content: Converting real-world industrial problems into machine learning tasks including objective definition and target variable selection.
+
+keywords: problem formulation
+
+---
+
+chunk_id: AMLI_U6_002
+unit: Machine Learning Project Development
+topic: Feature Selection
+
+content: Selecting relevant features, dimensionality reduction strategies, and feature engineering techniques for improved model performance.
+
+keywords: feature selection, feature engineering
+
+---
+
+chunk_id: AMLI_U6_003
+unit: Machine Learning Project Development
+topic: Model Debugging
+
+content: Techniques for diagnosing model failures, identifying data issues, improving model performance, and troubleshooting machine learning pipelines.
+
+keywords: model debugging
+
+---
+
+chunk_id: AMLI_U6_004
+unit: Machine Learning Project Development
+topic: Learning Algorithm Development
+
+content: Designing, training, validating, and optimizing machine learning algorithms for industrial use cases.
+
+keywords: learning algorithm development
+
+---
+
+chunk_id: AMLI_U7_001
+unit: Unsupervised Learning
+topic: Unsupervised Learning Fundamentals
+
+content: Learning patterns and structures from unlabeled data using clustering and dimensionality reduction techniques.
+
+keywords: unsupervised learning
+
+---
+
+chunk_id: AMLI_U7_002
+unit: Unsupervised Learning
+topic: K Means Clustering
+
+content: Partition-based clustering algorithm that groups observations into K clusters using centroid optimization.
+
+keywords: k means clustering
+
+---
+
+chunk_id: AMLI_U7_003
+unit: Unsupervised Learning
+topic: Principal Component Analysis
+
+content: Principal Component Analysis (PCA) for dimensionality reduction, feature extraction, and variance preservation.
+
+keywords: PCA, principal component analysis
+
+---
+
+chunk_id: AMLI_U7_004
+unit: Unsupervised Learning
+topic: Hierarchical Clustering
+
+content: Agglomerative and divisive clustering methods for creating hierarchical cluster structures.
+
+keywords: hierarchical clustering
+
+---
+
+chunk_id: AMLI_U7_005
+unit: Unsupervised Learning
+topic: Clustering Algorithm Implementation
+
+content: Practical implementation of clustering algorithms for customer segmentation, anomaly detection, and industrial analytics.
+
+keywords: clustering implementation
+
+---
+
+chunk_id: AMLI_U8_001
+unit: Scalable Machine Learning
+topic: Parallelization of Learning Algorithms
+
+content: Techniques for distributed and parallel machine learning, computational acceleration, and large-scale model training.
+
+keywords: parallel machine learning, distributed learning
+
+---
+
+chunk_id: AMLI_U9_001
+unit: Industrial Applications
+topic: Industrial Applications of Machine Learning
+
+content: Applications of machine learning in manufacturing, healthcare, finance, logistics, automation, quality control, predictive maintenance, and recommendation systems.
+
+keywords: industrial applications, predictive maintenance
+
+---
+
+chunk_id: AMLI_U10_001
+unit: Model Selection
+topic: Algorithm Selection Strategies
+
+content: Frameworks and criteria for choosing appropriate machine learning algorithms based on data characteristics, performance requirements, scalability, and business objectives.
+
+keywords: algorithm selection, model selection
+
+---
+
+chunk_id: AMLI_U10_002
+unit: Model Selection
+topic: Comparative Evaluation of Algorithms
+
+content: Comparing machine learning algorithms using accuracy, interpretability, computational complexity, scalability, robustness, and deployment constraints.
+
+keywords: algorithm comparison, model evaluation

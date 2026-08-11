@@ -1,0 +1,588 @@
+# SUBJECT_METADATA
+
+subject_name: Computer Networks
+paper_code: PCC-CS602
+category: Professional Core
+
+---
+
+chunk_id: CN_U1_001
+unit: Data Communication Fundamentals
+topic: Data Communication Components
+
+content: Fundamentals of data communication including sender, receiver, transmission medium, message, and communication protocols. Data representation and information flow in communication systems.
+
+keywords: data communication, communication components, data transmission
+
+---
+
+chunk_id: CN_U1_002
+unit: Data Communication Fundamentals
+topic: Computer Networks
+
+content: Introduction to computer networks, network architecture, communication models, network types, and network applications.
+
+keywords: computer networks, network architecture
+
+---
+
+chunk_id: CN_U1_003
+unit: Data Communication Fundamentals
+topic: Network Topologies
+
+content: Network topology concepts including bus, star, ring, mesh, tree, and hybrid topologies. Advantages, disadvantages, and applications of each topology.
+
+keywords: network topology, bus topology, star topology, ring topology
+
+---
+
+chunk_id: CN_U1_004
+unit: Data Communication Fundamentals
+topic: Protocols and Standards
+
+content: Network protocols and communication standards. Functions of protocols, protocol layering, and standardization organizations.
+
+keywords: protocols, network standards
+
+---
+
+chunk_id: CN_U1_005
+unit: Data Communication Fundamentals
+topic: OSI Reference Model
+
+content: Seven-layer OSI model including Physical, Data Link, Network, Transport, Session, Presentation, and Application layers with their functions.
+
+keywords: OSI model, network layers
+
+---
+
+chunk_id: CN_U1_006
+unit: Data Communication Fundamentals
+topic: Transmission Media
+
+content: Guided and unguided transmission media including twisted pair cable, coaxial cable, optical fiber, radio waves, microwaves, and satellite communication.
+
+keywords: transmission media, optical fiber, wireless communication
+
+---
+
+chunk_id: CN_U1_007
+unit: Data Communication Fundamentals
+topic: Wired Local Area Networks
+
+content: Architecture, operation, and applications of wired LAN technologies and Ethernet networks.
+
+keywords: wired LAN, ethernet
+
+---
+
+chunk_id: CN_U1_008
+unit: Data Communication Fundamentals
+topic: Wireless Local Area Networks
+
+content: Wireless LAN concepts, IEEE 802.11 standards, Wi-Fi architecture, and wireless communication techniques.
+
+keywords: WLAN, wireless LAN, WiFi
+
+---
+
+chunk_id: CN_U1_009
+unit: Data Communication Fundamentals
+topic: LAN Interconnection
+
+content: Techniques for connecting LANs using switches, bridges, routers, and gateways.
+
+keywords: LAN interconnection, network devices
+
+---
+
+chunk_id: CN_U1_010
+unit: Data Communication Fundamentals
+topic: Virtual LAN
+
+content: Virtual Local Area Networks (VLANs), logical segmentation of networks, VLAN configuration, and benefits.
+
+keywords: VLAN, virtual LAN
+
+---
+
+chunk_id: CN_U1_011
+unit: Data Communication Fundamentals
+topic: Frequency Division Multiplexing
+
+content: Frequency Division Multiplexing (FDM), channel allocation using separate frequency bands, and communication applications.
+
+keywords: FDM, multiplexing
+
+---
+
+chunk_id: CN_U1_012
+unit: Data Communication Fundamentals
+topic: Time Division Multiplexing
+
+content: Time Division Multiplexing (TDM), slot allocation, synchronous and statistical multiplexing techniques.
+
+keywords: TDM, multiplexing
+
+---
+
+chunk_id: CN_U1_013
+unit: Data Communication Fundamentals
+topic: Wavelength Division Multiplexing
+
+content: Wavelength Division Multiplexing (WDM) in optical communication systems and fiber optic networks.
+
+keywords: WDM, optical communication
+
+---
+
+chunk_id: CN_U1_014
+unit: Data Communication Fundamentals
+topic: Spread Spectrum Techniques
+
+content: Spread spectrum communication methods including frequency hopping and direct sequence spread spectrum.
+
+keywords: spread spectrum, DSSS, FHSS
+
+---
+
+chunk_id: CN_U2_001
+unit: Data Link Layer
+topic: Error Detection Fundamentals
+
+content: Concepts of error detection, redundancy, reliability, and communication channel errors.
+
+keywords: error detection, communication errors
+
+---
+
+chunk_id: CN_U2_002
+unit: Data Link Layer
+topic: Block Coding
+
+content: Block coding techniques used for error control and reliable data transmission.
+
+keywords: block coding
+
+---
+
+chunk_id: CN_U2_003
+unit: Data Link Layer
+topic: Hamming Distance
+
+content: Hamming distance as a measure of difference between codewords and its role in error detection and correction.
+
+keywords: hamming distance
+
+---
+
+chunk_id: CN_U2_004
+unit: Data Link Layer
+topic: Cyclic Redundancy Check
+
+content: Cyclic Redundancy Check (CRC) algorithm for error detection in data communication systems.
+
+keywords: CRC, cyclic redundancy check
+
+---
+
+chunk_id: CN_U2_005
+unit: Data Link Layer
+topic: Flow Control
+
+content: Flow control mechanisms for regulating data transmission between sender and receiver.
+
+keywords: flow control
+
+---
+
+chunk_id: CN_U2_006
+unit: Data Link Layer
+topic: Stop and Wait Protocol
+
+content: Stop-and-Wait protocol for reliable data transfer and acknowledgment-based communication.
+
+keywords: stop and wait protocol
+
+---
+
+chunk_id: CN_U2_007
+unit: Data Link Layer
+topic: Go Back N ARQ
+
+content: Go-Back-N Automatic Repeat Request protocol for error recovery and retransmission control.
+
+keywords: go back n, ARQ
+
+---
+
+chunk_id: CN_U2_008
+unit: Data Link Layer
+topic: Selective Repeat ARQ
+
+content: Selective Repeat ARQ protocol allowing selective retransmission of erroneous frames.
+
+keywords: selective repeat ARQ
+
+---
+
+chunk_id: CN_U2_009
+unit: Data Link Layer
+topic: Sliding Window Protocol
+
+content: Sliding window mechanism for flow control and efficient utilization of communication channels.
+
+keywords: sliding window protocol
+
+---
+
+chunk_id: CN_U2_010
+unit: Data Link Layer
+topic: Piggybacking
+
+content: Piggybacking technique for combining acknowledgments with outgoing data frames to improve efficiency.
+
+keywords: piggybacking
+
+---
+
+chunk_id: CN_U2_011
+unit: Medium Access Control
+topic: Random Access Protocols
+
+content: Random access methods for shared communication channels and collision handling.
+
+keywords: random access protocols
+
+---
+
+chunk_id: CN_U2_012
+unit: Medium Access Control
+topic: Pure ALOHA
+
+content: Pure ALOHA protocol, channel access strategy, throughput, and collision handling.
+
+keywords: pure ALOHA
+
+---
+
+chunk_id: CN_U2_013
+unit: Medium Access Control
+topic: Slotted ALOHA
+
+content: Slotted ALOHA protocol with time-slot synchronization and improved channel utilization.
+
+keywords: slotted ALOHA
+
+---
+
+chunk_id: CN_U2_014
+unit: Medium Access Control
+topic: CSMA/CD
+
+content: Carrier Sense Multiple Access with Collision Detection used in Ethernet networks.
+
+keywords: CSMA/CD
+
+---
+
+chunk_id: CN_U2_015
+unit: Medium Access Control
+topic: CSMA/CA
+
+content: Carrier Sense Multiple Access with Collision Avoidance used in wireless networks.
+
+keywords: CSMA/CA
+
+---
+
+chunk_id: CN_U2_016
+unit: Medium Access Control
+topic: CDMA
+
+content: Code Division Multiple Access communication technique using unique spreading codes.
+
+keywords: CDMA
+
+---
+
+chunk_id: CN_U3_001
+unit: Network Layer
+topic: Switching Techniques
+
+content: Circuit switching, packet switching, and message switching used in communication networks.
+
+keywords: switching, packet switching
+
+---
+
+chunk_id: CN_U3_002
+unit: Network Layer
+topic: IPv4 Addressing
+
+content: IPv4 addressing structure, classes, subnetting, CIDR, and address allocation.
+
+keywords: IPv4, subnetting
+
+---
+
+chunk_id: CN_U3_003
+unit: Network Layer
+topic: IPv6 Addressing
+
+content: IPv6 architecture, address format, advantages, and transition mechanisms.
+
+keywords: IPv6
+
+---
+
+chunk_id: CN_U3_004
+unit: Network Layer
+topic: ARP
+
+content: Address Resolution Protocol (ARP) for mapping IP addresses to MAC addresses.
+
+keywords: ARP
+
+---
+
+chunk_id: CN_U3_005
+unit: Network Layer
+topic: RARP
+
+content: Reverse Address Resolution Protocol (RARP) and its purpose in network communication.
+
+keywords: RARP
+
+---
+
+chunk_id: CN_U3_006
+unit: Network Layer
+topic: BOOTP
+
+content: Bootstrap Protocol (BOOTP) for network device initialization and IP assignment.
+
+keywords: BOOTP
+
+---
+
+chunk_id: CN_U3_007
+unit: Network Layer
+topic: DHCP
+
+content: Dynamic Host Configuration Protocol (DHCP) for automatic IP address allocation and network configuration.
+
+keywords: DHCP
+
+---
+
+chunk_id: CN_U3_008
+unit: Network Layer
+topic: Packet Delivery and Forwarding
+
+content: Packet forwarding mechanisms, routing decisions, and packet delivery processes.
+
+keywords: packet forwarding, packet delivery
+
+---
+
+chunk_id: CN_U3_009
+unit: Network Layer
+topic: Unicast Routing Protocols
+
+content: Principles and operation of unicast routing protocols for packet delivery across networks.
+
+keywords: routing protocols, unicast routing
+
+---
+
+chunk_id: CN_U4_001
+unit: Transport Layer
+topic: Process to Process Communication
+
+content: End-to-end communication between application processes using transport layer services.
+
+keywords: process communication, transport layer
+
+---
+
+chunk_id: CN_U4_002
+unit: Transport Layer
+topic: User Datagram Protocol
+
+content: UDP architecture, services, packet structure, advantages, and limitations.
+
+keywords: UDP
+
+---
+
+chunk_id: CN_U4_003
+unit: Transport Layer
+topic: Transmission Control Protocol
+
+content: TCP architecture, connection establishment, reliability, flow control, and congestion control mechanisms.
+
+keywords: TCP
+
+---
+
+chunk_id: CN_U4_004
+unit: Transport Layer
+topic: Stream Control Transmission Protocol
+
+content: SCTP features, multi-streaming, multi-homing, and reliable transport services.
+
+keywords: SCTP
+
+---
+
+chunk_id: CN_U4_005
+unit: Transport Layer
+topic: Congestion Control
+
+content: Congestion management techniques for maintaining network performance and reliability.
+
+keywords: congestion control
+
+---
+
+chunk_id: CN_U4_006
+unit: Transport Layer
+topic: Quality of Service
+
+content: Quality of Service (QoS) concepts, performance metrics, traffic prioritization, and service guarantees.
+
+keywords: QoS, quality of service
+
+---
+
+chunk_id: CN_U4_007
+unit: Transport Layer
+topic: Leaky Bucket Algorithm
+
+content: Leaky Bucket algorithm for traffic shaping and congestion prevention.
+
+keywords: leaky bucket algorithm
+
+---
+
+chunk_id: CN_U4_008
+unit: Transport Layer
+topic: Token Bucket Algorithm
+
+content: Token Bucket algorithm for bandwidth management and traffic regulation.
+
+keywords: token bucket algorithm
+
+---
+
+chunk_id: CN_U5_001
+unit: Application Layer
+topic: Domain Name System
+
+content: Domain Name System (DNS), hierarchical naming structure, name resolution process, and DNS servers.
+
+keywords: DNS
+
+---
+
+chunk_id: CN_U5_002
+unit: Application Layer
+topic: Dynamic DNS
+
+content: Dynamic Domain Name System (DDNS) and automatic DNS record updates.
+
+keywords: DDNS
+
+---
+
+chunk_id: CN_U5_003
+unit: Application Layer
+topic: TELNET
+
+content: TELNET protocol for remote terminal access and command-line communication.
+
+keywords: TELNET
+
+---
+
+chunk_id: CN_U5_004
+unit: Application Layer
+topic: Electronic Mail
+
+content: Email architecture, mail servers, message transfer protocols, and email communication systems.
+
+keywords: email, electronic mail
+
+---
+
+chunk_id: CN_U5_005
+unit: Application Layer
+topic: File Transfer Protocol
+
+content: FTP architecture, file transfer operations, commands, and communication procedures.
+
+keywords: FTP
+
+---
+
+chunk_id: CN_U5_006
+unit: Application Layer
+topic: World Wide Web
+
+content: World Wide Web architecture, web services, web browsers, and web resources.
+
+keywords: WWW, web
+
+---
+
+chunk_id: CN_U5_007
+unit: Application Layer
+topic: Hypertext Transfer Protocol
+
+content: HTTP request-response model, methods, status codes, and web communication.
+
+keywords: HTTP
+
+---
+
+chunk_id: CN_U5_008
+unit: Application Layer
+topic: Simple Network Management Protocol
+
+content: SNMP architecture, management information base, and network monitoring systems.
+
+keywords: SNMP
+
+---
+
+chunk_id: CN_U5_009
+unit: Application Layer
+topic: Bluetooth Technology
+
+content: Bluetooth architecture, protocols, wireless communication, and short-range networking.
+
+keywords: Bluetooth
+
+---
+
+chunk_id: CN_U5_010
+unit: Application Layer
+topic: Firewalls
+
+content: Firewall concepts, packet filtering, stateful inspection, proxy firewalls, and network security.
+
+keywords: firewall, network security
+
+---
+
+chunk_id: CN_U5_011
+unit: Application Layer
+topic: Cryptography Fundamentals
+
+content: Basic concepts of cryptography including encryption, decryption, symmetric key cryptography, asymmetric cryptography, and secure communication.
+
+keywords: cryptography, encryption, network security
+
+```
+```

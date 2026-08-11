@@ -1,0 +1,665 @@
+# SUBJECT_METADATA
+
+subject_name: Basic Electrical Engineering
+paper_code: ES-EE101
+program: AIML
+
+---
+
+chunk_id: BEE_U1_001
+unit: DC Circuits
+topic: Electrical Circuit Elements
+
+content: Fundamental electrical circuit elements including resistor (R), inductor (L), and capacitor (C).
+
+keywords: resistor, inductor, capacitor, RLC elements, circuit components
+
+---
+
+chunk_id: BEE_U1_002
+unit: DC Circuits
+topic: Voltage Sources
+
+content: Independent and ideal voltage sources used in electrical circuits.
+
+keywords: voltage source, dc source, circuit analysis
+
+---
+
+chunk_id: BEE_U1_003
+unit: DC Circuits
+topic: Current Sources
+
+content: Independent and ideal current sources used in electrical circuits.
+
+keywords: current source, dc source, circuit analysis
+
+---
+
+chunk_id: BEE_U1_004
+unit: DC Circuits
+topic: Kirchhoff's Current Law
+
+content: Kirchhoff's Current Law (KCL) and its application in electrical network analysis.
+
+keywords: KCL, Kirchhoff current law, node analysis
+
+---
+
+chunk_id: BEE_U1_005
+unit: DC Circuits
+topic: Kirchhoff's Voltage Law
+
+content: Kirchhoff's Voltage Law (KVL) and its application in electrical circuit analysis.
+
+keywords: KVL, Kirchhoff voltage law, loop analysis
+
+---
+
+chunk_id: BEE_U1_006
+unit: DC Circuits
+topic: DC Circuit Analysis
+
+content: Analysis of simple electrical circuits under direct current excitation.
+
+keywords: dc circuits, circuit analysis
+
+---
+
+chunk_id: BEE_U1_007
+unit: DC Circuits
+topic: Superposition Theorem
+
+content: Application of the superposition theorem in linear electrical circuits.
+
+keywords: superposition theorem, network theorem
+
+---
+
+chunk_id: BEE_U1_008
+unit: DC Circuits
+topic: Thevenin Theorem
+
+content: Simplification of linear electrical networks using Thevenin's theorem.
+
+keywords: Thevenin theorem, equivalent circuit
+
+---
+
+chunk_id: BEE_U1_009
+unit: DC Circuits
+topic: Norton Theorem
+
+content: Simplification of linear electrical networks using Norton's theorem.
+
+keywords: Norton theorem, equivalent circuit
+
+---
+
+chunk_id: BEE_U1_010
+unit: DC Circuits
+topic: First-Order RL Circuits
+
+content: Time-domain analysis of first-order resistor-inductor circuits.
+
+keywords: RL circuit, transient analysis, time response
+
+---
+
+chunk_id: BEE_U1_011
+unit: DC Circuits
+topic: First-Order RC Circuits
+
+content: Time-domain analysis of first-order resistor-capacitor circuits.
+
+keywords: RC circuit, transient analysis, charging, discharging
+
+---
+
+chunk_id: BEE_U2_001
+unit: AC Circuits
+topic: Sinusoidal Waveforms
+
+content: Representation and characteristics of sinusoidal voltage and current waveforms.
+
+keywords: sinusoidal waveform, AC signal
+
+---
+
+chunk_id: BEE_U2_002
+unit: AC Circuits
+topic: Peak and RMS Values
+
+content: Peak value, average value, and root mean square (RMS) value of AC quantities.
+
+keywords: RMS value, peak value, AC analysis
+
+---
+
+chunk_id: BEE_U2_003
+unit: AC Circuits
+topic: Phasor Representation
+
+content: Representation of sinusoidal quantities using phasors.
+
+keywords: phasor, AC circuits, complex representation
+
+---
+
+chunk_id: BEE_U2_004
+unit: AC Circuits
+topic: Real Power
+
+content: Active power consumed by electrical loads in AC circuits.
+
+keywords: real power, active power
+
+---
+
+chunk_id: BEE_U2_005
+unit: AC Circuits
+topic: Reactive Power
+
+content: Reactive power associated with inductive and capacitive elements.
+
+keywords: reactive power, VAR
+
+---
+
+chunk_id: BEE_U2_006
+unit: AC Circuits
+topic: Apparent Power
+
+content: Relationship between real power, reactive power, and apparent power.
+
+keywords: apparent power, power triangle
+
+---
+
+chunk_id: BEE_U2_007
+unit: AC Circuits
+topic: Power Factor
+
+content: Definition, significance, and calculation of power factor.
+
+keywords: power factor, AC power
+
+---
+
+chunk_id: BEE_U2_008
+unit: AC Circuits
+topic: Single-Phase AC Circuits
+
+content: Analysis of single-phase AC circuits containing R, L, and C elements.
+
+keywords: single phase AC, RLC circuits
+
+---
+
+chunk_id: BEE_U2_009
+unit: AC Circuits
+topic: Series RLC Circuits
+
+content: Analysis of series RLC circuits under alternating current conditions.
+
+keywords: series RLC, impedance
+
+---
+
+chunk_id: BEE_U2_010
+unit: AC Circuits
+topic: Parallel RLC Circuits
+
+content: Analysis of parallel RLC circuits under alternating current conditions.
+
+keywords: parallel RLC, admittance
+
+---
+
+chunk_id: BEE_U2_011
+unit: AC Circuits
+topic: Resonance
+
+content: Resonance in electrical circuits and its significance.
+
+keywords: resonance, resonant frequency
+
+---
+
+chunk_id: BEE_U2_012
+unit: AC Circuits
+topic: Three-Phase Balanced Circuits
+
+content: Fundamentals and analysis of balanced three-phase electrical systems.
+
+keywords: three phase circuits, balanced load
+
+---
+
+chunk_id: BEE_U2_013
+unit: AC Circuits
+topic: Star Connection
+
+content: Voltage and current relationships in three-phase star-connected systems.
+
+keywords: star connection, Y connection
+
+---
+
+chunk_id: BEE_U2_014
+unit: AC Circuits
+topic: Delta Connection
+
+content: Voltage and current relationships in three-phase delta-connected systems.
+
+keywords: delta connection, mesh connection
+
+---
+
+chunk_id: BEE_U3_001
+unit: Transformers
+topic: Magnetic Materials
+
+content: Properties and applications of magnetic materials used in transformers.
+
+keywords: magnetic materials, magnetic core
+
+---
+
+chunk_id: BEE_U3_002
+unit: Transformers
+topic: B-H Characteristics
+
+content: Magnetization characteristics represented by B-H curves.
+
+keywords: B-H curve, hysteresis loop
+
+---
+
+chunk_id: BEE_U3_003
+unit: Transformers
+topic: Ideal Transformer
+
+content: Assumptions, operation, and characteristics of an ideal transformer.
+
+keywords: ideal transformer, transformer principle
+
+---
+
+chunk_id: BEE_U3_004
+unit: Transformers
+topic: Practical Transformer
+
+content: Construction and operating characteristics of practical transformers.
+
+keywords: practical transformer, transformer operation
+
+---
+
+chunk_id: BEE_U3_005
+unit: Transformers
+topic: Transformer Equivalent Circuit
+
+content: Equivalent circuit model used for transformer analysis.
+
+keywords: equivalent circuit, transformer model
+
+---
+
+chunk_id: BEE_U3_006
+unit: Transformers
+topic: Transformer Losses
+
+content: Copper losses, core losses, and other losses in transformers.
+
+keywords: transformer losses, copper loss, iron loss
+
+---
+
+chunk_id: BEE_U3_007
+unit: Transformers
+topic: Voltage Regulation
+
+content: Definition and calculation of transformer voltage regulation.
+
+keywords: voltage regulation, transformer performance
+
+---
+
+chunk_id: BEE_U3_008
+unit: Transformers
+topic: Transformer Efficiency
+
+content: Efficiency evaluation and performance analysis of transformers.
+
+keywords: transformer efficiency
+
+---
+
+chunk_id: BEE_U3_009
+unit: Transformers
+topic: Auto-Transformer
+
+content: Construction, operation, and applications of auto-transformers.
+
+keywords: auto-transformer, transformer
+
+---
+
+chunk_id: BEE_U3_010
+unit: Transformers
+topic: Three-Phase Transformer Connections
+
+content: Various three-phase transformer connection configurations.
+
+keywords: three phase transformer, transformer connections
+
+---
+
+chunk_id: BEE_U4_001
+unit: Electrical Machines
+topic: Rotating Magnetic Field
+
+content: Generation and characteristics of rotating magnetic fields.
+
+keywords: rotating magnetic field, RMF
+
+---
+
+chunk_id: BEE_U4_002
+unit: Electrical Machines
+topic: Three-Phase Induction Motor Construction
+
+content: Constructional features of a three-phase induction motor.
+
+keywords: induction motor, rotor, stator
+
+---
+
+chunk_id: BEE_U4_003
+unit: Electrical Machines
+topic: Three-Phase Induction Motor Working Principle
+
+content: Operating principle of a three-phase induction motor.
+
+keywords: induction motor operation
+
+---
+
+chunk_id: BEE_U4_004
+unit: Electrical Machines
+topic: Torque-Slip Characteristics
+
+content: Relationship between torque and slip in induction motors.
+
+keywords: torque-slip curve, induction motor
+
+---
+
+chunk_id: BEE_U4_005
+unit: Electrical Machines
+topic: Induction Motor Losses
+
+content: Loss components occurring in induction motors.
+
+keywords: motor losses, copper loss, core loss
+
+---
+
+chunk_id: BEE_U4_006
+unit: Electrical Machines
+topic: Induction Motor Efficiency
+
+content: Efficiency calculation and performance evaluation of induction motors.
+
+keywords: motor efficiency
+
+---
+
+chunk_id: BEE_U4_007
+unit: Electrical Machines
+topic: Starting Methods of Induction Motor
+
+content: Methods used for starting three-phase induction motors.
+
+keywords: motor starting, DOL starter
+
+---
+
+chunk_id: BEE_U4_008
+unit: Electrical Machines
+topic: Speed Control of Induction Motor
+
+content: Techniques used to control induction motor speed.
+
+keywords: speed control, induction motor
+
+---
+
+chunk_id: BEE_U4_009
+unit: Electrical Machines
+topic: Single-Phase Induction Motor
+
+content: Construction, working principle, and applications of single-phase induction motors.
+
+keywords: single phase induction motor
+
+---
+
+chunk_id: BEE_U4_010
+unit: Electrical Machines
+topic: Separately Excited DC Motor
+
+content: Construction and operating principles of separately excited DC motors.
+
+keywords: DC motor, separately excited motor
+
+---
+
+chunk_id: BEE_U4_011
+unit: Electrical Machines
+topic: DC Motor Torque-Speed Characteristics
+
+content: Relationship between torque and speed in DC motors.
+
+keywords: torque-speed characteristic, DC motor
+
+---
+
+chunk_id: BEE_U4_012
+unit: Electrical Machines
+topic: DC Motor Speed Control
+
+content: Methods for controlling speed of separately excited DC motors.
+
+keywords: speed control, DC motor
+
+---
+
+chunk_id: BEE_U4_013
+unit: Electrical Machines
+topic: Synchronous Generator
+
+content: Construction and working principle of synchronous generators.
+
+keywords: synchronous generator, alternator
+
+---
+
+chunk_id: BEE_U5_001
+unit: Power Converters
+topic: DC-DC Buck Converter
+
+content: Operation, characteristics, and duty ratio control of buck converters.
+
+keywords: buck converter, DC-DC converter
+
+---
+
+chunk_id: BEE_U5_002
+unit: Power Converters
+topic: DC-DC Boost Converter
+
+content: Operation, characteristics, and duty ratio control of boost converters.
+
+keywords: boost converter, DC-DC converter
+
+---
+
+chunk_id: BEE_U5_003
+unit: Power Converters
+topic: Duty Ratio Control
+
+content: Control of output voltage in switching converters using duty cycle variation.
+
+keywords: duty ratio, PWM control
+
+---
+
+chunk_id: BEE_U5_004
+unit: Power Converters
+topic: Single-Phase Voltage Source Inverter
+
+content: Operating principles and applications of single-phase voltage source inverters.
+
+keywords: VSI, inverter, single phase
+
+---
+
+chunk_id: BEE_U5_005
+unit: Power Converters
+topic: Three-Phase Voltage Source Inverter
+
+content: Operating principles and applications of three-phase voltage source inverters.
+
+keywords: three phase inverter, VSI
+
+---
+
+chunk_id: BEE_U5_006
+unit: Power Converters
+topic: Sinusoidal Modulation
+
+content: Generation of sinusoidal AC output using modulation techniques.
+
+keywords: sinusoidal modulation, PWM
+
+---
+
+chunk_id: BEE_U6_001
+unit: Electrical Installations
+topic: LT Switchgear
+
+content: Components and functions of low-tension switchgear systems.
+
+keywords: LT switchgear, electrical protection
+
+---
+
+chunk_id: BEE_U6_002
+unit: Electrical Installations
+topic: Switch Fuse Unit
+
+content: Construction, operation, and applications of Switch Fuse Units (SFU).
+
+keywords: SFU, switch fuse unit
+
+---
+
+chunk_id: BEE_U6_003
+unit: Electrical Installations
+topic: Miniature Circuit Breaker
+
+content: Working principle and applications of Miniature Circuit Breakers (MCB).
+
+keywords: MCB, circuit breaker
+
+---
+
+chunk_id: BEE_U6_004
+unit: Electrical Installations
+topic: Earth Leakage Circuit Breaker
+
+content: Protection against leakage currents using ELCB devices.
+
+keywords: ELCB, leakage protection
+
+---
+
+chunk_id: BEE_U6_005
+unit: Electrical Installations
+topic: Molded Case Circuit Breaker
+
+content: Construction and applications of MCCB devices.
+
+keywords: MCCB, protection system
+
+---
+
+chunk_id: BEE_U6_006
+unit: Electrical Installations
+topic: Wires and Cables
+
+content: Types, construction, and applications of electrical wires and cables.
+
+keywords: wires, cables, electrical installation
+
+---
+
+chunk_id: BEE_U6_007
+unit: Electrical Installations
+topic: Earthing
+
+content: Principles, methods, and importance of electrical earthing.
+
+keywords: earthing, grounding
+
+---
+
+chunk_id: BEE_U6_008
+unit: Electrical Installations
+topic: Batteries
+
+content: Types of batteries and their practical applications.
+
+keywords: batteries, energy storage
+
+---
+
+chunk_id: BEE_U6_009
+unit: Electrical Installations
+topic: Battery Characteristics
+
+content: Important electrical and performance characteristics of batteries.
+
+keywords: battery capacity, battery efficiency
+
+---
+
+chunk_id: BEE_U6_010
+unit: Electrical Installations
+topic: Energy Consumption Calculation
+
+content: Basic calculations for electrical energy consumption and billing.
+
+keywords: energy consumption, electrical units
+
+---
+
+chunk_id: BEE_U6_011
+unit: Electrical Installations
+topic: Power Factor Improvement
+
+content: Methods and benefits of improving power factor in electrical systems.
+
+keywords: power factor correction, capacitor bank
+
+---
+
+chunk_id: BEE_U6_012
+unit: Electrical Installations
+topic: Battery Backup Calculation
+
+content: Elementary calculations for determining battery backup requirements.
+
+keywords: battery backup, UPS sizing, energy storage

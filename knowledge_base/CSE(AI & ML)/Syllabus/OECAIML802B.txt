@@ -1,0 +1,565 @@
+# SUBJECT_METADATA
+
+subject_name: Research Methodology
+paper_code: OECAIML802B
+category: Open Elective
+
+---
+
+chunk_id: RM_U1_001
+unit: Research Formulation and Design
+topic: Introduction to Research
+
+content: Meaning, objectives, significance, and scope of research in academic and professional domains.
+
+keywords: research, research objectives
+
+---
+
+chunk_id: RM_U1_002
+unit: Research Formulation and Design
+topic: Motivation and Objectives of Research
+
+content: Factors motivating research activities and the objectives that guide systematic investigation.
+
+keywords: research motivation, research objectives
+
+---
+
+chunk_id: RM_U1_003
+unit: Research Formulation and Design
+topic: Research Methods and Methodology
+
+content: Distinction between research methods and research methodology, including their applications in scientific investigations.
+
+keywords: research methods, methodology
+
+---
+
+chunk_id: RM_U1_004
+unit: Research Formulation and Design
+topic: Types of Research
+
+content: Classification of research based on purpose, approach, and methodology.
+
+keywords: research types, research classification
+
+---
+
+chunk_id: RM_U1_005
+unit: Research Formulation and Design
+topic: Descriptive and Analytical Research
+
+content: Characteristics, objectives, and differences between descriptive and analytical research approaches.
+
+keywords: descriptive research, analytical research
+
+---
+
+chunk_id: RM_U1_006
+unit: Research Formulation and Design
+topic: Applied and Fundamental Research
+
+content: Concepts of applied research aimed at solving practical problems and fundamental research focused on theoretical advancement.
+
+keywords: applied research, fundamental research
+
+---
+
+chunk_id: RM_U1_007
+unit: Research Formulation and Design
+topic: Quantitative and Qualitative Research
+
+content: Research approaches based on numerical data analysis and qualitative interpretation of observations.
+
+keywords: quantitative research, qualitative research
+
+---
+
+chunk_id: RM_U1_008
+unit: Research Formulation and Design
+topic: Conceptual and Empirical Research
+
+content: Research based on theoretical concepts and research supported by experimental observations and evidence.
+
+keywords: conceptual research, empirical research
+
+---
+
+chunk_id: RM_U1_009
+unit: Research Formulation and Design
+topic: Research Process
+
+content: Steps involved in conducting research from problem identification to conclusion and reporting.
+
+keywords: research process, scientific investigation
+
+---
+
+chunk_id: RM_U1_010
+unit: Research Formulation and Design
+topic: Criteria of Good Research
+
+content: Characteristics such as validity, reliability, objectivity, accuracy, and systematic methodology.
+
+keywords: good research, research quality
+
+---
+
+chunk_id: RM_U1_011
+unit: Research Formulation and Design
+topic: Research Problem Definition
+
+content: Importance of identifying, defining, and formulating a research problem for effective study.
+
+keywords: research problem, problem formulation
+
+---
+
+chunk_id: RM_U1_012
+unit: Research Formulation and Design
+topic: Selection of Research Problem
+
+content: Criteria and considerations involved in choosing an appropriate research problem.
+
+keywords: problem selection, research planning
+
+---
+
+chunk_id: RM_U1_013
+unit: Research Formulation and Design
+topic: Necessity of Defining the Problem
+
+content: Importance of clear problem definition for research focus, scope, and methodology.
+
+keywords: problem definition, research scope
+
+---
+
+chunk_id: RM_U1_014
+unit: Research Formulation and Design
+topic: Literature Review
+
+content: Purpose, significance, and methodology of reviewing existing literature in research.
+
+keywords: literature review, research survey
+
+---
+
+chunk_id: RM_U1_015
+unit: Research Formulation and Design
+topic: Primary and Secondary Sources
+
+content: Types of information sources used in research and their relevance in literature review.
+
+keywords: primary sources, secondary sources
+
+---
+
+chunk_id: RM_U1_016
+unit: Research Formulation and Design
+topic: Reviews and Monographs
+
+content: Academic review articles and monographs as sources of scholarly information.
+
+keywords: reviews, monographs
+
+---
+
+chunk_id: RM_U1_017
+unit: Research Formulation and Design
+topic: Patents and Research Databases
+
+content: Role of patents and digital databases in accessing technical and scientific information.
+
+keywords: patents, research databases
+
+---
+
+chunk_id: RM_U1_018
+unit: Research Formulation and Design
+topic: Web as a Research Source
+
+content: Effective utilization of web resources for gathering academic and technical information.
+
+keywords: web resources, online research
+
+---
+
+chunk_id: RM_U1_019
+unit: Research Formulation and Design
+topic: Searching the Web for Research
+
+content: Techniques and strategies for locating relevant scholarly information online.
+
+keywords: web search, research resources
+
+---
+
+chunk_id: RM_U1_020
+unit: Research Formulation and Design
+topic: Critical Literature Review
+
+content: Evaluation and analysis of existing literature to identify strengths, weaknesses, and research opportunities.
+
+keywords: critical review, literature analysis
+
+---
+
+chunk_id: RM_U1_021
+unit: Research Formulation and Design
+topic: Identifying Research Gaps
+
+content: Methods for discovering unexplored areas and opportunities for future research.
+
+keywords: research gap, future research
+
+---
+
+chunk_id: RM_U1_022
+unit: Research Formulation and Design
+topic: Development of Working Hypothesis
+
+content: Formulation of tentative assumptions and hypotheses based on literature and observations.
+
+keywords: hypothesis, research assumptions
+
+---
+
+chunk_id: RM_U2_001
+unit: Data Collection and Analysis
+topic: Method Validation
+
+content: Concepts and importance of validating research methods to ensure reliability and accuracy.
+
+keywords: method validation, research reliability
+
+---
+
+chunk_id: RM_U2_002
+unit: Data Collection and Analysis
+topic: Observation and Data Collection
+
+content: Observation techniques and systematic procedures for collecting research data.
+
+keywords: observation, data collection
+
+---
+
+chunk_id: RM_U2_003
+unit: Data Collection and Analysis
+topic: Methods of Data Collection
+
+content: Various techniques including surveys, interviews, questionnaires, experiments, and observations.
+
+keywords: data collection methods, surveys
+
+---
+
+chunk_id: RM_U2_004
+unit: Data Collection and Analysis
+topic: Sampling Methods
+
+content: Probability and non-probability sampling techniques used in research studies.
+
+keywords: sampling, sample selection
+
+---
+
+chunk_id: RM_U2_005
+unit: Data Collection and Analysis
+topic: Data Processing
+
+content: Organization, cleaning, coding, and preparation of collected data for analysis.
+
+keywords: data processing, data preparation
+
+---
+
+chunk_id: RM_U2_006
+unit: Data Collection and Analysis
+topic: Data Analysis Strategies
+
+content: Techniques and approaches for interpreting and evaluating research data.
+
+keywords: data analysis, statistical analysis
+
+---
+
+chunk_id: RM_U2_007
+unit: Data Collection and Analysis
+topic: Statistical Software Packages
+
+content: Use of statistical tools such as SigmaStat and SPSS for research data analysis.
+
+keywords: SPSS, SigmaStat
+
+---
+
+chunk_id: RM_U2_008
+unit: Data Collection and Analysis
+topic: Student t-Test
+
+content: Statistical method used to compare means and test hypotheses in research studies.
+
+keywords: t-test, statistical testing
+
+---
+
+chunk_id: RM_U2_009
+unit: Data Collection and Analysis
+topic: Analysis of Variance (ANOVA)
+
+content: Statistical technique for comparing multiple group means and identifying significant differences.
+
+keywords: ANOVA, variance analysis
+
+---
+
+chunk_id: RM_U2_010
+unit: Data Collection and Analysis
+topic: Hypothesis Testing
+
+content: Procedures for testing research hypotheses using statistical methods and significance levels.
+
+keywords: hypothesis testing, statistical inference
+
+---
+
+chunk_id: RM_U3_001
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Research Ethics
+
+content: Ethical principles governing responsible conduct of research and academic integrity.
+
+keywords: research ethics, ethical research
+
+---
+
+chunk_id: RM_U3_002
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Ethical Issues in Research
+
+content: Common ethical concerns including informed consent, confidentiality, and responsible reporting.
+
+keywords: ethical issues, research integrity
+
+---
+
+chunk_id: RM_U3_003
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Ethical Committees
+
+content: Functions and responsibilities of human and animal ethics committees in research approval.
+
+keywords: ethics committee, research approval
+
+---
+
+chunk_id: RM_U3_004
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Intellectual Property Rights (IPR)
+
+content: Concepts, significance, and protection mechanisms for intellectual property.
+
+keywords: IPR, intellectual property
+
+---
+
+chunk_id: RM_U3_005
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Patent Law
+
+content: Patent filing, protection, rights, and legal framework governing inventions.
+
+keywords: patents, patent law
+
+---
+
+chunk_id: RM_U3_006
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Commercialization of Research
+
+content: Processes involved in converting research outcomes into marketable products and technologies.
+
+keywords: commercialization, technology transfer
+
+---
+
+chunk_id: RM_U3_007
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Copyright and Royalty
+
+content: Copyright protection, ownership rights, licensing, and royalty concepts.
+
+keywords: copyright, royalty
+
+---
+
+chunk_id: RM_U3_008
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: TRIPS Agreement
+
+content: Trade-Related Aspects of Intellectual Property Rights and its impact on innovation and commerce.
+
+keywords: TRIPS, intellectual property law
+
+---
+
+chunk_id: RM_U3_009
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Scholarly Publishing
+
+content: Principles, processes, and standards involved in academic publication.
+
+keywords: scholarly publishing, academic writing
+
+---
+
+chunk_id: RM_U3_010
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: IMRAD Structure
+
+content: Standard format for research papers consisting of Introduction, Methods, Results, and Discussion.
+
+keywords: IMRAD, research paper format
+
+---
+
+chunk_id: RM_U3_011
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Citation and Acknowledgement
+
+content: Methods for referencing sources and recognizing contributions in academic work.
+
+keywords: citation, acknowledgement
+
+---
+
+chunk_id: RM_U3_012
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Plagiarism
+
+content: Definition, types, consequences, and prevention of plagiarism in research.
+
+keywords: plagiarism, academic integrity
+
+---
+
+chunk_id: RM_U3_013
+unit: Research Ethics, IPR and Scholarly Publishing
+topic: Reproducibility and Accountability
+
+content: Importance of transparent, reproducible, and accountable research practices.
+
+keywords: reproducibility, accountability
+
+---
+
+chunk_id: RM_U4_001
+unit: Interpretation and Report Writing
+topic: Meaning of Interpretation
+
+content: Concept and significance of interpreting research findings to derive meaningful conclusions.
+
+keywords: interpretation, research findings
+
+---
+
+chunk_id: RM_U4_002
+unit: Interpretation and Report Writing
+topic: Techniques of Interpretation
+
+content: Methods used to analyze and explain research results accurately and objectively.
+
+keywords: interpretation techniques, data analysis
+
+---
+
+chunk_id: RM_U4_003
+unit: Interpretation and Report Writing
+topic: Precautions in Interpretation
+
+content: Guidelines to avoid bias, errors, and misrepresentation while interpreting results.
+
+keywords: interpretation precautions, research validity
+
+---
+
+chunk_id: RM_U4_004
+unit: Interpretation and Report Writing
+topic: Significance of Report Writing
+
+content: Importance of documenting and communicating research findings effectively.
+
+keywords: report writing, research communication
+
+---
+
+chunk_id: RM_U4_005
+unit: Interpretation and Report Writing
+topic: Steps in Writing a Research Report
+
+content: Sequential process for preparing a complete and structured research report.
+
+keywords: report preparation, research documentation
+
+---
+
+chunk_id: RM_U4_006
+unit: Interpretation and Report Writing
+topic: Layout of Project and Research Reports
+
+content: Standard structure and organization of academic project and research reports.
+
+keywords: report layout, research structure
+
+---
+
+chunk_id: RM_U4_007
+unit: Interpretation and Report Writing
+topic: Types of Reports
+
+content: Various forms of technical, scientific, academic, and project reports.
+
+keywords: report types, technical reports
+
+---
+
+chunk_id: RM_U4_008
+unit: Interpretation and Report Writing
+topic: Oral Presentation
+
+content: Techniques and best practices for presenting research findings effectively to audiences.
+
+keywords: oral presentation, research presentation
+
+---
+
+chunk_id: RM_U4_009
+unit: Interpretation and Report Writing
+topic: Mechanics of Research Writing
+
+content: Writing style, formatting, organization, and language requirements for research documents.
+
+keywords: academic writing, report writing
+
+---
+
+chunk_id: RM_U4_010
+unit: Interpretation and Report Writing
+topic: Precautions in Writing Research Reports
+
+content: Common mistakes to avoid and guidelines for preparing clear, accurate, and professional reports.
+
+keywords: report writing guidelines, research reporting
+
+---
+
+chunk_id: RM_U4_011
+unit: Interpretation and Report Writing
+topic: Conclusions in Research
+
+content: Summarizing findings, drawing inferences, discussing implications, and suggesting future work.
+
+keywords: conclusions, research outcomes

@@ -1,0 +1,565 @@
+# SUBJECT_METADATA
+
+subject_name: Data Structures and Algorithms
+paper_code: PCC-CS301
+program: AIML
+
+---
+
+chunk_id: DSA_U1_001
+unit: Introduction
+topic: Data Organization
+
+content: Fundamental concepts of data organization and methods of structuring data for efficient storage and processing.
+
+keywords: data organization, data management
+
+---
+
+chunk_id: DSA_U1_002
+unit: Introduction
+topic: Data Structures
+
+content: Definition, purpose, and classification of data structures used for storing and organizing data.
+
+keywords: data structures, data storage
+
+---
+
+chunk_id: DSA_U1_003
+unit: Introduction
+topic: Insertion Operation
+
+content: Process of adding elements into a data structure.
+
+keywords: insertion, data structure operations
+
+---
+
+chunk_id: DSA_U1_004
+unit: Introduction
+topic: Deletion Operation
+
+content: Process of removing elements from a data structure.
+
+keywords: deletion, data structure operations
+
+---
+
+chunk_id: DSA_U1_005
+unit: Introduction
+topic: Traversal Operation
+
+content: Systematic process of visiting elements within a data structure.
+
+keywords: traversal, iteration
+
+---
+
+chunk_id: DSA_U1_006
+unit: Introduction
+topic: Algorithm Analysis
+
+content: Evaluation of algorithm performance based on resource usage and efficiency.
+
+keywords: algorithm analysis, efficiency
+
+---
+
+chunk_id: DSA_U1_007
+unit: Introduction
+topic: Asymptotic Notation
+
+content: Mathematical notation used to describe algorithm complexity and growth rates.
+
+keywords: asymptotic notation, Big O, complexity
+
+---
+
+chunk_id: DSA_U1_008
+unit: Introduction
+topic: Time Complexity
+
+content: Measurement of computational time required by an algorithm relative to input size.
+
+keywords: time complexity, algorithm performance
+
+---
+
+chunk_id: DSA_U1_009
+unit: Introduction
+topic: Space Complexity
+
+content: Measurement of memory requirements of an algorithm relative to input size.
+
+keywords: space complexity, memory usage
+
+---
+
+chunk_id: DSA_U1_010
+unit: Introduction
+topic: Time-Space Trade-Off
+
+content: Relationship between execution time and memory consumption in algorithm design.
+
+keywords: time space tradeoff, optimization
+
+---
+
+chunk_id: DSA_U1_011
+unit: Introduction
+topic: Linear Search
+
+content: Sequential searching technique that checks each element until the target is found.
+
+keywords: linear search, searching algorithm
+
+---
+
+chunk_id: DSA_U1_012
+unit: Introduction
+topic: Binary Search
+
+content: Efficient searching technique for sorted data using divide-and-conquer strategy.
+
+keywords: binary search, searching algorithm
+
+---
+
+chunk_id: DSA_U2_001
+unit: Stacks and Queues
+topic: Stack Abstract Data Type
+
+content: Definition, properties, and operations of the Stack Abstract Data Type (ADT).
+
+keywords: stack ADT, stack
+
+---
+
+chunk_id: DSA_U2_002
+unit: Stacks and Queues
+topic: Stack Operations
+
+content: Push, pop, peek, and related operations performed on stacks.
+
+keywords: stack operations, push, pop
+
+---
+
+chunk_id: DSA_U2_003
+unit: Stacks and Queues
+topic: Stack Complexity Analysis
+
+content: Time and space complexity analysis of stack operations.
+
+keywords: stack complexity
+
+---
+
+chunk_id: DSA_U2_004
+unit: Stacks and Queues
+topic: Expression Conversion
+
+content: Conversion among infix, postfix, and prefix expressions using stacks.
+
+keywords: expression conversion, postfix, prefix
+
+---
+
+chunk_id: DSA_U2_005
+unit: Stacks and Queues
+topic: Expression Evaluation
+
+content: Evaluation of postfix and prefix expressions using stack data structures.
+
+keywords: expression evaluation, stack application
+
+---
+
+chunk_id: DSA_U2_006
+unit: Stacks and Queues
+topic: Queue Abstract Data Type
+
+content: Definition, properties, and operations of the Queue Abstract Data Type (ADT).
+
+keywords: queue ADT, queue
+
+---
+
+chunk_id: DSA_U2_007
+unit: Stacks and Queues
+topic: Simple Queue
+
+content: Linear queue implementation and operations.
+
+keywords: simple queue, FIFO
+
+---
+
+chunk_id: DSA_U2_008
+unit: Stacks and Queues
+topic: Circular Queue
+
+content: Queue implementation using circular memory arrangement for efficient utilization.
+
+keywords: circular queue
+
+---
+
+chunk_id: DSA_U2_009
+unit: Stacks and Queues
+topic: Priority Queue
+
+content: Queue in which elements are processed according to priority levels.
+
+keywords: priority queue
+
+---
+
+chunk_id: DSA_U2_010
+unit: Stacks and Queues
+topic: Queue Operations
+
+content: Enqueue, dequeue, front, rear, and related queue operations.
+
+keywords: enqueue, dequeue, queue operations
+
+---
+
+chunk_id: DSA_U3_001
+unit: Linked Lists
+topic: Singly Linked List
+
+content: Structure, representation, and characteristics of singly linked lists.
+
+keywords: singly linked list
+
+---
+
+chunk_id: DSA_U3_002
+unit: Linked Lists
+topic: Linked List Traversal
+
+content: Sequential access and traversal operations in linked lists.
+
+keywords: linked list traversal
+
+---
+
+chunk_id: DSA_U3_003
+unit: Linked Lists
+topic: Linked List Searching
+
+content: Searching techniques for locating elements within linked lists.
+
+keywords: linked list search
+
+---
+
+chunk_id: DSA_U3_004
+unit: Linked Lists
+topic: Linked List Insertion
+
+content: Methods of inserting nodes into linked lists.
+
+keywords: linked list insertion
+
+---
+
+chunk_id: DSA_U3_005
+unit: Linked Lists
+topic: Linked List Deletion
+
+content: Methods of deleting nodes from linked lists.
+
+keywords: linked list deletion
+
+---
+
+chunk_id: DSA_U3_006
+unit: Linked Lists
+topic: Linked Representation of Stack
+
+content: Implementation of stacks using linked lists.
+
+keywords: linked stack
+
+---
+
+chunk_id: DSA_U3_007
+unit: Linked Lists
+topic: Linked Representation of Queue
+
+content: Implementation of queues using linked lists.
+
+keywords: linked queue
+
+---
+
+chunk_id: DSA_U3_008
+unit: Linked Lists
+topic: Header Nodes
+
+content: Special nodes used to simplify linked list operations.
+
+keywords: header node
+
+---
+
+chunk_id: DSA_U3_009
+unit: Linked Lists
+topic: Doubly Linked List
+
+content: Structure and operations of doubly linked lists.
+
+keywords: doubly linked list
+
+---
+
+chunk_id: DSA_U3_010
+unit: Linked Lists
+topic: Circular Linked List
+
+content: Structure and operations of circular linked lists.
+
+keywords: circular linked list
+
+---
+
+chunk_id: DSA_U4_001
+unit: Trees
+topic: Tree Terminology
+
+content: Fundamental terminology and concepts related to tree data structures.
+
+keywords: tree terminology, tree concepts
+
+---
+
+chunk_id: DSA_U4_002
+unit: Trees
+topic: Binary Tree
+
+content: Tree structure in which each node has at most two children.
+
+keywords: binary tree
+
+---
+
+chunk_id: DSA_U4_003
+unit: Trees
+topic: Threaded Binary Tree
+
+content: Binary tree structure using threads for efficient traversal.
+
+keywords: threaded binary tree
+
+---
+
+chunk_id: DSA_U4_004
+unit: Trees
+topic: Binary Search Tree
+
+content: Binary tree maintaining ordered data for efficient searching and insertion.
+
+keywords: BST, binary search tree
+
+---
+
+chunk_id: DSA_U4_005
+unit: Trees
+topic: AVL Tree
+
+content: Self-balancing binary search tree maintaining height balance.
+
+keywords: AVL tree, balanced tree
+
+---
+
+chunk_id: DSA_U4_006
+unit: Trees
+topic: Tree Traversal Algorithms
+
+content: Preorder, inorder, postorder, and level-order traversal techniques.
+
+keywords: tree traversal
+
+---
+
+chunk_id: DSA_U4_007
+unit: Trees
+topic: Binary Tree Applications
+
+content: Practical applications of binary trees in computing systems.
+
+keywords: binary tree applications
+
+---
+
+chunk_id: DSA_U4_008
+unit: Trees
+topic: B-Tree
+
+content: Multiway balanced search tree used in databases and file systems.
+
+keywords: B tree
+
+---
+
+chunk_id: DSA_U4_009
+unit: Trees
+topic: B+ Tree
+
+content: Enhanced B-tree structure optimized for indexing and database systems.
+
+keywords: B+ tree, indexing
+
+---
+
+chunk_id: DSA_U5_001
+unit: Sorting and Hashing
+topic: Sorting Algorithms
+
+content: Fundamental concepts, objectives, and properties of sorting algorithms.
+
+keywords: sorting algorithms
+
+---
+
+chunk_id: DSA_U5_002
+unit: Sorting and Hashing
+topic: Selection Sort
+
+content: Sorting algorithm that repeatedly selects the minimum or maximum element.
+
+keywords: selection sort
+
+---
+
+chunk_id: DSA_U5_003
+unit: Sorting and Hashing
+topic: Bubble Sort
+
+content: Sorting algorithm based on repeated swapping of adjacent elements.
+
+keywords: bubble sort
+
+---
+
+chunk_id: DSA_U5_004
+unit: Sorting and Hashing
+topic: Insertion Sort
+
+content: Sorting algorithm that inserts elements into their proper positions.
+
+keywords: insertion sort
+
+---
+
+chunk_id: DSA_U5_005
+unit: Sorting and Hashing
+topic: Quick Sort
+
+content: Divide-and-conquer sorting algorithm using partitioning techniques.
+
+keywords: quick sort
+
+---
+
+chunk_id: DSA_U5_006
+unit: Sorting and Hashing
+topic: Merge Sort
+
+content: Divide-and-conquer sorting algorithm using merging operations.
+
+keywords: merge sort
+
+---
+
+chunk_id: DSA_U5_007
+unit: Sorting and Hashing
+topic: Heap Sort
+
+content: Sorting algorithm based on heap data structures.
+
+keywords: heap sort
+
+---
+
+chunk_id: DSA_U5_008
+unit: Sorting and Hashing
+topic: Sorting Algorithm Comparison
+
+content: Comparative analysis of sorting algorithms based on complexity and performance.
+
+keywords: sorting comparison, algorithm analysis
+
+---
+
+chunk_id: DSA_U5_009
+unit: Sorting and Hashing
+topic: Hashing
+
+content: Technique for efficient data storage and retrieval using hash functions.
+
+keywords: hashing, hash table
+
+---
+
+chunk_id: DSA_U6_001
+unit: Graphs
+topic: Graph Terminology
+
+content: Fundamental concepts and terminology associated with graph data structures.
+
+keywords: graph terminology
+
+---
+
+chunk_id: DSA_U6_002
+unit: Graphs
+topic: Graph Representation
+
+content: Methods of representing graphs including adjacency matrix and adjacency list.
+
+keywords: graph representation
+
+---
+
+chunk_id: DSA_U6_003
+unit: Graphs
+topic: Graph Traversal
+
+content: Techniques for visiting graph vertices systematically.
+
+keywords: graph traversal
+
+---
+
+chunk_id: DSA_U6_004
+unit: Graphs
+topic: Breadth-First Search
+
+content: Graph traversal algorithm that explores vertices level by level.
+
+keywords: BFS, breadth first search
+
+---
+
+chunk_id: DSA_U6_005
+unit: Graphs
+topic: Depth-First Search
+
+content: Graph traversal algorithm that explores paths deeply before backtracking.
+
+keywords: DFS, depth first search
+
+---
+
+chunk_id: DSA_U6_006
+unit: Graphs
+topic: Graph Complexity Analysis
+
+content: Time and space complexity analysis of graph algorithms and traversals.
+
+keywords: graph complexity, BFS complexity, DFS complexity

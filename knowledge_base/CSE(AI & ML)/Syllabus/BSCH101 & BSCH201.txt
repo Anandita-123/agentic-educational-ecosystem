@@ -1,0 +1,485 @@
+# SUBJECT_METADATA
+
+subject_name: Chemistry-I
+paper_code: BS-CH101, BS-CH201
+program: AIML
+
+---
+
+chunk_id: CHEM_U1_001
+unit: Atomic and Molecular Structure
+topic: Schrödinger Equation
+
+content: Introduction to the Schrödinger wave equation and its role in quantum chemistry.
+
+keywords: Schrödinger equation, quantum chemistry, wave equation
+
+---
+
+chunk_id: CHEM_U1_002
+unit: Atomic and Molecular Structure
+topic: Particle in a Box
+
+content: Particle-in-a-box model, solutions of the Schrödinger equation, and simple applications.
+
+keywords: particle in a box, quantum confinement, energy levels
+
+---
+
+chunk_id: CHEM_U1_003
+unit: Atomic and Molecular Structure
+topic: Molecular Orbital Theory
+
+content: Molecular orbitals of diatomic molecules with emphasis on hydrogen molecule (H₂).
+
+keywords: molecular orbital theory, H2 molecule, bonding orbital, antibonding orbital
+
+---
+
+chunk_id: CHEM_U1_004
+unit: Atomic and Molecular Structure
+topic: Energy Level Diagrams of Diatomic Molecules
+
+content: Construction and interpretation of molecular orbital energy level diagrams for diatomic molecules.
+
+keywords: energy level diagram, molecular orbitals, diatomic molecules
+
+---
+
+chunk_id: CHEM_U1_005
+unit: Atomic and Molecular Structure
+topic: Pi Molecular Orbitals
+
+content: Pi molecular orbitals of butadiene and benzene and their significance in molecular stability.
+
+keywords: pi molecular orbitals, butadiene, benzene, conjugation
+
+---
+
+chunk_id: CHEM_U1_006
+unit: Atomic and Molecular Structure
+topic: Aromaticity
+
+content: Concept of aromaticity and factors responsible for aromatic stability.
+
+keywords: aromaticity, aromatic compounds, benzene
+
+---
+
+chunk_id: CHEM_U1_007
+unit: Atomic and Molecular Structure
+topic: Crystal Field Theory
+
+content: Crystal field theory and splitting of d-orbitals in transition metal complexes.
+
+keywords: crystal field theory, d orbital splitting, transition metals
+
+---
+
+chunk_id: CHEM_U1_008
+unit: Atomic and Molecular Structure
+topic: Magnetic Properties of Transition Metal Ions
+
+content: Relationship between electronic configuration, crystal field splitting, and magnetic properties.
+
+keywords: magnetic properties, transition metal ions, paramagnetism, diamagnetism
+
+---
+
+chunk_id: CHEM_U1_009
+unit: Atomic and Molecular Structure
+topic: Band Theory of Solids
+
+content: Electronic band structure of solids and its significance in conductivity.
+
+keywords: band theory, band structure, solids, conductivity
+
+---
+
+chunk_id: CHEM_U1_010
+unit: Atomic and Molecular Structure
+topic: Doping in Semiconductors
+
+content: Role of doping in modifying the band structure and electrical properties of semiconductors.
+
+keywords: doping, semiconductors, band gap, conductivity
+
+---
+
+chunk_id: CHEM_U2_001
+unit: Spectroscopic Techniques and Applications
+topic: Principles of Spectroscopy
+
+content: Fundamental principles of spectroscopy and selection rules governing transitions.
+
+keywords: spectroscopy, selection rules, electromagnetic radiation
+
+---
+
+chunk_id: CHEM_U2_002
+unit: Spectroscopic Techniques and Applications
+topic: Electronic Spectroscopy
+
+content: Electronic transitions in atoms and molecules and their spectroscopic analysis.
+
+keywords: electronic spectroscopy, electronic transition, absorption spectra
+
+---
+
+chunk_id: CHEM_U2_003
+unit: Spectroscopic Techniques and Applications
+topic: Fluorescence
+
+content: Principle of fluorescence and its applications in medicine and diagnostics.
+
+keywords: fluorescence, medical applications, spectroscopy
+
+---
+
+chunk_id: CHEM_U2_004
+unit: Spectroscopic Techniques and Applications
+topic: Vibrational Spectroscopy
+
+content: Vibrational energy transitions in diatomic molecules and their applications.
+
+keywords: vibrational spectroscopy, infrared spectroscopy, diatomic molecules
+
+---
+
+chunk_id: CHEM_U2_005
+unit: Spectroscopic Techniques and Applications
+topic: Rotational Spectroscopy
+
+content: Rotational transitions in diatomic molecules and their spectroscopic applications.
+
+keywords: rotational spectroscopy, molecular rotation, microwave spectroscopy
+
+---
+
+chunk_id: CHEM_U2_006
+unit: Spectroscopic Techniques and Applications
+topic: Nuclear Magnetic Resonance
+
+content: Principles of nuclear magnetic resonance spectroscopy and structural analysis.
+
+keywords: NMR, nuclear magnetic resonance, molecular structure
+
+---
+
+chunk_id: CHEM_U2_007
+unit: Spectroscopic Techniques and Applications
+topic: Magnetic Resonance Imaging
+
+content: Application of magnetic resonance principles in medical imaging.
+
+keywords: MRI, medical imaging, magnetic resonance
+
+---
+
+chunk_id: CHEM_U2_008
+unit: Spectroscopic Techniques and Applications
+topic: Surface Characterization Techniques
+
+content: Techniques used for analysis and characterization of material surfaces.
+
+keywords: surface characterization, materials analysis
+
+---
+
+chunk_id: CHEM_U2_009
+unit: Spectroscopic Techniques and Applications
+topic: Diffraction and Scattering
+
+content: Principles and applications of diffraction and scattering techniques.
+
+keywords: diffraction, scattering, crystallography
+
+---
+
+chunk_id: CHEM_U3_001
+unit: Intermolecular Forces and Potential Energy Surfaces
+topic: Ionic Interactions
+
+content: Electrostatic interactions between oppositely charged ions.
+
+keywords: ionic interaction, electrostatic force
+
+---
+
+chunk_id: CHEM_U3_002
+unit: Intermolecular Forces and Potential Energy Surfaces
+topic: Dipolar Interactions
+
+content: Interactions between permanent molecular dipoles.
+
+keywords: dipole interaction, intermolecular force
+
+---
+
+chunk_id: CHEM_U3_003
+unit: Intermolecular Forces and Potential Energy Surfaces
+topic: Van der Waals Forces
+
+content: Weak intermolecular forces including dispersion interactions.
+
+keywords: van der Waals force, dispersion force
+
+---
+
+chunk_id: CHEM_U3_004
+unit: Intermolecular Forces and Potential Energy Surfaces
+topic: Real Gases and Critical Phenomena
+
+content: Equations of state of real gases and behavior near critical conditions.
+
+keywords: real gases, equation of state, critical phenomena
+
+---
+
+chunk_id: CHEM_U4_001
+unit: Free Energy and Chemical Equilibria
+topic: Laws of Thermodynamics
+
+content: First and second laws of thermodynamics and their significance.
+
+keywords: first law, second law, thermodynamics
+
+---
+
+chunk_id: CHEM_U4_002
+unit: Free Energy and Chemical Equilibria
+topic: Thermodynamic Functions
+
+content: Energy, entropy, and Gibbs free energy as thermodynamic state functions.
+
+keywords: entropy, free energy, thermodynamic functions
+
+---
+
+chunk_id: CHEM_U4_003
+unit: Free Energy and Chemical Equilibria
+topic: Entropy and Free Energy Calculations
+
+content: Estimation and interpretation of entropy and free energy changes.
+
+keywords: entropy calculation, Gibbs free energy
+
+---
+
+chunk_id: CHEM_U4_004
+unit: Free Energy and Chemical Equilibria
+topic: Free Energy and EMF
+
+content: Relationship between free energy change and electromotive force.
+
+keywords: free energy, EMF, electrochemistry
+
+---
+
+chunk_id: CHEM_U4_005
+unit: Free Energy and Chemical Equilibria
+topic: Cell Potential and Nernst Equation
+
+content: Electrochemical cell potentials, Nernst equation, and applications.
+
+keywords: Nernst equation, cell potential, electrochemical cell
+
+---
+
+chunk_id: CHEM_U4_006
+unit: Free Energy and Chemical Equilibria
+topic: Chemical Equilibria
+
+content: Acid-base equilibria, redox equilibria, and solubility equilibria.
+
+keywords: acid base equilibrium, redox equilibrium, solubility equilibrium
+
+---
+
+chunk_id: CHEM_U4_007
+unit: Free Energy and Chemical Equilibria
+topic: Water Chemistry
+
+content: Chemical equilibria and reactions occurring in aqueous systems.
+
+keywords: water chemistry, aqueous equilibrium
+
+---
+
+chunk_id: CHEM_U4_008
+unit: Free Energy and Chemical Equilibria
+topic: Corrosion
+
+content: Electrochemical principles, mechanisms, and prevention of corrosion.
+
+keywords: corrosion, electrochemistry, rusting
+
+---
+
+chunk_id: CHEM_U4_009
+unit: Free Energy and Chemical Equilibria
+topic: Ellingham Diagrams
+
+content: Use of free energy concepts and Ellingham diagrams in metallurgy.
+
+keywords: Ellingham diagram, metallurgy, extraction of metals
+
+---
+
+chunk_id: CHEM_U5_001
+unit: Periodic Properties
+topic: Effective Nuclear Charge
+
+content: Concept of effective nuclear charge and its influence on atomic properties.
+
+keywords: effective nuclear charge, shielding effect
+
+---
+
+chunk_id: CHEM_U5_002
+unit: Periodic Properties
+topic: Orbital Penetration and Orbital Energies
+
+content: Penetration effects and variation of s, p, d, and f orbital energies across the periodic table.
+
+keywords: orbital penetration, orbital energy, atomic orbitals
+
+---
+
+chunk_id: CHEM_U5_003
+unit: Periodic Properties
+topic: Electronic Configuration
+
+content: Arrangement of electrons in atomic orbitals and periodic trends.
+
+keywords: electronic configuration, Aufbau principle
+
+---
+
+chunk_id: CHEM_U5_004
+unit: Periodic Properties
+topic: Atomic and Ionic Properties
+
+content: Atomic size, ionic size, ionization energy, electron affinity, electronegativity, and polarizability.
+
+keywords: atomic radius, ionic radius, ionization energy, electronegativity
+
+---
+
+chunk_id: CHEM_U5_005
+unit: Periodic Properties
+topic: Oxidation States and Coordination Chemistry
+
+content: Oxidation states, coordination numbers, and coordination geometries.
+
+keywords: oxidation state, coordination number, coordination geometry
+
+---
+
+chunk_id: CHEM_U5_006
+unit: Periodic Properties
+topic: Hard and Soft Acids and Bases
+
+content: HSAB theory and classification of acids and bases.
+
+keywords: HSAB theory, hard acid, soft acid, hard base, soft base
+
+---
+
+chunk_id: CHEM_U5_007
+unit: Periodic Properties
+topic: Molecular Geometry
+
+content: Shapes and geometries of molecules based on bonding and electron pair arrangements.
+
+keywords: molecular geometry, VSEPR theory
+
+---
+
+chunk_id: CHEM_U6_001
+unit: Stereochemistry
+topic: Three-Dimensional Representation
+
+content: Methods for representing three-dimensional molecular structures.
+
+keywords: stereochemistry, molecular representation
+
+---
+
+chunk_id: CHEM_U6_002
+unit: Stereochemistry
+topic: Isomerism
+
+content: Structural isomers and stereoisomers.
+
+keywords: isomerism, structural isomer, stereoisomer
+
+---
+
+chunk_id: CHEM_U6_003
+unit: Stereochemistry
+topic: Symmetry and Chirality
+
+content: Molecular symmetry, chirality, and stereochemical significance.
+
+keywords: symmetry, chirality, chiral molecule
+
+---
+
+chunk_id: CHEM_U6_004
+unit: Stereochemistry
+topic: Enantiomers and Diastereomers
+
+content: Classification and properties of enantiomers and diastereomers.
+
+keywords: enantiomer, diastereomer, stereochemistry
+
+---
+
+chunk_id: CHEM_U6_005
+unit: Stereochemistry
+topic: Optical Activity
+
+content: Optical rotation and behavior of chiral compounds.
+
+keywords: optical activity, polarized light
+
+---
+
+chunk_id: CHEM_U6_006
+unit: Stereochemistry
+topic: Absolute Configuration and Conformational Analysis
+
+content: Assignment of molecular configuration and analysis of conformations.
+
+keywords: R configuration, S configuration, conformational analysis
+
+---
+
+chunk_id: CHEM_U6_007
+unit: Stereochemistry
+topic: Isomerism in Transition Metal Compounds
+
+content: Structural and stereochemical isomerism in coordination compounds.
+
+keywords: coordination compounds, geometric isomerism, optical isomerism
+
+---
+
+chunk_id: CHEM_U7_001
+unit: Organic Reactions and Drug Synthesis
+topic: Organic Reaction Types
+
+content: Introduction to substitution, addition, elimination, oxidation, reduction, cyclization, and ring-opening reactions.
+
+keywords: substitution reaction, addition reaction, elimination reaction, oxidation, reduction
+
+---
+
+chunk_id: CHEM_U7_002
+unit: Organic Reactions and Drug Synthesis
+topic: Drug Molecule Synthesis
+
+content: Synthesis pathway and reaction mechanisms involved in the preparation of a commonly used drug molecule.
+
+keywords: drug synthesis, pharmaceutical chemistry, organic synthesis

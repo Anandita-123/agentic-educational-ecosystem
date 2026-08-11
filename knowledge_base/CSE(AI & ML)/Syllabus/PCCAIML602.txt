@@ -1,0 +1,335 @@
+# SUBJECT_METADATA
+
+subject_name: Deep Learning
+paper_code: PCCAIML602
+category: Professional Core
+
+---
+
+chunk_id: DL_U1_001
+unit: Introduction to Deep Learning
+topic: Learning Paradigms
+
+content: Overview of learning paradigms in machine learning and deep learning. Understanding supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning approaches.
+
+keywords: learning paradigms, supervised learning, unsupervised learning, reinforcement learning
+
+---
+
+chunk_id: DL_U1_002
+unit: Introduction to Deep Learning
+topic: Deep Learning Framework
+
+content: Perspectives, challenges, advantages, and limitations of deep learning frameworks. Evolution of deep learning and its role in modern artificial intelligence systems.
+
+keywords: deep learning framework, AI systems, deep learning overview
+
+---
+
+chunk_id: DL_U1_003
+unit: Introduction to Deep Learning
+topic: Fundamental Learning Techniques
+
+content: Review of core machine learning concepts including hypothesis learning, generalization, optimization, training processes, and model evaluation techniques.
+
+keywords: machine learning fundamentals, model training, generalization
+
+---
+
+chunk_id: DL_U2_001
+unit: Feed Forward Neural Networks
+topic: Artificial Neural Networks
+
+content: Structure and working principles of artificial neural networks. Biological inspiration, neurons, weighted connections, biases, and learning mechanisms.
+
+keywords: artificial neural network, ANN, neural networks
+
+---
+
+chunk_id: DL_U2_002
+unit: Feed Forward Neural Networks
+topic: Activation Functions
+
+content: Activation functions used in neural networks including Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax, and their roles in introducing non-linearity.
+
+keywords: activation functions, sigmoid, relu, tanh, softmax
+
+---
+
+chunk_id: DL_U2_003
+unit: Feed Forward Neural Networks
+topic: Multi-Layer Neural Networks
+
+content: Multi-layer neural network architecture, hidden layers, feature extraction, representation learning, and deep neural network structures.
+
+keywords: multilayer neural network, hidden layers, deep neural network
+
+---
+
+chunk_id: DL_U2_004
+unit: Feed Forward Neural Networks
+topic: Fuzzy Relations
+
+content: Cardinality, operations, and properties of fuzzy relations. Representation of uncertainty and approximate reasoning using fuzzy logic concepts.
+
+keywords: fuzzy relations, fuzzy logic, cardinality
+
+---
+
+chunk_id: DL_U3_001
+unit: Neural Network Training
+topic: Risk Minimization
+
+content: Principles of risk minimization in machine learning, empirical risk, expected risk, and optimization objectives for model training.
+
+keywords: risk minimization, empirical risk, machine learning optimization
+
+---
+
+chunk_id: DL_U3_002
+unit: Neural Network Training
+topic: Loss Functions
+
+content: Loss functions used in deep learning including Mean Squared Error, Cross Entropy Loss, Hinge Loss, and objective function design.
+
+keywords: loss function, cross entropy, MSE, objective function
+
+---
+
+chunk_id: DL_U3_003
+unit: Neural Network Training
+topic: Backpropagation
+
+content: Backpropagation algorithm for neural network training. Gradient computation, chain rule, weight updates, and error propagation through layers.
+
+keywords: backpropagation, gradient descent, neural network training
+
+---
+
+chunk_id: DL_U3_004
+unit: Neural Network Training
+topic: Regularization Techniques
+
+content: Methods for reducing overfitting including L1 regularization, L2 regularization, weight decay, early stopping, and dropout techniques.
+
+keywords: regularization, overfitting, weight decay
+
+---
+
+chunk_id: DL_U3_005
+unit: Neural Network Training
+topic: Model Selection
+
+content: Selection of optimal neural network architectures and hyperparameters through validation, cross-validation, and performance evaluation.
+
+keywords: model selection, hyperparameter tuning, validation
+
+---
+
+chunk_id: DL_U3_006
+unit: Neural Network Training
+topic: Optimization Algorithms
+
+content: Optimization techniques for deep learning including Gradient Descent, Stochastic Gradient Descent (SGD), Momentum, RMSProp, and Adam optimizer.
+
+keywords: optimization algorithms, SGD, Adam, RMSProp
+
+---
+
+chunk_id: DL_U4_001
+unit: Conditional Random Fields
+topic: Introduction to Conditional Random Fields
+
+content: Conditional Random Fields (CRFs) as probabilistic graphical models for structured prediction and sequence labeling tasks.
+
+keywords: CRF, conditional random fields, structured prediction
+
+---
+
+chunk_id: DL_U4_002
+unit: Conditional Random Fields
+topic: Linear Chain CRF
+
+content: Linear chain CRF architecture for sequence modeling and labeling applications such as speech recognition and natural language processing.
+
+keywords: linear chain CRF, sequence labeling
+
+---
+
+chunk_id: DL_U4_003
+unit: Conditional Random Fields
+topic: Partition Function
+
+content: Role of the partition function in probabilistic graphical models and normalization of probability distributions.
+
+keywords: partition function, probabilistic models
+
+---
+
+chunk_id: DL_U4_004
+unit: Conditional Random Fields
+topic: Markov Networks
+
+content: Markov networks, undirected graphical models, conditional independence assumptions, and probabilistic reasoning.
+
+keywords: Markov network, graphical models
+
+---
+
+chunk_id: DL_U4_005
+unit: Conditional Random Fields
+topic: Belief Propagation
+
+content: Belief propagation algorithms for inference in probabilistic graphical models and message passing techniques.
+
+keywords: belief propagation, inference algorithms
+
+---
+
+chunk_id: DL_U4_006
+unit: Conditional Random Fields
+topic: Training Conditional Random Fields
+
+content: Parameter estimation, optimization, likelihood maximization, and learning procedures for Conditional Random Fields.
+
+keywords: CRF training, parameter estimation
+
+---
+
+chunk_id: DL_U4_007
+unit: Conditional Random Fields
+topic: Hidden Markov Models
+
+content: Hidden Markov Models (HMMs), hidden states, transition probabilities, emission probabilities, and sequence modeling applications.
+
+keywords: HMM, hidden Markov model
+
+---
+
+chunk_id: DL_U4_008
+unit: Conditional Random Fields
+topic: Entropy
+
+content: Entropy as a measure of uncertainty in information theory, probabilistic models, and machine learning systems.
+
+keywords: entropy, information theory
+
+---
+
+chunk_id: DL_U5_001
+unit: Deep Learning Architectures
+topic: Deep Feed Forward Networks
+
+content: Deep feed forward neural networks consisting of multiple hidden layers for hierarchical feature learning and complex function approximation.
+
+keywords: deep feed forward network, DNN
+
+---
+
+chunk_id: DL_U5_002
+unit: Deep Learning Architectures
+topic: Deep Learning Regularization
+
+content: Advanced regularization techniques for deep networks including dropout, batch normalization, data augmentation, and weight constraints.
+
+keywords: deep learning regularization, batch normalization
+
+---
+
+chunk_id: DL_U5_003
+unit: Deep Learning Architectures
+topic: Training Deep Models
+
+content: Challenges and strategies for training deep neural networks, including vanishing gradients, exploding gradients, initialization, and optimization.
+
+keywords: training deep models, vanishing gradient
+
+---
+
+chunk_id: DL_U5_004
+unit: Deep Learning Architectures
+topic: Dropout
+
+content: Dropout regularization technique for preventing overfitting by randomly deactivating neurons during training.
+
+keywords: dropout, regularization
+
+---
+
+chunk_id: DL_U5_005
+unit: Deep Learning Architectures
+topic: Convolutional Neural Networks
+
+content: Convolutional Neural Networks (CNNs), convolution layers, pooling layers, feature maps, and applications in image analysis and computer vision.
+
+keywords: CNN, convolutional neural network, computer vision
+
+---
+
+chunk_id: DL_U5_006
+unit: Deep Learning Architectures
+topic: Recurrent Neural Networks
+
+content: Recurrent Neural Networks (RNNs) for sequential data processing, temporal dependencies, and sequence prediction tasks.
+
+keywords: RNN, recurrent neural network, sequence modeling
+
+---
+
+chunk_id: DL_U5_007
+unit: Deep Learning Architectures
+topic: Deep Belief Networks
+
+content: Deep Belief Networks (DBNs), probabilistic generative models, layer-wise training, and hierarchical representation learning.
+
+keywords: deep belief network, DBN
+
+---
+
+chunk_id: DL_U6_001
+unit: Deep Learning Research and Applications
+topic: Object Recognition
+
+content: Deep learning approaches for object recognition, image classification, feature extraction, and visual perception systems.
+
+keywords: object recognition, image classification
+
+---
+
+chunk_id: DL_U6_002
+unit: Deep Learning Research and Applications
+topic: Sparse Coding
+
+content: Sparse coding techniques for efficient feature representation, dimensionality reduction, and unsupervised learning.
+
+keywords: sparse coding, feature representation
+
+---
+
+chunk_id: DL_U6_003
+unit: Deep Learning Research and Applications
+topic: Computer Vision
+
+content: Applications of deep learning in computer vision including image classification, object detection, image segmentation, and visual analytics.
+
+keywords: computer vision, image processing, object detection
+
+---
+
+chunk_id: DL_U6_004
+unit: Deep Learning Research and Applications
+topic: Natural Language Processing
+
+content: Deep learning techniques for Natural Language Processing (NLP), text classification, language modeling, machine translation, and conversational AI.
+
+keywords: NLP, natural language processing, language models
+
+---
+
+chunk_id: DL_U6_005
+unit: Deep Learning Research and Applications
+topic: Modern Deep Learning Applications
+
+content: Contemporary applications of deep learning across healthcare, finance, robotics, autonomous systems, recommendation systems, and generative AI.
+
+keywords: deep learning applications, generative AI, intelligent systems

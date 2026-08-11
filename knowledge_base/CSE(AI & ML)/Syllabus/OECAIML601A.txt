@@ -1,0 +1,325 @@
+# SUBJECT_METADATA
+
+subject_name: Database Management Systems
+paper_code: OECAIML-601A
+category: Open Elective Course
+
+---
+
+chunk_id: DBMS_U1_001
+unit: Database System Fundamentals
+topic: Database System Architecture
+
+content: Introduction to database systems, architecture of DBMS, components of database systems, and the role of database management in information systems.
+
+keywords: DBMS architecture, database systems
+
+---
+
+chunk_id: DBMS_U1_002
+unit: Database System Fundamentals
+topic: Data Abstraction and Data Independence
+
+content: Levels of data abstraction, logical and physical data independence, and their significance in database design and maintenance.
+
+keywords: data abstraction, data independence
+
+---
+
+chunk_id: DBMS_U1_003
+unit: Database System Fundamentals
+topic: Data Definition and Manipulation Languages
+
+content: Data Definition Language (DDL) and Data Manipulation Language (DML), schema definition, data modification, and database operations.
+
+keywords: DDL, DML, schema definition
+
+---
+
+chunk_id: DBMS_U1_004
+unit: Database System Fundamentals
+topic: Data Models
+
+content: Overview of data models including entity-relationship, network, relational, and object-oriented models used in database design.
+
+keywords: data models, ER model, relational model
+
+---
+
+chunk_id: DBMS_U1_005
+unit: Database System Fundamentals
+topic: Entity-Relationship Model
+
+content: Entity-relationship modeling, entities, attributes, relationships, cardinality constraints, and ER diagram design.
+
+keywords: ER model, entities, relationships
+
+---
+
+chunk_id: DBMS_U1_006
+unit: Database System Fundamentals
+topic: Integrity Constraints and Data Manipulation
+
+content: Integrity constraints including domain, entity, and referential integrity, along with data manipulation operations in databases.
+
+keywords: integrity constraints, referential integrity
+
+---
+
+chunk_id: DBMS_U2_001
+unit: Relational Databases and Query Languages
+topic: Relational Algebra
+
+content: Fundamental relational algebra operations including selection, projection, join, union, intersection, and difference.
+
+keywords: relational algebra, database queries
+
+---
+
+chunk_id: DBMS_U2_002
+unit: Relational Databases and Query Languages
+topic: Relational Calculus
+
+content: Tuple relational calculus and domain relational calculus as non-procedural query languages for relational databases.
+
+keywords: tuple relational calculus, domain relational calculus
+
+---
+
+chunk_id: DBMS_U2_003
+unit: Relational Databases and Query Languages
+topic: SQL and SQL3
+
+content: Structured Query Language (SQL), SQL3 features, data definition, data manipulation, and advanced querying techniques.
+
+keywords: SQL, SQL3, database queries
+
+---
+
+chunk_id: DBMS_U2_004
+unit: Relational Databases and Query Languages
+topic: Commercial and Open Source DBMS
+
+content: Overview of major database management systems including MySQL, Oracle, DB2, and SQL Server.
+
+keywords: MySQL, Oracle, DB2, SQL Server
+
+---
+
+chunk_id: DBMS_U2_005
+unit: Relational Database Design
+topic: Data Dependencies and Armstrong's Axioms
+
+content: Functional dependencies, inference rules, Armstrong's axioms, and dependency analysis in relational database design.
+
+keywords: functional dependency, Armstrong's axioms
+
+---
+
+chunk_id: DBMS_U2_006
+unit: Relational Database Design
+topic: Normalization
+
+content: Database normalization, normal forms, redundancy reduction, anomaly prevention, and schema refinement.
+
+keywords: normalization, normal forms
+
+---
+
+chunk_id: DBMS_U2_007
+unit: Relational Database Design
+topic: Dependency Preservation and Lossless Decomposition
+
+content: Dependency preservation, lossless join decomposition, and principles of efficient relational schema design.
+
+keywords: dependency preservation, lossless decomposition
+
+---
+
+chunk_id: DBMS_U2_008
+unit: Query Processing and Optimization
+topic: Query Evaluation and Equivalence
+
+content: Evaluation of relational algebra expressions, query transformation, and query equivalence rules.
+
+keywords: query evaluation, query equivalence
+
+---
+
+chunk_id: DBMS_U2_009
+unit: Query Processing and Optimization
+topic: Join Strategies and Query Optimization
+
+content: Join processing techniques, query execution plans, and optimization algorithms for efficient query processing.
+
+keywords: join strategies, query optimization
+
+---
+
+chunk_id: DBMS_U3_001
+unit: Database Storage and Indexing
+topic: Storage Strategies
+
+content: Database storage organization, file structures, storage management techniques, and efficient data retrieval mechanisms.
+
+keywords: storage management, file organization
+
+---
+
+chunk_id: DBMS_U3_002
+unit: Database Storage and Indexing
+topic: Indexing Techniques
+
+content: Index structures for efficient data access, primary and secondary indexes, and index management.
+
+keywords: indexing, database access
+
+---
+
+chunk_id: DBMS_U3_003
+unit: Database Storage and Indexing
+topic: B-Trees and Hashing
+
+content: B-Tree and B+ Tree indexing structures, hashing techniques, collision handling, and performance considerations.
+
+keywords: B-Tree, hashing, indexing
+
+---
+
+chunk_id: DBMS_U4_001
+unit: Transaction Processing
+topic: Transaction Fundamentals
+
+content: Concepts of transactions, transaction states, ACID properties, and transaction management in database systems.
+
+keywords: transactions, ACID properties
+
+---
+
+chunk_id: DBMS_U4_002
+unit: Transaction Processing
+topic: Concurrency Control
+
+content: Concurrency control mechanisms for maintaining consistency in multi-user database environments.
+
+keywords: concurrency control, database consistency
+
+---
+
+chunk_id: DBMS_U4_003
+unit: Transaction Processing
+topic: Serializability and Scheduling
+
+content: Serializability concepts, schedule analysis, conflict serializability, and view serializability.
+
+keywords: serializability, scheduling
+
+---
+
+chunk_id: DBMS_U4_004
+unit: Transaction Processing
+topic: Locking and Timestamp Protocols
+
+content: Lock-based concurrency control, two-phase locking, timestamp ordering protocols, and scheduler mechanisms.
+
+keywords: locking protocols, timestamp ordering
+
+---
+
+chunk_id: DBMS_U4_005
+unit: Transaction Processing
+topic: Multiversion and Optimistic Concurrency Control
+
+content: Multiversion concurrency control techniques and optimistic concurrency control approaches for transaction management.
+
+keywords: MVCC, optimistic concurrency control
+
+---
+
+chunk_id: DBMS_U4_006
+unit: Transaction Processing
+topic: Database Recovery
+
+content: Recovery mechanisms, logging, checkpointing, rollback, and crash recovery techniques.
+
+keywords: database recovery, logging, checkpointing
+
+---
+
+chunk_id: DBMS_U5_001
+unit: Database Security
+topic: Authentication and Authorization
+
+content: User authentication, authorization mechanisms, and access control policies for securing databases.
+
+keywords: authentication, authorization
+
+---
+
+chunk_id: DBMS_U5_002
+unit: Database Security
+topic: Access Control Models
+
+content: Discretionary Access Control (DAC), Mandatory Access Control (MAC), and Role-Based Access Control (RBAC) models.
+
+keywords: DAC, MAC, RBAC
+
+---
+
+chunk_id: DBMS_U5_003
+unit: Database Security
+topic: Intrusion Detection
+
+content: Intrusion detection systems, monitoring techniques, and identification of unauthorized database access attempts.
+
+keywords: intrusion detection, database security
+
+---
+
+chunk_id: DBMS_U5_004
+unit: Database Security
+topic: SQL Injection Attacks
+
+content: SQL injection vulnerabilities, attack methods, prevention techniques, and secure query practices.
+
+keywords: SQL injection, database attacks
+
+---
+
+chunk_id: DBMS_U6_001
+unit: Advanced Database Topics
+topic: Object-Oriented and Object-Relational Databases
+
+content: Concepts of object-oriented databases, object-relational databases, and advanced data modeling techniques.
+
+keywords: object-oriented database, object-relational database
+
+---
+
+chunk_id: DBMS_U6_002
+unit: Advanced Database Topics
+topic: Logical and Web Databases
+
+content: Logical databases, web-based database systems, internet-enabled data management, and web database applications.
+
+keywords: logical databases, web databases
+
+---
+
+chunk_id: DBMS_U6_003
+unit: Advanced Database Topics
+topic: Distributed Databases
+
+content: Principles of distributed databases, distributed data management, transparency, and distributed query processing.
+
+keywords: distributed databases, distributed DBMS
+
+---
+
+chunk_id: DBMS_U6_004
+unit: Advanced Database Topics
+topic: Data Warehousing and Data Mining
+
+content: Data warehousing concepts, multidimensional data analysis, data mining techniques, and business intelligence applications.
+
+keywords: data warehousing, data mining, business intelligence

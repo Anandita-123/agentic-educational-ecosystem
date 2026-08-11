@@ -1,0 +1,465 @@
+# SUBJECT_METADATA
+
+subject_name: Introduction to Industrial Management
+paper_code: HSMC-501
+category: Humanities III
+
+---
+
+chunk_id: IM_U1_001
+unit: Introduction to Industrial Management
+topic: System Concepts
+
+content: Definition of a system, system concepts, types of systems, system parameters, variables, and system behavior.
+
+keywords: system, system behavior, system parameters, system types
+
+---
+
+chunk_id: IM_U1_002
+unit: Introduction to Industrial Management
+topic: Management Fundamentals
+
+content: Definition of management, objectives of management, and core management functions including planning, organizing, staffing, directing, and controlling.
+
+keywords: management, management functions
+
+---
+
+chunk_id: IM_U1_003
+unit: Introduction to Industrial Management
+topic: Organizational Structure
+
+content: Definition, objectives, factors affecting organizational structure, types of organizational structures, advantages, disadvantages, and industrial applications.
+
+keywords: organization structure, organizational design
+
+---
+
+chunk_id: IM_U1_004
+unit: Introduction to Industrial Management
+topic: Division of Labor
+
+content: Concept, meaning, importance, and role of division of labor in industrial management and organizational efficiency.
+
+keywords: division of labor
+
+---
+
+chunk_id: IM_U1_005
+unit: Introduction to Industrial Management
+topic: Scalar and Functional Processes
+
+content: Scalar process, functional process, authority relationships, and organizational hierarchy.
+
+keywords: scalar process, functional process
+
+---
+
+chunk_id: IM_U1_006
+unit: Introduction to Industrial Management
+topic: Span of Control
+
+content: Meaning, significance, factors affecting span of control, and its influence on organizational effectiveness.
+
+keywords: span of control
+
+---
+
+chunk_id: IM_U1_007
+unit: Introduction to Industrial Management
+topic: Delegation of Authority
+
+content: Meaning, importance, principles, benefits, and limitations of delegation of authority.
+
+keywords: delegation, authority
+
+---
+
+chunk_id: IM_U1_008
+unit: Introduction to Industrial Management
+topic: Centralization and Decentralization
+
+content: Concepts of centralization and decentralization, advantages, disadvantages, and applications in industrial management.
+
+keywords: centralization, decentralization
+
+---
+
+chunk_id: IM_U1_009
+unit: Introduction to Industrial Management
+topic: Organizational Culture and Climate
+
+content: Meaning of organizational culture and organizational climate, differences between them, and factors influencing both.
+
+keywords: organizational culture, organizational climate
+
+---
+
+chunk_id: IM_U1_010
+unit: Introduction to Industrial Management
+topic: Employee Morale
+
+content: Definition of morale, factors affecting employee morale, and relationship between morale and productivity.
+
+keywords: morale, productivity
+
+---
+
+chunk_id: IM_U1_011
+unit: Introduction to Industrial Management
+topic: Job Satisfaction
+
+content: Meaning of job satisfaction and factors influencing employee satisfaction at the workplace.
+
+keywords: job satisfaction
+
+---
+
+chunk_id: IM_U1_012
+unit: Introduction to Industrial Management
+topic: Factory Act and Labor Laws
+
+content: Important provisions of factory legislation and labor laws relevant to industrial organizations.
+
+keywords: factory act, labor law
+
+---
+
+chunk_id: IM_U2_001
+unit: CPM and PERT
+topic: CPM and PERT Fundamentals
+
+content: Concepts, objectives, features, differences, and applications of Critical Path Method (CPM) and Program Evaluation and Review Technique (PERT).
+
+keywords: CPM, PERT
+
+---
+
+chunk_id: IM_U2_002
+unit: CPM and PERT
+topic: Network Diagrams
+
+content: Terminologies used in network diagrams, activity representation, event representation, and project scheduling networks.
+
+keywords: network diagram, project network
+
+---
+
+chunk_id: IM_U2_003
+unit: CPM and PERT
+topic: Earliest and Latest Event Times
+
+content: Computation of Earliest Possible Occurrence (EPO) and Latest Possible Occurrence (LPO) for project activities.
+
+keywords: EPO, LPO
+
+---
+
+chunk_id: IM_U2_004
+unit: CPM and PERT
+topic: Critical Path Analysis
+
+content: Identification and determination of the critical path in project networks and its significance.
+
+keywords: critical path
+
+---
+
+chunk_id: IM_U2_005
+unit: CPM and PERT
+topic: Float Analysis
+
+content: Meaning of float, types of float, calculation methods, and practical applications in project scheduling.
+
+keywords: float, total float, free float
+
+---
+
+chunk_id: IM_U2_006
+unit: CPM and PERT
+topic: Project Crashing and Updating
+
+content: Network crashing techniques, project duration reduction, project updating methods, and industrial applications.
+
+keywords: crashing, project updating
+
+---
+
+chunk_id: IM_U3_001
+unit: Materials Management
+topic: Materials Management Fundamentals
+
+content: Definition, objectives, functions, importance, and relationship of materials management with other organizational departments.
+
+keywords: materials management
+
+---
+
+chunk_id: IM_U3_002
+unit: Materials Management
+topic: Purchasing Management
+
+content: Objectives of purchasing, purchasing systems, purchasing procedures, documents, forms, and terminology used in purchasing departments.
+
+keywords: purchasing, procurement
+
+---
+
+chunk_id: IM_U3_003
+unit: Materials Management
+topic: Storekeeping
+
+content: Functions of storekeeping, centralized and decentralized stores, advantages, disadvantages, and practical applications.
+
+keywords: storekeeping, stores management
+
+---
+
+chunk_id: IM_U3_004
+unit: Materials Management
+topic: Store Records and Storage Equipment
+
+content: Types of store records, storage equipment, codification of materials, and inventory documentation systems.
+
+keywords: storage equipment, codification
+
+---
+
+chunk_id: IM_U3_005
+unit: Materials Management
+topic: Inventory Control
+
+content: Definition, objectives, importance, and techniques used in inventory control systems.
+
+keywords: inventory control
+
+---
+
+chunk_id: IM_U3_006
+unit: Materials Management
+topic: Economic Order Quantity
+
+content: Economic Order Quantity (EOQ), assumptions, derivation, calculation procedures, and practical applications.
+
+keywords: EOQ, economic order quantity
+
+---
+
+chunk_id: IM_U3_007
+unit: Materials Management
+topic: ABC Analysis
+
+content: Inventory classification using ABC analysis and modern inventory categorization techniques.
+
+keywords: ABC analysis
+
+---
+
+chunk_id: IM_U3_008
+unit: Materials Management
+topic: Inventory Models
+
+content: Wilson inventory model, replenishment model, and two-bin inventory model including concepts and applications.
+
+keywords: inventory model, wilson model, two bin model
+
+---
+
+chunk_id: IM_U3_009
+unit: Materials Management
+topic: Material Requirement Planning
+
+content: Material Requirement Planning (MRP), objectives, applications, implementation concepts, and software support systems.
+
+keywords: MRP, material requirement planning
+
+---
+
+chunk_id: IM_U4_001
+unit: Production Planning and Control
+topic: Production Systems
+
+content: Types of production systems and industrial production examples.
+
+keywords: production system
+
+---
+
+chunk_id: IM_U4_002
+unit: Production Planning and Control
+topic: PPC Fundamentals
+
+content: Need, importance, objectives, and functions of Production Planning and Control (PPC).
+
+keywords: PPC, production planning and control
+
+---
+
+chunk_id: IM_U4_003
+unit: Production Planning and Control
+topic: PPC Documentation
+
+content: Forms, records, and documents used in production planning and control systems.
+
+keywords: PPC forms
+
+---
+
+chunk_id: IM_U4_004
+unit: Production Planning and Control
+topic: Scheduling
+
+content: Meaning, objectives, productivity improvement, and resource utilization through scheduling.
+
+keywords: scheduling
+
+---
+
+chunk_id: IM_U4_005
+unit: Production Planning and Control
+topic: Gantt Charts
+
+content: Format, preparation methods, interpretation, and industrial applications of Gantt charts.
+
+keywords: gantt chart
+
+---
+
+chunk_id: IM_U4_006
+unit: Production Planning and Control
+topic: Critical Ratio Scheduling
+
+content: Critical ratio scheduling method, formula, interpretation, and numerical applications.
+
+keywords: critical ratio scheduling
+
+---
+
+chunk_id: IM_U4_007
+unit: Production Planning and Control
+topic: Production Scheduling Applications
+
+content: Scheduling multiple components and operations considering processing time, setup time, resources, and production quantity.
+
+keywords: production scheduling
+
+---
+
+chunk_id: IM_U4_008
+unit: Production Planning and Control
+topic: Bottleneck Analysis
+
+content: Meaning of bottlenecks, effects on production systems, identification techniques, and methods for bottleneck reduction.
+
+keywords: bottleneck, bottleneck management
+
+---
+
+chunk_id: IM_U5_001
+unit: Value Analysis and Cost Control
+topic: Value Analysis Fundamentals
+
+content: Definition, objectives, terminology, process, and significance of Value Analysis (VA).
+
+keywords: value analysis
+
+---
+
+chunk_id: IM_U5_002
+unit: Value Analysis and Cost Control
+topic: Value Analysis Flow Process
+
+content: Flow diagram, stages, and methodology used in value analysis studies.
+
+keywords: VA flow diagram
+
+---
+
+chunk_id: IM_U5_003
+unit: Value Analysis and Cost Control
+topic: DARSIRI Method
+
+content: DARSIRI method of value analysis and its practical implementation.
+
+keywords: DARSIRI
+
+---
+
+chunk_id: IM_U5_004
+unit: Value Analysis and Cost Control
+topic: Value Analysis Case Studies
+
+content: Industrial case studies demonstrating the application and benefits of value analysis.
+
+keywords: value analysis case study
+
+---
+
+chunk_id: IM_U5_005
+unit: Value Analysis and Cost Control
+topic: Waste Management
+
+content: Types of industrial waste, sources of waste generation, and techniques for waste reduction.
+
+keywords: waste management
+
+---
+
+chunk_id: IM_U5_006
+unit: Value Analysis and Cost Control
+topic: Cost Control
+
+content: Cost control objectives, methods, principles, and guidelines for reducing operational costs.
+
+keywords: cost control
+
+---
+
+chunk_id: IM_U6_001
+unit: Recent Trends in Industrial Management
+topic: Enterprise Resource Planning
+
+content: Enterprise Resource Planning (ERP), features, modules, benefits, implementation concepts, and applications.
+
+keywords: ERP, enterprise resource planning
+
+---
+
+chunk_id: IM_U6_002
+unit: Recent Trends in Industrial Management
+topic: MS Project
+
+content: Features and applications of Microsoft Project software in project management and scheduling.
+
+keywords: MS Project
+
+---
+
+chunk_id: IM_U6_003
+unit: Recent Trends in Industrial Management
+topic: Logistics Management
+
+content: Concept, objectives, need, and benefits of logistics in industrial operations.
+
+keywords: logistics
+
+---
+
+chunk_id: IM_U6_004
+unit: Recent Trends in Industrial Management
+topic: Just In Time
+
+content: Just-In-Time (JIT) production philosophy, principles, benefits, and industrial applications.
+
+keywords: JIT, just in time
+
+---
+
+chunk_id: IM_U6_005
+unit: Recent Trends in Industrial Management
+topic: Supply Chain Management
+
+content: Supply Chain Management (SCM), concepts, objectives, components, and organizational benefits.
+
+keywords: supply chain management, SCM

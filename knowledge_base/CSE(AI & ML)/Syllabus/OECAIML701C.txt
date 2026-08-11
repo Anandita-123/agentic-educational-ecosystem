@@ -1,0 +1,565 @@
+# SUBJECT_METADATA
+
+subject_name: Robotics
+paper_code: OEC-AIML701C
+category: Open Elective
+
+---
+
+chunk_id: ROB_U1_001
+unit: Introduction to Robotics
+topic: Introduction to Robotics
+
+content: Overview of robotics, historical development, evolution of robotic systems, and their role in modern science and technology.
+
+keywords: robotics, robot history, robotic systems
+
+---
+
+chunk_id: ROB_U1_002
+unit: Introduction to Robotics
+topic: Types, Classification and Applications of Robots
+
+content: Classification of robots based on structure, mobility, autonomy, and applications in industry, healthcare, defense, and research.
+
+keywords: robot classification, robot applications
+
+---
+
+chunk_id: ROB_U1_003
+unit: Introduction to Robotics
+topic: Science and Technology of Robots
+
+content: Fundamental scientific and technological concepts underlying robot design, operation, and intelligent behavior.
+
+keywords: robotic technology, intelligent systems
+
+---
+
+chunk_id: ROB_U1_004
+unit: Introduction to Robotics
+topic: Robotics Resources
+
+content: Overview of important robotics websites, textbooks, journals, and research resources for further study.
+
+keywords: robotics research, robotics resources
+
+---
+
+chunk_id: ROB_U2_001
+unit: Robot Components and Representation
+topic: Elements of Robots
+
+content: Fundamental components of robots including links, joints, actuators, sensors, controllers, and end effectors.
+
+keywords: robot elements, links, joints
+
+---
+
+chunk_id: ROB_U2_002
+unit: Robot Components and Representation
+topic: Position and Orientation of a Rigid Body
+
+content: Mathematical representation of position and orientation of rigid bodies in robotic systems.
+
+keywords: rigid body, position, orientation
+
+---
+
+chunk_id: ROB_U2_003
+unit: Robot Components and Representation
+topic: Homogeneous Transformations
+
+content: Homogeneous transformation matrices for representing translation and rotation in robotic kinematics.
+
+keywords: homogeneous transformation, coordinate transformation
+
+---
+
+chunk_id: ROB_U2_004
+unit: Robot Components and Representation
+topic: Joint Representation and Link Modelling
+
+content: Representation of robotic joints and links using kinematic models and coordinate systems.
+
+keywords: joint representation, link modeling
+
+---
+
+chunk_id: ROB_U2_005
+unit: Robot Components and Representation
+topic: Denavit-Hartenberg Parameters
+
+content: D-H parameter convention, link transformations, and kinematic modeling of robotic manipulators.
+
+keywords: D-H parameters, kinematic modeling
+
+---
+
+chunk_id: ROB_U2_006
+unit: Robot Components and Representation
+topic: Robot Actuators
+
+content: Types of actuators including stepper motors, DC servo motors, brushless motors, and their operational characteristics.
+
+keywords: actuators, stepper motor, servo motor
+
+---
+
+chunk_id: ROB_U2_007
+unit: Robot Components and Representation
+topic: DC Servo Motor Modelling
+
+content: Mathematical modeling, control characteristics, and applications of DC servo motors in robotics.
+
+keywords: DC servo motor, motor model
+
+---
+
+chunk_id: ROB_U2_008
+unit: Robot Components and Representation
+topic: Transmission Systems
+
+content: Mechanical transmission mechanisms used to transfer power and motion in robotic systems.
+
+keywords: transmissions, power transfer
+
+---
+
+chunk_id: ROB_U2_009
+unit: Robot Components and Representation
+topic: Sensors in Robotics
+
+content: Purpose of sensors, internal and external sensing systems, and their role in robot perception and control.
+
+keywords: sensors, robot perception
+
+---
+
+chunk_id: ROB_U2_010
+unit: Robot Components and Representation
+topic: Common Robotic Sensors
+
+content: Encoders, tachometers, force-torque sensors, proximity sensors, distance sensors, and vision systems used in robotics.
+
+keywords: encoders, proximity sensors, vision sensors
+
+---
+
+chunk_id: ROB_U3_001
+unit: Kinematics of Serial Robots
+topic: Introduction to Robot Kinematics
+
+content: Fundamentals of robot kinematics and mathematical modeling of robotic motion without considering forces.
+
+keywords: robot kinematics, robotic motion
+
+---
+
+chunk_id: ROB_U3_002
+unit: Kinematics of Serial Robots
+topic: Direct Kinematics
+
+content: Determination of end-effector position and orientation from known joint variables.
+
+keywords: direct kinematics, forward kinematics
+
+---
+
+chunk_id: ROB_U3_003
+unit: Kinematics of Serial Robots
+topic: Inverse Kinematics
+
+content: Computation of joint variables required to achieve a desired end-effector position and orientation.
+
+keywords: inverse kinematics, manipulator control
+
+---
+
+chunk_id: ROB_U3_004
+unit: Kinematics of Serial Robots
+topic: Kinematics of Common Serial Manipulators
+
+content: Kinematic analysis of widely used serial robotic manipulators and industrial robot configurations.
+
+keywords: serial manipulators, robot arms
+
+---
+
+chunk_id: ROB_U3_005
+unit: Kinematics of Serial Robots
+topic: Workspace Analysis
+
+content: Determination and analysis of the reachable workspace of serial robots.
+
+keywords: workspace, reachability
+
+---
+
+chunk_id: ROB_U3_006
+unit: Kinematics of Serial Robots
+topic: Redundant and Constrained Robots
+
+content: Inverse kinematics techniques for constrained manipulators and robots with redundant degrees of freedom.
+
+keywords: redundant robots, constrained robots
+
+---
+
+chunk_id: ROB_U3_007
+unit: Kinematics of Serial Robots
+topic: Tractrix-Based Approaches
+
+content: Tractrix-based methods for modeling motion of fixed and free robots and multibody systems.
+
+keywords: tractrix, multibody systems
+
+---
+
+chunk_id: ROB_U3_008
+unit: Kinematics of Serial Robots
+topic: Elimination Theory for Inverse Kinematics
+
+content: Solution procedures for inverse kinematics using mathematical elimination techniques.
+
+keywords: elimination theory, inverse solutions
+
+---
+
+chunk_id: ROB_U3_009
+unit: Kinematics of Serial Robots
+topic: General 6R Manipulator Solutions
+
+content: Inverse kinematics solutions for general six-revolute-joint robotic manipulators.
+
+keywords: 6R manipulator, robotic arm
+
+---
+
+chunk_id: ROB_U4_001
+unit: Kinematics of Parallel Robots
+topic: Introduction to Parallel Manipulators
+
+content: Structure, characteristics, and applications of parallel robots and mechanisms.
+
+keywords: parallel robots, parallel manipulators
+
+---
+
+chunk_id: ROB_U4_002
+unit: Kinematics of Parallel Robots
+topic: Degrees of Freedom and Joint Types
+
+content: Analysis of mobility, active joints, passive joints, and degrees of freedom in parallel mechanisms.
+
+keywords: degrees of freedom, active joints
+
+---
+
+chunk_id: ROB_U4_003
+unit: Kinematics of Parallel Robots
+topic: Constraint and Loop Closure Equations
+
+content: Mathematical formulation of constraints and loop closure equations for parallel robots.
+
+keywords: loop closure, constraints
+
+---
+
+chunk_id: ROB_U4_004
+unit: Kinematics of Parallel Robots
+topic: Direct and Inverse Kinematics of Parallel Manipulators
+
+content: Forward and inverse kinematic analysis techniques for parallel robotic systems.
+
+keywords: parallel kinematics, inverse kinematics
+
+---
+
+chunk_id: ROB_U4_005
+unit: Kinematics of Parallel Robots
+topic: Gough-Stewart Platform Kinematics
+
+content: Direct kinematics, mobility analysis, and applications of the Gough-Stewart platform.
+
+keywords: Gough-Stewart platform, parallel mechanisms
+
+---
+
+chunk_id: ROB_U5_001
+unit: Velocity and Static Analysis
+topic: Velocity Analysis of Manipulators
+
+content: Linear and angular velocity relationships, velocity propagation, and motion analysis of robotic manipulators.
+
+keywords: velocity analysis, angular velocity
+
+---
+
+chunk_id: ROB_U5_002
+unit: Velocity and Static Analysis
+topic: Manipulator Jacobians
+
+content: Jacobian matrices for serial and parallel manipulators and their significance in robot control.
+
+keywords: Jacobian matrix, manipulator Jacobian
+
+---
+
+chunk_id: ROB_U5_003
+unit: Velocity and Static Analysis
+topic: Velocity Ellipse and Ellipsoid
+
+content: Velocity ellipses and ellipsoids for analyzing manipulator performance and dexterity.
+
+keywords: velocity ellipse, robot dexterity
+
+---
+
+chunk_id: ROB_U5_004
+unit: Velocity and Static Analysis
+topic: Singularity Analysis
+
+content: Identification and analysis of singular configurations in serial and parallel manipulators.
+
+keywords: singularity, robot configuration
+
+---
+
+chunk_id: ROB_U5_005
+unit: Velocity and Static Analysis
+topic: Statics of Manipulators
+
+content: Static force analysis of serial and parallel manipulators and force transmission mechanisms.
+
+keywords: robot statics, force analysis
+
+---
+
+chunk_id: ROB_U5_006
+unit: Velocity and Static Analysis
+topic: Force Transformation in Gough-Stewart Platform
+
+content: Force transformation matrices and static force analysis of the Gough-Stewart platform.
+
+keywords: force transformation, Stewart platform
+
+---
+
+chunk_id: ROB_U6_001
+unit: Dynamics of Manipulators
+topic: Dynamics of Serial and Parallel Robots
+
+content: Dynamic modeling of robotic systems considering mass, inertia, forces, and motion.
+
+keywords: robot dynamics, manipulator dynamics
+
+---
+
+chunk_id: ROB_U6_002
+unit: Dynamics of Manipulators
+topic: Mass and Inertia of Links
+
+content: Modeling of link mass and inertia properties for dynamic analysis.
+
+keywords: mass, inertia
+
+---
+
+chunk_id: ROB_U6_003
+unit: Dynamics of Manipulators
+topic: Lagrangian Formulation
+
+content: Derivation of equations of motion using Lagrangian mechanics for robotic manipulators.
+
+keywords: Lagrangian dynamics, equations of motion
+
+---
+
+chunk_id: ROB_U6_004
+unit: Dynamics of Manipulators
+topic: Symbolic Equation Generation and Simulation
+
+content: Computer-aided generation and simulation of robotic dynamic equations.
+
+keywords: symbolic computation, robot simulation
+
+---
+
+chunk_id: ROB_U6_005
+unit: Dynamics of Manipulators
+topic: Recursive Dynamics and Software Tools
+
+content: Recursive dynamic algorithms and use of ADAMS and Maple software for robotic analysis.
+
+keywords: recursive dynamics, ADAMS, Maple
+
+---
+
+chunk_id: ROB_U7_001
+unit: Motion Planning and Control
+topic: Trajectory Planning
+
+content: Joint-space and Cartesian-space trajectory generation and motion planning for robotic systems.
+
+keywords: trajectory planning, Cartesian space
+
+---
+
+chunk_id: ROB_U7_002
+unit: Motion Planning and Control
+topic: Classical Control Concepts
+
+content: Fundamentals of feedback control systems and single-link manipulator control.
+
+keywords: feedback control, robot control
+
+---
+
+chunk_id: ROB_U7_003
+unit: Motion Planning and Control
+topic: PID Control of Manipulators
+
+content: Independent joint PID control and its application to robotic manipulators.
+
+keywords: PID control, manipulator control
+
+---
+
+chunk_id: ROB_U7_004
+unit: Motion Planning and Control
+topic: Multi-Link Robot Control
+
+content: Control strategies for multi-link robotic manipulators and coordinated motion control.
+
+keywords: multi-link robots, motion control
+
+---
+
+chunk_id: ROB_U7_005
+unit: Motion Planning and Control
+topic: Nonlinear Model-Based Control
+
+content: Advanced nonlinear control techniques for robotic manipulators and dynamic systems.
+
+keywords: nonlinear control, model-based control
+
+---
+
+chunk_id: ROB_U7_006
+unit: Motion Planning and Control
+topic: Force and Hybrid Control
+
+content: Cartesian control, force control, and hybrid position-force control techniques.
+
+keywords: force control, hybrid control
+
+---
+
+chunk_id: ROB_U8_001
+unit: Flexible Robot Systems
+topic: Modeling of Flexible Robots
+
+content: Mathematical models of robots with flexible links and joints.
+
+keywords: flexible robots, flexible links
+
+---
+
+chunk_id: ROB_U8_002
+unit: Flexible Robot Systems
+topic: Kinematics and Dynamics of Flexible Manipulators
+
+content: Kinematic and dynamic analysis of multi-link flexible robotic systems.
+
+keywords: flexible manipulators, robot dynamics
+
+---
+
+chunk_id: ROB_U8_003
+unit: Flexible Robot Systems
+topic: Control of Flexible Robots
+
+content: Control techniques, simulations, and experimental studies of flexible robotic manipulators.
+
+keywords: flexible robot control, robot experiments
+
+---
+
+chunk_id: ROB_U9_001
+unit: Wheeled Mobile Robots
+topic: Introduction to Wheeled Mobile Robots
+
+content: Overview, classifications, and applications of wheeled mobile robots (WMRs).
+
+keywords: wheeled mobile robots, WMR
+
+---
+
+chunk_id: ROB_U9_002
+unit: Wheeled Mobile Robots
+topic: Kinematics and Dynamics of WMRs
+
+content: Motion analysis, kinematics, dynamics, and stability of two-wheel and three-wheel mobile robots.
+
+keywords: mobile robot kinematics, robot stability
+
+---
+
+chunk_id: ROB_U9_003
+unit: Wheeled Mobile Robots
+topic: Slip Modelling and Uneven Terrain Navigation
+
+content: Modeling wheel slip, motion planning on uneven terrain, and stability analysis of mobile robots.
+
+keywords: wheel slip, uneven terrain
+
+---
+
+chunk_id: ROB_U9_004
+unit: Wheeled Mobile Robots
+topic: Simulation of Mobile Robots
+
+content: Simulation of wheeled mobile robots using MATLAB and ADAMS software tools.
+
+keywords: MATLAB simulation, ADAMS simulation
+
+---
+
+chunk_id: ROB_U10_001
+unit: Advanced Topics in Robotics
+topic: Nonlinear Dynamics and Chaos
+
+content: Concepts of nonlinear dynamics, chaos theory, and their applications in robotic systems.
+
+keywords: chaos theory, nonlinear dynamics
+
+---
+
+chunk_id: ROB_U10_002
+unit: Advanced Topics in Robotics
+topic: Gough-Stewart Platform Singularities
+
+content: Singularity analysis, precision motion, sensing applications, and platform-based sensor design.
+
+keywords: Stewart platform, singularities
+
+---
+
+chunk_id: ROB_U10_003
+unit: Advanced Topics in Robotics
+topic: Over-Constrained Mechanisms
+
+content: Analysis and design of over-constrained mechanisms and redundant robotic structures.
+
+keywords: over-constrained mechanisms, redundancy
+
+---
+
+chunk_id: ROB_U10_004
+unit: Advanced Topics in Robotics
+topic: Deployable Structures and Pantograph Mechanisms
+
+content: Kinematics and statics of deployable structures using pantographs and scissor-like elements.
+
+keywords: deployable structures, pantograph mechanisms

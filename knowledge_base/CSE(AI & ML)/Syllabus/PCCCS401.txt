@@ -1,0 +1,895 @@
+# SUBJECT_METADATA
+
+subject_name: Discrete Mathematics
+paper_code: PCC-CS401
+program: AIML
+
+---
+
+chunk_id: DM_U1_001
+unit: Sets, Relations, and Functions
+topic: Sets
+
+content: Fundamental concepts of sets, set notation, and set representation.
+
+keywords: sets, set theory
+
+---
+
+chunk_id: DM_U1_002
+unit: Sets, Relations, and Functions
+topic: Set Operations
+
+content: Union, intersection, difference, complement, and related operations on sets.
+
+keywords: set operations, union, intersection
+
+---
+
+chunk_id: DM_U1_003
+unit: Sets, Relations, and Functions
+topic: Laws of Sets
+
+content: Fundamental laws governing set operations, including distributive, associative, commutative, and De Morgan's laws.
+
+keywords: set laws, De Morgan laws
+
+---
+
+chunk_id: DM_U1_004
+unit: Sets, Relations, and Functions
+topic: Cartesian Product
+
+content: Construction and properties of Cartesian products of sets.
+
+keywords: Cartesian product
+
+---
+
+chunk_id: DM_U1_005
+unit: Sets, Relations, and Functions
+topic: Binary Relation
+
+content: Definition, representation, and properties of binary relations between sets.
+
+keywords: binary relation
+
+---
+
+chunk_id: DM_U1_006
+unit: Sets, Relations, and Functions
+topic: Partial Order Relation
+
+content: Relations that satisfy reflexivity, antisymmetry, and transitivity.
+
+keywords: partial order relation, poset
+
+---
+
+chunk_id: DM_U1_007
+unit: Sets, Relations, and Functions
+topic: Equivalence Relation
+
+content: Relations that satisfy reflexivity, symmetry, and transitivity.
+
+keywords: equivalence relation
+
+---
+
+chunk_id: DM_U1_008
+unit: Sets, Relations, and Functions
+topic: Image of a Set
+
+content: Set of outputs obtained by applying a function to all elements of a given set.
+
+keywords: image of a set
+
+---
+
+chunk_id: DM_U1_009
+unit: Sets, Relations, and Functions
+topic: Functions
+
+content: Mathematical mappings between sets and their fundamental properties.
+
+keywords: functions, mappings
+
+---
+
+chunk_id: DM_U1_010
+unit: Sets, Relations, and Functions
+topic: Sum of Functions
+
+content: Definition and properties of the addition of functions.
+
+keywords: sum of functions
+
+---
+
+chunk_id: DM_U1_011
+unit: Sets, Relations, and Functions
+topic: Product of Functions
+
+content: Definition and properties of multiplication of functions.
+
+keywords: product of functions
+
+---
+
+chunk_id: DM_U1_012
+unit: Sets, Relations, and Functions
+topic: Bijective Functions
+
+content: Functions that are both injective and surjective.
+
+keywords: bijection, one to one and onto
+
+---
+
+chunk_id: DM_U1_013
+unit: Sets, Relations, and Functions
+topic: Inverse Function
+
+content: Function that reverses the mapping of a bijective function.
+
+keywords: inverse function
+
+---
+
+chunk_id: DM_U1_014
+unit: Sets, Relations, and Functions
+topic: Composite Function
+
+content: Function obtained by applying one function after another.
+
+keywords: composite function
+
+---
+
+chunk_id: DM_U1_015
+unit: Sets, Relations, and Functions
+topic: Finite Sets
+
+content: Sets containing a finite number of elements.
+
+keywords: finite sets
+
+---
+
+chunk_id: DM_U1_016
+unit: Sets, Relations, and Functions
+topic: Infinite Sets
+
+content: Sets containing infinitely many elements.
+
+keywords: infinite sets
+
+---
+
+chunk_id: DM_U1_017
+unit: Sets, Relations, and Functions
+topic: Countable Sets
+
+content: Infinite sets whose elements can be placed in one-to-one correspondence with natural numbers.
+
+keywords: countable sets
+
+---
+
+chunk_id: DM_U1_018
+unit: Sets, Relations, and Functions
+topic: Uncountable Sets
+
+content: Infinite sets that cannot be placed in one-to-one correspondence with natural numbers.
+
+keywords: uncountable sets
+
+---
+
+chunk_id: DM_U1_019
+unit: Sets, Relations, and Functions
+topic: Cantor's Diagonal Argument
+
+content: Proof technique demonstrating the existence of uncountable sets.
+
+keywords: Cantor diagonal argument
+
+---
+
+chunk_id: DM_U1_020
+unit: Sets, Relations, and Functions
+topic: Power Set Theorem
+
+content: Theorem stating that the power set of a set has strictly greater cardinality than the set itself.
+
+keywords: power set theorem
+
+---
+
+chunk_id: DM_U1_021
+unit: Sets, Relations, and Functions
+topic: Schroeder-Bernstein Theorem
+
+content: Theorem relating injective functions and cardinality equivalence of sets.
+
+keywords: Schroeder Bernstein theorem
+
+---
+
+chunk_id: DM_U2_001
+unit: Mathematical Induction and Number Theory
+topic: Well-Ordering Principle
+
+content: Every non-empty set of positive integers contains a least element.
+
+keywords: well ordering principle
+
+---
+
+chunk_id: DM_U2_002
+unit: Mathematical Induction and Number Theory
+topic: Mathematical Induction
+
+content: Proof technique used to establish statements for all positive integers.
+
+keywords: mathematical induction
+
+---
+
+chunk_id: DM_U2_003
+unit: Mathematical Induction and Number Theory
+topic: Recursive Definition
+
+content: Definition of mathematical objects in terms of previously defined values.
+
+keywords: recursive definition
+
+---
+
+chunk_id: DM_U2_004
+unit: Mathematical Induction and Number Theory
+topic: Division Algorithm
+
+content: Theorem expressing division of integers in quotient-remainder form.
+
+keywords: division algorithm
+
+---
+
+chunk_id: DM_U2_005
+unit: Mathematical Induction and Number Theory
+topic: Prime Numbers
+
+content: Integers greater than one having exactly two positive divisors.
+
+keywords: prime numbers
+
+---
+
+chunk_id: DM_U2_006
+unit: Mathematical Induction and Number Theory
+topic: Greatest Common Divisor
+
+content: Largest positive integer dividing two or more integers without remainder.
+
+keywords: GCD, greatest common divisor
+
+---
+
+chunk_id: DM_U2_007
+unit: Mathematical Induction and Number Theory
+topic: Euclidean Algorithm
+
+content: Efficient method for computing the greatest common divisor.
+
+keywords: Euclidean algorithm
+
+---
+
+chunk_id: DM_U2_008
+unit: Mathematical Induction and Number Theory
+topic: Fundamental Theorem of Arithmetic
+
+content: Every integer greater than one has a unique prime factorization.
+
+keywords: fundamental theorem of arithmetic
+
+---
+
+chunk_id: DM_U3_001
+unit: Counting Techniques
+topic: Inclusion-Exclusion Principle
+
+content: Counting technique used to determine the size of unions of overlapping sets.
+
+keywords: inclusion exclusion principle
+
+---
+
+chunk_id: DM_U3_002
+unit: Counting Techniques
+topic: Pigeonhole Principle
+
+content: Principle stating that if more objects than containers are distributed, at least one container must hold multiple objects.
+
+keywords: pigeonhole principle
+
+---
+
+chunk_id: DM_U3_003
+unit: Counting Techniques
+topic: Permutations
+
+content: Arrangements of objects where order matters.
+
+keywords: permutations
+
+---
+
+chunk_id: DM_U3_004
+unit: Counting Techniques
+topic: Combinations
+
+content: Selections of objects where order does not matter.
+
+keywords: combinations
+
+---
+
+chunk_id: DM_U4_001
+unit: Logic and Proof Techniques
+topic: Propositional Logic
+
+content: Formal system based on propositions and logical reasoning.
+
+keywords: propositional logic
+
+---
+
+chunk_id: DM_U4_002
+unit: Logic and Proof Techniques
+topic: Syntax and Semantics
+
+content: Rules governing the structure and meaning of logical expressions.
+
+keywords: syntax, semantics
+
+---
+
+chunk_id: DM_U4_003
+unit: Logic and Proof Techniques
+topic: Validity
+
+content: Property of logical arguments whose conclusions follow from premises in all interpretations.
+
+keywords: validity
+
+---
+
+chunk_id: DM_U4_004
+unit: Logic and Proof Techniques
+topic: Satisfiability
+
+content: Existence of an interpretation that makes a logical formula true.
+
+keywords: satisfiability
+
+---
+
+chunk_id: DM_U4_005
+unit: Logic and Proof Techniques
+topic: Logical Connectives
+
+content: Operators including AND, OR, NOT, implication, and biconditional.
+
+keywords: logical connectives
+
+---
+
+chunk_id: DM_U4_006
+unit: Logic and Proof Techniques
+topic: Truth Tables
+
+content: Tabular representation of logical expression evaluations.
+
+keywords: truth tables
+
+---
+
+chunk_id: DM_U4_007
+unit: Logic and Proof Techniques
+topic: Logical Equivalence
+
+content: Relationship between expressions that always produce identical truth values.
+
+keywords: logical equivalence
+
+---
+
+chunk_id: DM_U4_008
+unit: Logic and Proof Techniques
+topic: Laws of Logic
+
+content: Fundamental laws governing logical reasoning and simplification.
+
+keywords: laws of logic
+
+---
+
+chunk_id: DM_U4_009
+unit: Logic and Proof Techniques
+topic: Logical Implication
+
+content: Relationship where one proposition logically follows from another.
+
+keywords: implication
+
+---
+
+chunk_id: DM_U4_010
+unit: Logic and Proof Techniques
+topic: Rules of Inference
+
+content: Formal rules used to derive valid conclusions from premises.
+
+keywords: rules of inference
+
+---
+
+chunk_id: DM_U4_011
+unit: Logic and Proof Techniques
+topic: Quantifiers
+
+content: Universal and existential quantifiers used in predicate logic.
+
+keywords: quantifiers
+
+---
+
+chunk_id: DM_U4_012
+unit: Logic and Proof Techniques
+topic: Proof Techniques
+
+content: Methods used to establish mathematical statements.
+
+keywords: proof techniques
+
+---
+
+chunk_id: DM_U4_013
+unit: Logic and Proof Techniques
+topic: Forward Proof
+
+content: Proof method proceeding directly from assumptions to conclusion.
+
+keywords: direct proof, forward proof
+
+---
+
+chunk_id: DM_U4_014
+unit: Logic and Proof Techniques
+topic: Proof by Contradiction
+
+content: Proof method assuming the negation of a statement and deriving a contradiction.
+
+keywords: contradiction proof
+
+---
+
+chunk_id: DM_U4_015
+unit: Logic and Proof Techniques
+topic: Proof by Contraposition
+
+content: Proof method demonstrating the contrapositive of an implication.
+
+keywords: contraposition
+
+---
+
+chunk_id: DM_U4_016
+unit: Logic and Proof Techniques
+topic: Necessity and Sufficiency
+
+content: Proof techniques involving necessary and sufficient conditions.
+
+keywords: necessity, sufficiency
+
+---
+
+chunk_id: DM_U5_001
+unit: Algebraic Structures
+topic: Algebraic Structures
+
+content: Mathematical systems consisting of sets equipped with operations satisfying specific properties.
+
+keywords: algebraic structures
+
+---
+
+chunk_id: DM_U5_002
+unit: Algebraic Structures
+topic: Semigroups
+
+content: Algebraic structures with an associative binary operation.
+
+keywords: semigroup
+
+---
+
+chunk_id: DM_U5_003
+unit: Algebraic Structures
+topic: Monoids
+
+content: Semigroups containing an identity element.
+
+keywords: monoid
+
+---
+
+chunk_id: DM_U5_004
+unit: Algebraic Structures
+topic: Groups
+
+content: Algebraic structures with associative operation, identity element, and inverses.
+
+keywords: group theory, groups
+
+---
+
+chunk_id: DM_U5_005
+unit: Algebraic Structures
+topic: Congruence Relations
+
+content: Equivalence relations compatible with algebraic operations.
+
+keywords: congruence relation
+
+---
+
+chunk_id: DM_U5_006
+unit: Algebraic Structures
+topic: Quotient Structures
+
+content: Algebraic structures formed using equivalence classes.
+
+keywords: quotient structure
+
+---
+
+chunk_id: DM_U5_007
+unit: Algebraic Structures
+topic: Cyclic Groups
+
+content: Groups generated by a single element.
+
+keywords: cyclic group
+
+---
+
+chunk_id: DM_U5_008
+unit: Algebraic Structures
+topic: Permutation Groups
+
+content: Groups whose elements are permutations under composition.
+
+keywords: permutation group
+
+---
+
+chunk_id: DM_U5_009
+unit: Algebraic Structures
+topic: Subgroups
+
+content: Subsets of groups that themselves form groups under the same operation.
+
+keywords: subgroup
+
+---
+
+chunk_id: DM_U5_010
+unit: Algebraic Structures
+topic: Normal Subgroups
+
+content: Subgroups invariant under conjugation by group elements.
+
+keywords: normal subgroup
+
+---
+
+chunk_id: DM_U5_011
+unit: Algebraic Structures
+topic: Rings
+
+content: Algebraic structures with two binary operations satisfying ring axioms.
+
+keywords: rings
+
+---
+
+chunk_id: DM_U5_012
+unit: Algebraic Structures
+topic: Integral Domains
+
+content: Commutative rings with identity and no zero divisors.
+
+keywords: integral domain
+
+---
+
+chunk_id: DM_U5_013
+unit: Algebraic Structures
+topic: Fields
+
+content: Algebraic structures in which every nonzero element has a multiplicative inverse.
+
+keywords: fields, field theory
+
+---
+
+chunk_id: DM_U5_014
+unit: Algebraic Structures
+topic: Boolean Algebra
+
+content: Algebraic system for logical operations and digital logic.
+
+keywords: Boolean algebra
+
+---
+
+chunk_id: DM_U5_015
+unit: Algebraic Structures
+topic: Boolean Rings
+
+content: Rings in which every element is idempotent.
+
+keywords: Boolean ring
+
+---
+
+chunk_id: DM_U5_016
+unit: Algebraic Structures
+topic: Duality Principle
+
+content: Principle relating dual expressions in Boolean algebra.
+
+keywords: duality principle
+
+---
+
+chunk_id: DM_U5_017
+unit: Algebraic Structures
+topic: Boolean Functions
+
+content: Functions whose outputs are Boolean values determined by logical operations.
+
+keywords: Boolean functions
+
+---
+
+chunk_id: DM_U5_018
+unit: Algebraic Structures
+topic: Disjunctive Normal Form
+
+content: Standard Boolean expression form using OR of AND terms.
+
+keywords: DNF, disjunctive normal form
+
+---
+
+chunk_id: DM_U5_019
+unit: Algebraic Structures
+topic: Conjunctive Normal Form
+
+content: Standard Boolean expression form using AND of OR terms.
+
+keywords: CNF, conjunctive normal form
+
+---
+
+chunk_id: DM_U6_001
+unit: Graph Theory and Trees
+topic: Graphs
+
+content: Mathematical structures used to model pairwise relationships between objects.
+
+keywords: graph theory, graphs
+
+---
+
+chunk_id: DM_U6_002
+unit: Graph Theory and Trees
+topic: Graph Degree
+
+content: Number of edges incident to a vertex.
+
+keywords: degree of vertex
+
+---
+
+chunk_id: DM_U6_003
+unit: Graph Theory and Trees
+topic: Graph Connectivity
+
+content: Property describing whether vertices are connected by paths.
+
+keywords: graph connectivity
+
+---
+
+chunk_id: DM_U6_004
+unit: Graph Theory and Trees
+topic: Paths and Cycles
+
+content: Sequences of connected vertices and closed paths in graphs.
+
+keywords: paths, cycles
+
+---
+
+chunk_id: DM_U6_005
+unit: Graph Theory and Trees
+topic: Subgraphs
+
+content: Graphs formed from subsets of vertices and edges of a larger graph.
+
+keywords: subgraph
+
+---
+
+chunk_id: DM_U6_006
+unit: Graph Theory and Trees
+topic: Graph Isomorphism
+
+content: Structural equivalence between graphs.
+
+keywords: graph isomorphism
+
+---
+
+chunk_id: DM_U6_007
+unit: Graph Theory and Trees
+topic: Eulerian Graphs
+
+content: Graphs containing Eulerian paths or circuits traversing each edge exactly once.
+
+keywords: Eulerian graph
+
+---
+
+chunk_id: DM_U6_008
+unit: Graph Theory and Trees
+topic: Hamiltonian Graphs
+
+content: Graphs containing Hamiltonian paths or cycles visiting each vertex exactly once.
+
+keywords: Hamiltonian graph
+
+---
+
+chunk_id: DM_U6_009
+unit: Graph Theory and Trees
+topic: Graph Coloring
+
+content: Assignment of colors to graph elements subject to constraints.
+
+keywords: graph coloring
+
+---
+
+chunk_id: DM_U6_010
+unit: Graph Theory and Trees
+topic: Planar Graphs
+
+content: Graphs drawable without edge crossings.
+
+keywords: planar graph
+
+---
+
+chunk_id: DM_U6_011
+unit: Graph Theory and Trees
+topic: Vertex Coloring
+
+content: Coloring graph vertices such that adjacent vertices have different colors.
+
+keywords: vertex coloring
+
+---
+
+chunk_id: DM_U6_012
+unit: Graph Theory and Trees
+topic: Edge Coloring
+
+content: Coloring graph edges such that adjacent edges have different colors.
+
+keywords: edge coloring
+
+---
+
+chunk_id: DM_U6_013
+unit: Graph Theory and Trees
+topic: List Coloring
+
+content: Graph coloring where each vertex has its own allowable color set.
+
+keywords: list coloring
+
+---
+
+chunk_id: DM_U6_014
+unit: Graph Theory and Trees
+topic: Perfect Graphs
+
+content: Graphs satisfying equality between clique number and chromatic number for every induced subgraph.
+
+keywords: perfect graph
+
+---
+
+chunk_id: DM_U6_015
+unit: Graph Theory and Trees
+topic: Rooted Trees
+
+content: Trees with a designated root vertex.
+
+keywords: rooted tree
+
+---
+
+chunk_id: DM_U6_016
+unit: Graph Theory and Trees
+topic: Trees and Sorting
+
+content: Applications of tree structures in sorting and searching algorithms.
+
+keywords: trees, sorting
+
+---
+
+chunk_id: DM_U6_017
+unit: Graph Theory and Trees
+topic: Weighted Trees
+
+content: Trees whose edges or vertices are assigned weights.
+
+keywords: weighted tree
+
+---
+
+chunk_id: DM_U6_018
+unit: Graph Theory and Trees
+topic: Prefix Codes
+
+content: Coding schemes represented using tree structures where no code is a prefix of another.
+
+keywords: prefix codes, Huffman coding
+
+---
+
+chunk_id: DM_U6_019
+unit: Graph Theory and Trees
+topic: Biconnected Components
+
+content: Maximal subgraphs that remain connected after removal of any single vertex.
+
+keywords: biconnected components
+
+---
+
+chunk_id: DM_U6_020
+unit: Graph Theory and Trees
+topic: Articulation Points
+
+content: Vertices whose removal increases the number of connected components.
+
+keywords: articulation points
+
+---
+
+chunk_id: DM_U6_021
+unit: Graph Theory and Trees
+topic: Shortest Path Distance
+
+content: Minimum distance between vertices in a graph according to specified edge weights.
+
+keywords: shortest path, graph distance

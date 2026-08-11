@@ -1,0 +1,715 @@
+# SUBJECT_METADATA
+
+subject_name: Artificial Intelligence
+paper_code: PCCAIML 401
+program: AIML
+
+---
+
+chunk_id: AI_U1_001
+unit: Introduction to Artificial Intelligence
+topic: Artificial Intelligence Overview
+
+content: Definition, scope, objectives, and applications of Artificial Intelligence. Overview of AI as a field focused on creating intelligent systems capable of reasoning, learning, and decision-making.
+
+keywords: artificial intelligence, AI overview, intelligent systems
+
+---
+
+chunk_id: AI_U1_002
+unit: Introduction to Artificial Intelligence
+topic: Problems in Artificial Intelligence
+
+content: Types of problems addressed by AI, including reasoning, planning, learning, perception, and natural language understanding.
+
+keywords: AI problems, reasoning, planning, learning
+
+---
+
+chunk_id: AI_U1_003
+unit: Introduction to Artificial Intelligence
+topic: AI Techniques
+
+content: Fundamental techniques used in AI, including search, knowledge representation, reasoning, learning, and optimization.
+
+keywords: AI techniques, search, reasoning, learning
+
+---
+
+chunk_id: AI_U1_004
+unit: Introduction to Artificial Intelligence
+topic: Tic-Tac-Toe Problem
+
+content: Tic-Tac-Toe as a classical AI problem used to demonstrate game playing, state-space search, and decision-making.
+
+keywords: tic tac toe, game playing, AI example
+
+---
+
+chunk_id: AI_U1_005
+unit: Intelligent Agents
+topic: Intelligent Agents
+
+content: Definition and characteristics of intelligent agents that perceive their environment and act to achieve goals.
+
+keywords: intelligent agents, agent systems
+
+---
+
+chunk_id: AI_U1_006
+unit: Intelligent Agents
+topic: Agent Environment
+
+content: Interaction between agents and their environments through perception and actions.
+
+keywords: agent environment
+
+---
+
+chunk_id: AI_U1_007
+unit: Intelligent Agents
+topic: Nature of Environments
+
+content: Classification of environments as observable, deterministic, stochastic, static, dynamic, discrete, and continuous.
+
+keywords: environment types, AI environments
+
+---
+
+chunk_id: AI_U1_008
+unit: Intelligent Agents
+topic: Agent Architecture
+
+content: Structure and components of intelligent agents including sensors, actuators, and decision mechanisms.
+
+keywords: agent architecture
+
+---
+
+chunk_id: AI_U1_009
+unit: Intelligent Agents
+topic: Goal-Based Agents
+
+content: Agents that select actions based on achieving predefined goals.
+
+keywords: goal based agents
+
+---
+
+chunk_id: AI_U1_010
+unit: Intelligent Agents
+topic: Utility-Based Agents
+
+content: Agents that evaluate actions using utility functions to maximize overall benefit.
+
+keywords: utility based agents
+
+---
+
+chunk_id: AI_U1_011
+unit: Intelligent Agents
+topic: Learning Agents
+
+content: Agents capable of improving performance through experience and learning.
+
+keywords: learning agents
+
+---
+
+chunk_id: AI_U1_012
+unit: Problem Solving
+topic: Problem Formulation
+
+content: Defining AI problems using states, actions, transitions, goals, and path costs.
+
+keywords: problem formulation
+
+---
+
+chunk_id: AI_U1_013
+unit: Problem Solving
+topic: State Space Search
+
+content: Representation of problems as state spaces and exploration of possible solutions.
+
+keywords: state space search
+
+---
+
+chunk_id: AI_U1_014
+unit: Problem Solving
+topic: Production Systems
+
+content: Rule-based systems consisting of production rules, working memory, and control strategies.
+
+keywords: production systems
+
+---
+
+chunk_id: AI_U1_015
+unit: Problem Solving
+topic: Problem Characteristics
+
+content: Properties of AI problems that influence the choice of solution methods.
+
+keywords: problem characteristics
+
+---
+
+chunk_id: AI_U1_016
+unit: Problem Solving
+topic: Search Program Design
+
+content: Design considerations and challenges involved in developing search algorithms.
+
+keywords: search design
+
+---
+
+chunk_id: AI_U2_001
+unit: Search Techniques
+topic: Problem Solving Agents
+
+content: Agents that solve problems through systematic search and decision-making.
+
+keywords: problem solving agents
+
+---
+
+chunk_id: AI_U2_002
+unit: Search Techniques
+topic: Search for Solutions
+
+content: General process of exploring possible states to reach a goal state.
+
+keywords: search solutions
+
+---
+
+chunk_id: AI_U2_003
+unit: Search Techniques
+topic: Breadth First Search
+
+content: Uninformed search strategy that explores nodes level by level.
+
+keywords: BFS, breadth first search
+
+---
+
+chunk_id: AI_U2_004
+unit: Search Techniques
+topic: Depth First Search
+
+content: Uninformed search strategy that explores the deepest nodes first.
+
+keywords: DFS, depth first search
+
+---
+
+chunk_id: AI_U2_005
+unit: Search Techniques
+topic: Depth Limited Search
+
+content: Depth-first search with a predefined depth limit.
+
+keywords: depth limited search
+
+---
+
+chunk_id: AI_U2_006
+unit: Search Techniques
+topic: Bidirectional Search
+
+content: Search performed simultaneously from initial and goal states.
+
+keywords: bidirectional search
+
+---
+
+chunk_id: AI_U2_007
+unit: Search Techniques
+topic: Uniform Search Strategy Comparison
+
+content: Comparison of uninformed search algorithms based on completeness, optimality, time complexity, and space complexity.
+
+keywords: search comparison
+
+---
+
+chunk_id: AI_U2_008
+unit: Heuristic Search
+topic: Heuristic Search
+
+content: Search techniques that use domain knowledge to guide exploration efficiently.
+
+keywords: heuristic search
+
+---
+
+chunk_id: AI_U2_009
+unit: Heuristic Search
+topic: Greedy Best First Search
+
+content: Search algorithm that expands nodes with the lowest estimated cost to the goal.
+
+keywords: greedy best first search
+
+---
+
+chunk_id: AI_U2_010
+unit: Heuristic Search
+topic: A Star Search
+
+content: Optimal heuristic search algorithm using path cost and heuristic estimate.
+
+keywords: A star, A* search
+
+---
+
+chunk_id: AI_U2_011
+unit: Heuristic Search
+topic: Memory Bounded Search
+
+content: Heuristic search methods designed to operate under memory constraints.
+
+keywords: memory bounded search
+
+---
+
+chunk_id: AI_U2_012
+unit: Local Search
+topic: Local Search Algorithms
+
+content: Optimization techniques that improve solutions through iterative refinement.
+
+keywords: local search
+
+---
+
+chunk_id: AI_U2_013
+unit: Local Search
+topic: Hill Climbing
+
+content: Local search strategy that repeatedly moves to better neighboring states.
+
+keywords: hill climbing
+
+---
+
+chunk_id: AI_U2_014
+unit: Local Search
+topic: Simulated Annealing
+
+content: Probabilistic optimization technique inspired by physical annealing processes.
+
+keywords: simulated annealing
+
+---
+
+chunk_id: AI_U2_015
+unit: Local Search
+topic: Local Beam Search
+
+content: Search method that explores multiple candidate states simultaneously.
+
+keywords: local beam search
+
+---
+
+chunk_id: AI_U2_016
+unit: Local Search
+topic: Genetic Algorithms
+
+content: Evolutionary optimization technique based on selection, crossover, and mutation.
+
+keywords: genetic algorithms
+
+---
+
+chunk_id: AI_U2_017
+unit: Constraint Satisfaction Problems
+topic: Constraint Satisfaction Problems
+
+content: Problems defined by variables, domains, and constraints.
+
+keywords: CSP, constraint satisfaction
+
+---
+
+chunk_id: AI_U2_018
+unit: Constraint Satisfaction Problems
+topic: Local Search for CSP
+
+content: Applying local search methods to solve constraint satisfaction problems.
+
+keywords: CSP local search
+
+---
+
+chunk_id: AI_U2_019
+unit: Adversarial Search
+topic: Adversarial Search
+
+content: Search techniques used in competitive environments such as games.
+
+keywords: adversarial search
+
+---
+
+chunk_id: AI_U2_020
+unit: Adversarial Search
+topic: Game Playing
+
+content: AI methods for decision-making in competitive game environments.
+
+keywords: game playing
+
+---
+
+chunk_id: AI_U2_021
+unit: Adversarial Search
+topic: Minimax Algorithm
+
+content: Decision-making algorithm for two-player zero-sum games.
+
+keywords: minimax
+
+---
+
+chunk_id: AI_U2_022
+unit: Adversarial Search
+topic: Alpha Beta Pruning
+
+content: Optimization technique that reduces the number of nodes evaluated in minimax search.
+
+keywords: alpha beta pruning
+
+---
+
+chunk_id: AI_U2_023
+unit: Adversarial Search
+topic: Iterative Deepening
+
+content: Search strategy combining depth-first search with increasing depth limits.
+
+keywords: iterative deepening
+
+---
+
+chunk_id: AI_U3_001
+unit: Knowledge Representation
+topic: Knowledge Representation
+
+content: Methods for representing knowledge in artificial intelligence systems.
+
+keywords: knowledge representation
+
+---
+
+chunk_id: AI_U3_002
+unit: Knowledge Representation
+topic: Representation Mapping
+
+content: Mapping real-world information into machine-readable structures.
+
+keywords: representation mapping
+
+---
+
+chunk_id: AI_U3_003
+unit: Knowledge Representation
+topic: Knowledge Representation Approaches
+
+content: Logical, semantic, frame-based, and rule-based approaches to knowledge representation.
+
+keywords: representation approaches
+
+---
+
+chunk_id: AI_U3_004
+unit: Knowledge Representation
+topic: Knowledge Representation Issues
+
+content: Challenges associated with representing and reasoning about knowledge.
+
+keywords: representation issues
+
+---
+
+chunk_id: AI_U4_001
+unit: Predicate Logic
+topic: Predicate Logic
+
+content: Formal logic system used for representing facts, objects, and relationships.
+
+keywords: predicate logic
+
+---
+
+chunk_id: AI_U4_002
+unit: Predicate Logic
+topic: Facts in Logic
+
+content: Representation of simple facts using predicates and logical expressions.
+
+keywords: logic facts
+
+---
+
+chunk_id: AI_U4_003
+unit: Predicate Logic
+topic: Instance and ISA Relationships
+
+content: Representation of object-class relationships in predicate logic.
+
+keywords: instance relationship, ISA relationship
+
+---
+
+chunk_id: AI_U4_004
+unit: Predicate Logic
+topic: Computable Functions and Predicates
+
+content: Representation of functions and predicates that can be evaluated computationally.
+
+keywords: computable predicates
+
+---
+
+chunk_id: AI_U4_005
+unit: Predicate Logic
+topic: Resolution
+
+content: Automated reasoning technique used in theorem proving.
+
+keywords: resolution
+
+---
+
+chunk_id: AI_U4_006
+unit: Predicate Logic
+topic: Natural Deduction
+
+content: Formal reasoning method based on inference rules.
+
+keywords: natural deduction
+
+---
+
+chunk_id: AI_U4_007
+unit: Probabilistic Reasoning
+topic: Uncertain Knowledge
+
+content: Representation and reasoning under uncertainty.
+
+keywords: uncertain knowledge
+
+---
+
+chunk_id: AI_U4_008
+unit: Probabilistic Reasoning
+topic: Bayesian Networks
+
+content: Graphical probabilistic models representing conditional dependencies.
+
+keywords: Bayesian networks
+
+---
+
+chunk_id: AI_U4_009
+unit: Probabilistic Reasoning
+topic: Dempster Shafer Theory
+
+content: Framework for reasoning with uncertain and incomplete information.
+
+keywords: Dempster Shafer theory
+
+---
+
+chunk_id: AI_U4_010
+unit: Probabilistic Reasoning
+topic: Fuzzy Sets
+
+content: Mathematical framework for representing partial membership.
+
+keywords: fuzzy sets
+
+---
+
+chunk_id: AI_U4_011
+unit: Probabilistic Reasoning
+topic: Fuzzy Logic
+
+content: Logic system that supports reasoning with imprecise information.
+
+keywords: fuzzy logic
+
+---
+
+chunk_id: AI_U5_001
+unit: Natural Language Processing
+topic: Natural Language Processing
+
+content: Techniques that enable computers to understand, interpret, and generate human language.
+
+keywords: NLP, natural language processing
+
+---
+
+chunk_id: AI_U5_002
+unit: Natural Language Processing
+topic: Syntactic Processing
+
+content: Analysis of sentence structure and grammar.
+
+keywords: syntax analysis
+
+---
+
+chunk_id: AI_U5_003
+unit: Natural Language Processing
+topic: Semantic Analysis
+
+content: Extraction of meaning from language.
+
+keywords: semantic analysis
+
+---
+
+chunk_id: AI_U5_004
+unit: Natural Language Processing
+topic: Discourse Processing
+
+content: Understanding relationships across multiple sentences.
+
+keywords: discourse processing
+
+---
+
+chunk_id: AI_U5_005
+unit: Natural Language Processing
+topic: Pragmatic Processing
+
+content: Interpretation of language based on context and intent.
+
+keywords: pragmatic processing
+
+---
+
+chunk_id: AI_U5_006
+unit: Machine Learning
+topic: Learning in Artificial Intelligence
+
+content: Process through which systems improve performance using experience and data.
+
+keywords: machine learning, AI learning
+
+---
+
+chunk_id: AI_U5_007
+unit: Machine Learning
+topic: Forms of Learning
+
+content: Different learning paradigms including supervised, unsupervised, and reinforcement learning concepts.
+
+keywords: forms of learning
+
+---
+
+chunk_id: AI_U5_008
+unit: Machine Learning
+topic: Inductive Learning
+
+content: Learning generalized rules from observed examples.
+
+keywords: inductive learning
+
+---
+
+chunk_id: AI_U5_009
+unit: Machine Learning
+topic: Decision Tree Learning
+
+content: Learning decision structures for classification and prediction tasks.
+
+keywords: decision tree learning
+
+---
+
+chunk_id: AI_U5_010
+unit: Machine Learning
+topic: Explanation Based Learning
+
+content: Learning by analyzing explanations of solved examples.
+
+keywords: explanation based learning
+
+---
+
+chunk_id: AI_U5_011
+unit: Machine Learning
+topic: Relevance Information Learning
+
+content: Learning using prior knowledge about relevant attributes.
+
+keywords: relevance information
+
+---
+
+chunk_id: AI_U5_012
+unit: Machine Learning
+topic: Neural Network Learning
+
+content: Learning through interconnected artificial neurons and weight optimization.
+
+keywords: neural networks
+
+---
+
+chunk_id: AI_U5_013
+unit: Machine Learning
+topic: Genetic Learning
+
+content: Learning and optimization using evolutionary computation techniques.
+
+keywords: genetic learning
+
+---
+
+chunk_id: AI_U5_014
+unit: Expert Systems
+topic: Expert Systems
+
+content: AI systems that emulate human expert decision-making using knowledge bases and inference engines.
+
+keywords: expert systems
+
+---
+
+chunk_id: AI_U5_015
+unit: Expert Systems
+topic: Domain Knowledge Representation
+
+content: Methods of storing and utilizing specialized knowledge within expert systems.
+
+keywords: domain knowledge
+
+---
+
+chunk_id: AI_U5_016
+unit: Expert Systems
+topic: Expert System Shells
+
+content: Software frameworks used to build expert systems.
+
+keywords: expert system shells
+
+---
+
+chunk_id: AI_U5_017
+unit: Expert Systems
+topic: Knowledge Acquisition
+
+content: Process of collecting and organizing expert knowledge for AI systems.
+
+keywords: knowledge acquisition

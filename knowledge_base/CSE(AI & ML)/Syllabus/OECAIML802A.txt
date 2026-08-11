@@ -1,0 +1,445 @@
+# SUBJECT_METADATA
+
+subject_name: Human Resource Development and Organizational Behavior
+paper_code: OECAIML802A
+category: Open Elective
+
+---
+
+chunk_id: HRDOB_U1_001
+unit: Organizational Behaviour Fundamentals
+topic: Introduction to Organizational Behaviour
+
+content: Definition, scope, objectives, and significance of Organizational Behaviour in understanding and managing human behavior within organizations.
+
+keywords: organizational behaviour, OB fundamentals
+
+---
+
+chunk_id: HRDOB_U1_002
+unit: Organizational Behaviour Fundamentals
+topic: Importance of Organizational Behaviour
+
+content: Role of organizational behaviour in improving organizational effectiveness, employee performance, and workplace relationships.
+
+keywords: importance of OB, organizational effectiveness
+
+---
+
+chunk_id: HRDOB_U1_003
+unit: Organizational Behaviour Fundamentals
+topic: Historical Background of Organizational Behaviour
+
+content: Evolution of organizational behaviour theories and major contributions to the field of organizational studies.
+
+keywords: history of OB, organizational theory
+
+---
+
+chunk_id: HRDOB_U1_004
+unit: Organizational Behaviour Fundamentals
+topic: Fundamental Concepts of Organizational Behaviour
+
+content: Basic concepts including individual behavior, group dynamics, organizational systems, and workplace interactions.
+
+keywords: OB concepts, workplace behavior
+
+---
+
+chunk_id: HRDOB_U1_005
+unit: Organizational Behaviour Fundamentals
+topic: Challenges and Opportunities in Organizational Behaviour
+
+content: Emerging challenges and opportunities related to workforce diversity, globalization, technology, and organizational change.
+
+keywords: OB challenges, workplace opportunities
+
+---
+
+chunk_id: HRDOB_U1_006
+unit: Organizational Behaviour Fundamentals
+topic: Meaning of Personality
+
+content: Concept of personality, its characteristics, and significance in influencing employee behavior.
+
+keywords: personality, individual behavior
+
+---
+
+chunk_id: HRDOB_U1_007
+unit: Organizational Behaviour Fundamentals
+topic: Personality Determinants
+
+content: Factors influencing personality development including heredity, environment, and situational influences.
+
+keywords: personality determinants, behavior factors
+
+---
+
+chunk_id: HRDOB_U1_008
+unit: Organizational Behaviour Fundamentals
+topic: Personality Traits
+
+content: Major personality traits and their impact on workplace performance and interpersonal relationships.
+
+keywords: personality traits, workplace behavior
+
+---
+
+chunk_id: HRDOB_U1_009
+unit: Organizational Behaviour Fundamentals
+topic: Development of Personality
+
+content: Processes and factors contributing to personality formation and development over time.
+
+keywords: personality development, human behavior
+
+---
+
+chunk_id: HRDOB_U1_010
+unit: Organizational Behaviour Fundamentals
+topic: Types of Attitudes
+
+content: Understanding employee attitudes, their formation, dimensions, and influence on organizational outcomes.
+
+keywords: attitudes, employee behavior
+
+---
+
+chunk_id: HRDOB_U1_011
+unit: Organizational Behaviour Fundamentals
+topic: Job Satisfaction
+
+content: Factors affecting job satisfaction, measurement techniques, and its impact on productivity and employee retention.
+
+keywords: job satisfaction, employee motivation
+
+---
+
+chunk_id: HRDOB_U2_001
+unit: Perception and Motivation
+topic: Introduction to Perception
+
+content: Definition, nature, and importance of perception in shaping employee behavior and decision-making.
+
+keywords: perception, organizational behavior
+
+---
+
+chunk_id: HRDOB_U2_002
+unit: Perception and Motivation
+topic: Factors Influencing Perception
+
+content: Internal and external factors that affect how individuals interpret information and situations.
+
+keywords: perception factors, perception process
+
+---
+
+chunk_id: HRDOB_U2_003
+unit: Perception and Motivation
+topic: Perceptual Selectivity
+
+content: Process through which individuals selectively interpret and focus on specific information.
+
+keywords: perceptual selectivity, selective perception
+
+---
+
+chunk_id: HRDOB_U2_004
+unit: Perception and Motivation
+topic: Perception and Decision Making
+
+content: Relationship between perception and managerial as well as individual decision-making processes.
+
+keywords: perception, decision making
+
+---
+
+chunk_id: HRDOB_U2_005
+unit: Perception and Motivation
+topic: Introduction to Motivation
+
+content: Meaning, importance, and role of motivation in enhancing employee performance and organizational success.
+
+keywords: motivation, employee performance
+
+---
+
+chunk_id: HRDOB_U2_006
+unit: Perception and Motivation
+topic: Maslow's Hierarchy of Needs Theory
+
+content: Five-level hierarchy of human needs and its application in motivating employees.
+
+keywords: Maslow theory, hierarchy of needs
+
+---
+
+chunk_id: HRDOB_U2_007
+unit: Perception and Motivation
+topic: McGregor's Theory X and Theory Y
+
+content: Assumptions about employee behavior and management styles based on Theory X and Theory Y.
+
+keywords: Theory X, Theory Y
+
+---
+
+chunk_id: HRDOB_U2_008
+unit: Perception and Motivation
+topic: Herzberg's Motivation-Hygiene Theory
+
+content: Distinction between motivators and hygiene factors influencing employee satisfaction and motivation.
+
+keywords: Herzberg theory, motivation hygiene
+
+---
+
+chunk_id: HRDOB_U2_009
+unit: Perception and Motivation
+topic: Alderfer's ERG Theory
+
+content: Motivation theory based on Existence, Relatedness, and Growth needs.
+
+keywords: ERG theory, Alderfer
+
+---
+
+chunk_id: HRDOB_U2_010
+unit: Perception and Motivation
+topic: McClelland's Theory of Needs
+
+content: Achievement, affiliation, and power needs as drivers of human motivation.
+
+keywords: McClelland theory, needs theory
+
+---
+
+chunk_id: HRDOB_U2_011
+unit: Perception and Motivation
+topic: Vroom's Expectancy Theory
+
+content: Motivation framework based on expectancy, instrumentality, and valence.
+
+keywords: expectancy theory, Vroom
+
+---
+
+chunk_id: HRDOB_U3_001
+unit: Group Behaviour, Communication and Leadership
+topic: Introduction to Group Behaviour
+
+content: Nature, importance, and characteristics of groups within organizations.
+
+keywords: group behavior, teams
+
+---
+
+chunk_id: HRDOB_U3_002
+unit: Group Behaviour, Communication and Leadership
+topic: Types of Groups
+
+content: Formal and informal groups, command groups, task groups, and interest groups.
+
+keywords: group types, formal groups
+
+---
+
+chunk_id: HRDOB_U3_003
+unit: Group Behaviour, Communication and Leadership
+topic: Stages of Group Development
+
+content: Formation, storming, norming, performing, and adjourning stages of group development.
+
+keywords: group development, team formation
+
+---
+
+chunk_id: HRDOB_U3_004
+unit: Group Behaviour, Communication and Leadership
+topic: Group Decision Making
+
+content: Techniques, advantages, limitations, and effectiveness of group decision-making processes.
+
+keywords: group decisions, team decisions
+
+---
+
+chunk_id: HRDOB_U3_005
+unit: Group Behaviour, Communication and Leadership
+topic: Communication Process
+
+content: Components and flow of communication within organizations for effective information exchange.
+
+keywords: communication process, information flow
+
+---
+
+chunk_id: HRDOB_U3_006
+unit: Group Behaviour, Communication and Leadership
+topic: Direction of Communication
+
+content: Upward, downward, horizontal, and diagonal communication channels in organizations.
+
+keywords: communication channels, organizational communication
+
+---
+
+chunk_id: HRDOB_U3_007
+unit: Group Behaviour, Communication and Leadership
+topic: Barriers to Effective Communication
+
+content: Common communication barriers and methods to overcome them for organizational effectiveness.
+
+keywords: communication barriers, effective communication
+
+---
+
+chunk_id: HRDOB_U3_008
+unit: Group Behaviour, Communication and Leadership
+topic: Introduction to Leadership
+
+content: Definition, significance, and role of leadership in organizational success.
+
+keywords: leadership, management
+
+---
+
+chunk_id: HRDOB_U3_009
+unit: Group Behaviour, Communication and Leadership
+topic: Theories of Leadership
+
+content: Major leadership theories explaining leader behavior, traits, and effectiveness.
+
+keywords: leadership theories, leadership models
+
+---
+
+chunk_id: HRDOB_U3_010
+unit: Group Behaviour, Communication and Leadership
+topic: Leadership Styles
+
+content: Different leadership styles including autocratic, democratic, laissez-faire, and situational approaches.
+
+keywords: leadership styles, management styles
+
+---
+
+chunk_id: HRDOB_U4_001
+unit: Organizational Politics, Conflict and Design
+topic: Organizational Politics
+
+content: Meaning, nature, and significance of political behavior within organizations.
+
+keywords: organizational politics, workplace politics
+
+---
+
+chunk_id: HRDOB_U4_002
+unit: Organizational Politics, Conflict and Design
+topic: Factors Contributing to Political Behaviour
+
+content: Individual and organizational factors that encourage political activities in workplaces.
+
+keywords: political behavior, organizational factors
+
+---
+
+chunk_id: HRDOB_U4_003
+unit: Organizational Politics, Conflict and Design
+topic: Conflict Management
+
+content: Nature, causes, consequences, and management of conflicts in organizations.
+
+keywords: conflict management, workplace conflict
+
+---
+
+chunk_id: HRDOB_U4_004
+unit: Organizational Politics, Conflict and Design
+topic: Traditional and Modern Views of Conflict
+
+content: Evolution of conflict theories from traditional negative perspectives to modern functional approaches.
+
+keywords: conflict theories, conflict views
+
+---
+
+chunk_id: HRDOB_U4_005
+unit: Organizational Politics, Conflict and Design
+topic: Functional and Dysfunctional Conflict
+
+content: Positive and negative impacts of conflict on organizational performance and employee behavior.
+
+keywords: functional conflict, dysfunctional conflict
+
+---
+
+chunk_id: HRDOB_U4_006
+unit: Organizational Politics, Conflict and Design
+topic: Conflict Process
+
+content: Stages and dynamics involved in the development and resolution of conflicts.
+
+keywords: conflict process, conflict resolution
+
+---
+
+chunk_id: HRDOB_U4_007
+unit: Organizational Politics, Conflict and Design
+topic: Negotiation and Bargaining Strategies
+
+content: Principles, techniques, and strategies used in organizational negotiations and bargaining situations.
+
+keywords: negotiation, bargaining strategies
+
+---
+
+chunk_id: HRDOB_U4_008
+unit: Organizational Politics, Conflict and Design
+topic: Negotiation Process
+
+content: Steps involved in preparing, conducting, and concluding successful negotiations.
+
+keywords: negotiation process, conflict resolution
+
+---
+
+chunk_id: HRDOB_U4_009
+unit: Organizational Politics, Conflict and Design
+topic: Organizational Design
+
+content: Principles of designing organizational structures to achieve efficiency and effectiveness.
+
+keywords: organizational design, structure
+
+---
+
+chunk_id: HRDOB_U4_010
+unit: Organizational Politics, Conflict and Design
+topic: Organizational Structures
+
+content: Types of organizational structures and their influence on employee behavior and performance.
+
+keywords: organizational structure, management design
+
+---
+
+chunk_id: HRDOB_U4_011
+unit: Organizational Politics, Conflict and Design
+topic: Organizational Climate
+
+content: Shared perceptions of organizational policies, practices, and work environment.
+
+keywords: organizational climate, workplace environment
+
+---
+
+chunk_id: HRDOB_U4_012
+unit: Organizational Politics, Conflict and Design
+topic: Organizational Culture
+
+content: Values, beliefs, norms, and traditions that shape organizational identity and employee behavior.
+
+keywords: organizational culture, workplace values

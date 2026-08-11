@@ -1,0 +1,725 @@
+# SUBJECT_METADATA
+
+subject_name: Economics for Engineers
+paper_code: HSMC-301
+program: AIML
+
+---
+
+chunk_id: ECO_U1_001
+unit: Economic Decision Making
+topic: Economic Decision Making
+
+content: Overview of economic decision making, its importance, challenges, roles, and systematic decision-making processes.
+
+keywords: economic decision making, engineering economics
+
+---
+
+chunk_id: ECO_U1_002
+unit: Economic Decision Making
+topic: Economic Problems
+
+content: Types of economic problems encountered in engineering projects and resource allocation.
+
+keywords: economic problems, resource allocation
+
+---
+
+chunk_id: ECO_U1_003
+unit: Economic Decision Making
+topic: Decision-Making Process
+
+content: Steps involved in identifying, evaluating, and selecting economic alternatives.
+
+keywords: decision process, alternatives evaluation
+
+---
+
+chunk_id: ECO_U2_001
+unit: Engineering Cost Analysis
+topic: Engineering Costs
+
+content: Classification and analysis of costs used in engineering economic studies.
+
+keywords: engineering costs, cost analysis
+
+---
+
+chunk_id: ECO_U2_002
+unit: Engineering Cost Analysis
+topic: Fixed Costs
+
+content: Costs that remain constant regardless of production or operational levels.
+
+keywords: fixed cost
+
+---
+
+chunk_id: ECO_U2_003
+unit: Engineering Cost Analysis
+topic: Variable Costs
+
+content: Costs that change proportionally with production or activity levels.
+
+keywords: variable cost
+
+---
+
+chunk_id: ECO_U2_004
+unit: Engineering Cost Analysis
+topic: Marginal Cost
+
+content: Additional cost incurred by producing one extra unit of output.
+
+keywords: marginal cost
+
+---
+
+chunk_id: ECO_U2_005
+unit: Engineering Cost Analysis
+topic: Average Cost
+
+content: Cost per unit calculated by dividing total cost by total output.
+
+keywords: average cost
+
+---
+
+chunk_id: ECO_U2_006
+unit: Engineering Cost Analysis
+topic: Sunk Cost
+
+content: Cost already incurred that cannot be recovered and should not influence future decisions.
+
+keywords: sunk cost
+
+---
+
+chunk_id: ECO_U2_007
+unit: Engineering Cost Analysis
+topic: Opportunity Cost
+
+content: Value of the next best alternative forgone when making a decision.
+
+keywords: opportunity cost
+
+---
+
+chunk_id: ECO_U2_008
+unit: Engineering Cost Analysis
+topic: Recurring Cost
+
+content: Costs that occur repeatedly during the life of a project or system.
+
+keywords: recurring cost
+
+---
+
+chunk_id: ECO_U2_009
+unit: Engineering Cost Analysis
+topic: Non-Recurring Cost
+
+content: One-time costs incurred during project initiation or acquisition.
+
+keywords: non recurring cost
+
+---
+
+chunk_id: ECO_U2_010
+unit: Engineering Cost Analysis
+topic: Incremental Cost
+
+content: Additional cost resulting from choosing one alternative over another.
+
+keywords: incremental cost
+
+---
+
+chunk_id: ECO_U2_011
+unit: Engineering Cost Analysis
+topic: Cash Cost
+
+content: Actual cash expenditures incurred during operations.
+
+keywords: cash cost
+
+---
+
+chunk_id: ECO_U2_012
+unit: Engineering Cost Analysis
+topic: Book Cost
+
+content: Non-cash accounting costs recorded in financial statements.
+
+keywords: book cost
+
+---
+
+chunk_id: ECO_U2_013
+unit: Engineering Cost Analysis
+topic: Life-Cycle Cost
+
+content: Total cost of ownership over the complete life of an asset or project.
+
+keywords: life cycle cost
+
+---
+
+chunk_id: ECO_U2_014
+unit: Engineering Cost Analysis
+topic: Cost Estimation
+
+content: Methods and techniques used for estimating engineering project costs.
+
+keywords: cost estimation
+
+---
+
+chunk_id: ECO_U2_015
+unit: Engineering Cost Analysis
+topic: Per-Unit Cost Model
+
+content: Cost estimation model based on unit production costs.
+
+keywords: per unit model
+
+---
+
+chunk_id: ECO_U2_016
+unit: Engineering Cost Analysis
+topic: Segmenting Cost Model
+
+content: Cost estimation approach based on dividing projects into segments or components.
+
+keywords: segmenting model
+
+---
+
+chunk_id: ECO_U2_017
+unit: Engineering Cost Analysis
+topic: Cost Index
+
+content: Numerical indicator used to estimate cost changes over time.
+
+keywords: cost index
+
+---
+
+chunk_id: ECO_U2_018
+unit: Engineering Cost Analysis
+topic: Power-Sizing Model
+
+content: Cost estimation model based on scaling laws and capacity relationships.
+
+keywords: power sizing model
+
+---
+
+chunk_id: ECO_U2_019
+unit: Engineering Cost Analysis
+topic: Learning Curve
+
+content: Relationship between experience and reduction in production cost or time.
+
+keywords: learning curve
+
+---
+
+chunk_id: ECO_U3_001
+unit: Cash Flow and Interest Analysis
+topic: Cash Flow
+
+content: Movement of money into and out of a project, investment, or business activity.
+
+keywords: cash flow
+
+---
+
+chunk_id: ECO_U3_002
+unit: Cash Flow and Interest Analysis
+topic: Cash Flow Diagram
+
+content: Graphical representation of cash inflows and outflows over time.
+
+keywords: cash flow diagram
+
+---
+
+chunk_id: ECO_U3_003
+unit: Cash Flow and Interest Analysis
+topic: Time Value of Money
+
+content: Principle that money available today is worth more than the same amount in the future.
+
+keywords: time value of money
+
+---
+
+chunk_id: ECO_U3_004
+unit: Cash Flow and Interest Analysis
+topic: Debt Repayment
+
+content: Methods and schedules for repaying borrowed funds.
+
+keywords: debt repayment
+
+---
+
+chunk_id: ECO_U3_005
+unit: Cash Flow and Interest Analysis
+topic: Nominal Interest Rate
+
+content: Interest rate stated without adjusting for compounding effects.
+
+keywords: nominal interest
+
+---
+
+chunk_id: ECO_U3_006
+unit: Cash Flow and Interest Analysis
+topic: Effective Interest Rate
+
+content: Actual interest rate after considering compounding frequency.
+
+keywords: effective interest rate
+
+---
+
+chunk_id: ECO_U3_007
+unit: Cash Flow and Interest Analysis
+topic: Annual Cash Flow Analysis
+
+content: Evaluation of project viability using annualized cash flow values.
+
+keywords: annual cash flow
+
+---
+
+chunk_id: ECO_U3_008
+unit: Cash Flow and Interest Analysis
+topic: Salvage Value
+
+content: Estimated residual value of an asset at the end of its useful life.
+
+keywords: salvage value
+
+---
+
+chunk_id: ECO_U3_009
+unit: Cash Flow and Interest Analysis
+topic: Internal Rate of Return
+
+content: Discount rate at which the net present value of a project becomes zero.
+
+keywords: IRR, internal rate of return
+
+---
+
+chunk_id: ECO_U3_010
+unit: Cash Flow and Interest Analysis
+topic: Incremental Analysis
+
+content: Economic evaluation based on differences between competing alternatives.
+
+keywords: incremental analysis
+
+---
+
+chunk_id: ECO_U3_011
+unit: Cash Flow and Interest Analysis
+topic: Future Worth Analysis
+
+content: Evaluation of investments using future value calculations.
+
+keywords: future worth analysis
+
+---
+
+chunk_id: ECO_U3_012
+unit: Cash Flow and Interest Analysis
+topic: Benefit-Cost Ratio Analysis
+
+content: Comparison of benefits and costs to evaluate project feasibility.
+
+keywords: benefit cost ratio
+
+---
+
+chunk_id: ECO_U3_013
+unit: Cash Flow and Interest Analysis
+topic: Sensitivity Analysis
+
+content: Assessment of how changes in variables affect economic outcomes.
+
+keywords: sensitivity analysis
+
+---
+
+chunk_id: ECO_U3_014
+unit: Cash Flow and Interest Analysis
+topic: Break-Even Analysis
+
+content: Determination of the point where total revenue equals total cost.
+
+keywords: break even analysis
+
+---
+
+chunk_id: ECO_U3_015
+unit: Public Sector Economics
+topic: Economic Analysis in the Public Sector
+
+content: Methods for evaluating public projects, including quantification of benefits and drawbacks.
+
+keywords: public sector economics
+
+---
+
+chunk_id: ECO_U4_001
+unit: Inflation and Present Worth Analysis
+topic: Inflation
+
+content: Definition, causes, and economic effects of inflation.
+
+keywords: inflation
+
+---
+
+chunk_id: ECO_U4_002
+unit: Inflation and Present Worth Analysis
+topic: Price Change
+
+content: Analysis of changes in prices over time using economic indicators.
+
+keywords: price change
+
+---
+
+chunk_id: ECO_U4_003
+unit: Inflation and Present Worth Analysis
+topic: Price Index
+
+content: Numerical measure used to track average changes in prices.
+
+keywords: price index
+
+---
+
+chunk_id: ECO_U4_004
+unit: Inflation and Present Worth Analysis
+topic: Composite Index
+
+content: Price index representing a group of commodities or services.
+
+keywords: composite index
+
+---
+
+chunk_id: ECO_U4_005
+unit: Inflation and Present Worth Analysis
+topic: Commodity Index
+
+content: Index measuring price changes for specific commodities.
+
+keywords: commodity index
+
+---
+
+chunk_id: ECO_U4_006
+unit: Inflation and Present Worth Analysis
+topic: Present Worth Analysis
+
+content: Evaluation of economic alternatives using present value techniques.
+
+keywords: present worth analysis, present value
+
+---
+
+chunk_id: ECO_U4_007
+unit: Inflation and Present Worth Analysis
+topic: Borrowed Money Viewpoint
+
+content: Present worth evaluation considering borrowed funds and financing costs.
+
+keywords: borrowed money viewpoint
+
+---
+
+chunk_id: ECO_U4_008
+unit: Inflation and Present Worth Analysis
+topic: Inflation and Deflation Effects
+
+content: Impact of inflation and deflation on economic decision making.
+
+keywords: inflation effect, deflation
+
+---
+
+chunk_id: ECO_U4_009
+unit: Inflation and Present Worth Analysis
+topic: Economic Criteria
+
+content: Criteria used to compare and evaluate engineering alternatives.
+
+keywords: economic criteria
+
+---
+
+chunk_id: ECO_U5_001
+unit: Uncertainty and Risk Analysis
+topic: Estimation in Economic Analysis
+
+content: Use of estimates and forecasting techniques in economic evaluation.
+
+keywords: estimation, forecasting
+
+---
+
+chunk_id: ECO_U5_002
+unit: Uncertainty and Risk Analysis
+topic: Probability
+
+content: Fundamentals of probability applied to economic decision making.
+
+keywords: probability
+
+---
+
+chunk_id: ECO_U5_003
+unit: Uncertainty and Risk Analysis
+topic: Joint Probability Distribution
+
+content: Probability distribution describing two or more random variables simultaneously.
+
+keywords: joint probability distribution
+
+---
+
+chunk_id: ECO_U5_004
+unit: Uncertainty and Risk Analysis
+topic: Expected Value
+
+content: Weighted average outcome used in decision analysis.
+
+keywords: expected value
+
+---
+
+chunk_id: ECO_U5_005
+unit: Uncertainty and Risk Analysis
+topic: Economic Decision Trees
+
+content: Graphical decision-making tool for evaluating uncertain alternatives.
+
+keywords: decision tree
+
+---
+
+chunk_id: ECO_U5_006
+unit: Uncertainty and Risk Analysis
+topic: Risk Analysis
+
+content: Identification and evaluation of risks associated with economic decisions.
+
+keywords: risk analysis
+
+---
+
+chunk_id: ECO_U5_007
+unit: Uncertainty and Risk Analysis
+topic: Risk and Return
+
+content: Relationship between investment risk and expected return.
+
+keywords: risk vs return
+
+---
+
+chunk_id: ECO_U5_008
+unit: Uncertainty and Risk Analysis
+topic: Simulation
+
+content: Use of computational models to evaluate uncertain economic outcomes.
+
+keywords: simulation
+
+---
+
+chunk_id: ECO_U5_009
+unit: Uncertainty and Risk Analysis
+topic: Real Options
+
+content: Strategic decision-making opportunities embedded in investment projects.
+
+keywords: real options
+
+---
+
+chunk_id: ECO_U6_001
+unit: Depreciation and Asset Management
+topic: Depreciation
+
+content: Reduction in asset value over time due to usage, wear, or obsolescence.
+
+keywords: depreciation
+
+---
+
+chunk_id: ECO_U6_002
+unit: Depreciation and Asset Management
+topic: Deterioration and Obsolescence
+
+content: Physical wear and technological aging affecting asset value.
+
+keywords: deterioration, obsolescence
+
+---
+
+chunk_id: ECO_U6_003
+unit: Depreciation and Asset Management
+topic: Straight-Line Depreciation
+
+content: Depreciation method allocating equal expense each year.
+
+keywords: straight line depreciation
+
+---
+
+chunk_id: ECO_U6_004
+unit: Depreciation and Asset Management
+topic: Declining Balance Depreciation
+
+content: Accelerated depreciation method applying a constant rate to book value.
+
+keywords: declining balance depreciation
+
+---
+
+chunk_id: ECO_U6_005
+unit: Depreciation and Asset Management
+topic: Capital Allowance
+
+content: Tax-related depreciation deductions permitted by regulations.
+
+keywords: capital allowance
+
+---
+
+chunk_id: ECO_U6_006
+unit: Depreciation and Asset Management
+topic: Replacement Analysis
+
+content: Economic evaluation of replacing existing assets with new alternatives.
+
+keywords: replacement analysis
+
+---
+
+chunk_id: ECO_U6_007
+unit: Depreciation and Asset Management
+topic: Minimum Cost Life
+
+content: Determination of the optimal replacement age of an asset.
+
+keywords: minimum cost life
+
+---
+
+chunk_id: ECO_U6_008
+unit: Depreciation and Asset Management
+topic: Marginal Cost Life Analysis
+
+content: Use of marginal cost concepts to determine replacement timing.
+
+keywords: marginal cost life
+
+---
+
+chunk_id: ECO_U7_001
+unit: Accounting Fundamentals
+topic: Accounting
+
+content: Purpose, functions, and role of accounting in organizations.
+
+keywords: accounting
+
+---
+
+chunk_id: ECO_U7_002
+unit: Accounting Fundamentals
+topic: Balance Sheet
+
+content: Financial statement showing assets, liabilities, and equity at a specific date.
+
+keywords: balance sheet
+
+---
+
+chunk_id: ECO_U7_003
+unit: Accounting Fundamentals
+topic: Income Statement
+
+content: Financial statement reporting revenues, expenses, and profit over a period.
+
+keywords: income statement
+
+---
+
+chunk_id: ECO_U7_004
+unit: Accounting Fundamentals
+topic: Financial Ratios
+
+content: Ratios used to evaluate financial performance and organizational health.
+
+keywords: financial ratios
+
+---
+
+chunk_id: ECO_U7_005
+unit: Accounting Fundamentals
+topic: Capital Transactions
+
+content: Accounting treatment of investments, financing, and capital activities.
+
+keywords: capital transactions
+
+---
+
+chunk_id: ECO_U7_006
+unit: Accounting Fundamentals
+topic: Cost Accounting
+
+content: Accounting methods used for tracking and controlling costs.
+
+keywords: cost accounting
+
+---
+
+chunk_id: ECO_U7_007
+unit: Accounting Fundamentals
+topic: Direct Costs
+
+content: Costs directly attributable to a product, service, or project.
+
+keywords: direct cost
+
+---
+
+chunk_id: ECO_U7_008
+unit: Accounting Fundamentals
+topic: Indirect Costs
+
+content: Costs that cannot be directly assigned to a specific product or project.
+
+keywords: indirect cost
+
+---
+
+chunk_id: ECO_U7_009
+unit: Accounting Fundamentals
+topic: Indirect Cost Allocation
+
+content: Methods for distributing indirect costs among departments, products, or projects.
+
+keywords: indirect cost allocation

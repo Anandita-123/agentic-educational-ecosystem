@@ -1,0 +1,507 @@
+# SUBJECT_METADATA
+
+subject_name: Soft Computing
+paper_code: PCCAIML603, PCCAIML693
+category: Professional Core
+
+---
+
+chunk_id: SC_U1_001
+unit: Introduction to Soft Computing
+topic: Fundamentals of Soft Computing
+
+content: Introduction to soft computing, objectives, characteristics, advantages over traditional computing approaches, and applications in solving uncertain, imprecise, and complex real-world problems.
+
+keywords: soft computing, intelligent systems, computational intelligence
+
+---
+
+chunk_id: SC_U1_002
+unit: Introduction to Soft Computing
+topic: Core Components of Soft Computing
+
+content: Overview of fuzzy logic systems, artificial neural networks, biological neural networks, genetic algorithms, and their roles in soft computing.
+
+keywords: fuzzy logic, neural networks, genetic algorithms
+
+---
+
+chunk_id: SC_U2_001
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Classical Sets
+
+content: Classical set theory, set operations, properties of classical sets, crisp membership, and Boolean set representation.
+
+keywords: classical sets, crisp sets, set operations
+
+---
+
+chunk_id: SC_U2_002
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Fuzzy Sets
+
+content: Fuzzy set theory, degrees of membership, fuzzy set operations, properties of fuzzy sets, and representation of uncertainty.
+
+keywords: fuzzy sets, membership degree, uncertainty
+
+---
+
+chunk_id: SC_U2_003
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Fuzzy Relations
+
+content: Definition of fuzzy relations, cardinality, operations on fuzzy relations, and properties of fuzzy relational systems.
+
+keywords: fuzzy relations, cardinality
+
+---
+
+chunk_id: SC_U2_004
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Membership Functions
+
+content: Features of membership functions, standard membership function forms, boundaries, and representation of fuzzy variables.
+
+keywords: membership functions, fuzzy variables
+
+---
+
+chunk_id: SC_U2_005
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Fuzzification Methods
+
+content: Techniques for converting crisp inputs into fuzzy values using various fuzzification approaches.
+
+keywords: fuzzification, fuzzy input
+
+---
+
+chunk_id: SC_U2_006
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Lambda Cuts
+
+content: Lambda cuts (α-cuts) for fuzzy sets, representation of fuzzy subsets, and applications in fuzzy reasoning.
+
+keywords: lambda cuts, alpha cuts
+
+---
+
+chunk_id: SC_U2_007
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Defuzzification Methods
+
+content: Techniques for converting fuzzy outputs into crisp values, including centroid, bisector, mean of maxima, and weighted average methods.
+
+keywords: defuzzification, crisp output
+
+---
+
+chunk_id: SC_U2_008
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Classical Predicate Logic
+
+content: Fundamentals of classical predicate logic, logical operators, propositions, predicates, and truth evaluation.
+
+keywords: predicate logic, classical logic
+
+---
+
+chunk_id: SC_U2_009
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Fuzzy Logic
+
+content: Principles of fuzzy logic, truth values between 0 and 1, approximate reasoning, and handling uncertainty.
+
+keywords: fuzzy logic, approximate reasoning
+
+---
+
+chunk_id: SC_U2_010
+unit: Fuzzy Sets and Fuzzy Logic
+topic: Fuzzy Implication
+
+content: Fuzzy implication operators and their use in fuzzy reasoning and inference systems.
+
+keywords: fuzzy implication
+
+---
+
+chunk_id: SC_U2_011
+unit: Fuzzy Rule Based Systems
+topic: Linguistic Hedges
+
+content: Linguistic modifiers such as very, slightly, more or less, and their role in fuzzy rule representation.
+
+keywords: linguistic hedges, fuzzy modifiers
+
+---
+
+chunk_id: SC_U2_012
+unit: Fuzzy Rule Based Systems
+topic: Fuzzy Rule Aggregation
+
+content: Aggregation of multiple fuzzy rules for decision making and inference generation.
+
+keywords: fuzzy rule aggregation
+
+---
+
+chunk_id: SC_U2_013
+unit: Fuzzy Rule Based Systems
+topic: Fuzzy Inference Systems
+
+content: Structure and operation of fuzzy inference systems for knowledge representation and decision support.
+
+keywords: fuzzy inference system, FIS
+
+---
+
+chunk_id: SC_U2_014
+unit: Fuzzy Rule Based Systems
+topic: Mamdani Fuzzy Model
+
+content: Mamdani fuzzy inference model, rule evaluation process, fuzzification, inference engine, and defuzzification.
+
+keywords: Mamdani model, fuzzy inference
+
+---
+
+chunk_id: SC_U2_015
+unit: Fuzzy Rule Based Systems
+topic: Sugeno Fuzzy Model
+
+content: Sugeno fuzzy inference model, rule outputs, mathematical representation, and computational advantages.
+
+keywords: Sugeno model, fuzzy systems
+
+---
+
+chunk_id: SC_U2_016
+unit: Applications of Fuzzy Logic
+topic: Fuzzy Logic in Home Appliances
+
+content: Applications of fuzzy logic in washing machines, air conditioners, refrigerators, and consumer electronics.
+
+keywords: fuzzy appliances, smart devices
+
+---
+
+chunk_id: SC_U2_017
+unit: Applications of Fuzzy Logic
+topic: Fuzzy Logic Controllers
+
+content: Design and operation of fuzzy logic controllers for industrial automation and control systems.
+
+keywords: fuzzy controller, control systems
+
+---
+
+chunk_id: SC_U2_018
+unit: Applications of Fuzzy Logic
+topic: Medical Diagnosis Systems
+
+content: Use of fuzzy logic in medical diagnosis, clinical decision support, and healthcare applications.
+
+keywords: fuzzy medical systems, diagnosis
+
+---
+
+chunk_id: SC_U2_019
+unit: Applications of Fuzzy Logic
+topic: Weather Forecasting
+
+content: Application of fuzzy logic techniques for weather prediction and environmental decision support systems.
+
+keywords: weather forecasting, fuzzy prediction
+
+---
+
+chunk_id: SC_U3_001
+unit: Neural Networks
+topic: Introduction to Neural Networks
+
+content: Historical development of neural networks, relationship with neuroscience, and comparison with classical artificial intelligence approaches.
+
+keywords: neural networks, computational intelligence
+
+---
+
+chunk_id: SC_U3_002
+unit: Neural Networks
+topic: Biological Neurons
+
+content: Structure and functioning of biological neurons, synapses, and neural communication mechanisms.
+
+keywords: biological neuron, neuroscience
+
+---
+
+chunk_id: SC_U3_003
+unit: Neural Networks
+topic: Artificial Neurons
+
+content: Mathematical model of artificial neurons including inputs, weights, activation functions, and outputs.
+
+keywords: artificial neuron, neuron model
+
+---
+
+chunk_id: SC_U3_004
+unit: Neural Networks
+topic: Learning Methods
+
+content: Learning paradigms used in neural networks including supervised, unsupervised, and reinforcement learning.
+
+keywords: learning methods, neural learning
+
+---
+
+chunk_id: SC_U3_005
+unit: Neural Networks
+topic: Hebbian Learning
+
+content: Hebbian learning rule based on strengthening connections between simultaneously activated neurons.
+
+keywords: Hebbian learning
+
+---
+
+chunk_id: SC_U3_006
+unit: Neural Networks
+topic: Competitive Learning
+
+content: Competitive learning algorithms where neurons compete to represent input patterns.
+
+keywords: competitive learning
+
+---
+
+chunk_id: SC_U3_007
+unit: Neural Networks
+topic: Boltzmann Learning
+
+content: Learning mechanisms based on Boltzmann machines and stochastic neural computation.
+
+keywords: Boltzmann learning, Boltzmann machine
+
+---
+
+chunk_id: SC_U3_008
+unit: Neural Networks
+topic: Perceptron
+
+content: Single-layer perceptron architecture, learning algorithm, classification capability, and limitations.
+
+keywords: perceptron
+
+---
+
+chunk_id: SC_U3_009
+unit: Neural Networks
+topic: Adaline Network
+
+content: Adaptive Linear Neuron (Adaline), learning process, and applications in pattern recognition.
+
+keywords: Adaline
+
+---
+
+chunk_id: SC_U3_010
+unit: Neural Networks
+topic: Madaline Network
+
+content: Multiple Adaptive Linear Neuron (Madaline) architecture and its applications in classification problems.
+
+keywords: Madaline
+
+---
+
+chunk_id: SC_U3_011
+unit: Neural Networks
+topic: Single Layer Neural Networks
+
+content: Architecture and operation of single-layer neural networks for simple classification tasks.
+
+keywords: single layer network
+
+---
+
+chunk_id: SC_U3_012
+unit: Neural Networks
+topic: Backpropagation Networks
+
+content: Multi-layer neural networks trained using the backpropagation algorithm for error minimization.
+
+keywords: backpropagation, multilayer network
+
+---
+
+chunk_id: SC_U3_013
+unit: Neural Networks
+topic: Kohonen Self Organizing Maps
+
+content: Self-organizing neural networks for clustering, dimensionality reduction, and pattern discovery.
+
+keywords: Kohonen network, SOM
+
+---
+
+chunk_id: SC_U3_014
+unit: Neural Networks
+topic: Hopfield Networks
+
+content: Recurrent neural network model used for associative memory and optimization problems.
+
+keywords: Hopfield network
+
+---
+
+chunk_id: SC_U3_015
+unit: Neuro-Fuzzy Systems
+
+topic: Neuro-Fuzzy Modeling
+
+content: Integration of neural networks and fuzzy logic systems for adaptive learning and intelligent decision making.
+
+keywords: neuro fuzzy systems, hybrid intelligence
+
+---
+
+chunk_id: SC_U3_016
+unit: Neural Network Applications
+
+topic: Pattern Recognition and Classification
+
+content: Applications of neural networks in image recognition, speech recognition, classification, and intelligent systems.
+
+keywords: pattern recognition, classification
+
+---
+
+chunk_id: SC_U4_001
+unit: Genetic Algorithms
+topic: Fundamentals of Genetic Algorithms
+
+content: Evolutionary computation inspired by natural selection, genetic representation, and optimization principles.
+
+keywords: genetic algorithm, evolutionary computing
+
+---
+
+chunk_id: SC_U4_002
+unit: Genetic Algorithms
+topic: Simple Genetic Algorithm
+
+content: Structure of a simple genetic algorithm including initialization, selection, crossover, mutation, and replacement.
+
+keywords: simple GA
+
+---
+
+chunk_id: SC_U4_003
+unit: Genetic Algorithms
+topic: Crossover Operators
+
+content: Genetic crossover techniques for generating new offspring and exploring solution spaces.
+
+keywords: crossover operator
+
+---
+
+chunk_id: SC_U4_004
+unit: Genetic Algorithms
+topic: Mutation Operators
+
+content: Mutation mechanisms for maintaining diversity and avoiding premature convergence.
+
+keywords: mutation operator
+
+---
+
+chunk_id: SC_U4_005
+unit: Genetic Algorithms
+topic: Multi Objective Genetic Algorithms
+
+content: Multi-Objective Genetic Algorithms (MOGA) for solving optimization problems with multiple conflicting objectives.
+
+keywords: MOGA, multi objective optimization
+
+---
+
+chunk_id: SC_U4_006
+unit: Applications of Genetic Algorithms
+topic: Search and Optimization
+
+content: Use of genetic algorithms for optimization, search spaces, and engineering design problems.
+
+keywords: optimization, search algorithms
+
+---
+
+chunk_id: SC_U4_007
+unit: Applications of Genetic Algorithms
+topic: GA Based Clustering
+
+content: Clustering techniques using genetic algorithms to optimize cluster quality and partitioning.
+
+keywords: GA clustering
+
+---
+
+chunk_id: SC_U4_008
+unit: Applications of Genetic Algorithms
+topic: Image Processing
+
+content: Genetic algorithm applications in image segmentation, enhancement, feature extraction, and analysis.
+
+keywords: image processing, genetic algorithms
+
+---
+
+chunk_id: SC_U4_009
+unit: Applications of Genetic Algorithms
+topic: Pattern Recognition
+
+content: Pattern recognition systems based on evolutionary optimization and genetic learning techniques.
+
+keywords: pattern recognition, GA applications
+
+---
+
+chunk_id: SC_U5_001
+unit: Other Soft Computing Techniques
+topic: Simulated Annealing
+
+content: Optimization technique inspired by annealing in metallurgy for finding near-optimal solutions in complex search spaces.
+
+keywords: simulated annealing
+
+---
+
+chunk_id: SC_U5_002
+unit: Other Soft Computing Techniques
+topic: Tabu Search
+
+content: Metaheuristic optimization technique that uses memory structures to avoid revisiting previously explored solutions.
+
+keywords: tabu search
+
+---
+
+chunk_id: SC_U5_003
+unit: Other Soft Computing Techniques
+topic: Ant Colony Optimization
+
+content: Nature-inspired optimization technique based on ant foraging behavior and pheromone-based path discovery.
+
+keywords: ACO, ant colony optimization
+
+---
+
+chunk_id: SC_U5_004
+unit: Other Soft Computing Techniques
+topic: Particle Swarm Optimization
+
+content: Population-based optimization technique inspired by swarm intelligence and collective behavior of birds and fish.
+
+keywords: PSO, particle swarm optimization, swarm intelligence

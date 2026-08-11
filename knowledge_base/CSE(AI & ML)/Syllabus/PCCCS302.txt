@@ -1,0 +1,485 @@
+# SUBJECT_METADATA
+
+subject_name: Computer Organization
+paper_code: PCC-CS302
+program: AIML
+
+---
+
+chunk_id: CO_U1_001
+unit: Computer System Fundamentals
+topic: Stored Program Computer Organization
+
+content: Basic organization of a stored-program computer and the principles of program execution.
+
+keywords: stored program computer, computer organization
+
+---
+
+chunk_id: CO_U1_002
+unit: Computer System Fundamentals
+topic: Program Execution Sequence
+
+content: Sequence of operations involved in executing a program within a computer system.
+
+keywords: program execution, instruction cycle
+
+---
+
+chunk_id: CO_U1_003
+unit: Computer System Fundamentals
+topic: Operating System Role
+
+content: Functions and responsibilities of an operating system in managing computer resources and program execution.
+
+keywords: operating system, OS
+
+---
+
+chunk_id: CO_U1_004
+unit: Computer System Fundamentals
+topic: Compiler and Assembler
+
+content: Roles of compilers and assemblers in translating high-level and assembly language programs into machine code.
+
+keywords: compiler, assembler
+
+---
+
+chunk_id: CO_U1_005
+unit: Computer System Fundamentals
+topic: Fetch Cycle
+
+content: Process of retrieving instructions from memory during program execution.
+
+keywords: fetch cycle, instruction fetch
+
+---
+
+chunk_id: CO_U1_006
+unit: Computer System Fundamentals
+topic: Decode Cycle
+
+content: Process of interpreting fetched instructions before execution.
+
+keywords: decode cycle, instruction decoding
+
+---
+
+chunk_id: CO_U1_007
+unit: Computer System Fundamentals
+topic: Execute Cycle
+
+content: Process of carrying out operations specified by decoded instructions.
+
+keywords: execute cycle, instruction execution
+
+---
+
+chunk_id: CO_U1_008
+unit: Computer System Fundamentals
+topic: Operators and Operands
+
+content: Concepts of operators and operands used in machine-level instructions.
+
+keywords: operator, operand
+
+---
+
+chunk_id: CO_U1_009
+unit: Computer System Fundamentals
+topic: CPU Registers
+
+content: Types and functions of processor registers used during instruction execution.
+
+keywords: registers, CPU registers
+
+---
+
+chunk_id: CO_U1_010
+unit: Computer System Fundamentals
+topic: Storage Organization
+
+content: Role of storage devices and memory in computer systems.
+
+keywords: storage, memory organization
+
+---
+
+chunk_id: CO_U1_011
+unit: Computer System Fundamentals
+topic: Instruction Format
+
+content: Structure and components of machine instructions.
+
+keywords: instruction format
+
+---
+
+chunk_id: CO_U1_012
+unit: Computer System Fundamentals
+topic: Instruction Set Architecture
+
+content: Collection of instructions supported by a processor and their characteristics.
+
+keywords: ISA, instruction set
+
+---
+
+chunk_id: CO_U1_013
+unit: Computer System Fundamentals
+topic: Addressing Modes
+
+content: Methods used by processors to access operands during instruction execution.
+
+keywords: addressing modes
+
+---
+
+chunk_id: CO_U1_014
+unit: Computer System Fundamentals
+topic: Number Systems
+
+content: Common number systems used in digital computers, including binary, octal, decimal, and hexadecimal.
+
+keywords: number systems, binary, hexadecimal
+
+---
+
+chunk_id: CO_U1_015
+unit: Computer System Fundamentals
+topic: Fixed-Point Number Representation
+
+content: Representation of numbers using a fixed number of digits before and after the radix point.
+
+keywords: fixed point representation
+
+---
+
+chunk_id: CO_U1_016
+unit: Computer System Fundamentals
+topic: Floating-Point Number Representation
+
+content: Representation of real numbers using mantissa and exponent fields.
+
+keywords: floating point representation
+
+---
+
+chunk_id: CO_U2_001
+unit: Arithmetic Logic and Number Representation
+topic: Overflow
+
+content: Conditions and causes of overflow during arithmetic operations.
+
+keywords: overflow, arithmetic overflow
+
+---
+
+chunk_id: CO_U2_002
+unit: Arithmetic Logic and Number Representation
+topic: Underflow
+
+content: Conditions and causes of underflow during arithmetic operations.
+
+keywords: underflow
+
+---
+
+chunk_id: CO_U2_003
+unit: Arithmetic Logic and Number Representation
+topic: Ripple Carry Adder
+
+content: Design and operation of ripple carry adders for binary addition.
+
+keywords: ripple carry adder
+
+---
+
+chunk_id: CO_U2_004
+unit: Arithmetic Logic and Number Representation
+topic: Carry Look-Ahead Adder
+
+content: Fast binary adder design using carry look-ahead logic.
+
+keywords: carry look ahead adder, CLA
+
+---
+
+chunk_id: CO_U2_005
+unit: Arithmetic Logic and Number Representation
+topic: Arithmetic Logic Unit
+
+content: Design and functionality of the Arithmetic Logic Unit (ALU).
+
+keywords: ALU, arithmetic logic unit
+
+---
+
+chunk_id: CO_U2_006
+unit: Arithmetic Logic and Number Representation
+topic: Booth's Multiplication Algorithm
+
+content: Fixed-point multiplication algorithm for signed binary numbers.
+
+keywords: Booth algorithm, multiplication
+
+---
+
+chunk_id: CO_U2_007
+unit: Arithmetic Logic and Number Representation
+topic: Restoring Division Algorithm
+
+content: Fixed-point binary division using the restoring division technique.
+
+keywords: restoring division
+
+---
+
+chunk_id: CO_U2_008
+unit: Arithmetic Logic and Number Representation
+topic: Non-Restoring Division Algorithm
+
+content: Fixed-point binary division using the non-restoring division technique.
+
+keywords: non restoring division
+
+---
+
+chunk_id: CO_U2_009
+unit: Arithmetic Logic and Number Representation
+topic: IEEE 754 Floating-Point Standard
+
+content: Standard representation and arithmetic of floating-point numbers in computer systems.
+
+keywords: IEEE 754, floating point standard
+
+---
+
+chunk_id: CO_U3_001
+unit: Memory Organization
+topic: Memory Unit Design
+
+content: Principles of memory unit design in computer systems.
+
+keywords: memory unit design
+
+---
+
+chunk_id: CO_U3_002
+unit: Memory Organization
+topic: CPU-Memory Interface
+
+content: Techniques and mechanisms for communication between CPU and memory.
+
+keywords: CPU memory interface
+
+---
+
+chunk_id: CO_U3_003
+unit: Memory Organization
+topic: Memory Organization
+
+content: Structural arrangement and management of memory resources.
+
+keywords: memory organization
+
+---
+
+chunk_id: CO_U3_004
+unit: Memory Organization
+topic: Static Memory
+
+content: Characteristics and operation of Static Random Access Memory (SRAM).
+
+keywords: SRAM, static memory
+
+---
+
+chunk_id: CO_U3_005
+unit: Memory Organization
+topic: Dynamic Memory
+
+content: Characteristics and operation of Dynamic Random Access Memory (DRAM).
+
+keywords: DRAM, dynamic memory
+
+---
+
+chunk_id: CO_U3_006
+unit: Memory Organization
+topic: Memory Hierarchy
+
+content: Organization of memory systems into hierarchical levels based on speed and capacity.
+
+keywords: memory hierarchy
+
+---
+
+chunk_id: CO_U3_007
+unit: Memory Organization
+topic: Associative Memory
+
+content: Memory accessed based on content rather than address.
+
+keywords: associative memory, CAM
+
+---
+
+chunk_id: CO_U3_008
+unit: Memory Organization
+topic: Cache Memory
+
+content: High-speed memory used to reduce average memory access time.
+
+keywords: cache memory
+
+---
+
+chunk_id: CO_U3_009
+unit: Memory Organization
+topic: Virtual Memory
+
+content: Memory management technique that extends physical memory using secondary storage.
+
+keywords: virtual memory
+
+---
+
+chunk_id: CO_U3_010
+unit: Memory Organization
+topic: Read Data Path
+
+content: Data path design for reading data from memory.
+
+keywords: read path, memory access
+
+---
+
+chunk_id: CO_U3_011
+unit: Memory Organization
+topic: Write Data Path
+
+content: Data path design for writing data into memory.
+
+keywords: write path, memory access
+
+---
+
+chunk_id: CO_U4_001
+unit: Control Unit and Processor Architecture
+topic: Control Unit Design
+
+content: Design principles and functions of the processor control unit.
+
+keywords: control unit
+
+---
+
+chunk_id: CO_U4_002
+unit: Control Unit and Processor Architecture
+topic: Hardwired Control Unit
+
+content: Control unit implementation using fixed hardware logic.
+
+keywords: hardwired control
+
+---
+
+chunk_id: CO_U4_003
+unit: Control Unit and Processor Architecture
+topic: Microprogrammed Control Unit
+
+content: Control unit implementation using microinstructions stored in control memory.
+
+keywords: microprogrammed control
+
+---
+
+chunk_id: CO_U4_004
+unit: Control Unit and Processor Architecture
+topic: Instruction Pipelining
+
+content: Technique for overlapping instruction execution stages to improve performance.
+
+keywords: instruction pipelining, pipeline
+
+---
+
+chunk_id: CO_U4_005
+unit: Control Unit and Processor Architecture
+topic: RISC Architecture
+
+content: Principles and characteristics of Reduced Instruction Set Computer architecture.
+
+keywords: RISC architecture
+
+---
+
+chunk_id: CO_U4_006
+unit: Control Unit and Processor Architecture
+topic: CISC Architecture
+
+content: Principles and characteristics of Complex Instruction Set Computer architecture.
+
+keywords: CISC architecture
+
+---
+
+chunk_id: CO_U4_007
+unit: Control Unit and Processor Architecture
+topic: RISC vs CISC
+
+content: Comparative analysis of RISC and CISC processor architectures.
+
+keywords: RISC vs CISC, processor architecture comparison
+
+---
+
+chunk_id: CO_U4_008
+unit: Input Output Systems
+topic: I/O Operations
+
+content: Fundamental concepts and mechanisms of input-output operations in computer systems.
+
+keywords: I/O operations
+
+---
+
+chunk_id: CO_U4_009
+unit: Input Output Systems
+topic: Handshaking
+
+content: Synchronization technique used during data transfer between devices.
+
+keywords: handshaking, data transfer
+
+---
+
+chunk_id: CO_U4_010
+unit: Input Output Systems
+topic: Programmed I/O
+
+content: Input-output technique where the processor actively controls data transfer operations.
+
+keywords: programmed I/O, polled I/O
+
+---
+
+chunk_id: CO_U4_011
+unit: Input Output Systems
+topic: Interrupt-Driven I/O
+
+content: Input-output technique using interrupts to notify the processor when service is required.
+
+keywords: interrupt, interrupt driven I/O
+
+---
+
+chunk_id: CO_U4_012
+unit: Input Output Systems
+topic: Direct Memory Access
+
+content: Data transfer mechanism allowing peripherals to communicate directly with memory without continuous CPU involvement.
+
+keywords: DMA, direct memory access

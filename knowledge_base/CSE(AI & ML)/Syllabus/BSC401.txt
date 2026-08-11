@@ -1,0 +1,835 @@
+# SUBJECT_METADATA
+
+subject_name: Biology
+paper_code: BSC401
+program: AIML
+
+---
+
+chunk_id: BIO_U1_001
+unit: Introduction to Biology
+topic: Biology as a Scientific Discipline
+
+content: Biology as a fundamental scientific discipline alongside Mathematics, Physics, and Chemistry.
+
+keywords: biology, scientific discipline
+
+---
+
+chunk_id: BIO_U1_002
+unit: Introduction to Biology
+topic: Science vs Engineering
+
+content: Differences between science and engineering illustrated through examples such as the human eye versus a camera and bird flight versus aircraft flight.
+
+keywords: science, engineering, biomimicry
+
+---
+
+chunk_id: BIO_U1_003
+unit: Introduction to Biology
+topic: Importance of Studying Biology
+
+content: Role of biology in understanding living systems, health, environment, and technological innovation.
+
+keywords: importance of biology
+
+---
+
+chunk_id: BIO_U1_004
+unit: Introduction to Biology
+topic: Biological Discoveries of the 18th and 19th Centuries
+
+content: Historical biological observations that contributed to major scientific discoveries.
+
+keywords: history of biology
+
+---
+
+chunk_id: BIO_U1_005
+unit: Introduction to Biology
+topic: Brownian Motion
+
+content: Observation of random particle movement by Robert Brown and its scientific significance.
+
+keywords: Brownian motion, Robert Brown
+
+---
+
+chunk_id: BIO_U1_006
+unit: Introduction to Biology
+topic: Origin of Thermodynamics
+
+content: Contributions of Julius Robert Mayer and biological observations to thermodynamic principles.
+
+keywords: thermodynamics, Julius Mayer
+
+---
+
+chunk_id: BIO_U1_007
+unit: Introduction to Biology
+topic: Scientific Observation
+
+content: Importance of observation as the foundation of scientific inquiry and discovery.
+
+keywords: scientific observation
+
+---
+
+chunk_id: BIO_U2_001
+unit: Classification of Living Organisms
+topic: Biological Classification
+
+content: Organization of living organisms based on shared characteristics and evolutionary relationships.
+
+keywords: biological classification
+
+---
+
+chunk_id: BIO_U2_002
+unit: Classification of Living Organisms
+topic: Morphological Classification
+
+content: Classification based on observable physical characteristics.
+
+keywords: morphology
+
+---
+
+chunk_id: BIO_U2_003
+unit: Classification of Living Organisms
+topic: Biochemical Classification
+
+content: Classification based on biochemical composition and metabolic characteristics.
+
+keywords: biochemical classification
+
+---
+
+chunk_id: BIO_U2_004
+unit: Classification of Living Organisms
+topic: Ecological Classification
+
+content: Classification based on environmental interactions and ecological roles.
+
+keywords: ecological classification
+
+---
+
+chunk_id: BIO_U2_005
+unit: Classification of Living Organisms
+topic: Cellularity
+
+content: Classification of organisms as unicellular or multicellular.
+
+keywords: unicellular, multicellular
+
+---
+
+chunk_id: BIO_U2_006
+unit: Classification of Living Organisms
+topic: Prokaryotes and Eukaryotes
+
+content: Classification based on cellular organization and presence of membrane-bound organelles.
+
+keywords: prokaryotes, eukaryotes
+
+---
+
+chunk_id: BIO_U2_007
+unit: Classification of Living Organisms
+topic: Lithotrophs
+
+content: Organisms that obtain energy from inorganic compounds.
+
+keywords: lithotrophs
+
+---
+
+chunk_id: BIO_U2_008
+unit: Classification of Living Organisms
+topic: Nitrogenous Waste Classification
+
+content: Classification based on excretory products including ammonotelic, ureotelic, and uricotelic organisms.
+
+keywords: ammonotelic, ureotelic, uricotelic
+
+---
+
+chunk_id: BIO_U2_009
+unit: Classification of Living Organisms
+topic: Habitat-Based Classification
+
+content: Classification of organisms as aquatic or terrestrial.
+
+keywords: aquatic, terrestrial
+
+---
+
+chunk_id: BIO_U2_010
+unit: Classification of Living Organisms
+topic: Molecular Taxonomy
+
+content: Classification based on molecular and genetic relationships among organisms.
+
+keywords: molecular taxonomy
+
+---
+
+chunk_id: BIO_U2_011
+unit: Classification of Living Organisms
+topic: Three Domains of Life
+
+content: Major divisions of life based on molecular taxonomy.
+
+keywords: domains of life
+
+---
+
+chunk_id: BIO_U2_012
+unit: Classification of Living Organisms
+topic: Model Organisms
+
+content: Organisms extensively used for biological research.
+
+keywords: model organisms
+
+---
+
+chunk_id: BIO_U2_013
+unit: Classification of Living Organisms
+topic: Escherichia coli
+
+content: Bacterial model organism used in genetics, microbiology, and molecular biology.
+
+keywords: E coli
+
+---
+
+chunk_id: BIO_U2_014
+unit: Classification of Living Organisms
+topic: Saccharomyces cerevisiae
+
+content: Yeast model organism widely used in genetics and cell biology.
+
+keywords: Saccharomyces cerevisiae, yeast
+
+---
+
+chunk_id: BIO_U2_015
+unit: Classification of Living Organisms
+topic: Drosophila melanogaster
+
+content: Fruit fly model organism used in genetics and developmental biology.
+
+keywords: Drosophila melanogaster
+
+---
+
+chunk_id: BIO_U2_016
+unit: Classification of Living Organisms
+topic: Caenorhabditis elegans
+
+content: Nematode model organism used in developmental and molecular biology.
+
+keywords: C elegans
+
+---
+
+chunk_id: BIO_U2_017
+unit: Classification of Living Organisms
+topic: Arabidopsis thaliana
+
+content: Model plant organism used in plant genetics and molecular biology.
+
+keywords: Arabidopsis thaliana
+
+---
+
+chunk_id: BIO_U2_018
+unit: Classification of Living Organisms
+topic: Mus musculus
+
+content: Mouse model organism used in biomedical research.
+
+keywords: Mus musculus, mouse
+
+---
+
+chunk_id: BIO_U3_001
+unit: Genetics
+topic: Mendel's Laws
+
+content: Fundamental principles of inheritance including segregation and independent assortment.
+
+keywords: Mendel laws
+
+---
+
+chunk_id: BIO_U3_002
+unit: Genetics
+topic: Law of Segregation
+
+content: Separation of allele pairs during gamete formation.
+
+keywords: segregation
+
+---
+
+chunk_id: BIO_U3_003
+unit: Genetics
+topic: Law of Independent Assortment
+
+content: Independent inheritance of different gene pairs.
+
+keywords: independent assortment
+
+---
+
+chunk_id: BIO_U3_004
+unit: Genetics
+topic: Alleles
+
+content: Alternative forms of a gene occupying the same genetic locus.
+
+keywords: allele
+
+---
+
+chunk_id: BIO_U3_005
+unit: Genetics
+topic: Gene Mapping
+
+content: Determination of relative positions of genes on chromosomes.
+
+keywords: gene mapping
+
+---
+
+chunk_id: BIO_U3_006
+unit: Genetics
+topic: Gene Interaction
+
+content: Interactions between multiple genes affecting phenotypic traits.
+
+keywords: gene interaction
+
+---
+
+chunk_id: BIO_U3_007
+unit: Genetics
+topic: Epistasis
+
+content: Gene interaction where one gene masks or modifies the effect of another gene.
+
+keywords: epistasis
+
+---
+
+chunk_id: BIO_U3_008
+unit: Genetics
+topic: Mitosis
+
+content: Cell division producing two genetically identical daughter cells.
+
+keywords: mitosis
+
+---
+
+chunk_id: BIO_U3_009
+unit: Genetics
+topic: Meiosis
+
+content: Cell division producing haploid gametes and generating genetic variation.
+
+keywords: meiosis
+
+---
+
+chunk_id: BIO_U3_010
+unit: Genetics
+topic: Dominance and Recessiveness
+
+content: Concepts describing allele expression in heterozygous organisms.
+
+keywords: dominant allele, recessive allele
+
+---
+
+chunk_id: BIO_U3_011
+unit: Genetics
+topic: Genotype and Phenotype
+
+content: Relationship between genetic makeup and observable characteristics.
+
+keywords: genotype, phenotype
+
+---
+
+chunk_id: BIO_U3_012
+unit: Genetics
+topic: Single Gene Disorders
+
+content: Human diseases caused by mutations in a single gene.
+
+keywords: monogenic disorders
+
+---
+
+chunk_id: BIO_U3_013
+unit: Genetics
+topic: Complementation
+
+content: Genetic phenomenon used to determine whether mutations occur in the same gene.
+
+keywords: complementation
+
+---
+
+chunk_id: BIO_U4_001
+unit: Biomolecules
+topic: Biomolecules
+
+content: Chemical compounds that form the structural and functional basis of life.
+
+keywords: biomolecules
+
+---
+
+chunk_id: BIO_U4_002
+unit: Biomolecules
+topic: Monomers and Polymers
+
+content: Relationship between biological building blocks and macromolecules.
+
+keywords: monomers, polymers
+
+---
+
+chunk_id: BIO_U4_003
+unit: Biomolecules
+topic: Carbohydrates
+
+content: Biological molecules including sugars, starch, and cellulose.
+
+keywords: carbohydrates
+
+---
+
+chunk_id: BIO_U4_004
+unit: Biomolecules
+topic: Amino Acids
+
+content: Fundamental building blocks of proteins.
+
+keywords: amino acids
+
+---
+
+chunk_id: BIO_U4_005
+unit: Biomolecules
+topic: Proteins
+
+content: Biological macromolecules involved in structure, catalysis, transport, and regulation.
+
+keywords: proteins
+
+---
+
+chunk_id: BIO_U4_006
+unit: Biomolecules
+topic: Nucleotides
+
+content: Structural units of nucleic acids.
+
+keywords: nucleotides
+
+---
+
+chunk_id: BIO_U4_007
+unit: Biomolecules
+topic: DNA and RNA
+
+content: Nucleic acids responsible for genetic information storage and expression.
+
+keywords: DNA, RNA
+
+---
+
+chunk_id: BIO_U4_008
+unit: Biomolecules
+topic: Lipids
+
+content: Hydrophobic biological molecules involved in energy storage and membrane structure.
+
+keywords: lipids
+
+---
+
+chunk_id: BIO_U5_001
+unit: Enzymology
+topic: Enzymes
+
+content: Biological catalysts that accelerate biochemical reactions.
+
+keywords: enzymes
+
+---
+
+chunk_id: BIO_U5_002
+unit: Enzymology
+topic: Enzyme Catalysis
+
+content: Mechanisms through which enzymes increase reaction rates.
+
+keywords: enzyme catalysis
+
+---
+
+chunk_id: BIO_U5_003
+unit: Enzymology
+topic: Enzyme Classification
+
+content: Categorization of enzymes based on reaction type.
+
+keywords: enzyme classification
+
+---
+
+chunk_id: BIO_U5_004
+unit: Enzymology
+topic: Enzyme Kinetics
+
+content: Study of reaction rates and factors influencing enzyme activity.
+
+keywords: enzyme kinetics
+
+---
+
+chunk_id: BIO_U5_005
+unit: Enzymology
+topic: Kinetic Parameters
+
+content: Quantitative measures such as Km and Vmax used to characterize enzymes.
+
+keywords: Km, Vmax
+
+---
+
+chunk_id: BIO_U5_006
+unit: Enzymology
+topic: RNA Catalysis
+
+content: Catalytic activity performed by RNA molecules known as ribozymes.
+
+keywords: ribozymes, RNA catalysis
+
+---
+
+chunk_id: BIO_U6_001
+unit: Information Transfer
+topic: DNA as Genetic Material
+
+content: Evidence and significance of DNA as the carrier of hereditary information.
+
+keywords: DNA genetic material
+
+---
+
+chunk_id: BIO_U6_002
+unit: Information Transfer
+topic: DNA Structure
+
+content: Organization of DNA from nucleotide chains to double helix structure.
+
+keywords: DNA structure
+
+---
+
+chunk_id: BIO_U6_003
+unit: Information Transfer
+topic: Nucleosomes
+
+content: Structural units of chromatin formed by DNA wrapped around histone proteins.
+
+keywords: nucleosomes
+
+---
+
+chunk_id: BIO_U6_004
+unit: Information Transfer
+topic: Genetic Code
+
+content: Rules governing translation of nucleotide sequences into proteins.
+
+keywords: genetic code
+
+---
+
+chunk_id: BIO_U6_005
+unit: Information Transfer
+topic: Universality of Genetic Code
+
+content: Principle that genetic code is nearly identical across living organisms.
+
+keywords: universal genetic code
+
+---
+
+chunk_id: BIO_U6_006
+unit: Information Transfer
+topic: Degeneracy of Genetic Code
+
+content: Multiple codons coding for the same amino acid.
+
+keywords: degeneracy of genetic code
+
+---
+
+chunk_id: BIO_U6_007
+unit: Information Transfer
+topic: Gene Definition
+
+content: Definition of a gene based on complementation and recombination concepts.
+
+keywords: gene concept
+
+---
+
+chunk_id: BIO_U7_001
+unit: Macromolecular Analysis
+topic: Protein Structure
+
+content: Structural organization of proteins and its relationship to function.
+
+keywords: protein structure
+
+---
+
+chunk_id: BIO_U7_002
+unit: Macromolecular Analysis
+topic: Primary Protein Structure
+
+content: Linear amino acid sequence of a protein.
+
+keywords: primary structure
+
+---
+
+chunk_id: BIO_U7_003
+unit: Macromolecular Analysis
+topic: Secondary Protein Structure
+
+content: Local folding patterns such as alpha helices and beta sheets.
+
+keywords: secondary structure
+
+---
+
+chunk_id: BIO_U7_004
+unit: Macromolecular Analysis
+topic: Tertiary Protein Structure
+
+content: Three-dimensional folding of a single polypeptide chain.
+
+keywords: tertiary structure
+
+---
+
+chunk_id: BIO_U7_005
+unit: Macromolecular Analysis
+topic: Quaternary Protein Structure
+
+content: Association of multiple polypeptide chains into a functional complex.
+
+keywords: quaternary structure
+
+---
+
+chunk_id: BIO_U7_006
+unit: Macromolecular Analysis
+topic: Functional Roles of Proteins
+
+content: Proteins as enzymes, transporters, receptors, and structural components.
+
+keywords: protein function
+
+---
+
+chunk_id: BIO_U8_001
+unit: Metabolism and Bioenergetics
+topic: Biological Thermodynamics
+
+content: Application of thermodynamic principles to biological systems.
+
+keywords: biological thermodynamics
+
+---
+
+chunk_id: BIO_U8_002
+unit: Metabolism and Bioenergetics
+topic: Exothermic and Endothermic Reactions
+
+content: Reactions characterized by release or absorption of heat.
+
+keywords: exothermic, endothermic
+
+---
+
+chunk_id: BIO_U8_003
+unit: Metabolism and Bioenergetics
+topic: Exergonic and Endergonic Reactions
+
+content: Reactions characterized by release or consumption of free energy.
+
+keywords: exergonic, endergonic
+
+---
+
+chunk_id: BIO_U8_004
+unit: Metabolism and Bioenergetics
+topic: Equilibrium Constant
+
+content: Relationship between reaction equilibrium and thermodynamic stability.
+
+keywords: equilibrium constant, Keq
+
+---
+
+chunk_id: BIO_U8_005
+unit: Metabolism and Bioenergetics
+topic: Standard Free Energy
+
+content: Thermodynamic measure used to predict reaction spontaneity.
+
+keywords: Gibbs free energy
+
+---
+
+chunk_id: BIO_U8_006
+unit: Metabolism and Bioenergetics
+topic: ATP
+
+content: Universal energy currency of biological systems.
+
+keywords: ATP
+
+---
+
+chunk_id: BIO_U8_007
+unit: Metabolism and Bioenergetics
+topic: Glycolysis
+
+content: Metabolic pathway converting glucose into pyruvate while generating energy.
+
+keywords: glycolysis
+
+---
+
+chunk_id: BIO_U8_008
+unit: Metabolism and Bioenergetics
+topic: Krebs Cycle
+
+content: Central metabolic pathway involved in cellular respiration.
+
+keywords: Krebs cycle, citric acid cycle
+
+---
+
+chunk_id: BIO_U8_009
+unit: Metabolism and Bioenergetics
+topic: Photosynthesis
+
+content: Biological process converting light energy into chemical energy.
+
+keywords: photosynthesis
+
+---
+
+chunk_id: BIO_U8_010
+unit: Metabolism and Bioenergetics
+topic: Energy Charge
+
+content: Cellular indicator of metabolic energy status.
+
+keywords: energy charge
+
+---
+
+chunk_id: BIO_U9_001
+unit: Microbiology
+topic: Microorganisms
+
+content: Single-celled organisms and their biological significance.
+
+keywords: microorganisms
+
+---
+
+chunk_id: BIO_U9_002
+unit: Microbiology
+topic: Species and Strains
+
+content: Concepts used to classify and differentiate microbial populations.
+
+keywords: microbial species, strains
+
+---
+
+chunk_id: BIO_U9_003
+unit: Microbiology
+topic: Identification of Microorganisms
+
+content: Methods used to detect, characterize, and classify microorganisms.
+
+keywords: microbial identification
+
+---
+
+chunk_id: BIO_U9_004
+unit: Microbiology
+topic: Microscopy
+
+content: Techniques for observing microorganisms and cellular structures.
+
+keywords: microscopy
+
+---
+
+chunk_id: BIO_U9_005
+unit: Microbiology
+topic: Microbial Ecology
+
+content: Ecological roles and environmental interactions of microorganisms.
+
+keywords: microbial ecology
+
+---
+
+chunk_id: BIO_U9_006
+unit: Microbiology
+topic: Sterilization
+
+content: Methods used to eliminate microorganisms from materials and environments.
+
+keywords: sterilization
+
+---
+
+chunk_id: BIO_U9_007
+unit: Microbiology
+topic: Culture Media
+
+content: Nutrient formulations used for microbial growth and cultivation.
+
+keywords: culture media
+
+---
+
+chunk_id: BIO_U9_008
+unit: Microbiology
+topic: Microbial Growth Kinetics
+
+content: Quantitative study of microbial population growth and growth phases.
+
+keywords: growth kinetics

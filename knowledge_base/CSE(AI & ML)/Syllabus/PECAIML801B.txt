@@ -1,0 +1,475 @@
+# SUBJECT_METADATA
+
+subject_name: Cyber Law and Ethics
+paper_code: PECAIML801B
+category: Professional Elective
+
+---
+
+chunk_id: CLE_U1_001
+unit: Intellectual Property and Cyber Law
+topic: Introduction to Intellectual Property
+
+content: Fundamentals of intellectual property, its importance in the digital era, and legal protection of creative and innovative works.
+
+keywords: intellectual property, IP rights
+
+---
+
+chunk_id: CLE_U1_002
+unit: Intellectual Property and Cyber Law
+topic: Copyrights
+
+content: Copyright laws, ownership rights, protection of literary, artistic, software, and digital works.
+
+keywords: copyright, digital rights
+
+---
+
+chunk_id: CLE_U1_003
+unit: Intellectual Property and Cyber Law
+topic: Patents
+
+content: Patent concepts, patentability criteria, application procedures, and protection of inventions.
+
+keywords: patents, inventions
+
+---
+
+chunk_id: CLE_U1_004
+unit: Intellectual Property and Cyber Law
+topic: Trade Secrets
+
+content: Definition, importance, and legal protection of confidential business information and trade secrets.
+
+keywords: trade secrets, confidential information
+
+---
+
+chunk_id: CLE_U1_005
+unit: Intellectual Property and Cyber Law
+topic: Intellectual Property Laws
+
+content: Legal frameworks governing copyrights, patents, trademarks, and trade secrets in digital environments.
+
+keywords: IP laws, legal protection
+
+---
+
+chunk_id: CLE_U1_006
+unit: Intellectual Property and Cyber Law
+topic: Employees and Trade Secrets
+
+content: Employee responsibilities, confidentiality agreements, and protection of organizational intellectual assets.
+
+keywords: employee confidentiality, trade secret protection
+
+---
+
+chunk_id: CLE_U1_007
+unit: Intellectual Property and Cyber Law
+topic: Key Intellectual Property Issues
+
+content: Contemporary challenges related to ownership, infringement, licensing, and protection of intellectual property.
+
+keywords: intellectual property issues, IP management
+
+---
+
+chunk_id: CLE_U1_008
+unit: Intellectual Property and Cyber Law
+topic: Plagiarism
+
+content: Concepts of plagiarism, academic integrity, detection techniques, and prevention strategies.
+
+keywords: plagiarism, academic ethics
+
+---
+
+chunk_id: CLE_U1_009
+unit: Intellectual Property and Cyber Law
+topic: Reverse Engineering
+
+content: Techniques, legal considerations, and ethical implications of analyzing existing products and software.
+
+keywords: reverse engineering, software analysis
+
+---
+
+chunk_id: CLE_U1_010
+unit: Intellectual Property and Cyber Law
+topic: Open Source Software
+
+content: Principles of open source development, licensing models, and legal considerations of open source code usage.
+
+keywords: open source, software licenses
+
+---
+
+chunk_id: CLE_U1_011
+unit: Intellectual Property and Cyber Law
+topic: Competitive Intelligence
+
+content: Collection and analysis of publicly available information for business strategy and decision making.
+
+keywords: competitive intelligence, business strategy
+
+---
+
+chunk_id: CLE_U1_012
+unit: Intellectual Property and Cyber Law
+topic: Trademark Infringement
+
+content: Unauthorized use of trademarks, legal consequences, and protection mechanisms.
+
+keywords: trademark infringement, brand protection
+
+---
+
+chunk_id: CLE_U1_013
+unit: Intellectual Property and Cyber Law
+topic: Cybersquatting
+
+content: Registration of domain names resembling trademarks and the legal remedies available against cybersquatting.
+
+keywords: cybersquatting, domain names
+
+---
+
+chunk_id: CLE_U2_001
+unit: Software Development and Quality Assurance
+topic: Engineering Quality Software
+
+content: Strategies and best practices for developing reliable, maintainable, and high-quality software systems.
+
+keywords: software quality, software engineering
+
+---
+
+chunk_id: CLE_U2_002
+unit: Software Development and Quality Assurance
+topic: Importance of Software Quality
+
+content: Role of software quality in ensuring reliability, usability, security, and customer satisfaction.
+
+keywords: software quality, reliability
+
+---
+
+chunk_id: CLE_U2_003
+unit: Software Development and Quality Assurance
+topic: Software Product Liability
+
+content: Legal responsibilities and liabilities associated with software defects, failures, and damages.
+
+keywords: software liability, legal issues
+
+---
+
+chunk_id: CLE_U2_004
+unit: Software Development and Quality Assurance
+topic: Software Development Process
+
+content: Phases of software development including requirements, design, implementation, testing, deployment, and maintenance.
+
+keywords: SDLC, software process
+
+---
+
+chunk_id: CLE_U2_005
+unit: Software Development and Quality Assurance
+topic: Capability Maturity Model Integration (CMMI)
+
+content: Framework for process improvement and maturity assessment in software organizations.
+
+keywords: CMMI, process maturity
+
+---
+
+chunk_id: CLE_U2_006
+unit: Software Development and Quality Assurance
+topic: Safety-Critical Systems
+
+content: Software systems whose failure can result in significant harm, requiring rigorous design and verification.
+
+keywords: safety critical systems, reliability
+
+---
+
+chunk_id: CLE_U2_007
+unit: Software Development and Quality Assurance
+topic: Quality Management Standards
+
+content: Standards and frameworks used to ensure software quality, process consistency, and compliance.
+
+keywords: quality standards, software quality assurance
+
+---
+
+chunk_id: CLE_U3_001
+unit: Information Technology and Society
+topic: Impact of Information Technology
+
+content: Influence of information technology on business, education, healthcare, communication, and society.
+
+keywords: information technology, digital transformation
+
+---
+
+chunk_id: CLE_U3_002
+unit: Information Technology and Society
+topic: IT Investment and Productivity
+
+content: Relationship between technology investments, organizational efficiency, and productivity improvement.
+
+keywords: IT investment, productivity
+
+---
+
+chunk_id: CLE_U3_003
+unit: Information Technology and Society
+topic: Digital Divide
+
+content: Social and economic disparities in access to information and communication technologies.
+
+keywords: digital divide, technology access
+
+---
+
+chunk_id: CLE_U3_004
+unit: Information Technology and Society
+topic: IT and Healthcare Costs
+
+content: Impact of information technology on healthcare expenditure, efficiency, and service delivery.
+
+keywords: healthcare technology, healthcare costs
+
+---
+
+chunk_id: CLE_U3_005
+unit: Information Technology and Society
+topic: Electronic Health Records
+
+content: Digital storage, management, and sharing of patient health information.
+
+keywords: EHR, electronic health records
+
+---
+
+chunk_id: CLE_U3_006
+unit: Information Technology and Society
+topic: Mobile and Wireless Healthcare Technologies
+
+content: Use of mobile devices, wireless communication, and digital platforms in healthcare services.
+
+keywords: mobile healthcare, wireless technology
+
+---
+
+chunk_id: CLE_U3_007
+unit: Information Technology and Society
+topic: Telemedicine
+
+content: Remote healthcare delivery using communication technologies for diagnosis, consultation, and treatment.
+
+keywords: telemedicine, remote healthcare
+
+---
+
+chunk_id: CLE_U3_008
+unit: Information Technology and Society
+topic: Medical Information Websites
+
+content: Online healthcare information resources, benefits, challenges, and reliability concerns.
+
+keywords: medical websites, healthcare information
+
+---
+
+chunk_id: CLE_U4_001
+unit: Social Networking and Virtual Communities
+topic: Social Networking Websites
+
+content: Concepts, structure, and functionalities of social networking platforms for communication and collaboration.
+
+keywords: social networking, social media
+
+---
+
+chunk_id: CLE_U4_002
+unit: Social Networking and Virtual Communities
+topic: Business Applications of Social Networking
+
+content: Use of social networking platforms for marketing, branding, customer engagement, and business growth.
+
+keywords: social media marketing, business networking
+
+---
+
+chunk_id: CLE_U4_003
+unit: Social Networking and Virtual Communities
+topic: Ethical Issues in Social Networking
+
+content: Privacy concerns, misuse of information, ethical responsibilities, and digital citizenship.
+
+keywords: social media ethics, privacy
+
+---
+
+chunk_id: CLE_U4_004
+unit: Social Networking and Virtual Communities
+topic: Cyberbullying
+
+content: Online harassment, its impact on individuals, prevention strategies, and legal implications.
+
+keywords: cyberbullying, online harassment
+
+---
+
+chunk_id: CLE_U4_005
+unit: Social Networking and Virtual Communities
+topic: Cyberstalking
+
+content: Persistent online monitoring or harassment and the associated legal and ethical concerns.
+
+keywords: cyberstalking, online safety
+
+---
+
+chunk_id: CLE_U4_006
+unit: Social Networking and Virtual Communities
+topic: Online Sexual Predators
+
+content: Risks posed by online predators, protection measures, and awareness strategies.
+
+keywords: online predators, internet safety
+
+---
+
+chunk_id: CLE_U4_007
+unit: Social Networking and Virtual Communities
+topic: Uploading Inappropriate Material
+
+content: Ethical, legal, and social consequences of sharing offensive, harmful, or illegal content online.
+
+keywords: inappropriate content, online ethics
+
+---
+
+chunk_id: CLE_U4_008
+unit: Social Networking and Virtual Communities
+topic: Online Virtual Worlds
+
+content: Virtual environments, digital communities, and their applications in entertainment, education, and business.
+
+keywords: virtual worlds, digital communities
+
+---
+
+chunk_id: CLE_U4_009
+unit: Social Networking and Virtual Communities
+topic: Crime in Virtual Worlds
+
+content: Types of cybercrimes occurring in virtual environments and their legal implications.
+
+keywords: virtual crime, cybercrime
+
+---
+
+chunk_id: CLE_U4_010
+unit: Social Networking and Virtual Communities
+topic: Educational and Business Uses of Virtual Worlds
+
+content: Applications of virtual environments for learning, collaboration, training, and commercial activities.
+
+keywords: virtual learning, business applications
+
+---
+
+chunk_id: CLE_U5_001
+unit: Ethics in IT Organizations
+topic: Introduction to IT Ethics
+
+content: Ethical principles, professional responsibilities, and moral issues encountered in information technology organizations.
+
+keywords: IT ethics, professional responsibility
+
+---
+
+chunk_id: CLE_U5_002
+unit: Ethics in IT Organizations
+topic: Key Ethical Issues in IT
+
+content: Privacy, intellectual property, accountability, transparency, and responsible use of technology.
+
+keywords: ethical issues, digital ethics
+
+---
+
+chunk_id: CLE_U5_003
+unit: Ethics in IT Organizations
+topic: Non-Traditional Workers
+
+content: Employment models involving freelance, remote, and contract-based technology professionals.
+
+keywords: non-traditional workforce, freelancers
+
+---
+
+chunk_id: CLE_U5_004
+unit: Ethics in IT Organizations
+topic: Contingent Workers
+
+content: Temporary, contract, and project-based workers in the information technology industry.
+
+keywords: contingent workers, temporary employment
+
+---
+
+chunk_id: CLE_U5_005
+unit: Ethics in IT Organizations
+topic: H-1B Workers
+
+content: Employment of foreign skilled professionals, legal considerations, and ethical discussions.
+
+keywords: H-1B workers, global workforce
+
+---
+
+chunk_id: CLE_U5_006
+unit: Ethics in IT Organizations
+topic: Outsourcing
+
+content: Business practice of delegating services or processes to external organizations and associated ethical concerns.
+
+keywords: outsourcing, global business
+
+---
+
+chunk_id: CLE_U5_007
+unit: Ethics in IT Organizations
+topic: Whistleblowing
+
+content: Reporting unethical or illegal organizational practices and the ethical responsibilities involved.
+
+keywords: whistleblowing, corporate ethics
+
+---
+
+chunk_id: CLE_U5_008
+unit: Ethics in IT Organizations
+topic: Green Computing
+
+content: Environmentally sustainable computing practices aimed at reducing energy consumption and electronic waste.
+
+keywords: green computing, sustainability
+
+---
+
+chunk_id: CLE_U5_009
+unit: Ethics in IT Organizations
+topic: ICT Industry Code of Conduct
+
+content: Professional standards, ethical guidelines, and codes of conduct governing information and communication technology professionals.
+
+keywords: ICT ethics, code of conduct

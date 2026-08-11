@@ -1,0 +1,625 @@
+# SUBJECT_METADATA
+
+subject_name: Probability and Statistics
+paper_code: PCCAIML 501
+program: AIML
+
+---
+
+chunk_id: PS_U1_001
+unit: Partial Differential Equations
+topic: Introduction to PDEs
+
+content: Definition of partial differential equations (PDEs). Difference between ordinary differential equations and partial differential equations. Order and degree of PDEs.
+
+keywords: PDE, partial differential equations, order, degree
+
+---
+
+chunk_id: PS_U1_002
+unit: Partial Differential Equations
+topic: First Order PDEs
+
+content: First-order partial differential equations and methods of obtaining their solutions.
+
+keywords: first order PDE
+
+---
+
+chunk_id: PS_U1_003
+unit: Partial Differential Equations
+topic: Linear First Order PDEs
+
+content: Solution methods for first-order linear partial differential equations.
+
+keywords: linear PDE
+
+---
+
+chunk_id: PS_U1_004
+unit: Partial Differential Equations
+topic: Second Order PDEs
+
+content: Homogeneous and non-homogeneous linear partial differential equations of second order.
+
+keywords: second order PDE
+
+---
+
+chunk_id: PS_U1_005
+unit: Partial Differential Equations
+topic: Complementary Function and Particular Integral
+
+content: Solution of second-order linear PDEs using complementary function and particular integral methods.
+
+keywords: complementary function, particular integral
+
+---
+
+chunk_id: PS_U1_006
+unit: Partial Differential Equations
+topic: Classification of PDEs
+
+content: Classification of second-order linear partial differential equations into elliptic, parabolic, and hyperbolic forms.
+
+keywords: elliptic, parabolic, hyperbolic
+
+---
+
+chunk_id: PS_U1_007
+unit: Partial Differential Equations
+topic: Initial and Boundary Conditions
+
+content: Initial conditions and boundary conditions used in solving partial differential equations.
+
+keywords: initial condition, boundary condition
+
+---
+
+chunk_id: PS_U1_008
+unit: Partial Differential Equations
+topic: Wave Equation
+
+content: One-dimensional wave equation and physical interpretation of wave propagation.
+
+keywords: wave equation
+
+---
+
+chunk_id: PS_U1_009
+unit: Partial Differential Equations
+topic: D'Alembert Solution
+
+content: D'Alembert's method for solving one-dimensional wave equations.
+
+keywords: d'alembert solution
+
+---
+
+chunk_id: PS_U1_010
+unit: Partial Differential Equations
+topic: Duhamel Principle
+
+content: Duhamel's principle for solving non-homogeneous one-dimensional wave equations.
+
+keywords: duhamel principle
+
+---
+
+chunk_id: PS_U1_011
+unit: Partial Differential Equations
+topic: Heat Diffusion Problems
+
+content: Mathematical modeling and solution of heat diffusion equations.
+
+keywords: heat equation, diffusion
+
+---
+
+chunk_id: PS_U1_012
+unit: Partial Differential Equations
+topic: Vibration Problems
+
+content: Application of PDEs in vibration analysis and oscillatory systems.
+
+keywords: vibration problems
+
+---
+
+chunk_id: PS_U1_013
+unit: Partial Differential Equations
+topic: Separation of Variables
+
+content: Method of separation of variables for solving PDEs in Cartesian coordinates.
+
+keywords: separation of variables
+
+---
+
+chunk_id: PS_U1_014
+unit: Partial Differential Equations
+topic: Laplacian Operator
+
+content: Laplacian operator in Cartesian, cylindrical, and spherical coordinate systems.
+
+keywords: laplacian operator
+
+---
+
+chunk_id: PS_U1_015
+unit: Partial Differential Equations
+topic: Bessel Functions
+
+content: Solutions of PDEs involving Bessel functions and their applications.
+
+keywords: bessel functions
+
+---
+
+chunk_id: PS_U1_016
+unit: Partial Differential Equations
+topic: Legendre Functions
+
+content: Legendre functions and their role in solving PDEs in spherical coordinates.
+
+keywords: legendre functions
+
+---
+
+chunk_id: PS_U1_017
+unit: Partial Differential Equations
+topic: Diffusion Equation
+
+content: One-dimensional diffusion equation and its solution using separation of variables.
+
+keywords: diffusion equation
+
+---
+
+chunk_id: PS_U2_001
+unit: Probability Theory
+topic: Probability Space
+
+content: Definition of probability spaces, sample space, events, and probability measures.
+
+keywords: probability space, sample space
+
+---
+
+chunk_id: PS_U2_002
+unit: Probability Theory
+topic: Conditional Probability
+
+content: Conditional probability and its applications in probabilistic reasoning.
+
+keywords: conditional probability
+
+---
+
+chunk_id: PS_U2_003
+unit: Probability Theory
+topic: Independence
+
+content: Independent events and independent random variables.
+
+keywords: independence
+
+---
+
+chunk_id: PS_U2_004
+unit: Probability Theory
+topic: Discrete Random Variables
+
+content: Definition, properties, and probability mass functions of discrete random variables.
+
+keywords: discrete random variable
+
+---
+
+chunk_id: PS_U2_005
+unit: Probability Theory
+topic: Multinomial Distribution
+
+content: Multinomial distribution and its applications in probability modeling.
+
+keywords: multinomial distribution
+
+---
+
+chunk_id: PS_U2_006
+unit: Probability Theory
+topic: Poisson Approximation
+
+content: Poisson approximation to the binomial distribution and conditions for applicability.
+
+keywords: poisson approximation
+
+---
+
+chunk_id: PS_U2_007
+unit: Probability Theory
+topic: Bernoulli Trials
+
+content: Infinite sequences of Bernoulli trials and their probabilistic properties.
+
+keywords: bernoulli trials
+
+---
+
+chunk_id: PS_U2_008
+unit: Probability Theory
+topic: Sum of Independent Random Variables
+
+content: Properties and distributions of sums of independent random variables.
+
+keywords: random variable sum
+
+---
+
+chunk_id: PS_U2_009
+unit: Probability Theory
+topic: Mathematical Expectation
+
+content: Expectation of discrete random variables and its interpretation.
+
+keywords: expectation
+
+---
+
+chunk_id: PS_U2_010
+unit: Probability Theory
+topic: Moments
+
+content: Raw moments and central moments of probability distributions.
+
+keywords: moments
+
+---
+
+chunk_id: PS_U2_011
+unit: Probability Theory
+topic: Variance
+
+content: Variance and variance of the sum of independent random variables.
+
+keywords: variance
+
+---
+
+chunk_id: PS_U2_012
+unit: Probability Theory
+topic: Correlation Coefficient
+
+content: Correlation coefficient as a measure of linear relationship between variables.
+
+keywords: correlation coefficient
+
+---
+
+chunk_id: PS_U2_013
+unit: Probability Theory
+topic: Chebyshev Inequality
+
+content: Chebyshev's inequality and its significance in probability theory.
+
+keywords: chebyshev inequality
+
+---
+
+chunk_id: PS_U2_014
+unit: Probability Theory
+topic: Continuous Random Variables
+
+content: Continuous random variables and probability density functions.
+
+keywords: continuous random variable
+
+---
+
+chunk_id: PS_U2_015
+unit: Probability Theory
+topic: Distribution Functions
+
+content: Cumulative distribution functions and probability density functions.
+
+keywords: distribution function, density function
+
+---
+
+chunk_id: PS_U2_016
+unit: Probability Theory
+topic: Normal Distribution
+
+content: Properties and applications of the normal probability distribution.
+
+keywords: normal distribution
+
+---
+
+chunk_id: PS_U2_017
+unit: Probability Theory
+topic: Exponential Distribution
+
+content: Exponential distribution and memoryless property.
+
+keywords: exponential distribution
+
+---
+
+chunk_id: PS_U2_018
+unit: Probability Theory
+topic: Gamma Distribution
+
+content: Gamma distribution and its applications.
+
+keywords: gamma distribution
+
+---
+
+chunk_id: PS_U2_019
+unit: Probability Theory
+topic: Bivariate Distributions
+
+content: Joint probability distributions involving two random variables.
+
+keywords: bivariate distribution
+
+---
+
+chunk_id: PS_U2_020
+unit: Probability Theory
+topic: Distribution of Sums and Quotients
+
+content: Probability distributions of sums and quotients of random variables.
+
+keywords: distribution of sums, distribution of quotients
+
+---
+
+chunk_id: PS_U2_021
+unit: Probability Theory
+topic: Conditional Density Functions
+
+content: Conditional probability density functions and related concepts.
+
+keywords: conditional density
+
+---
+
+chunk_id: PS_U2_022
+unit: Probability Theory
+topic: Bayes Rule
+
+content: Bayes' theorem and probabilistic inference.
+
+keywords: bayes theorem, bayes rule
+
+---
+
+chunk_id: PS_U3_001
+unit: Statistics
+topic: Basic Statistics
+
+content: Introduction to descriptive and inferential statistics.
+
+keywords: statistics
+
+---
+
+chunk_id: PS_U3_002
+unit: Statistics
+topic: Measures of Central Tendency
+
+content: Mean, median, and mode as measures of central tendency.
+
+keywords: mean, median, mode
+
+---
+
+chunk_id: PS_U3_003
+unit: Statistics
+topic: Skewness
+
+content: Measurement and interpretation of asymmetry in distributions.
+
+keywords: skewness
+
+---
+
+chunk_id: PS_U3_004
+unit: Statistics
+topic: Kurtosis
+
+content: Measurement of peakedness and tail behavior of distributions.
+
+keywords: kurtosis
+
+---
+
+chunk_id: PS_U3_005
+unit: Statistics
+topic: Binomial Distribution
+
+content: Properties and statistical parameters of the binomial distribution.
+
+keywords: binomial distribution
+
+---
+
+chunk_id: PS_U3_006
+unit: Statistics
+topic: Poisson Distribution
+
+content: Properties and statistical parameters of the Poisson distribution.
+
+keywords: poisson distribution
+
+---
+
+chunk_id: PS_U3_007
+unit: Statistics
+topic: Normal Distribution Statistics
+
+content: Statistical characteristics and applications of the normal distribution.
+
+keywords: normal statistics
+
+---
+
+chunk_id: PS_U3_008
+unit: Statistics
+topic: Correlation
+
+content: Correlation analysis and measures of association.
+
+keywords: correlation
+
+---
+
+chunk_id: PS_U3_009
+unit: Statistics
+topic: Regression Analysis
+
+content: Linear regression and prediction using statistical models.
+
+keywords: regression
+
+---
+
+chunk_id: PS_U3_010
+unit: Statistics
+topic: Rank Correlation
+
+content: Spearman rank correlation and non-parametric association measures.
+
+keywords: rank correlation
+
+---
+
+chunk_id: PS_U3_011
+unit: Statistics
+topic: Least Squares Curve Fitting
+
+content: Curve fitting using the method of least squares.
+
+keywords: least squares
+
+---
+
+chunk_id: PS_U3_012
+unit: Statistics
+topic: Straight Line Fitting
+
+content: Fitting linear models using least squares techniques.
+
+keywords: straight line fitting
+
+---
+
+chunk_id: PS_U3_013
+unit: Statistics
+topic: Parabola Fitting
+
+content: Fitting second-degree polynomial curves using least squares.
+
+keywords: parabola fitting
+
+---
+
+chunk_id: PS_U3_014
+unit: Statistics
+topic: General Curve Fitting
+
+content: Fitting nonlinear and generalized mathematical models to observed data.
+
+keywords: curve fitting
+
+---
+
+chunk_id: PS_U3_015
+unit: Statistics
+topic: Large Sample Tests
+
+content: Statistical hypothesis testing procedures for large sample sizes.
+
+keywords: large sample test
+
+---
+
+chunk_id: PS_U3_016
+unit: Statistics
+topic: Test for Single Proportion
+
+content: Hypothesis testing for a population proportion.
+
+keywords: single proportion test
+
+---
+
+chunk_id: PS_U3_017
+unit: Statistics
+topic: Difference of Proportions Test
+
+content: Statistical comparison between two population proportions.
+
+keywords: difference of proportions
+
+---
+
+chunk_id: PS_U3_018
+unit: Statistics
+topic: Test for Single Mean
+
+content: Hypothesis testing involving a single population mean.
+
+keywords: single mean test
+
+---
+
+chunk_id: PS_U3_019
+unit: Statistics
+topic: Difference of Means Test
+
+content: Statistical comparison between two population means.
+
+keywords: difference of means
+
+---
+
+chunk_id: PS_U3_020
+unit: Statistics
+topic: Difference of Standard Deviations
+
+content: Statistical testing involving variability and standard deviations.
+
+keywords: standard deviation test
+
+---
+
+chunk_id: PS_U3_021
+unit: Statistics
+topic: Variance Ratio Test
+
+content: Statistical comparison of population variances.
+
+keywords: variance ratio test
+
+---
+
+chunk_id: PS_U3_022
+unit: Statistics
+topic: Chi Square Goodness of Fit Test
+
+content: Chi-square test used to determine how well observed data fit a theoretical distribution.
+
+keywords: chi square goodness of fit
+
+---
+
+chunk_id: PS_U3_023
+unit: Statistics
+topic: Chi Square Test of Independence
+
+content: Chi-square test used to determine independence between categorical variables.
+
+keywords: chi square independence test

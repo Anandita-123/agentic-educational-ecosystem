@@ -1,0 +1,555 @@
+# SUBJECT_METADATA
+
+subject_name: Cloud Computing
+paper_code: PECAIML 501A
+category: Professional Elective
+
+---
+
+chunk_id: CC_U1_001
+unit: Cloud Computing Fundamentals
+topic: Introduction to Cloud Computing
+
+content: Definition of Cloud Computing, evolution of cloud technologies, and fundamental concepts of cloud-based computing environments.
+
+keywords: cloud computing, cloud fundamentals
+
+---
+
+chunk_id: CC_U1_002
+unit: Cloud Computing Fundamentals
+topic: Cloud Characteristics
+
+content: Essential characteristics of cloud computing including on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.
+
+keywords: cloud characteristics
+
+---
+
+chunk_id: CC_U1_003
+unit: Cloud Computing Fundamentals
+topic: Cloud Computing Benefits
+
+content: Benefits and advantages of cloud computing including scalability, cost efficiency, flexibility, high availability, and resource optimization.
+
+keywords: cloud benefits, cloud advantages
+
+---
+
+chunk_id: CC_U1_004
+unit: Cloud Computing Fundamentals
+topic: NIST Cloud Model
+
+content: National Institute of Standards and Technology (NIST) cloud computing model and its core service and deployment classifications.
+
+keywords: NIST cloud model
+
+---
+
+chunk_id: CC_U1_005
+unit: Cloud Computing Fundamentals
+topic: CloudCube Model
+
+content: CloudCube framework for classifying cloud deployments based on ownership, location, sourcing, and security dimensions.
+
+keywords: cloudcube model
+
+---
+
+chunk_id: CC_U1_006
+unit: Cloud Computing Fundamentals
+topic: Cloud Deployment Models
+
+content: Public Cloud, Private Cloud, Hybrid Cloud, and Community Cloud deployment models with characteristics and use cases.
+
+keywords: public cloud, private cloud, hybrid cloud, community cloud
+
+---
+
+chunk_id: CC_U1_007
+unit: Cloud Computing Fundamentals
+topic: Cloud Service Models
+
+content: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) service delivery models.
+
+keywords: IaaS, PaaS, SaaS
+
+---
+
+chunk_id: CC_U1_008
+unit: Cloud Computing Fundamentals
+topic: Cloud Reference Model
+
+content: Cloud reference architecture, service layers, resource abstraction, and interactions between cloud components.
+
+keywords: cloud reference model
+
+---
+
+chunk_id: CC_U1_009
+unit: Cloud Computing Fundamentals
+topic: Cloud Composability
+
+content: Concept of composability in cloud environments including reusable services, modular infrastructure, and flexible application deployment.
+
+keywords: composability
+
+---
+
+chunk_id: CC_U1_010
+unit: Cloud Computing Fundamentals
+topic: Cloud Infrastructure Components
+
+content: Infrastructure, platforms, virtual appliances, communication protocols, and cloud-based application components.
+
+keywords: cloud infrastructure, virtual appliance
+
+---
+
+chunk_id: CC_U1_011
+unit: Cloud Computing Fundamentals
+topic: Cloud Client Connectivity
+
+content: Methods and technologies used by client devices to connect and interact with cloud services.
+
+keywords: cloud clients, cloud connectivity
+
+---
+
+chunk_id: CC_U1_012
+unit: Cloud Computing Fundamentals
+topic: Infrastructure as a Service
+
+content: Concepts of IaaS including virtual servers, workload distribution, partitioning, pods, aggregations, and silos.
+
+keywords: IaaS, virtual server
+
+---
+
+chunk_id: CC_U1_013
+unit: Cloud Computing Fundamentals
+topic: Platform as a Service
+
+content: Concepts, tools, development environments, and application deployment mechanisms provided by PaaS platforms.
+
+keywords: PaaS
+
+---
+
+chunk_id: CC_U1_014
+unit: Cloud Computing Fundamentals
+topic: Software as a Service
+
+content: SaaS architecture, characteristics, service delivery mechanisms, and examples of SaaS platforms.
+
+keywords: SaaS
+
+---
+
+chunk_id: CC_U1_015
+unit: Cloud Computing Fundamentals
+topic: Open SaaS and SOA
+
+content: Relationship between Software as a Service and Service-Oriented Architecture (SOA) in cloud ecosystems.
+
+keywords: open SaaS, SOA
+
+---
+
+chunk_id: CC_U1_016
+unit: Cloud Computing Fundamentals
+topic: Identity as a Service
+
+content: Identity as a Service (IDaaS), authentication, authorization, and cloud identity management.
+
+keywords: IDaaS, identity management
+
+---
+
+chunk_id: CC_U1_017
+unit: Cloud Computing Fundamentals
+topic: Compliance as a Service
+
+content: Compliance as a Service (CaaS) and cloud-based regulatory compliance management.
+
+keywords: CaaS, compliance
+
+---
+
+chunk_id: CC_U2_001
+unit: Virtualization and Cloud Platforms
+topic: Abstraction and Virtualization
+
+content: Concepts of abstraction and virtualization as foundations of cloud computing.
+
+keywords: abstraction, virtualization
+
+---
+
+chunk_id: CC_U2_002
+unit: Virtualization and Cloud Platforms
+topic: Types of Virtualization
+
+content: Access virtualization, application virtualization, CPU virtualization, storage virtualization, and their applications.
+
+keywords: virtualization types
+
+---
+
+chunk_id: CC_U2_003
+unit: Virtualization and Cloud Platforms
+topic: Virtualization Mobility
+
+content: Mobility patterns including P2V, V2V, V2P, P2P, D2C, C2C, C2D, and D2D migration strategies.
+
+keywords: P2V, V2V, virtualization migration
+
+---
+
+chunk_id: CC_U2_004
+unit: Virtualization and Cloud Platforms
+topic: Load Balancing
+
+content: Principles of load balancing, resource distribution, scalability improvement, and performance optimization.
+
+keywords: load balancing
+
+---
+
+chunk_id: CC_U2_005
+unit: Virtualization and Cloud Platforms
+topic: Advanced Load Balancing
+
+content: Application Delivery Controllers (ADC), Application Delivery Networks (ADN), and enterprise load balancing architectures.
+
+keywords: ADC, ADN
+
+---
+
+chunk_id: CC_U2_006
+unit: Virtualization and Cloud Platforms
+topic: Hypervisors
+
+content: Hypervisor architecture, virtual machine management, Type 1 and Type 2 hypervisors.
+
+keywords: hypervisor, virtual machine
+
+---
+
+chunk_id: CC_U2_007
+unit: Virtualization and Cloud Platforms
+topic: VMware vSphere
+
+content: VMware vSphere architecture and enterprise virtualization platform concepts.
+
+keywords: VMware vSphere
+
+---
+
+chunk_id: CC_U2_008
+unit: Virtualization and Cloud Platforms
+topic: Machine Imaging
+
+content: Virtual machine imaging, image deployment, cloning, and Open Virtualization Format (OVF).
+
+keywords: machine imaging, OVF
+
+---
+
+chunk_id: CC_U2_009
+unit: Virtualization and Cloud Platforms
+topic: Cloud Application Portability
+
+content: Application migration, cloud portability, Simple Cloud API, and virtual application appliances.
+
+keywords: cloud portability, application migration
+
+---
+
+chunk_id: CC_U2_010
+unit: Virtualization and Cloud Platforms
+topic: SaaS vs PaaS
+
+content: Distinctions between Software as a Service and Platform as a Service models.
+
+keywords: SaaS vs PaaS
+
+---
+
+chunk_id: CC_U2_011
+unit: Virtualization and Cloud Platforms
+topic: Application Development in PaaS
+
+content: Cloud-native application development using Platform as a Service environments and frameworks.
+
+keywords: cloud application development
+
+---
+
+chunk_id: CC_U2_012
+unit: Virtualization and Cloud Platforms
+topic: Google Cloud Platform Concepts
+
+content: Overview of Google cloud services including search, analytics, translation services, APIs, toolkits, and application hosting environments.
+
+keywords: Google Cloud, App Engine
+
+---
+
+chunk_id: CC_U2_013
+unit: Virtualization and Cloud Platforms
+topic: Microsoft Azure Platform
+
+content: Architecture, services, cloud applications, AppFabric, SQL Azure, content delivery networks, and cloud service integration.
+
+keywords: Microsoft Azure, Azure services
+
+---
+
+chunk_id: CC_U3_001
+unit: Cloud Infrastructure and Security
+topic: Cloud Infrastructure
+
+content: Architecture and components of cloud infrastructure supporting cloud service delivery.
+
+keywords: cloud infrastructure
+
+---
+
+chunk_id: CC_U3_002
+unit: Cloud Infrastructure and Security
+topic: Cloud Management
+
+content: Cloud administration, deployment management, monitoring, and operational control.
+
+keywords: cloud management
+
+---
+
+chunk_id: CC_U3_003
+unit: Cloud Infrastructure and Security
+topic: Network Management Systems
+
+content: Features and functionality of network management systems used in cloud environments.
+
+keywords: network management
+
+---
+
+chunk_id: CC_U3_004
+unit: Cloud Infrastructure and Security
+topic: Cloud Monitoring
+
+content: Monitoring cloud deployments, performance tracking, resource utilization, and operational visibility.
+
+keywords: cloud monitoring
+
+---
+
+chunk_id: CC_U3_005
+unit: Cloud Infrastructure and Security
+topic: Cloud Service Lifecycle
+
+content: Lifecycle stages of cloud services including planning, deployment, operation, maintenance, scaling, and retirement.
+
+keywords: cloud lifecycle
+
+---
+
+chunk_id: CC_U3_006
+unit: Cloud Infrastructure and Security
+topic: Cloud Security Fundamentals
+
+content: Security concerns, risks, threats, trust boundaries, and security architecture in cloud environments.
+
+keywords: cloud security
+
+---
+
+chunk_id: CC_U3_007
+unit: Cloud Infrastructure and Security
+topic: Security Boundaries
+
+content: Security boundary concepts, service boundaries, and security mapping in cloud systems.
+
+keywords: security boundary
+
+---
+
+chunk_id: CC_U3_008
+unit: Cloud Infrastructure and Security
+topic: Cloud Data Security
+
+content: Data protection through encryption, auditing, access control, storage security, tenancy isolation, and compliance mechanisms.
+
+keywords: data security, cloud encryption
+
+---
+
+chunk_id: CC_U3_009
+unit: Cloud Infrastructure and Security
+topic: Brokered Cloud Storage
+
+content: Brokered cloud storage access models and secure storage management.
+
+keywords: brokered storage
+
+---
+
+chunk_id: CC_U3_010
+unit: Cloud Infrastructure and Security
+topic: Identity Management
+
+content: Cloud identity management systems, authentication standards, authorization mechanisms, and identity protocols.
+
+keywords: identity management
+
+---
+
+chunk_id: CC_U4_001
+unit: Cloud Services and Applications
+topic: Service Oriented Architecture
+
+content: Principles of Service-Oriented Architecture (SOA), service composition, interoperability, and distributed systems integration.
+
+keywords: SOA
+
+---
+
+chunk_id: CC_U4_002
+unit: Cloud Services and Applications
+topic: Message-Based Transactions
+
+content: Message-oriented communication and transaction management in service-based systems.
+
+keywords: message transaction
+
+---
+
+chunk_id: CC_U4_003
+unit: Cloud Services and Applications
+topic: SOA Protocol Stack
+
+content: Protocol layers and communication standards supporting Service-Oriented Architecture.
+
+keywords: SOA protocol stack
+
+---
+
+chunk_id: CC_U4_004
+unit: Cloud Services and Applications
+topic: Event Driven Architecture
+
+content: Event-driven SOA, event processing, and asynchronous service interactions.
+
+keywords: event driven architecture
+
+---
+
+chunk_id: CC_U4_005
+unit: Cloud Services and Applications
+topic: Enterprise Service Bus
+
+content: Enterprise Service Bus (ESB), service integration, communication routing, and middleware concepts.
+
+keywords: ESB
+
+---
+
+chunk_id: CC_U4_006
+unit: Cloud Services and Applications
+topic: Service Catalogs
+
+content: Service catalog concepts, service discovery, and service governance.
+
+keywords: service catalog
+
+---
+
+chunk_id: CC_U4_007
+unit: Cloud Services and Applications
+topic: Cloud Applications
+
+content: Cloud application architecture, deployment, scalability, and distributed application models.
+
+keywords: cloud applications
+
+---
+
+chunk_id: CC_U4_008
+unit: Cloud Services and Applications
+topic: Cloud Transactions
+
+content: Concepts of cloud transactions, transaction processing, and distributed computing considerations.
+
+keywords: cloud transactions
+
+---
+
+chunk_id: CC_U4_009
+unit: Cloud Services and Applications
+topic: Functionality Mapping
+
+content: Mapping business functionality to cloud services and cloud application architectures.
+
+keywords: functionality mapping
+
+---
+
+chunk_id: CC_U4_010
+unit: Cloud Services and Applications
+topic: Cloud Service Attributes
+
+content: Reliability, availability, scalability, elasticity, performance, and security attributes of cloud services.
+
+keywords: cloud service attributes
+
+---
+
+chunk_id: CC_U4_011
+unit: Cloud Services and Applications
+topic: Cloud Bursting
+
+content: Dynamic expansion of workloads from private infrastructure to public cloud resources during peak demand.
+
+keywords: cloud bursting
+
+---
+
+chunk_id: CC_U4_012
+unit: Cloud Services and Applications
+topic: Cloud APIs
+
+content: Application Programming Interfaces used for cloud integration, automation, and service management.
+
+keywords: cloud APIs
+
+---
+
+chunk_id: CC_U4_013
+unit: Cloud Services and Applications
+topic: Cloud Storage
+
+content: Cloud-based storage systems, storage architectures, managed storage, and unmanned storage services.
+
+keywords: cloud storage
+
+---
+
+chunk_id: CC_U4_014
+unit: Cloud Services and Applications
+topic: Webmail Services
+
+content: Cloud-based email systems, webmail platforms, hosted mail services, and collaboration tools.
+
+keywords: webmail, cloud email
+
+---
+
+chunk_id: CC_U4_015
+unit: Cloud Services and Applications
+topic: Syndication Services
+
+content: Content syndication, information distribution, RSS-based delivery, and cloud-enabled content sharing.
+
+keywords: syndication services

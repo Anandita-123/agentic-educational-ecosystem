@@ -1,0 +1,715 @@
+# SUBJECT_METADATA
+
+subject_name: Economic Policies in India
+paper_code: OECAIML801A
+category: Open Elective
+
+---
+
+chunk_id: EPI_U1_001
+unit: Economic Development and Planning in India
+topic: Economic Development
+
+content: Concepts of economic development, growth, structural transformation, and socio-economic progress.
+
+keywords: economic development, economic growth
+
+---
+
+chunk_id: EPI_U1_002
+unit: Economic Development and Planning in India
+topic: Determinants of Economic Development
+
+content: Factors influencing economic development including capital formation, human resources, technology, institutions, and governance.
+
+keywords: determinants of development, economic factors
+
+---
+
+chunk_id: EPI_U1_003
+unit: Economic Development and Planning in India
+topic: Approaches to Economic Development
+
+content: Classical, modern, and alternative approaches to achieving economic development and inclusive growth.
+
+keywords: development approaches, economic theory
+
+---
+
+chunk_id: EPI_U1_004
+unit: Economic Development and Planning in India
+topic: Measurement of Economic Development
+
+content: Methods and indicators used to evaluate economic progress and development outcomes.
+
+keywords: development measurement, economic indicators
+
+---
+
+chunk_id: EPI_U1_005
+unit: Economic Development and Planning in India
+topic: Sustainable Development
+
+content: Principles of sustainable development balancing economic growth, environmental protection, and social equity.
+
+keywords: sustainable development, environmental economics
+
+---
+
+chunk_id: EPI_U1_006
+unit: Economic Development and Planning in India
+topic: Role of the State in Development
+
+content: Government intervention, policy formulation, public investment, and welfare measures for economic development.
+
+keywords: state intervention, economic policy
+
+---
+
+chunk_id: EPI_U1_007
+unit: Economic Development and Planning in India
+topic: Role of Market and Institutions
+
+content: Contribution of markets, financial institutions, and social organizations in promoting development.
+
+keywords: market economy, institutions
+
+---
+
+chunk_id: EPI_U1_008
+unit: Economic Development and Planning in India
+topic: Physical Quality of Life Index (PQLI)
+
+content: Components, calculation, and significance of PQLI as a measure of human well-being.
+
+keywords: PQLI, quality of life
+
+---
+
+chunk_id: EPI_U1_009
+unit: Economic Development and Planning in India
+topic: Human Development Index (HDI)
+
+content: HDI methodology, indicators, interpretation, and significance in measuring development.
+
+keywords: HDI, human development
+
+---
+
+chunk_id: EPI_U1_010
+unit: Economic Development and Planning in India
+topic: Gender Development Indices
+
+content: Indicators measuring gender equality, empowerment, and development outcomes.
+
+keywords: gender development, gender equality
+
+---
+
+chunk_id: EPI_U1_011
+unit: Economic Development and Planning in India
+topic: Planning in India
+
+content: Evolution, objectives, and significance of economic planning in India.
+
+keywords: planning in India, economic planning
+
+---
+
+chunk_id: EPI_U1_012
+unit: Economic Development and Planning in India
+topic: Objectives and Strategy of Planning
+
+content: Goals, priorities, and strategic approaches adopted in India's planning process.
+
+keywords: planning objectives, development strategy
+
+---
+
+chunk_id: EPI_U1_013
+unit: Economic Development and Planning in India
+topic: Achievements and Failures of Plans
+
+content: Assessment of India's planning experience, accomplishments, limitations, and lessons learned.
+
+keywords: five year plans, planning evaluation
+
+---
+
+chunk_id: EPI_U1_014
+unit: Economic Development and Planning in India
+topic: Panchayats and Local Governance
+
+content: Role of Panchayati Raj institutions in grassroots development and decentralized governance.
+
+keywords: panchayats, local governance
+
+---
+
+chunk_id: EPI_U1_015
+unit: Economic Development and Planning in India
+topic: NGOs and Pressure Groups
+
+content: Contributions of non-governmental organizations and pressure groups in development and policy advocacy.
+
+keywords: NGOs, pressure groups
+
+---
+
+chunk_id: EPI_U2_001
+unit: Demography, Poverty and Infrastructure
+topic: Demographic Features of India
+
+content: Characteristics, composition, and trends of the Indian population and demographic transition.
+
+keywords: demographics, Indian population
+
+---
+
+chunk_id: EPI_U2_002
+unit: Demography, Poverty and Infrastructure
+topic: Rural-Urban Migration
+
+content: Causes, patterns, and socio-economic impacts of migration from rural to urban areas.
+
+keywords: migration, urbanization
+
+---
+
+chunk_id: EPI_U2_003
+unit: Demography, Poverty and Infrastructure
+topic: Urbanization and Civic Amenities
+
+content: Urban growth, infrastructure challenges, and provision of civic services in urban areas.
+
+keywords: urbanization, civic amenities
+
+---
+
+chunk_id: EPI_U2_004
+unit: Demography, Poverty and Infrastructure
+topic: Poverty in India
+
+content: Nature, causes, measurement, and policy initiatives aimed at poverty reduction.
+
+keywords: poverty, poverty alleviation
+
+---
+
+chunk_id: EPI_U2_005
+unit: Demography, Poverty and Infrastructure
+topic: Inequality in India
+
+content: Economic and social inequality, causes, consequences, and corrective measures.
+
+keywords: inequality, income distribution
+
+---
+
+chunk_id: EPI_U2_006
+unit: Demography, Poverty and Infrastructure
+topic: Energy Resources and Development
+
+content: Role of energy resources in economic growth and infrastructure development.
+
+keywords: energy sector, infrastructure
+
+---
+
+chunk_id: EPI_U2_007
+unit: Demography, Poverty and Infrastructure
+topic: Social Infrastructure
+
+content: Importance of education, healthcare, and public services in economic development.
+
+keywords: social infrastructure, public services
+
+---
+
+chunk_id: EPI_U2_008
+unit: Demography, Poverty and Infrastructure
+topic: Education and Economic Development
+
+content: Contribution of education to human capital formation and sustainable growth.
+
+keywords: education, human capital
+
+---
+
+chunk_id: EPI_U2_009
+unit: Demography, Poverty and Infrastructure
+topic: Health and Economic Development
+
+content: Relationship between public health, productivity, and economic development.
+
+keywords: healthcare, economic development
+
+---
+
+chunk_id: EPI_U2_010
+unit: Demography, Poverty and Infrastructure
+topic: Environment and Development
+
+content: Environmental challenges, sustainability concerns, and policy measures for balanced development.
+
+keywords: environment, sustainability
+
+---
+
+chunk_id: EPI_U2_011
+unit: Demography, Poverty and Infrastructure
+topic: Regional Imbalance
+
+content: Uneven regional development, causes, consequences, and policy interventions.
+
+keywords: regional imbalance, regional development
+
+---
+
+chunk_id: EPI_U2_012
+unit: Demography, Poverty and Infrastructure
+topic: Infrastructure Financing
+
+content: Methods, challenges, and policies for financing infrastructure projects in India.
+
+keywords: infrastructure finance, development funding
+
+---
+
+chunk_id: EPI_U3_001
+unit: Agricultural Sector and Rural Economy
+topic: Agricultural Sector in India
+
+content: Structure, significance, and contribution of agriculture to the Indian economy.
+
+keywords: agriculture, rural economy
+
+---
+
+chunk_id: EPI_U3_002
+unit: Agricultural Sector and Rural Economy
+topic: Land Reforms in India
+
+content: Objectives, implementation, achievements, and challenges of land reform policies.
+
+keywords: land reforms, agrarian reforms
+
+---
+
+chunk_id: EPI_U3_003
+unit: Agricultural Sector and Rural Economy
+topic: Technological Change in Agriculture
+
+content: Adoption of modern technology, mechanization, and productivity enhancement in agriculture.
+
+keywords: agricultural technology, productivity
+
+---
+
+chunk_id: EPI_U3_004
+unit: Agricultural Sector and Rural Economy
+topic: Agricultural Pricing Policy
+
+content: Pricing of agricultural inputs and outputs and their impact on farmers and markets.
+
+keywords: agricultural pricing, MSP
+
+---
+
+chunk_id: EPI_U3_005
+unit: Agricultural Sector and Rural Economy
+topic: Agricultural Finance Policy
+
+content: Institutional credit, rural banking, subsidies, and financial support for agriculture.
+
+keywords: agricultural finance, rural credit
+
+---
+
+chunk_id: EPI_U3_006
+unit: Agricultural Sector and Rural Economy
+topic: Agricultural Marketing and Warehousing
+
+content: Marketing systems, storage facilities, supply chains, and agricultural trade mechanisms.
+
+keywords: agricultural marketing, warehousing
+
+---
+
+chunk_id: EPI_U3_007
+unit: Agricultural Sector and Rural Economy
+topic: Terms of Trade between Agriculture and Industry
+
+content: Economic relationship between agricultural and industrial sectors and its policy implications.
+
+keywords: terms of trade, agriculture and industry
+
+---
+
+chunk_id: EPI_U3_008
+unit: Agricultural Sector and Rural Economy
+topic: Food Security
+
+content: Food availability, accessibility, affordability, and government food security initiatives.
+
+keywords: food security, public distribution system
+
+---
+
+chunk_id: EPI_U3_009
+unit: Agricultural Sector and Rural Economy
+topic: Sustainable Agriculture
+
+content: Environmentally sustainable farming practices and long-term agricultural development strategies.
+
+keywords: sustainable agriculture, green farming
+
+---
+
+chunk_id: EPI_U4_001
+unit: Industrial Policy and Employment
+topic: Industrial Policy in India
+
+content: Evolution, objectives, and impact of industrial policies on economic development.
+
+keywords: industrial policy, industrialization
+
+---
+
+chunk_id: EPI_U4_002
+unit: Industrial Policy and Employment
+topic: Public Sector Enterprises
+
+content: Role, performance, and contribution of public sector enterprises in the economy.
+
+keywords: public sector enterprises, PSUs
+
+---
+
+chunk_id: EPI_U4_003
+unit: Industrial Policy and Employment
+topic: Sick Industrial Units
+
+content: Causes, consequences, and policy measures relating to financially distressed industries.
+
+keywords: sick industries, industrial sickness
+
+---
+
+chunk_id: EPI_U4_004
+unit: Industrial Policy and Employment
+topic: Privatization and Disinvestment
+
+content: Concepts, rationale, debates, and implications of privatization and disinvestment policies.
+
+keywords: privatization, disinvestment
+
+---
+
+chunk_id: EPI_U4_005
+unit: Industrial Policy and Employment
+topic: Growth and Pattern of Industrialization
+
+content: Trends, structure, and regional distribution of industrial growth in India.
+
+keywords: industrial growth, industrialization
+
+---
+
+chunk_id: EPI_U4_006
+unit: Industrial Policy and Employment
+topic: Small Scale Industries
+
+content: Role, challenges, and policy support for small-scale and medium enterprises.
+
+keywords: SSI, MSME
+
+---
+
+chunk_id: EPI_U4_007
+unit: Industrial Policy and Employment
+topic: Productivity in Industrial Sector
+
+content: Determinants, measurement, and enhancement of industrial productivity.
+
+keywords: industrial productivity, efficiency
+
+---
+
+chunk_id: EPI_U4_008
+unit: Industrial Policy and Employment
+topic: Labour Market Reforms
+
+content: Employment policies, labour regulations, and debates surrounding labour market flexibility.
+
+keywords: labour reforms, employment policy
+
+---
+
+chunk_id: EPI_U4_009
+unit: Industrial Policy and Employment
+topic: Employment Generation Strategies
+
+content: Government initiatives and economic approaches for creating employment opportunities.
+
+keywords: employment generation, job creation
+
+---
+
+chunk_id: EPI_U5_001
+unit: Public Finance and Fiscal Policy
+topic: Public Finances in India
+
+content: Structure, importance, and management of public finances in the Indian economy.
+
+keywords: public finance, government finance
+
+---
+
+chunk_id: EPI_U5_002
+unit: Public Finance and Fiscal Policy
+topic: Fiscal Federalism
+
+content: Financial relations, resource sharing, and responsibilities between central and state governments.
+
+keywords: fiscal federalism, centre-state relations
+
+---
+
+chunk_id: EPI_U5_003
+unit: Public Finance and Fiscal Policy
+topic: Central Government Finances
+
+content: Revenue generation, expenditure management, and budgeting of the central government.
+
+keywords: central budget, government expenditure
+
+---
+
+chunk_id: EPI_U5_004
+unit: Public Finance and Fiscal Policy
+topic: State Government Finances
+
+content: Revenue sources, expenditures, and fiscal management at the state level.
+
+keywords: state finances, fiscal management
+
+---
+
+chunk_id: EPI_U5_005
+unit: Public Finance and Fiscal Policy
+topic: Parallel Economy
+
+content: Nature, causes, and implications of unaccounted economic activities and black money.
+
+keywords: parallel economy, black money
+
+---
+
+chunk_id: EPI_U5_006
+unit: Public Finance and Fiscal Policy
+topic: Fiscal Policy Issues
+
+content: Challenges and policy considerations in taxation, expenditure, deficits, and debt management.
+
+keywords: fiscal policy, budget deficit
+
+---
+
+chunk_id: EPI_U5_007
+unit: Public Finance and Fiscal Policy
+topic: Fiscal Sector Reforms
+
+content: Reforms aimed at improving efficiency, transparency, and sustainability of public finances.
+
+keywords: fiscal reforms, public finance reforms
+
+---
+
+chunk_id: EPI_U6_001
+unit: Money, Banking and Financial Markets
+topic: Price Behaviour in India
+
+content: Trends, determinants, and economic implications of inflation and price movements.
+
+keywords: inflation, price behaviour
+
+---
+
+chunk_id: EPI_U6_002
+unit: Money, Banking and Financial Markets
+topic: Financial Sector Reforms
+
+content: Banking, capital market, and financial system reforms undertaken in India.
+
+keywords: financial reforms, banking sector
+
+---
+
+chunk_id: EPI_U6_003
+unit: Money, Banking and Financial Markets
+topic: Interest Rate Policy
+
+content: Determination, regulation, and economic effects of interest rate policies.
+
+keywords: interest rates, monetary policy
+
+---
+
+chunk_id: EPI_U6_004
+unit: Money, Banking and Financial Markets
+topic: Monetary Policy of RBI
+
+content: Objectives, instruments, and recent developments in the Reserve Bank of India's monetary policy.
+
+keywords: RBI, monetary policy
+
+---
+
+chunk_id: EPI_U6_005
+unit: Money, Banking and Financial Markets
+topic: Money Market
+
+content: Structure, instruments, and functioning of short-term financial markets.
+
+keywords: money market, financial markets
+
+---
+
+chunk_id: EPI_U6_006
+unit: Money, Banking and Financial Markets
+topic: Capital Market
+
+content: Role, instruments, institutions, and significance of capital markets in economic development.
+
+keywords: capital market, securities market
+
+---
+
+chunk_id: EPI_U6_007
+unit: Money, Banking and Financial Markets
+topic: SEBI and Market Regulation
+
+content: Functions, powers, and role of SEBI in regulating securities markets in India.
+
+keywords: SEBI, market regulation
+
+---
+
+chunk_id: EPI_U7_001
+unit: External Sector and Economic Reforms
+topic: Foreign Trade Structure and Direction
+
+content: Composition, trends, and geographical patterns of India's foreign trade.
+
+keywords: foreign trade, exports and imports
+
+---
+
+chunk_id: EPI_U7_002
+unit: External Sector and Economic Reforms
+topic: Balance of Payments
+
+content: Components, significance, and management of balance of payments in an open economy.
+
+keywords: balance of payments, BOP
+
+---
+
+chunk_id: EPI_U7_003
+unit: External Sector and Economic Reforms
+topic: Export-Import Policy
+
+content: Objectives, instruments, and issues associated with India's export-import policies.
+
+keywords: EXIM policy, trade policy
+
+---
+
+chunk_id: EPI_U7_004
+unit: External Sector and Economic Reforms
+topic: FEMA
+
+content: Foreign Exchange Management Act, objectives, provisions, and role in foreign exchange regulation.
+
+keywords: FEMA, foreign exchange
+
+---
+
+chunk_id: EPI_U7_005
+unit: External Sector and Economic Reforms
+topic: Exchange Rate Policy
+
+content: Exchange rate determination, management, and impact on trade and economic stability.
+
+keywords: exchange rate, currency policy
+
+---
+
+chunk_id: EPI_U7_006
+unit: External Sector and Economic Reforms
+topic: Foreign Capital and MNCs
+
+content: Role of foreign direct investment, multinational corporations, and international capital flows in India.
+
+keywords: FDI, MNCs
+
+---
+
+chunk_id: EPI_U7_007
+unit: External Sector and Economic Reforms
+topic: Trade Reforms in India
+
+content: Liberalization of trade policies and their impact on economic growth and competitiveness.
+
+keywords: trade reforms, liberalization
+
+---
+
+chunk_id: EPI_U7_008
+unit: External Sector and Economic Reforms
+topic: Economic Reforms in India
+
+content: Internal and external reforms undertaken to improve economic efficiency and global integration.
+
+keywords: economic reforms, liberalization
+
+---
+
+chunk_id: EPI_U7_009
+unit: External Sector and Economic Reforms
+topic: Globalization of the Indian Economy
+
+content: Integration of India with the global economy through trade, investment, and technology flows.
+
+keywords: globalization, economic integration
+
+---
+
+chunk_id: EPI_U7_010
+unit: External Sector and Economic Reforms
+topic: WTO and Its Impact
+
+content: Role of the World Trade Organization and its effects on agriculture, industry, and services sectors.
+
+keywords: WTO, global trade
+
+---
+
+chunk_id: EPI_U7_011
+unit: External Sector and Economic Reforms
+topic: Good Governance
+
+content: Principles, importance, and challenges of governance in economic development and public administration.
+
+keywords: good governance, public administration
+
+---
+
+chunk_id: EPI_U7_012
+unit: External Sector and Economic Reforms
+topic: Competition and Social Safety Nets
+
+content: Market competition, regulatory frameworks, and welfare measures protecting vulnerable populations.
+
+keywords: competition policy, social safety nets

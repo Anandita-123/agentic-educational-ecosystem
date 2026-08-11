@@ -1,0 +1,445 @@
+# SUBJECT_METADATA
+
+subject_name: Optimization Techniques
+paper_code: PCCAIML 402
+program: AIML
+
+---
+
+chunk_id: OT_U1_001
+unit: Introduction to Optimization
+topic: Optimization
+
+content: Optimization is the process of finding the best feasible solution among a set of possible alternatives while satisfying given constraints.
+
+keywords: optimization, optimal solution
+
+---
+
+chunk_id: OT_U1_002
+unit: Introduction to Optimization
+topic: Historical Development of Optimization
+
+content: Evolution of optimization techniques from classical mathematical methods to modern computational approaches.
+
+keywords: history of optimization
+
+---
+
+chunk_id: OT_U1_003
+unit: Introduction to Optimization
+topic: Engineering Applications of Optimization
+
+content: Applications of optimization in engineering design, manufacturing, resource allocation, scheduling, transportation, and decision-making.
+
+keywords: engineering applications
+
+---
+
+chunk_id: OT_U1_004
+unit: Introduction to Optimization
+topic: Optimization Problem Formulation
+
+content: Components of an optimization problem including objective function, decision variables, constraints, and feasible region.
+
+keywords: optimization problem formulation
+
+---
+
+chunk_id: OT_U1_005
+unit: Introduction to Optimization
+topic: Classification of Optimization Problems
+
+content: Classification based on constraints, variable types, objective functions, uncertainty, and problem structure.
+
+keywords: optimization classification
+
+---
+
+chunk_id: OT_U2_001
+unit: Classical Optimization Techniques
+topic: Classical Optimization
+
+content: Mathematical methods used to determine optimal solutions for constrained and unconstrained problems.
+
+keywords: classical optimization
+
+---
+
+chunk_id: OT_U2_002
+unit: Classical Optimization Techniques
+topic: Single Variable Optimization
+
+content: Optimization techniques involving objective functions with a single decision variable.
+
+keywords: single variable optimization
+
+---
+
+chunk_id: OT_U2_003
+unit: Classical Optimization Techniques
+topic: Unconstrained Multivariable Optimization
+
+content: Optimization of functions with multiple variables and no explicit constraints.
+
+keywords: unconstrained optimization
+
+---
+
+chunk_id: OT_U2_004
+unit: Classical Optimization Techniques
+topic: Constrained Multivariable Optimization
+
+content: Optimization involving multiple variables subject to equality or inequality constraints.
+
+keywords: constrained optimization
+
+---
+
+chunk_id: OT_U2_005
+unit: Classical Optimization Techniques
+topic: Applications of Classical Optimization
+
+content: Practical applications of classical optimization methods in engineering and scientific problems.
+
+keywords: optimization applications
+
+---
+
+chunk_id: OT_U3_001
+unit: Linear Programming
+topic: Linear Programming
+
+content: Optimization technique where the objective function and constraints are linear functions.
+
+keywords: linear programming, LP
+
+---
+
+chunk_id: OT_U3_002
+unit: Linear Programming
+topic: Standard Form of Linear Programming
+
+content: Representation of a linear programming problem using linear objective functions and linear constraints.
+
+keywords: LP standard form
+
+---
+
+chunk_id: OT_U3_003
+unit: Linear Programming
+topic: Simplex Method
+
+content: Iterative algorithm used to solve linear programming problems by moving between feasible solutions.
+
+keywords: simplex method
+
+---
+
+chunk_id: OT_U3_004
+unit: Linear Programming
+topic: Duality in Linear Programming
+
+content: Relationship between a primal linear programming problem and its corresponding dual problem.
+
+keywords: LP duality
+
+---
+
+chunk_id: OT_U3_005
+unit: Linear Programming
+topic: Quadratic Programming
+
+content: Optimization problems with a quadratic objective function and linear constraints.
+
+keywords: quadratic programming
+
+---
+
+chunk_id: OT_U3_006
+unit: Linear Programming
+topic: Stochastic Linear Programming
+
+content: Linear programming under uncertainty where some parameters are probabilistic.
+
+keywords: stochastic linear programming
+
+---
+
+chunk_id: OT_U3_007
+unit: Linear Programming
+topic: Applications of Linear Programming
+
+content: Applications in production planning, transportation, scheduling, resource allocation, and supply chain optimization.
+
+keywords: LP applications
+
+---
+
+chunk_id: OT_U4_001
+unit: Nonlinear Programming
+topic: Nonlinear Programming
+
+content: Optimization involving nonlinear objective functions, nonlinear constraints, or both.
+
+keywords: nonlinear programming, NLP
+
+---
+
+chunk_id: OT_U4_002
+unit: Nonlinear Programming
+topic: Unimodal Functions
+
+content: Functions having a single optimum point within a specified interval.
+
+keywords: unimodal function
+
+---
+
+chunk_id: OT_U4_003
+unit: Nonlinear Programming
+topic: Interpolation Methods
+
+content: Optimization techniques that estimate optimum solutions using interpolated function values.
+
+keywords: interpolation methods
+
+---
+
+chunk_id: OT_U4_004
+unit: Nonlinear Programming
+topic: Direct Methods
+
+content: Optimization methods that do not require derivative information.
+
+keywords: direct methods
+
+---
+
+chunk_id: OT_U4_005
+unit: Nonlinear Programming
+topic: Indirect Methods
+
+content: Optimization methods based on derivative information and necessary optimality conditions.
+
+keywords: indirect methods
+
+---
+
+chunk_id: OT_U4_006
+unit: Nonlinear Programming
+topic: Applications of Nonlinear Programming
+
+content: Engineering and scientific applications involving nonlinear optimization models.
+
+keywords: nonlinear optimization applications
+
+---
+
+chunk_id: OT_U5_001
+unit: Geometric Programming
+topic: Geometric Programming
+
+content: Mathematical optimization technique for solving a class of nonlinear optimization problems with special structures.
+
+keywords: geometric programming
+
+---
+
+chunk_id: OT_U5_002
+unit: Geometric Programming
+topic: Unconstrained Geometric Programming
+
+content: Geometric programming problems without explicit constraints.
+
+keywords: unconstrained geometric programming
+
+---
+
+chunk_id: OT_U5_003
+unit: Geometric Programming
+topic: Constrained Geometric Programming
+
+content: Geometric programming problems involving equality and inequality constraints.
+
+keywords: constrained geometric programming
+
+---
+
+chunk_id: OT_U5_004
+unit: Geometric Programming
+topic: Mixed Inequality Geometric Programming
+
+content: Geometric programming models containing multiple types of inequality constraints.
+
+keywords: mixed inequality geometric programming
+
+---
+
+chunk_id: OT_U6_001
+unit: Integer Programming
+topic: Integer Programming
+
+content: Optimization problems where some or all decision variables are restricted to integer values.
+
+keywords: integer programming
+
+---
+
+chunk_id: OT_U6_002
+unit: Integer Programming
+topic: Integer Linear Programming
+
+content: Linear programming problems with integer decision variables.
+
+keywords: integer linear programming, ILP
+
+---
+
+chunk_id: OT_U6_003
+unit: Integer Programming
+topic: Integer Nonlinear Programming
+
+content: Nonlinear optimization problems with integer-constrained variables.
+
+keywords: integer nonlinear programming
+
+---
+
+chunk_id: OT_U6_004
+unit: Integer Programming
+topic: Applications of Integer Programming
+
+content: Applications in scheduling, routing, resource allocation, network design, and combinatorial optimization.
+
+keywords: integer programming applications
+
+---
+
+chunk_id: OT_U7_001
+unit: Game Theory
+topic: Game Theory
+
+content: Mathematical framework for analyzing strategic interactions among rational decision-makers.
+
+keywords: game theory
+
+---
+
+chunk_id: OT_U7_002
+unit: Game Theory
+topic: Characteristics of Game Theory
+
+content: Fundamental properties including players, strategies, payoffs, and outcomes.
+
+keywords: game theory characteristics
+
+---
+
+chunk_id: OT_U7_003
+unit: Game Theory
+topic: Two Person Games
+
+content: Strategic games involving two competing participants.
+
+keywords: two person games
+
+---
+
+chunk_id: OT_U7_004
+unit: Game Theory
+topic: Zero Sum Games
+
+content: Games where one player's gain is exactly balanced by another player's loss.
+
+keywords: zero sum games
+
+---
+
+chunk_id: OT_U7_005
+unit: Game Theory
+topic: Pure Strategy
+
+content: Strategy in which a player consistently chooses a specific action.
+
+keywords: pure strategy
+
+---
+
+chunk_id: OT_U7_006
+unit: Game Theory
+topic: Dominance Theory
+
+content: Method for reducing game complexity by eliminating inferior strategies.
+
+keywords: dominance theory
+
+---
+
+chunk_id: OT_U8_001
+unit: Genetic Algorithms
+topic: Genetic Algorithms
+
+content: Evolutionary optimization techniques inspired by natural selection and genetics.
+
+keywords: genetic algorithms, evolutionary optimization
+
+---
+
+chunk_id: OT_U8_002
+unit: Genetic Algorithms
+topic: Genetic Algorithm Workflow
+
+content: Population initialization, fitness evaluation, selection, crossover, mutation, and replacement processes.
+
+keywords: genetic algorithm workflow
+
+---
+
+chunk_id: OT_U8_003
+unit: Genetic Algorithms
+topic: Representation Methods
+
+content: Methods of encoding candidate solutions such as binary, integer, real-valued, and permutation representations.
+
+keywords: chromosome representation
+
+---
+
+chunk_id: OT_U8_004
+unit: Genetic Algorithms
+topic: Selection Methods
+
+content: Procedures used to select individuals for reproduction based on fitness.
+
+keywords: selection methods
+
+---
+
+chunk_id: OT_U8_005
+unit: Genetic Algorithms
+topic: Genetic Operators
+
+content: Crossover and mutation operators used to generate new candidate solutions.
+
+keywords: crossover, mutation
+
+---
+
+chunk_id: OT_U8_006
+unit: Genetic Algorithms
+topic: Replacement Methods
+
+content: Strategies used to determine which individuals survive to the next generation.
+
+keywords: replacement methods
+
+---
+
+chunk_id: OT_U8_007
+unit: Genetic Algorithms
+topic: Applications of Genetic Algorithms
+
+content: Applications in optimization, machine learning, scheduling, engineering design, robotics, and search problems.
+
+keywords: genetic algorithm applications

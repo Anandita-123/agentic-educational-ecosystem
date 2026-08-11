@@ -1,0 +1,635 @@
+# SUBJECT_METADATA
+
+subject_name: Introduction to Machine Learning
+paper_code: PCCAIML 502
+program: Artificial Intelligence and Machine Learning
+
+---
+
+chunk_id: ML_U1_001
+unit: Introduction to Machine Learning
+topic: Machine Learning
+
+content: Definition of Machine Learning (ML), objectives of ML, differences between traditional programming and machine learning, and major application areas.
+
+keywords: machine learning, ML
+
+---
+
+chunk_id: ML_U1_002
+unit: Introduction to Machine Learning
+topic: Feature Engineering
+
+content: Creation, transformation, extraction, and representation of features to improve machine learning model performance.
+
+keywords: feature engineering
+
+---
+
+chunk_id: ML_U1_003
+unit: Introduction to Machine Learning
+topic: Learning Paradigms
+
+content: Supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning paradigms.
+
+keywords: learning paradigm
+
+---
+
+chunk_id: ML_U1_004
+unit: Introduction to Machine Learning
+topic: Hypothesis Generalization
+
+content: Generalization of hypotheses, overfitting, underfitting, and model complexity.
+
+keywords: generalization, hypothesis
+
+---
+
+chunk_id: ML_U1_005
+unit: Introduction to Machine Learning
+topic: VC Dimension
+
+content: Vapnik-Chervonenkis (VC) Dimension as a measure of model capacity and learning complexity.
+
+keywords: VC dimension
+
+---
+
+chunk_id: ML_U1_006
+unit: Introduction to Machine Learning
+topic: PAC Learning
+
+content: Probably Approximately Correct (PAC) learning framework and theoretical foundations of machine learning.
+
+keywords: PAC learning
+
+---
+
+chunk_id: ML_U1_007
+unit: Introduction to Machine Learning
+topic: Applications of Machine Learning
+
+content: Applications of machine learning in healthcare, finance, computer vision, natural language processing, recommendation systems, and automation.
+
+keywords: ML applications
+
+---
+
+chunk_id: ML_U2_001
+unit: Data Handling and Neural Networks
+topic: Feature Selection
+
+content: Methods for selecting relevant features to improve model performance and reduce dimensionality.
+
+keywords: feature selection
+
+---
+
+chunk_id: ML_U2_002
+unit: Data Handling and Neural Networks
+topic: Imbalanced Data
+
+content: Problems caused by imbalanced datasets and techniques for handling class imbalance.
+
+keywords: imbalanced data
+
+---
+
+chunk_id: ML_U2_003
+unit: Data Handling and Neural Networks
+topic: Outlier Detection
+
+content: Identification and treatment of anomalous observations in datasets.
+
+keywords: outlier detection
+
+---
+
+chunk_id: ML_U2_004
+unit: Data Handling and Neural Networks
+topic: Artificial Neural Network
+
+content: Structure, components, and operation of Artificial Neural Networks (ANNs).
+
+keywords: ANN, neural network
+
+---
+
+chunk_id: ML_U2_005
+unit: Data Handling and Neural Networks
+topic: Backpropagation
+
+content: Learning algorithm used to train neural networks through gradient-based optimization.
+
+keywords: backpropagation
+
+---
+
+chunk_id: ML_U2_006
+unit: Data Handling and Neural Networks
+topic: ANN Applications
+
+content: Applications of artificial neural networks in classification, regression, image processing, and pattern recognition.
+
+keywords: ANN applications
+
+---
+
+chunk_id: ML_U3_001
+unit: Regression Models
+topic: Regression
+
+content: Predictive modeling technique for estimating continuous target variables.
+
+keywords: regression
+
+---
+
+chunk_id: ML_U3_002
+unit: Regression Models
+topic: Multiple Linear Regression
+
+content: Regression involving multiple independent variables for predicting a continuous output.
+
+keywords: multiple regression
+
+---
+
+chunk_id: ML_U3_003
+unit: Regression Models
+topic: Least Squares Regression
+
+content: Parameter estimation technique minimizing the sum of squared prediction errors.
+
+keywords: least squares
+
+---
+
+chunk_id: ML_U3_004
+unit: Regression Models
+topic: Regularization
+
+content: Techniques used to reduce overfitting by constraining model complexity.
+
+keywords: regularization
+
+---
+
+chunk_id: ML_U3_005
+unit: Regression Models
+topic: LASSO Regression
+
+content: Least Absolute Shrinkage and Selection Operator (LASSO) for feature selection and regularized regression.
+
+keywords: LASSO
+
+---
+
+chunk_id: ML_U3_006
+unit: Regression Models
+topic: Regression Applications
+
+content: Real-world applications of regression models in forecasting and prediction.
+
+keywords: regression applications
+
+---
+
+chunk_id: ML_U3_007
+unit: Classification Models
+topic: Classification
+
+content: Predictive modeling technique used to assign data instances to predefined classes.
+
+keywords: classification
+
+---
+
+chunk_id: ML_U3_008
+unit: Classification Models
+topic: K Nearest Neighbors
+
+content: Instance-based classification algorithm using distance metrics for prediction.
+
+keywords: KNN
+
+---
+
+chunk_id: ML_U3_009
+unit: Classification Models
+topic: Naive Bayes
+
+content: Probabilistic classifier based on Bayes' theorem and conditional independence assumptions.
+
+keywords: naive bayes
+
+---
+
+chunk_id: ML_U3_010
+unit: Classification Models
+topic: Support Vector Machine
+
+content: Classification algorithm that constructs optimal separating hyperplanes.
+
+keywords: SVM, support vector machine
+
+---
+
+chunk_id: ML_U3_011
+unit: Classification Models
+topic: Decision Tree
+
+content: Tree-based supervised learning algorithm for classification and prediction.
+
+keywords: decision tree
+
+---
+
+chunk_id: ML_U3_012
+unit: Classification Models
+topic: Training and Testing
+
+content: Model training procedures, testing methodologies, and dataset partitioning.
+
+keywords: train test split
+
+---
+
+chunk_id: ML_U3_013
+unit: Classification Models
+topic: Cross Validation
+
+content: Techniques for evaluating model generalization performance using repeated data partitions.
+
+keywords: cross validation
+
+---
+
+chunk_id: ML_U3_014
+unit: Classification Models
+topic: Precision
+
+content: Classification evaluation metric measuring positive prediction accuracy.
+
+keywords: precision
+
+---
+
+chunk_id: ML_U3_015
+unit: Classification Models
+topic: Recall
+
+content: Classification evaluation metric measuring the proportion of actual positives correctly identified.
+
+keywords: recall
+
+---
+
+chunk_id: ML_U3_016
+unit: Classification Models
+topic: F1 Score
+
+content: Harmonic mean of precision and recall used for model evaluation.
+
+keywords: F1 score
+
+---
+
+chunk_id: ML_U3_017
+unit: Classification Models
+topic: Accuracy
+
+content: Ratio of correct predictions to total predictions.
+
+keywords: accuracy
+
+---
+
+chunk_id: ML_U3_018
+unit: Classification Models
+topic: ROC and AUC
+
+content: Receiver Operating Characteristic (ROC) curve and Area Under Curve (AUC) as performance evaluation metrics.
+
+keywords: ROC, AUC
+
+---
+
+chunk_id: ML_U3_019
+unit: Classification Models
+topic: Statistical Decision Theory
+
+content: Framework for decision-making under uncertainty using probabilistic models.
+
+keywords: statistical decision theory
+
+---
+
+chunk_id: ML_U3_020
+unit: Classification Models
+topic: Discriminant Functions
+
+content: Functions used to separate classes in classification problems.
+
+keywords: discriminant function
+
+---
+
+chunk_id: ML_U3_021
+unit: Classification Models
+topic: Decision Surfaces
+
+content: Geometric boundaries separating different classes in feature space.
+
+keywords: decision surface
+
+---
+
+chunk_id: ML_U4_001
+unit: Model Assessment and Ensemble Learning
+topic: Model Assessment
+
+content: Methods for evaluating predictive performance and model quality.
+
+keywords: model assessment
+
+---
+
+chunk_id: ML_U4_002
+unit: Model Assessment and Ensemble Learning
+topic: Model Selection
+
+content: Techniques for choosing the most appropriate model among alternatives.
+
+keywords: model selection
+
+---
+
+chunk_id: ML_U4_003
+unit: Model Assessment and Ensemble Learning
+topic: Ensemble Learning
+
+content: Combining multiple models to improve predictive performance and robustness.
+
+keywords: ensemble learning
+
+---
+
+chunk_id: ML_U4_004
+unit: Model Assessment and Ensemble Learning
+topic: Bagging
+
+content: Bootstrap Aggregating method that reduces variance by combining multiple learners.
+
+keywords: bagging
+
+---
+
+chunk_id: ML_U4_005
+unit: Model Assessment and Ensemble Learning
+topic: Boosting
+
+content: Ensemble method that improves performance by sequentially correcting prediction errors.
+
+keywords: boosting
+
+---
+
+chunk_id: ML_U4_006
+unit: Model Assessment and Ensemble Learning
+topic: Model Averaging
+
+content: Combining predictions from multiple models through averaging techniques.
+
+keywords: model averaging
+
+---
+
+chunk_id: ML_U4_007
+unit: Model Assessment and Ensemble Learning
+topic: Bayesian Theory
+
+content: Bayesian approach to probabilistic learning and inference.
+
+keywords: bayesian theory
+
+---
+
+chunk_id: ML_U4_008
+unit: Model Assessment and Ensemble Learning
+topic: Expectation Maximization Algorithm
+
+content: Iterative optimization algorithm used for parameter estimation in latent-variable models.
+
+keywords: EM algorithm
+
+---
+
+chunk_id: ML_U5_001
+unit: Sequence Modeling
+topic: Hidden Markov Model
+
+content: Probabilistic sequence model based on hidden states and observable outputs.
+
+keywords: HMM, hidden markov model
+
+---
+
+chunk_id: ML_U5_002
+unit: Sequence Modeling
+topic: Forward Backward Algorithm
+
+content: Dynamic programming algorithm used for inference in Hidden Markov Models.
+
+keywords: forward backward algorithm
+
+---
+
+chunk_id: ML_U5_003
+unit: Sequence Modeling
+topic: Viterbi Algorithm
+
+content: Dynamic programming algorithm used to determine the most probable hidden state sequence.
+
+keywords: viterbi algorithm
+
+---
+
+chunk_id: ML_U5_004
+unit: Sequence Modeling
+topic: Sequence Classification
+
+content: Classification tasks involving ordered sequential data.
+
+keywords: sequence classification
+
+---
+
+chunk_id: ML_U5_005
+unit: Sequence Modeling
+topic: Conditional Random Fields
+
+content: Probabilistic graphical models used for structured prediction and sequence labeling.
+
+keywords: CRF, conditional random field
+
+---
+
+chunk_id: ML_U5_006
+unit: Sequence Modeling
+topic: Part of Speech Tagging
+
+content: Natural Language Processing application assigning grammatical categories to words.
+
+keywords: POS tagging
+
+---
+
+chunk_id: ML_U6_001
+unit: Association Rule Mining
+topic: Association Rules
+
+content: Discovery of relationships and correlations among items in large datasets.
+
+keywords: association rules
+
+---
+
+chunk_id: ML_U6_002
+unit: Association Rule Mining
+topic: Frequent Pattern Mining
+
+content: Identification of frequently occurring patterns, itemsets, and associations.
+
+keywords: frequent pattern mining
+
+---
+
+chunk_id: ML_U6_003
+unit: Association Rule Mining
+topic: Apriori Algorithm
+
+content: Classical algorithm for discovering frequent itemsets and association rules.
+
+keywords: apriori
+
+---
+
+chunk_id: ML_U6_004
+unit: Association Rule Mining
+topic: FP Growth Algorithm
+
+content: Frequent Pattern Growth algorithm for efficient frequent itemset mining.
+
+keywords: FP growth
+
+---
+
+chunk_id: ML_U7_001
+unit: Clustering
+topic: Clustering
+
+content: Unsupervised learning method for grouping similar data points.
+
+keywords: clustering
+
+---
+
+chunk_id: ML_U7_002
+unit: Clustering
+topic: K Means Clustering
+
+content: Partition-based clustering algorithm using centroid optimization.
+
+keywords: k means
+
+---
+
+chunk_id: ML_U7_003
+unit: Clustering
+topic: Hierarchical Clustering
+
+content: Clustering approach that creates nested groups of data.
+
+keywords: hierarchical clustering
+
+---
+
+chunk_id: ML_U7_004
+unit: Clustering
+topic: Single Linkage Clustering
+
+content: Hierarchical clustering method based on minimum inter-cluster distance.
+
+keywords: single linkage
+
+---
+
+chunk_id: ML_U7_005
+unit: Clustering
+topic: Complete Linkage Clustering
+
+content: Hierarchical clustering method based on maximum inter-cluster distance.
+
+keywords: complete linkage
+
+---
+
+chunk_id: ML_U7_006
+unit: Clustering
+topic: Average Linkage Clustering
+
+content: Hierarchical clustering method using average distances between clusters.
+
+keywords: average linkage
+
+---
+
+chunk_id: ML_U7_007
+unit: Clustering
+topic: Ward Algorithm
+
+content: Hierarchical clustering technique minimizing within-cluster variance.
+
+keywords: ward clustering
+
+---
+
+chunk_id: ML_U7_008
+unit: Clustering
+topic: Minimum Spanning Tree Clustering
+
+content: Graph-based clustering using minimum spanning tree structures.
+
+keywords: MST clustering
+
+---
+
+chunk_id: ML_U7_009
+unit: Clustering
+topic: BIRCH Clustering
+
+content: Balanced Iterative Reducing and Clustering using Hierarchies algorithm for large datasets.
+
+keywords: BIRCH
+
+---
+
+chunk_id: ML_U8_001
+unit: Recent Trends
+topic: Emerging Trends in Machine Learning
+
+content: Recent developments in machine learning including deep learning, transformer architectures, generative AI, foundation models, explainable AI, federated learning, and AutoML.
+
+keywords: machine learning trends
+
+---
+
+chunk_id: ML_U8_002
+unit: Recent Trends
+topic: Machine Learning Case Studies
+
+content: Real-world case studies demonstrating machine learning applications across industries.
+
+keywords: ML case study

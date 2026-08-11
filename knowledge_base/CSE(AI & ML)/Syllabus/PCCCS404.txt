@@ -1,0 +1,465 @@
+# SUBJECT_METADATA
+
+subject_name: Design and Analysis of Algorithms
+paper_code: PCC-CS404
+program: AIML
+
+---
+
+chunk_id: DAA_U1_001
+unit: Algorithm Analysis
+topic: Algorithm
+
+content: Definition, characteristics, and properties of algorithms used to solve computational problems.
+
+keywords: algorithm, characteristics of algorithm
+
+---
+
+chunk_id: DAA_U1_002
+unit: Algorithm Analysis
+topic: Algorithm Analysis
+
+content: Techniques used to evaluate the efficiency and resource requirements of algorithms.
+
+keywords: algorithm analysis
+
+---
+
+chunk_id: DAA_U1_003
+unit: Algorithm Analysis
+topic: Asymptotic Analysis
+
+content: Mathematical method for analyzing algorithm growth rates as input size increases.
+
+keywords: asymptotic analysis
+
+---
+
+chunk_id: DAA_U1_004
+unit: Algorithm Analysis
+topic: Best-Case Complexity
+
+content: Minimum execution time or resource usage of an algorithm for a given input size.
+
+keywords: best case complexity
+
+---
+
+chunk_id: DAA_U1_005
+unit: Algorithm Analysis
+topic: Average-Case Complexity
+
+content: Expected execution time or resource usage over all possible inputs.
+
+keywords: average case complexity
+
+---
+
+chunk_id: DAA_U1_006
+unit: Algorithm Analysis
+topic: Worst-Case Complexity
+
+content: Maximum execution time or resource usage for a given input size.
+
+keywords: worst case complexity
+
+---
+
+chunk_id: DAA_U1_007
+unit: Algorithm Analysis
+topic: Time Complexity
+
+content: Measurement of algorithm execution time as a function of input size.
+
+keywords: time complexity
+
+---
+
+chunk_id: DAA_U1_008
+unit: Algorithm Analysis
+topic: Space Complexity
+
+content: Measurement of memory usage as a function of input size.
+
+keywords: space complexity
+
+---
+
+chunk_id: DAA_U1_009
+unit: Algorithm Analysis
+topic: Time-Space Trade-Off
+
+content: Balancing execution time and memory consumption when designing algorithms.
+
+keywords: time space tradeoff
+
+---
+
+chunk_id: DAA_U1_010
+unit: Algorithm Analysis
+topic: Recursive Algorithms
+
+content: Algorithms that solve problems by calling themselves on smaller subproblems.
+
+keywords: recursion, recursive algorithm
+
+---
+
+chunk_id: DAA_U1_011
+unit: Algorithm Analysis
+topic: Recurrence Relations
+
+content: Mathematical equations describing the running time of recursive algorithms.
+
+keywords: recurrence relation
+
+---
+
+chunk_id: DAA_U1_012
+unit: Algorithm Analysis
+topic: Substitution Method
+
+content: Technique for solving recurrence relations by assuming and proving a solution.
+
+keywords: substitution method
+
+---
+
+chunk_id: DAA_U1_013
+unit: Algorithm Analysis
+topic: Recursion Tree Method
+
+content: Method of solving recurrences by visualizing recursive calls as a tree structure.
+
+keywords: recursion tree
+
+---
+
+chunk_id: DAA_U1_014
+unit: Algorithm Analysis
+topic: Master's Theorem
+
+content: Formula-based technique for solving divide-and-conquer recurrence relations.
+
+keywords: master theorem
+
+---
+
+chunk_id: DAA_U2_001
+unit: Algorithm Design Strategies
+topic: Algorithmic Design Strategies
+
+content: General approaches used for constructing efficient algorithms.
+
+keywords: algorithm design paradigms
+
+---
+
+chunk_id: DAA_U2_002
+unit: Algorithm Design Strategies
+topic: Brute Force Method
+
+content: Problem-solving technique that examines all possible solutions exhaustively.
+
+keywords: brute force algorithm
+
+---
+
+chunk_id: DAA_U2_003
+unit: Algorithm Design Strategies
+topic: Greedy Method
+
+content: Algorithm design strategy that makes locally optimal choices at each step.
+
+keywords: greedy algorithm
+
+---
+
+chunk_id: DAA_U2_004
+unit: Algorithm Design Strategies
+topic: Dynamic Programming
+
+content: Optimization technique that stores solutions to overlapping subproblems.
+
+keywords: dynamic programming
+
+---
+
+chunk_id: DAA_U2_005
+unit: Algorithm Design Strategies
+topic: Branch and Bound
+
+content: Systematic search method that eliminates regions of the solution space using bounds.
+
+keywords: branch and bound
+
+---
+
+chunk_id: DAA_U2_006
+unit: Algorithm Design Strategies
+topic: Backtracking
+
+content: Recursive search technique that incrementally builds solutions and abandons invalid paths.
+
+keywords: backtracking
+
+---
+
+chunk_id: DAA_U2_007
+unit: Algorithm Design Strategies
+topic: Bin Packing Problem
+
+content: Optimization problem involving placement of items into bins while minimizing bin usage.
+
+keywords: bin packing problem
+
+---
+
+chunk_id: DAA_U2_008
+unit: Algorithm Design Strategies
+topic: Knapsack Problem
+
+content: Optimization problem focused on maximizing value within a weight constraint.
+
+keywords: knapsack problem
+
+---
+
+chunk_id: DAA_U2_009
+unit: Algorithm Design Strategies
+topic: Travelling Salesman Problem
+
+content: Problem of finding the shortest possible route visiting all cities exactly once and returning to the start.
+
+keywords: TSP, travelling salesman problem
+
+---
+
+chunk_id: DAA_U2_010
+unit: Algorithm Design Strategies
+topic: Heuristics
+
+content: Approximate problem-solving methods used when exact solutions are impractical.
+
+keywords: heuristics
+
+---
+
+chunk_id: DAA_U2_011
+unit: Algorithm Design Strategies
+topic: Applications of Heuristics
+
+content: Practical domains where heuristic algorithms provide efficient approximate solutions.
+
+keywords: heuristic applications
+
+---
+
+chunk_id: DAA_U3_001
+unit: Graph and Tree Algorithms
+topic: Graph Traversal
+
+content: Techniques for systematically visiting vertices and edges in a graph.
+
+keywords: graph traversal
+
+---
+
+chunk_id: DAA_U3_002
+unit: Graph and Tree Algorithms
+topic: Depth First Search
+
+content: Graph traversal algorithm that explores as far as possible along each branch before backtracking.
+
+keywords: DFS, depth first search
+
+---
+
+chunk_id: DAA_U3_003
+unit: Graph and Tree Algorithms
+topic: Breadth First Search
+
+content: Graph traversal algorithm that explores neighboring vertices level by level.
+
+keywords: BFS, breadth first search
+
+---
+
+chunk_id: DAA_U3_004
+unit: Graph and Tree Algorithms
+topic: Shortest Path Algorithms
+
+content: Algorithms used to determine minimum-cost paths between graph vertices.
+
+keywords: shortest path
+
+---
+
+chunk_id: DAA_U3_005
+unit: Graph and Tree Algorithms
+topic: Transitive Closure
+
+content: Representation of reachability relationships among graph vertices.
+
+keywords: transitive closure
+
+---
+
+chunk_id: DAA_U3_006
+unit: Graph and Tree Algorithms
+topic: Minimum Spanning Tree
+
+content: Tree connecting all vertices with minimum total edge weight.
+
+keywords: MST, minimum spanning tree
+
+---
+
+chunk_id: DAA_U3_007
+unit: Graph and Tree Algorithms
+topic: Topological Sorting
+
+content: Linear ordering of vertices in a directed acyclic graph.
+
+keywords: topological sort
+
+---
+
+chunk_id: DAA_U3_008
+unit: Graph and Tree Algorithms
+topic: Network Flow Algorithms
+
+content: Algorithms used to compute maximum flow through a network.
+
+keywords: network flow, max flow
+
+---
+
+chunk_id: DAA_U4_001
+unit: Computational Complexity
+topic: Computability
+
+content: Study of which problems can be solved using computational procedures.
+
+keywords: computability
+
+---
+
+chunk_id: DAA_U4_002
+unit: Computational Complexity
+topic: Complexity Classes
+
+content: Categories of computational problems grouped according to resource requirements.
+
+keywords: complexity classes
+
+---
+
+chunk_id: DAA_U4_003
+unit: Computational Complexity
+topic: Class P
+
+content: Problems solvable in polynomial time using deterministic algorithms.
+
+keywords: P class
+
+---
+
+chunk_id: DAA_U4_004
+unit: Computational Complexity
+topic: Class NP
+
+content: Problems whose solutions can be verified in polynomial time.
+
+keywords: NP class
+
+---
+
+chunk_id: DAA_U4_005
+unit: Computational Complexity
+topic: NP-Complete Problems
+
+content: Hardest problems in NP to which every NP problem can be polynomially reduced.
+
+keywords: NP complete
+
+---
+
+chunk_id: DAA_U4_006
+unit: Computational Complexity
+topic: NP-Hard Problems
+
+content: Problems at least as difficult as NP-complete problems but not necessarily in NP.
+
+keywords: NP hard
+
+---
+
+chunk_id: DAA_U4_007
+unit: Computational Complexity
+topic: Cook's Theorem
+
+content: Theorem establishing the Boolean satisfiability problem as NP-complete.
+
+keywords: Cook theorem
+
+---
+
+chunk_id: DAA_U4_008
+unit: Computational Complexity
+topic: Reduction Techniques
+
+content: Methods for transforming one computational problem into another.
+
+keywords: polynomial reduction
+
+---
+
+chunk_id: DAA_U4_009
+unit: Computational Complexity
+topic: Standard NP-Complete Problems
+
+content: Classical NP-complete problems commonly used in complexity theory.
+
+keywords: NP complete examples
+
+---
+
+chunk_id: DAA_U5_001
+unit: Advanced Algorithm Topics
+topic: Approximation Algorithms
+
+content: Algorithms that provide near-optimal solutions with provable performance guarantees.
+
+keywords: approximation algorithms
+
+---
+
+chunk_id: DAA_U5_002
+unit: Advanced Algorithm Topics
+topic: Randomized Algorithms
+
+content: Algorithms that use random choices during execution to improve performance or simplicity.
+
+keywords: randomized algorithms
+
+---
+
+chunk_id: DAA_U5_003
+unit: Advanced Algorithm Topics
+topic: PSPACE
+
+content: Complexity class consisting of decision problems solvable using polynomial memory.
+
+keywords: PSPACE
+
+---
+
+chunk_id: DAA_U5_004
+unit: Advanced Algorithm Topics
+topic: Problems Beyond NP
+
+content: Computational complexity classes and problem categories extending beyond NP.
+
+keywords: beyond NP, advanced complexity theory

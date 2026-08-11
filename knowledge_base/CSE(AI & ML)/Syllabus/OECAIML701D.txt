@@ -1,0 +1,525 @@
+# SUBJECT_METADATA
+
+subject_name: Compiler Design
+paper_code: OEC-AIML701D
+category: Open Elective
+
+---
+
+chunk_id: CD_U1_001
+unit: Introduction to Compiling
+topic: Introduction to Compilers
+
+content: Overview of compilers, their purpose, structure, and role in translating high-level programming languages into machine-executable code.
+
+keywords: compiler, language translation, source code
+
+---
+
+chunk_id: CD_U1_002
+unit: Introduction to Compiling
+topic: Analysis of Source Programs
+
+content: Examination and processing of source code to identify lexical, syntactic, and semantic structures before code generation.
+
+keywords: source program analysis, compiler phases
+
+---
+
+chunk_id: CD_U1_003
+unit: Introduction to Compiling
+topic: Phases of a Compiler
+
+content: Different phases of compilation including lexical analysis, syntax analysis, semantic analysis, optimization, and code generation.
+
+keywords: compiler phases, compilation process
+
+---
+
+chunk_id: CD_U1_004
+unit: Introduction to Compiling
+topic: Cousins of the Compiler
+
+content: Related language processing tools such as assemblers, interpreters, preprocessors, linkers, and loaders.
+
+keywords: assembler, interpreter, linker, loader
+
+---
+
+chunk_id: CD_U2_001
+unit: Lexical Analysis
+topic: Role of the Lexical Analyzer
+
+content: Functions of the lexical analyzer in converting source code into tokens for further compiler processing.
+
+keywords: lexical analyzer, scanner
+
+---
+
+chunk_id: CD_U2_002
+unit: Lexical Analysis
+topic: Tokens, Patterns and Lexemes
+
+content: Concepts of tokens, token patterns, and lexemes used in lexical analysis of programming languages.
+
+keywords: tokens, lexemes, patterns
+
+---
+
+chunk_id: CD_U2_003
+unit: Lexical Analysis
+topic: Input Buffering
+
+content: Techniques for efficient reading and buffering of source program input during lexical analysis.
+
+keywords: input buffering, scanner optimization
+
+---
+
+chunk_id: CD_U2_004
+unit: Lexical Analysis
+topic: Token Specification and Recognition
+
+content: Methods for specifying tokens using regular expressions and recognizing them during scanning.
+
+keywords: token specification, token recognition
+
+---
+
+chunk_id: CD_U2_005
+unit: Lexical Analysis
+topic: Finite Automata
+
+content: Deterministic and non-deterministic finite automata used for lexical analysis and pattern recognition.
+
+keywords: finite automata, DFA, NFA
+
+---
+
+chunk_id: CD_U2_006
+unit: Lexical Analysis
+topic: Regular Expressions to NFA
+
+content: Construction of Non-Deterministic Finite Automata from regular expressions for token recognition.
+
+keywords: regular expressions, NFA construction
+
+---
+
+chunk_id: CD_U2_007
+unit: Lexical Analysis
+topic: Regular Expressions to DFA
+
+content: Conversion techniques from regular expressions and NFA to Deterministic Finite Automata.
+
+keywords: DFA construction, automata conversion
+
+---
+
+chunk_id: CD_U2_008
+unit: Lexical Analysis
+topic: Lexical Analyzer Generators
+
+content: Design and implementation of lexical analyzer generators such as Lex.
+
+keywords: Lex, lexical analyzer generator
+
+---
+
+chunk_id: CD_U3_001
+unit: Syntax Analysis
+topic: Role of the Parser
+
+content: Responsibilities of the parser in checking grammatical correctness and constructing parse structures.
+
+keywords: parser, syntax analysis
+
+---
+
+chunk_id: CD_U3_002
+unit: Syntax Analysis
+topic: Context-Free Grammars
+
+content: Context-free grammar notation, production rules, and their application in programming language syntax.
+
+keywords: CFG, context-free grammar
+
+---
+
+chunk_id: CD_U3_003
+unit: Syntax Analysis
+topic: Grammar Design
+
+content: Techniques for writing and refining grammars suitable for compiler implementation.
+
+keywords: grammar design, production rules
+
+---
+
+chunk_id: CD_U3_004
+unit: Syntax Analysis
+topic: Top-Down Parsing
+
+content: Principles and techniques of top-down parsing including recursive-descent parsing methods.
+
+keywords: top-down parsing, recursive descent
+
+---
+
+chunk_id: CD_U3_005
+unit: Syntax Analysis
+topic: Predictive Parsing (LL Parsing)
+
+content: Non-recursive predictive parsing, LL parsers, parsing tables, and grammar requirements.
+
+keywords: LL parser, predictive parsing
+
+---
+
+chunk_id: CD_U3_006
+unit: Syntax Analysis
+topic: Bottom-Up Parsing
+
+content: Fundamentals of bottom-up parsing and shift-reduce parsing strategies.
+
+keywords: bottom-up parsing, shift-reduce parsing
+
+---
+
+chunk_id: CD_U3_007
+unit: Syntax Analysis
+topic: Handles and Viable Prefixes
+
+content: Concepts of handles, viable prefixes, and their significance in bottom-up parsing.
+
+keywords: handles, viable prefixes
+
+---
+
+chunk_id: CD_U3_008
+unit: Syntax Analysis
+topic: Operator Precedence Parsing
+
+content: Operator precedence relations and parsing techniques for expression grammars.
+
+keywords: operator precedence parsing
+
+---
+
+chunk_id: CD_U3_009
+unit: Syntax Analysis
+topic: LR Parsers
+
+content: Construction and operation of SLR and LALR parsers for efficient syntax analysis.
+
+keywords: LR parser, SLR, LALR
+
+---
+
+chunk_id: CD_U3_010
+unit: Syntax Analysis
+topic: Parser Generators
+
+content: Automatic parser generation using tools such as YACC.
+
+keywords: YACC, parser generator
+
+---
+
+chunk_id: CD_U3_011
+unit: Syntax Analysis
+topic: Error Recovery Strategies
+
+content: Error detection and recovery techniques used in different parsing approaches.
+
+keywords: syntax errors, error recovery
+
+---
+
+chunk_id: CD_U4_001
+unit: Syntax Directed Translation
+topic: Syntax Directed Definitions
+
+content: Principles of syntax-directed definitions and attribute grammars for semantic processing.
+
+keywords: syntax directed definitions, attribute grammar
+
+---
+
+chunk_id: CD_U4_002
+unit: Syntax Directed Translation
+topic: Construction of Syntax Trees
+
+content: Building abstract syntax trees and parse trees for program representation.
+
+keywords: syntax tree, abstract syntax tree
+
+---
+
+chunk_id: CD_U4_003
+unit: Syntax Directed Translation
+topic: S-Attributed Definitions
+
+content: Bottom-up evaluation of synthesized attributes using S-attributed definitions.
+
+keywords: synthesized attributes, S-attributed grammar
+
+---
+
+chunk_id: CD_U4_004
+unit: Syntax Directed Translation
+topic: L-Attributed Definitions
+
+content: L-attributed grammars and methods for evaluating inherited and synthesized attributes.
+
+keywords: L-attributed grammar, inherited attributes
+
+---
+
+chunk_id: CD_U4_005
+unit: Syntax Directed Translation
+topic: Evaluation of Inherited Attributes
+
+content: Bottom-up and dependency-based evaluation techniques for inherited attributes.
+
+keywords: inherited attributes, semantic analysis
+
+---
+
+chunk_id: CD_U5_001
+unit: Type Checking
+topic: Type Systems
+
+content: Fundamentals of type systems, type safety, and type checking mechanisms in programming languages.
+
+keywords: type system, type checking
+
+---
+
+chunk_id: CD_U5_002
+unit: Type Checking
+topic: Simple Type Checker Design
+
+content: Specification and implementation of simple type checking algorithms.
+
+keywords: type checker, semantic analysis
+
+---
+
+chunk_id: CD_U5_003
+unit: Type Checking
+topic: Equivalence of Type Expressions
+
+content: Structural and name equivalence of type expressions and their applications.
+
+keywords: type equivalence, type expressions
+
+---
+
+chunk_id: CD_U5_004
+unit: Type Checking
+topic: Type Conversions
+
+content: Implicit and explicit type conversion techniques and compatibility checking.
+
+keywords: type conversion, coercion
+
+---
+
+chunk_id: CD_U6_001
+unit: Run-Time Environments
+topic: Source Language Issues
+
+content: Activation trees, control stacks, scope rules, and binding of names during program execution.
+
+keywords: activation tree, scope, binding
+
+---
+
+chunk_id: CD_U6_002
+unit: Run-Time Environments
+topic: Storage Organization
+
+content: Organization of run-time memory and activation records for procedure execution.
+
+keywords: storage organization, activation record
+
+---
+
+chunk_id: CD_U6_003
+unit: Run-Time Environments
+topic: Storage Allocation Strategies
+
+content: Static, stack-based, and heap-based storage allocation methods.
+
+keywords: memory allocation, stack allocation
+
+---
+
+chunk_id: CD_U6_004
+unit: Run-Time Environments
+topic: Parameter Passing Mechanisms
+
+content: Call by value, call by reference, copy-restore, and call by name parameter passing techniques.
+
+keywords: parameter passing, call by value
+
+---
+
+chunk_id: CD_U6_005
+unit: Run-Time Environments
+topic: Symbol Tables
+
+content: Symbol table organization, implementation techniques, and compiler usage.
+
+keywords: symbol table, identifiers
+
+---
+
+chunk_id: CD_U6_006
+unit: Run-Time Environments
+topic: Dynamic Storage Allocation
+
+content: Dynamic memory allocation methods and management strategies during execution.
+
+keywords: dynamic allocation, memory management
+
+---
+
+chunk_id: CD_U7_001
+unit: Intermediate Code Generation
+topic: Intermediate Languages
+
+content: Intermediate representations used between source and target code generation phases.
+
+keywords: intermediate code, IR
+
+---
+
+chunk_id: CD_U7_002
+unit: Intermediate Code Generation
+topic: Graphical Program Representation
+
+content: Graph-based representations of program structures and control flow.
+
+keywords: control flow graph, program representation
+
+---
+
+chunk_id: CD_U7_003
+unit: Intermediate Code Generation
+topic: Three-Address Code
+
+content: Structure, generation, and applications of three-address intermediate code.
+
+keywords: three-address code, TAC
+
+---
+
+chunk_id: CD_U7_004
+unit: Intermediate Code Generation
+topic: Quadruples, Triples and Indirect Triples
+
+content: Different implementations of three-address statements and their storage formats.
+
+keywords: quadruples, triples, indirect triples
+
+---
+
+chunk_id: CD_U8_001
+unit: Code Optimization
+topic: Introduction to Code Optimization
+
+content: Objectives, importance, and approaches to improving intermediate and target code efficiency.
+
+keywords: code optimization, compiler optimization
+
+---
+
+chunk_id: CD_U8_002
+unit: Code Optimization
+topic: Basic Blocks and Flow Graphs
+
+content: Identification of basic blocks and construction of flow graphs for optimization.
+
+keywords: basic blocks, flow graphs
+
+---
+
+chunk_id: CD_U8_003
+unit: Code Optimization
+topic: Transformation of Basic Blocks
+
+content: Techniques for improving efficiency through local code transformations.
+
+keywords: code transformation, optimization
+
+---
+
+chunk_id: CD_U8_004
+unit: Code Optimization
+topic: DAG Representation of Basic Blocks
+
+content: Directed Acyclic Graph representation for detecting common subexpressions and optimization opportunities.
+
+keywords: DAG, common subexpression
+
+---
+
+chunk_id: CD_U8_005
+unit: Code Optimization
+topic: Sources of Optimization
+
+content: Common optimization opportunities including redundancy elimination and strength reduction.
+
+keywords: optimization techniques, redundancy elimination
+
+---
+
+chunk_id: CD_U8_006
+unit: Code Optimization
+topic: Loop Optimization
+
+content: Optimization methods applied to loops for improving execution performance.
+
+keywords: loop optimization, performance improvement
+
+---
+
+chunk_id: CD_U8_007
+unit: Code Optimization
+topic: Peephole Optimization
+
+content: Local optimization techniques that improve code by examining small instruction sequences.
+
+keywords: peephole optimization, local optimization
+
+---
+
+chunk_id: CD_U9_001
+unit: Code Generation
+topic: Design Issues in Code Generation
+
+content: Challenges and considerations in generating efficient target machine code.
+
+keywords: code generation, target code
+
+---
+
+chunk_id: CD_U9_002
+unit: Code Generation
+topic: Simple Code Generator
+
+content: Basic techniques and algorithms for generating executable machine instructions.
+
+keywords: code generator, machine code
+
+---
+
+chunk_id: CD_U9_003
+unit: Code Generation
+topic: Register Allocation and Assignment
+
+content: Register allocation strategies, assignment algorithms, and efficient use of processor registers.
+
+keywords: register allocation, register assignment

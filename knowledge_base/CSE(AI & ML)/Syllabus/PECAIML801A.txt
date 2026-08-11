@@ -1,0 +1,665 @@
+# SUBJECT_METADATA
+
+subject_name: Natural Language Processing
+paper_code: PECAIML801A
+category: Professional Elective
+
+---
+
+chunk_id: NLP_U1_001
+unit: Text Processing and Morphology
+topic: Introduction to Natural Language Processing
+
+content: Overview of Natural Language Processing, applications, challenges, and the role of computational techniques in understanding human language.
+
+keywords: NLP, natural language processing, language technology
+
+---
+
+chunk_id: NLP_U1_002
+unit: Text Processing and Morphology
+topic: Regular Expressions
+
+content: Fundamentals of regular expressions for pattern matching, text processing, and lexical analysis in NLP applications.
+
+keywords: regular expressions, pattern matching
+
+---
+
+chunk_id: NLP_U1_003
+unit: Text Processing and Morphology
+topic: Finite State Automata
+
+content: Finite State Automata concepts, state transitions, and their application in lexical processing and language recognition.
+
+keywords: finite state automata, FSA
+
+---
+
+chunk_id: NLP_U1_004
+unit: Text Processing and Morphology
+topic: Word Tokenization
+
+content: Techniques for splitting text into meaningful word units for downstream natural language processing tasks.
+
+keywords: tokenization, word segmentation
+
+---
+
+chunk_id: NLP_U1_005
+unit: Text Processing and Morphology
+topic: Text Normalization
+
+content: Methods for standardizing text through case folding, punctuation handling, abbreviation expansion, and normalization techniques.
+
+keywords: normalization, text preprocessing
+
+---
+
+chunk_id: NLP_U1_006
+unit: Text Processing and Morphology
+topic: Sentence Segmentation
+
+content: Identification and separation of text into individual sentences for linguistic analysis.
+
+keywords: sentence segmentation, sentence boundary detection
+
+---
+
+chunk_id: NLP_U1_007
+unit: Text Processing and Morphology
+topic: Named Entity Recognition
+
+content: Techniques for identifying and classifying named entities such as people, organizations, locations, and dates.
+
+keywords: NER, named entities
+
+---
+
+chunk_id: NLP_U1_008
+unit: Text Processing and Morphology
+topic: Multiword Expression Extraction
+
+content: Identification and extraction of meaningful multiword expressions and collocations from text corpora.
+
+keywords: multiword expressions, collocations
+
+---
+
+chunk_id: NLP_U1_009
+unit: Text Processing and Morphology
+topic: Spell Checking using Bayesian Approach
+
+content: Bayesian probabilistic methods for detecting and correcting spelling errors in text.
+
+keywords: spell checking, Bayesian methods
+
+---
+
+chunk_id: NLP_U1_010
+unit: Text Processing and Morphology
+topic: Minimum Edit Distance
+
+content: Algorithms for measuring similarity between strings and correcting spelling variations using edit operations.
+
+keywords: minimum edit distance, string similarity
+
+---
+
+chunk_id: NLP_U1_011
+unit: Text Processing and Morphology
+topic: Introduction to Morphology
+
+content: Study of word formation, internal word structure, and linguistic morphology in natural language processing.
+
+keywords: morphology, word formation
+
+---
+
+chunk_id: NLP_U1_012
+unit: Text Processing and Morphology
+topic: Inflectional and Derivational Morphology
+
+content: Analysis of grammatical word variations and derivation of new words through morphological processes.
+
+keywords: inflectional morphology, derivational morphology
+
+---
+
+chunk_id: NLP_U1_013
+unit: Text Processing and Morphology
+topic: Finite State Morphological Parsing
+
+content: Morphological analysis using finite-state models for decomposition and interpretation of word structures.
+
+keywords: morphological parsing, finite state methods
+
+---
+
+chunk_id: NLP_U1_014
+unit: Text Processing and Morphology
+topic: Lexicon and Morphotactics
+
+content: Lexical resources and morphotactic rules governing valid word formation.
+
+keywords: lexicon, morphotactics
+
+---
+
+chunk_id: NLP_U1_015
+unit: Text Processing and Morphology
+topic: Finite State Transducers for Morphology
+
+content: Morphological parsing and generation using finite state transducers and linguistic rules.
+
+keywords: finite state transducer, FST
+
+---
+
+chunk_id: NLP_U1_016
+unit: Text Processing and Morphology
+topic: Orthographic Rules and Finite State Transducers
+
+content: Modeling spelling and orthographic transformations using finite-state techniques.
+
+keywords: orthographic rules, FST
+
+---
+
+chunk_id: NLP_U1_017
+unit: Text Processing and Morphology
+topic: Porter Stemmer
+
+content: Rule-based stemming algorithm used for reducing words to their root or stem forms.
+
+keywords: Porter stemmer, stemming
+
+---
+
+chunk_id: NLP_U2_001
+unit: Language Modeling and POS Tagging
+topic: Introduction to Language Modeling
+
+content: Fundamentals of language models and their role in predicting and generating linguistic sequences.
+
+keywords: language modeling, NLP models
+
+---
+
+chunk_id: NLP_U2_002
+unit: Language Modeling and POS Tagging
+topic: N-Gram Models
+
+content: Statistical language models based on sequences of words or characters and their predictive capabilities.
+
+keywords: n-grams, statistical language models
+
+---
+
+chunk_id: NLP_U2_003
+unit: Language Modeling and POS Tagging
+topic: Chain Rule in Language Modeling
+
+content: Application of probability chain rule for estimating sentence probabilities in language models.
+
+keywords: chain rule, probability models
+
+---
+
+chunk_id: NLP_U2_004
+unit: Language Modeling and POS Tagging
+topic: Add-One Smoothing
+
+content: Laplace smoothing technique used to handle unseen events in language modeling.
+
+keywords: add-one smoothing, Laplace smoothing
+
+---
+
+chunk_id: NLP_U2_005
+unit: Language Modeling and POS Tagging
+topic: Witten-Bell Discounting
+
+content: Probability estimation technique for handling sparse data in language models.
+
+keywords: Witten-Bell discounting, smoothing
+
+---
+
+chunk_id: NLP_U2_006
+unit: Language Modeling and POS Tagging
+topic: Backoff Models
+
+content: Language modeling strategy that backs off to lower-order models when data is sparse.
+
+keywords: backoff, language model
+
+---
+
+chunk_id: NLP_U2_007
+unit: Language Modeling and POS Tagging
+topic: Deleted Interpolation
+
+content: Combining probabilities from multiple n-gram models using interpolation techniques.
+
+keywords: interpolation, n-gram models
+
+---
+
+chunk_id: NLP_U2_008
+unit: Language Modeling and POS Tagging
+topic: N-Grams for Spelling and Word Prediction
+
+content: Application of n-gram language models in spelling correction and predictive text systems.
+
+keywords: word prediction, spelling correction
+
+---
+
+chunk_id: NLP_U2_009
+unit: Language Modeling and POS Tagging
+topic: Evaluation of Language Models
+
+content: Metrics and techniques for assessing the effectiveness and performance of language models.
+
+keywords: language model evaluation, perplexity
+
+---
+
+chunk_id: NLP_U2_010
+unit: Language Modeling and POS Tagging
+topic: Markov Chains
+
+content: Probabilistic state-transition models forming the foundation of sequence modeling techniques.
+
+keywords: Markov chain, stochastic processes
+
+---
+
+chunk_id: NLP_U2_011
+unit: Language Modeling and POS Tagging
+topic: Hidden Markov Models
+
+content: Hidden state probabilistic models widely used for sequence labeling and language processing tasks.
+
+keywords: HMM, hidden Markov model
+
+---
+
+chunk_id: NLP_U2_012
+unit: Language Modeling and POS Tagging
+topic: Forward Algorithm
+
+content: Dynamic programming algorithm for computing probabilities in Hidden Markov Models.
+
+keywords: forward algorithm, HMM
+
+---
+
+chunk_id: NLP_U2_013
+unit: Language Modeling and POS Tagging
+topic: Viterbi Algorithm
+
+content: Dynamic programming technique for determining the most likely sequence of hidden states.
+
+keywords: Viterbi algorithm, sequence decoding
+
+---
+
+chunk_id: NLP_U2_014
+unit: Language Modeling and POS Tagging
+topic: Part-of-Speech Tagging
+
+content: Assignment of grammatical categories to words using linguistic and statistical approaches.
+
+keywords: POS tagging, grammatical categories
+
+---
+
+chunk_id: NLP_U2_015
+unit: Language Modeling and POS Tagging
+topic: Rule-Based POS Tagging
+
+content: Linguistic rule-driven approaches for assigning part-of-speech tags to text.
+
+keywords: rule-based tagging, POS
+
+---
+
+chunk_id: NLP_U2_016
+unit: Language Modeling and POS Tagging
+topic: Machine Learning Based POS Tagging
+
+content: Statistical and machine learning techniques for automated part-of-speech tagging.
+
+keywords: machine learning, POS tagging
+
+---
+
+chunk_id: NLP_U2_017
+unit: Language Modeling and POS Tagging
+topic: Evaluation of POS Taggers
+
+content: Performance metrics and evaluation methods for part-of-speech tagging systems.
+
+keywords: POS evaluation, tagging accuracy
+
+---
+
+chunk_id: NLP_U3_001
+unit: Text Classification and Parsing
+topic: Introduction to Text Classification
+
+content: Concepts, objectives, and applications of automated text categorization.
+
+keywords: text classification, document classification
+
+---
+
+chunk_id: NLP_U3_002
+unit: Text Classification and Parsing
+topic: Naive Bayes Text Classification
+
+content: Probabilistic classification using Naive Bayes algorithms for document categorization.
+
+keywords: Naive Bayes, text categorization
+
+---
+
+chunk_id: NLP_U3_003
+unit: Text Classification and Parsing
+topic: Evaluation of Text Classification Models
+
+content: Metrics and methodologies for assessing classification model performance.
+
+keywords: classification evaluation, accuracy
+
+---
+
+chunk_id: NLP_U3_004
+unit: Text Classification and Parsing
+topic: Sentiment Analysis
+
+content: Techniques for identifying opinions, sentiments, and emotions expressed in textual content.
+
+keywords: sentiment analysis, opinion mining
+
+---
+
+chunk_id: NLP_U3_005
+unit: Text Classification and Parsing
+topic: Opinion Mining
+
+content: Extraction and analysis of opinions, attitudes, and viewpoints from text data.
+
+keywords: opinion mining, sentiment detection
+
+---
+
+chunk_id: NLP_U3_006
+unit: Text Classification and Parsing
+topic: Emotion Analysis
+
+content: Detection and classification of emotional states expressed in natural language.
+
+keywords: emotion analysis, affective computing
+
+---
+
+chunk_id: NLP_U3_007
+unit: Text Classification and Parsing
+topic: Resources and Techniques for Sentiment Analysis
+
+content: Linguistic resources, datasets, lexicons, and computational techniques for sentiment analysis.
+
+keywords: sentiment resources, sentiment techniques
+
+---
+
+chunk_id: NLP_U3_008
+unit: Text Classification and Parsing
+topic: Context-Free Grammars
+
+content: Grammar formalism used to represent hierarchical syntactic structures in natural language.
+
+keywords: CFG, context-free grammar
+
+---
+
+chunk_id: NLP_U3_009
+unit: Text Classification and Parsing
+topic: Constituency Parsing
+
+content: Parsing methods based on phrase structure and constituent relationships within sentences.
+
+keywords: constituency parsing, phrase structure
+
+---
+
+chunk_id: NLP_U3_010
+unit: Text Classification and Parsing
+topic: CFG Phenomena in English
+
+content: Common syntactic patterns and structures represented using context-free grammars.
+
+keywords: English grammar, CFG applications
+
+---
+
+chunk_id: NLP_U3_011
+unit: Text Classification and Parsing
+topic: Top-Down Parsing
+
+content: Parsing technique that begins from the start symbol and recursively expands grammar rules.
+
+keywords: top-down parsing, syntax analysis
+
+---
+
+chunk_id: NLP_U3_012
+unit: Text Classification and Parsing
+topic: Bottom-Up Parsing
+
+content: Parsing strategy that builds parse trees from input tokens toward the start symbol.
+
+keywords: bottom-up parsing, parsing methods
+
+---
+
+chunk_id: NLP_U3_013
+unit: Text Classification and Parsing
+topic: Probabilistic Context-Free Grammars
+
+content: Extension of CFGs incorporating probabilities for handling ambiguity in language processing.
+
+keywords: PCFG, probabilistic grammar
+
+---
+
+chunk_id: NLP_U3_014
+unit: Text Classification and Parsing
+topic: Dependency Parsing
+
+content: Parsing technique that represents grammatical relationships between words using dependency structures.
+
+keywords: dependency parsing, syntactic dependencies
+
+---
+
+chunk_id: NLP_U4_001
+unit: Computational Semantics and Information Retrieval
+topic: Introduction to Lexical Semantics
+
+content: Study of word meaning, semantic relationships, and lexical knowledge representation.
+
+keywords: lexical semantics, word meaning
+
+---
+
+chunk_id: NLP_U4_002
+unit: Computational Semantics and Information Retrieval
+topic: Homonymy, Polysemy and Synonymy
+
+content: Semantic relationships involving identical forms, multiple meanings, and similar meanings of words.
+
+keywords: homonymy, polysemy, synonymy
+
+---
+
+chunk_id: NLP_U4_003
+unit: Computational Semantics and Information Retrieval
+topic: Thesaurus and WordNet
+
+content: Lexical knowledge bases and semantic networks used for natural language understanding.
+
+keywords: WordNet, thesaurus
+
+---
+
+chunk_id: NLP_U4_004
+unit: Computational Semantics and Information Retrieval
+topic: Thesaurus-Based Word Similarity
+
+content: Measuring semantic similarity using lexical resources and semantic hierarchies.
+
+keywords: semantic similarity, thesaurus
+
+---
+
+chunk_id: NLP_U4_005
+unit: Computational Semantics and Information Retrieval
+topic: Distributional Word Similarity
+
+content: Computing semantic similarity from contextual usage patterns in large corpora.
+
+keywords: distributional semantics, word similarity
+
+---
+
+chunk_id: NLP_U4_006
+unit: Computational Semantics and Information Retrieval
+topic: Introduction to Information Retrieval
+
+content: Concepts, architecture, and objectives of information retrieval systems.
+
+keywords: information retrieval, search systems
+
+---
+
+chunk_id: NLP_U4_007
+unit: Computational Semantics and Information Retrieval
+topic: Boolean Retrieval Model
+
+content: Retrieval model based on Boolean logic and exact matching of query terms.
+
+keywords: Boolean retrieval, search model
+
+---
+
+chunk_id: NLP_U4_008
+unit: Computational Semantics and Information Retrieval
+topic: Term-Document Incidence Matrix
+
+content: Representation of document collections using term occurrence matrices.
+
+keywords: term document matrix, indexing
+
+---
+
+chunk_id: NLP_U4_009
+unit: Computational Semantics and Information Retrieval
+topic: Inverted Index
+
+content: Efficient indexing structure used for fast retrieval of documents containing query terms.
+
+keywords: inverted index, indexing
+
+---
+
+chunk_id: NLP_U4_010
+unit: Computational Semantics and Information Retrieval
+topic: Query Optimization
+
+content: Techniques for improving search efficiency and retrieval performance.
+
+keywords: query optimization, search efficiency
+
+---
+
+chunk_id: NLP_U4_011
+unit: Computational Semantics and Information Retrieval
+topic: Phrase Queries
+
+content: Retrieval techniques for searching exact word sequences within documents.
+
+keywords: phrase queries, search
+
+---
+
+chunk_id: NLP_U4_012
+unit: Computational Semantics and Information Retrieval
+topic: Ranked Retrieval and TF-IDF
+
+content: Document ranking using term frequency and inverse document frequency weighting schemes.
+
+keywords: TF-IDF, ranked retrieval
+
+---
+
+chunk_id: NLP_U4_013
+unit: Computational Semantics and Information Retrieval
+topic: Zone Indexing
+
+content: Retrieval strategies based on document zones such as title, body, and metadata fields.
+
+keywords: zone indexing, document structure
+
+---
+
+chunk_id: NLP_U4_014
+unit: Computational Semantics and Information Retrieval
+topic: Query Term Proximity
+
+content: Ranking documents based on the closeness of query terms within text.
+
+keywords: proximity search, ranking
+
+---
+
+chunk_id: NLP_U4_015
+unit: Computational Semantics and Information Retrieval
+topic: Cosine Similarity Ranking
+
+content: Vector space model and cosine similarity techniques for document ranking.
+
+keywords: cosine similarity, vector space model
+
+---
+
+chunk_id: NLP_U4_016
+unit: Computational Semantics and Information Retrieval
+topic: Feature Combination for Ranking
+
+content: Combining multiple ranking signals and features to improve retrieval effectiveness.
+
+keywords: ranking features, search relevance
+
+---
+
+chunk_id: NLP_U4_017
+unit: Computational Semantics and Information Retrieval
+topic: Search Engine Evaluation
+
+content: Metrics and methodologies for evaluating search engine performance and retrieval quality.
+
+keywords: search evaluation, information retrieval metrics
+
+---
+
+chunk_id: NLP_U4_018
+unit: Computational Semantics and Information Retrieval
+topic: Relevance Feedback
+
+content: Techniques for refining search results based on user feedback and interaction.
+
+keywords: relevance feedback, search improvement

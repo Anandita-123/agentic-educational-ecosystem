@@ -1,0 +1,275 @@
+# SUBJECT_METADATA
+
+subject_name: Human Computer Interaction
+paper_code: OECAIML-601B
+category: Open Elective Course
+
+---
+
+chunk_id: HCI_U1_001
+unit: Foundations of Human Computer Interaction
+topic: Human Information Processing
+
+content: Human input and output channels, perception, memory systems, reasoning processes, problem-solving abilities, and their relevance to interface design.
+
+keywords: human cognition, memory, reasoning, problem solving
+
+---
+
+chunk_id: HCI_U1_002
+unit: Foundations of Human Computer Interaction
+topic: Computer Systems and Interaction Devices
+
+content: Computer input and output devices, memory systems, processing capabilities, networking concepts, and their role in interactive systems.
+
+keywords: input devices, output devices, computer systems
+
+---
+
+chunk_id: HCI_U1_003
+unit: Foundations of Human Computer Interaction
+topic: Interaction Models and Frameworks
+
+content: Models and frameworks of human-computer interaction, interaction paradigms, design approaches, and user-centered perspectives.
+
+keywords: interaction models, HCI frameworks, paradigms
+
+---
+
+chunk_id: HCI_U1_004
+unit: Foundations of Human Computer Interaction
+topic: Ergonomics and Interaction Styles
+
+content: Ergonomic principles, interaction styles, interface elements, usability considerations, and interactivity concepts.
+
+keywords: ergonomics, interaction styles, usability
+
+---
+
+chunk_id: HCI_U2_001
+unit: Interactive Design
+topic: Interactive Design Basics
+
+content: Principles of interactive design, design processes, scenario development, user requirements analysis, and interaction planning.
+
+keywords: interactive design, user requirements
+
+---
+
+chunk_id: HCI_U2_002
+unit: Interactive Design
+topic: Navigation and Screen Design
+
+content: Navigation structures, screen layout principles, interface organization, and effective visual design strategies.
+
+keywords: navigation design, screen design, interface layout
+
+---
+
+chunk_id: HCI_U2_003
+unit: Interactive Design
+topic: Iteration and Prototyping
+
+content: Iterative design approaches, prototyping methods, evaluation cycles, and refinement of interactive systems.
+
+keywords: prototyping, iterative design
+
+---
+
+chunk_id: HCI_U2_004
+unit: Interactive Design
+topic: HCI in Software Development
+
+content: Role of HCI in software development processes, software life cycle integration, and usability-focused development methodologies.
+
+keywords: software lifecycle, HCI process, usability engineering
+
+---
+
+chunk_id: HCI_U2_005
+unit: Interactive Design
+topic: Usability Engineering and Design Rationale
+
+content: Usability engineering concepts, design rationale documentation, and practical prototyping techniques.
+
+keywords: usability engineering, design rationale
+
+---
+
+chunk_id: HCI_U2_006
+unit: Interactive Design
+topic: Design Rules and Standards
+
+content: Design principles, standards, guidelines, conventions, and rule-based approaches for interface development.
+
+keywords: design principles, standards, guidelines
+
+---
+
+chunk_id: HCI_U2_007
+unit: Interactive Design
+topic: Evaluation Techniques and Universal Design
+
+content: Interface evaluation methods, usability testing, heuristic evaluation, and universal design principles for accessibility.
+
+keywords: usability testing, heuristic evaluation, universal design
+
+---
+
+chunk_id: HCI_U3_001
+unit: Cognitive and Collaborative Models
+topic: Cognitive Models
+
+content: Cognitive theories and models used to understand human behavior, decision-making, and interaction with computer systems.
+
+keywords: cognitive models, human behavior
+
+---
+
+chunk_id: HCI_U3_002
+unit: Cognitive and Collaborative Models
+topic: Socio-Organizational Issues
+
+content: Social and organizational factors affecting system design, stakeholder requirements, and collaborative environments.
+
+keywords: stakeholder requirements, organizational issues
+
+---
+
+chunk_id: HCI_U3_003
+unit: Cognitive and Collaborative Models
+topic: Communication and Collaboration Models
+
+content: Models supporting communication, collaboration, teamwork, and cooperative work in interactive systems.
+
+keywords: collaboration models, communication systems
+
+---
+
+chunk_id: HCI_U3_004
+unit: Cognitive and Collaborative Models
+topic: Hypertext, Multimedia and WWW
+
+content: Hypertext systems, multimedia interfaces, web technologies, and user interaction within World Wide Web environments.
+
+keywords: hypertext, multimedia, WWW
+
+---
+
+chunk_id: HCI_U4_001
+unit: Mobile Human Computer Interaction
+topic: Mobile Ecosystem and Platforms
+
+content: Mobile computing ecosystems, mobile platforms, operating systems, and application frameworks for mobile devices.
+
+keywords: mobile ecosystem, mobile platforms
+
+---
+
+chunk_id: HCI_U4_002
+unit: Mobile Human Computer Interaction
+topic: Types of Mobile Applications
+
+content: Mobile widgets, applications, games, and classification of mobile software solutions.
+
+keywords: mobile applications, widgets, mobile games
+
+---
+
+chunk_id: HCI_U4_003
+unit: Mobile Human Computer Interaction
+topic: Mobile Information Architecture
+
+content: Information architecture for mobile environments, content organization, navigation structures, and user experience considerations.
+
+keywords: mobile information architecture, mobile UX
+
+---
+
+chunk_id: HCI_U4_004
+unit: Mobile Human Computer Interaction
+topic: Mobile 2.0 and Mobile Design
+
+content: Mobile 2.0 concepts, design elements, interaction patterns, and principles for creating effective mobile interfaces.
+
+keywords: mobile design, mobile interaction, mobile 2.0
+
+---
+
+chunk_id: HCI_U4_005
+unit: Mobile Human Computer Interaction
+topic: Mobile Design Tools
+
+content: Tools, frameworks, and resources used for designing, prototyping, and evaluating mobile user interfaces.
+
+keywords: mobile design tools, prototyping tools
+
+---
+
+chunk_id: HCI_U5_001
+unit: Web Interface Design
+topic: Designing Web Interfaces
+
+content: Principles of web interface design, usability considerations, user workflows, and modern web interaction techniques.
+
+keywords: web interface design, web usability
+
+---
+
+chunk_id: HCI_U5_002
+unit: Web Interface Design
+topic: Advanced Interface Components
+
+content: Interface elements including drag and drop, direct selection, contextual tools, overlays, inlays, and virtual pages.
+
+keywords: drag and drop, contextual tools, overlays
+
+---
+
+chunk_id: HCI_U5_003
+unit: Web Interface Design
+topic: Process Flow Design
+
+content: Process flow modeling, workflow design, task analysis, and optimization of user interactions.
+
+keywords: process flow, workflow design
+
+---
+
+chunk_id: HCI_U5_004
+unit: Web Interface Design
+topic: HCI Case Studies
+
+content: Analysis of real-world human-computer interaction case studies, best practices, and lessons learned from successful systems.
+
+keywords: case studies, HCI applications
+
+---
+
+chunk_id: HCI_U6_001
+unit: Recent Trends in HCI
+topic: Speech Recognition
+
+content: Speech recognition technologies, voice-based interfaces, natural language interaction, and applications of speech-enabled systems.
+
+keywords: speech recognition, voice interfaces
+
+---
+
+chunk_id: HCI_U6_002
+unit: Recent Trends in HCI
+topic: Language Translation Systems
+
+content: Human-computer interaction aspects of automated language translation systems and multilingual user interfaces.
+
+keywords: language translation, multilingual interfaces
+
+---
+
+chunk_id: HCI_U6_003
+unit: Recent Trends in HCI
+topic: Multimodal Systems
+
+content: Multimodal interaction systems integrating speech, touch, gestures, vision, and other input/output modalities for enhanced user experiences.
+
+keywords: multimodal systems, gesture interaction, multimodal interfaces

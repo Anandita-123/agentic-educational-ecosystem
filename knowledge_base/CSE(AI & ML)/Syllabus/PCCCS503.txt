@@ -1,0 +1,345 @@
+# SUBJECT_METADATA
+
+subject_name: Object Oriented Programming
+paper_code: PCC-CS503
+program: Computer Science
+
+---
+
+chunk_id: OOP_U1_001
+unit: Abstract Data Types
+topic: Abstract Data Type
+
+content: Definition of Abstract Data Types (ADT), purpose of ADTs, abstraction in software design, and formal specification of ADTs.
+
+keywords: ADT, abstract data type
+
+---
+
+chunk_id: OOP_U1_002
+unit: Abstract Data Types
+topic: ADT Implementation
+
+content: Implementation of Abstract Data Types using concrete representations and data structures.
+
+keywords: ADT implementation
+
+---
+
+chunk_id: OOP_U1_003
+unit: Abstract Data Types
+topic: Concrete State Space
+
+content: Representation of internal object state and storage structures used to implement an abstract data type.
+
+keywords: concrete state space
+
+---
+
+chunk_id: OOP_U1_004
+unit: Abstract Data Types
+topic: Concrete Invariant
+
+content: Conditions that must always hold true for the internal state of an object or data structure.
+
+keywords: concrete invariant
+
+---
+
+chunk_id: OOP_U1_005
+unit: Abstract Data Types
+topic: Abstraction Function
+
+content: Mapping between concrete implementation details and abstract specifications.
+
+keywords: abstraction function
+
+---
+
+chunk_id: OOP_U1_006
+unit: Abstract Data Types
+topic: ADT Operations
+
+content: Design and implementation of operations defined by an abstract data type.
+
+keywords: ADT operations
+
+---
+
+chunk_id: OOP_U1_007
+unit: Abstract Data Types
+topic: Text ADT Example
+
+content: Implementation and analysis of text-based abstract data types as practical examples.
+
+keywords: text ADT
+
+---
+
+chunk_id: OOP_U2_001
+unit: Object Oriented Programming Fundamentals
+topic: Object Oriented Programming
+
+content: Principles and characteristics of Object Oriented Programming (OOP) for software development.
+
+keywords: OOP, object oriented programming
+
+---
+
+chunk_id: OOP_U2_002
+unit: Object Oriented Programming Fundamentals
+topic: Encapsulation
+
+content: Bundling data and methods into a single unit while restricting direct access to internal implementation details.
+
+keywords: encapsulation
+
+---
+
+chunk_id: OOP_U2_003
+unit: Object Oriented Programming Fundamentals
+topic: Object Identity
+
+content: Unique identity of an object independent of its state and behavior.
+
+keywords: object identity
+
+---
+
+chunk_id: OOP_U2_004
+unit: Object Oriented Programming Fundamentals
+topic: Polymorphism
+
+content: Ability of different objects to respond to the same interface or method invocation in different ways.
+
+keywords: polymorphism
+
+---
+
+chunk_id: OOP_U2_005
+unit: Object Oriented Programming Fundamentals
+topic: Dynamic Binding
+
+content: Runtime method selection based on the actual object type.
+
+keywords: dynamic binding
+
+---
+
+chunk_id: OOP_U3_001
+unit: Inheritance and Design Patterns
+topic: Inheritance
+
+content: Mechanism for creating new classes from existing classes to promote code reuse and hierarchical design.
+
+keywords: inheritance
+
+---
+
+chunk_id: OOP_U3_002
+unit: Inheritance and Design Patterns
+topic: Inheritance in Object-Oriented Design
+
+content: Use of inheritance for extensibility, specialization, and software architecture.
+
+keywords: inheritance design
+
+---
+
+chunk_id: OOP_U3_003
+unit: Inheritance and Design Patterns
+topic: Design Patterns
+
+content: Reusable solutions to common software design problems.
+
+keywords: design patterns
+
+---
+
+chunk_id: OOP_U3_004
+unit: Inheritance and Design Patterns
+topic: Design Pattern Classification
+
+content: Classification of design patterns into creational, structural, and behavioral categories.
+
+keywords: design pattern classification
+
+---
+
+chunk_id: OOP_U3_005
+unit: Inheritance and Design Patterns
+topic: Iterator Pattern
+
+content: Behavioral design pattern that provides sequential access to elements of a collection without exposing internal structure.
+
+keywords: iterator pattern
+
+---
+
+chunk_id: OOP_U4_001
+unit: Software Design Patterns
+topic: Model View Controller
+
+content: MVC architectural pattern separating application logic, user interface, and control flow.
+
+keywords: MVC, model view controller
+
+---
+
+chunk_id: OOP_U4_002
+unit: Software Design Patterns
+topic: Model Component
+
+content: Data management and business logic layer within the MVC architecture.
+
+keywords: model
+
+---
+
+chunk_id: OOP_U4_003
+unit: Software Design Patterns
+topic: View Component
+
+content: User interface layer responsible for presenting data to users.
+
+keywords: view
+
+---
+
+chunk_id: OOP_U4_004
+unit: Software Design Patterns
+topic: Controller Component
+
+content: Component responsible for handling user interactions and coordinating between model and view.
+
+keywords: controller
+
+---
+
+chunk_id: OOP_U4_005
+unit: Software Design Patterns
+topic: Command Pattern
+
+content: Encapsulation of requests as objects, enabling parameterization and queuing of operations.
+
+keywords: command pattern
+
+---
+
+chunk_id: OOP_U4_006
+unit: Software Design Patterns
+topic: Commands as Methods
+
+content: Implementation of commands through direct method invocation.
+
+keywords: commands as methods
+
+---
+
+chunk_id: OOP_U4_007
+unit: Software Design Patterns
+topic: Commands as Objects
+
+content: Implementation of commands as standalone objects for flexibility and extensibility.
+
+keywords: commands as objects
+
+---
+
+chunk_id: OOP_U4_008
+unit: Language Implementation
+topic: Object Oriented Language Features
+
+content: Internal implementation mechanisms supporting object-oriented programming concepts.
+
+keywords: OO language implementation
+
+---
+
+chunk_id: OOP_U4_009
+unit: Language Implementation
+topic: Memory Management
+
+content: Allocation, deallocation, garbage collection, and object lifecycle management.
+
+keywords: memory management, garbage collection
+
+---
+
+chunk_id: OOP_U5_001
+unit: Generic Programming and Collections
+topic: Generic Types
+
+content: Parameterized types that enable reusable and type-safe code.
+
+keywords: generic types, generics
+
+---
+
+chunk_id: OOP_U5_002
+unit: Generic Programming and Collections
+topic: Collections Framework
+
+content: Data structures and APIs for storing and manipulating groups of objects.
+
+keywords: collections
+
+---
+
+chunk_id: OOP_U5_003
+unit: Generic Programming and Collections
+topic: Collection Operations
+
+content: Common operations including insertion, deletion, traversal, sorting, and searching.
+
+keywords: collection operations
+
+---
+
+chunk_id: OOP_U5_004
+unit: Graphical User Interfaces
+topic: Graphical User Interface
+
+content: Principles of GUI design and event-driven programming.
+
+keywords: GUI
+
+---
+
+chunk_id: OOP_U5_005
+unit: Graphical User Interfaces
+topic: Graphical Programming
+
+content: Development of interactive graphical applications using object-oriented techniques.
+
+keywords: graphical programming
+
+---
+
+chunk_id: OOP_U5_006
+unit: Graphical User Interfaces
+topic: Scala GUI Programming
+
+content: GUI development concepts using Scala programming language.
+
+keywords: scala GUI
+
+---
+
+chunk_id: OOP_U5_007
+unit: Graphical User Interfaces
+topic: Swing Framework
+
+content: Java Swing components, event handling, layouts, and GUI application development.
+
+keywords: swing, java swing
+
+---
+
+chunk_id: OOP_U5_008
+unit: Software Engineering
+topic: Software Development Process
+
+content: Phases of software development including requirements analysis, design, implementation, testing, deployment, and maintenance.
+
+keywords: software development process, SDLC

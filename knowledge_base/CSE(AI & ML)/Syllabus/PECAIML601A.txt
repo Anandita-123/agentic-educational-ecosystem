@@ -1,0 +1,285 @@
+# SUBJECT_METADATA
+
+subject_name: Big Data Analytics
+paper_code: PECAIML601A
+category: Professional Elective
+
+---
+
+chunk_id: BDA_U1_001
+unit: Introduction to Big Data
+topic: What is Big Data
+
+content: Definition of big data, characteristics of big data, volume, velocity, variety, veracity, and value, and the significance of big data in modern enterprises.
+
+keywords: big data, 5Vs, data analytics
+
+---
+
+chunk_id: BDA_U1_002
+unit: Introduction to Big Data
+topic: Importance and Trends in Big Data
+
+content: Reasons for the emergence of big data, convergence of key technological trends, growth of data generation, and the role of unstructured data.
+
+keywords: big data trends, unstructured data, data growth
+
+---
+
+chunk_id: BDA_U1_003
+unit: Introduction to Big Data
+topic: Industry Applications of Big Data
+
+content: Applications of big data in web analytics, marketing, fraud detection, risk management, credit risk analysis, algorithmic trading, healthcare, medicine, and advertising.
+
+keywords: web analytics, fraud detection, healthcare analytics, marketing analytics
+
+---
+
+chunk_id: BDA_U1_004
+unit: Introduction to Big Data
+topic: Big Data Technologies
+
+content: Overview of big data technologies, introduction to Hadoop, open-source technologies, cloud computing, mobile business intelligence, crowdsourcing analytics, and inter-trans firewall analytics.
+
+keywords: Hadoop, cloud computing, business intelligence, crowdsourcing
+
+---
+
+chunk_id: BDA_U2_001
+unit: NoSQL Databases
+topic: Introduction to NoSQL
+
+content: Fundamentals of NoSQL databases, limitations of relational databases, and the need for scalable distributed data storage systems.
+
+keywords: NoSQL, distributed databases, scalability
+
+---
+
+chunk_id: BDA_U2_002
+unit: NoSQL Databases
+topic: Aggregate Data Models
+
+content: Aggregate-oriented databases, aggregates, key-value stores, document databases, and their use cases in big data applications.
+
+keywords: aggregate model, key-value store, document database
+
+---
+
+chunk_id: BDA_U2_003
+unit: NoSQL Databases
+topic: Graph and Schemaless Databases
+
+content: Graph databases, relationships between entities, schemaless databases, and materialized views for efficient data access.
+
+keywords: graph database, schemaless database, materialized views
+
+---
+
+chunk_id: BDA_U2_004
+unit: NoSQL Databases
+topic: Distribution and Replication Models
+
+content: Distribution strategies including sharding, master-slave replication, peer-to-peer replication, and data consistency management.
+
+keywords: sharding, replication, consistency
+
+---
+
+chunk_id: BDA_U2_005
+unit: NoSQL Databases
+topic: MapReduce Fundamentals
+
+content: Introduction to MapReduce programming, partitioning, combining, composing MapReduce calculations, and distributed data processing.
+
+keywords: MapReduce, partitioning, distributed processing
+
+---
+
+chunk_id: BDA_U3_001
+unit: Hadoop and Data Processing
+topic: Data Formats and Hadoop Analytics
+
+content: Common big data formats, analyzing data with Hadoop, and scalable processing techniques for large datasets.
+
+keywords: data formats, Hadoop analytics, scalability
+
+---
+
+chunk_id: BDA_U3_002
+unit: Hadoop and Data Processing
+topic: Hadoop Streaming and Pipes
+
+content: Hadoop Streaming and Hadoop Pipes frameworks for developing applications using languages other than Java.
+
+keywords: Hadoop Streaming, Hadoop Pipes
+
+---
+
+chunk_id: BDA_U3_003
+unit: Hadoop and Data Processing
+topic: Hadoop Distributed File System
+
+content: Design principles of HDFS, architecture, data storage mechanisms, block management, and distributed file system concepts.
+
+keywords: HDFS, distributed file system, Hadoop architecture
+
+---
+
+chunk_id: BDA_U3_004
+unit: Hadoop and Data Processing
+topic: HDFS Operations and Data Flow
+
+content: HDFS concepts, Java interface, data flow architecture, file storage operations, and data retrieval mechanisms.
+
+keywords: HDFS data flow, Java interface, file operations
+
+---
+
+chunk_id: BDA_U3_005
+unit: Hadoop and Data Processing
+topic: Hadoop I/O and Data Integrity
+
+content: Hadoop input-output operations, data integrity mechanisms, compression techniques, serialization methods, Avro, and file-based data structures.
+
+keywords: Hadoop I/O, compression, serialization, Avro
+
+---
+
+chunk_id: BDA_U4_001
+unit: MapReduce Framework
+topic: MapReduce Workflows
+
+content: Designing and implementing MapReduce workflows, workflow optimization, and execution strategies.
+
+keywords: MapReduce workflow, distributed computing
+
+---
+
+chunk_id: BDA_U4_002
+unit: MapReduce Framework
+topic: Testing MapReduce Applications
+
+content: Unit testing MapReduce programs using MRUnit, creation of test datasets, and local testing environments.
+
+keywords: MRUnit, testing, MapReduce validation
+
+---
+
+chunk_id: BDA_U4_003
+unit: MapReduce Framework
+topic: Anatomy of a MapReduce Job
+
+content: Internal working of a MapReduce job, execution phases, resource allocation, and job lifecycle.
+
+keywords: MapReduce job, execution lifecycle
+
+---
+
+chunk_id: BDA_U4_004
+unit: MapReduce Framework
+topic: YARN and Resource Management
+
+content: YARN architecture, resource management, scheduling mechanisms, and comparison with classic MapReduce.
+
+keywords: YARN, resource management, scheduling
+
+---
+
+chunk_id: BDA_U4_005
+unit: MapReduce Framework
+topic: Failures and Task Execution
+
+content: Failure handling in classic MapReduce and YARN, task execution mechanisms, shuffle and sort phases, and job scheduling.
+
+keywords: fault tolerance, shuffle and sort, task execution
+
+---
+
+chunk_id: BDA_U4_006
+unit: MapReduce Framework
+topic: Input and Output Formats
+
+content: Different MapReduce data types, input formats, output formats, and techniques for handling structured and unstructured data.
+
+keywords: input format, output format, MapReduce types
+
+---
+
+chunk_id: BDA_U5_001
+unit: NoSQL Ecosystem
+topic: HBase Fundamentals
+
+content: HBase architecture, data model, implementation details, storage mechanisms, and distributed database operations.
+
+keywords: HBase, column-family database
+
+---
+
+chunk_id: BDA_U5_002
+unit: NoSQL Ecosystem
+topic: HBase Clients and Applications
+
+content: HBase clients, practical examples, data access methods, and real-world implementation practices.
+
+keywords: HBase clients, HBase applications
+
+---
+
+chunk_id: BDA_U5_003
+unit: NoSQL Ecosystem
+topic: Cassandra Fundamentals
+
+content: Cassandra architecture, distributed database concepts, data model, and scalability features.
+
+keywords: Cassandra, distributed database
+
+---
+
+chunk_id: BDA_U5_004
+unit: NoSQL Ecosystem
+topic: Cassandra Clients and Hadoop Integration
+
+content: Cassandra client tools, practical examples, and integration of Cassandra with Hadoop ecosystems.
+
+keywords: Cassandra clients, Hadoop integration
+
+---
+
+chunk_id: BDA_U6_001
+unit: Big Data Querying Tools
+topic: Apache Pig
+
+content: Introduction to Apache Pig, Pig architecture, Grunt shell, Pig data model, and data processing workflows.
+
+keywords: Pig, Grunt, data processing
+
+---
+
+chunk_id: BDA_U6_002
+unit: Big Data Querying Tools
+topic: Pig Latin Programming
+
+content: Pig Latin language syntax, script development, debugging, testing, and execution of Pig programs.
+
+keywords: Pig Latin, scripting, data transformation
+
+---
+
+chunk_id: BDA_U6_003
+unit: Big Data Querying Tools
+topic: Apache Hive
+
+content: Hive architecture, data warehouse concepts, data types, file formats, and query processing using Hive.
+
+keywords: Hive, data warehouse, Hive architecture
+
+---
+
+chunk_id: BDA_U6_004
+unit: Big Data Querying Tools
+topic: HiveQL
+
+content: HiveQL data definition language, data manipulation language, query processing, and analytics using HiveQL.
+
+keywords: HiveQL, DDL, DML, query processing

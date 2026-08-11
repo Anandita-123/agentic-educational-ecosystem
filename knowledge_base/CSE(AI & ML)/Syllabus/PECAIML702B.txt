@@ -1,0 +1,335 @@
+# SUBJECT_METADATA
+
+subject_name: Information Theory and Coding
+paper_code: PEC-AIML702B
+category: Professional Elective
+
+---
+
+chunk_id: ITC_U1_001
+unit: Source Coding
+topic: Uncertainty and Information
+
+content: Fundamentals of information theory, concepts of uncertainty, information content, self-information, and quantitative measures of information.
+
+keywords: information theory, uncertainty, information content
+
+---
+
+chunk_id: ITC_U1_002
+unit: Source Coding
+topic: Entropy and Mutual Information
+
+content: Entropy as a measure of information, average mutual information, information gain, and their significance in communication systems.
+
+keywords: entropy, mutual information, information gain
+
+---
+
+chunk_id: ITC_U1_003
+unit: Source Coding
+topic: Information Measures for Continuous Random Variables
+
+content: Differential entropy, continuous random variables, information measures, and probabilistic characterization of continuous sources.
+
+keywords: continuous random variables, differential entropy
+
+---
+
+chunk_id: ITC_U1_004
+unit: Source Coding
+topic: Source Coding Theorem
+
+content: Source coding theorem, data compression principles, coding efficiency, and limits of lossless source compression.
+
+keywords: source coding theorem, data compression
+
+---
+
+chunk_id: ITC_U1_005
+unit: Source Coding
+topic: Huffman Coding
+
+content: Huffman coding algorithm, optimal prefix codes, encoding procedures, decoding methods, and compression applications.
+
+keywords: Huffman coding, prefix codes, compression
+
+---
+
+chunk_id: ITC_U2_001
+unit: Channel Capacity and Coding
+topic: Channel Models
+
+content: Communication channel models, noise characteristics, discrete and continuous channels, and information transmission systems.
+
+keywords: channel models, communication systems
+
+---
+
+chunk_id: ITC_U2_002
+unit: Channel Capacity and Coding
+topic: Channel Capacity
+
+content: Definition of channel capacity, maximum achievable data rate, and factors affecting reliable communication.
+
+keywords: channel capacity, communication rate
+
+---
+
+chunk_id: ITC_U2_003
+unit: Channel Capacity and Coding
+topic: Channel Coding
+
+content: Principles of channel coding, redundancy addition, error control, and reliable data transmission techniques.
+
+keywords: channel coding, error control
+
+---
+
+chunk_id: ITC_U2_004
+unit: Channel Capacity and Coding
+topic: Information Capacity Theorem
+
+content: Information capacity theorem, reliable communication limits, and mathematical foundations of communication theory.
+
+keywords: information capacity theorem, reliable communication
+
+---
+
+chunk_id: ITC_U2_005
+unit: Channel Capacity and Coding
+topic: Shannon Limit
+
+content: Shannon limit, theoretical communication bounds, signal-to-noise considerations, and channel performance constraints.
+
+keywords: Shannon limit, communication limits
+
+---
+
+chunk_id: ITC_U3_001
+unit: Linear and Block Codes for Error Correction
+topic: Introduction to Linear Block Codes
+
+content: Fundamentals of linear block codes, error detection and correction principles, and coding system design.
+
+keywords: linear block codes, error correction
+
+---
+
+chunk_id: ITC_U3_002
+unit: Linear and Block Codes for Error Correction
+topic: Matrix Description of Linear Block Codes
+
+content: Matrix representation of linear block codes using generator matrices and encoding operations.
+
+keywords: generator matrix, matrix representation
+
+---
+
+chunk_id: ITC_U3_003
+unit: Linear and Block Codes for Error Correction
+topic: Equivalent Codes and Parity Check Matrix
+
+content: Equivalent code structures, parity check matrices, syndrome generation, and error detection mechanisms.
+
+keywords: parity check matrix, syndrome decoding
+
+---
+
+chunk_id: ITC_U3_004
+unit: Linear and Block Codes for Error Correction
+topic: Decoding of Linear Block Codes
+
+content: Decoding strategies for linear block codes, syndrome decoding, and correction of transmission errors.
+
+keywords: decoding, syndrome decoding
+
+---
+
+chunk_id: ITC_U3_005
+unit: Linear and Block Codes for Error Correction
+topic: Perfect Codes
+
+content: Perfect error-correcting codes, coding efficiency, and theoretical properties of optimal codes.
+
+keywords: perfect codes, coding efficiency
+
+---
+
+chunk_id: ITC_U3_006
+unit: Linear and Block Codes for Error Correction
+topic: Hamming Codes
+
+content: Hamming code construction, encoding and decoding procedures, and single-bit error correction techniques.
+
+keywords: Hamming codes, error correction
+
+---
+
+chunk_id: ITC_U4_001
+unit: Cyclic Codes
+topic: Polynomial Representation
+
+content: Polynomial algebra for coding theory, representation of code words as polynomials, and arithmetic operations.
+
+keywords: polynomials, coding theory
+
+---
+
+chunk_id: ITC_U4_002
+unit: Cyclic Codes
+topic: Division Algorithm for Polynomials
+
+content: Polynomial division algorithms, remainder calculations, and their applications in cyclic code generation.
+
+keywords: polynomial division, cyclic coding
+
+---
+
+chunk_id: ITC_U4_003
+unit: Cyclic Codes
+topic: Generation of Cyclic Codes
+
+content: Methods for generating cyclic codes using generator polynomials and cyclic code properties.
+
+keywords: cyclic codes, generator polynomial
+
+---
+
+chunk_id: ITC_U4_004
+unit: Cyclic Codes
+topic: Matrix Description of Cyclic Codes
+
+content: Matrix-based representation of cyclic codes and relationships between matrix and polynomial forms.
+
+keywords: cyclic code matrices, code representation
+
+---
+
+chunk_id: ITC_U4_005
+unit: Cyclic Codes
+topic: Golay Codes
+
+content: Golay codes, code construction, error correction capabilities, and applications in reliable communication systems.
+
+keywords: Golay codes, error correction
+
+---
+
+chunk_id: ITC_U5_001
+unit: BCH Codes
+topic: Primitive Elements in Finite Fields
+
+content: Primitive elements of finite fields, algebraic structures, and their importance in BCH code construction.
+
+keywords: primitive elements, finite fields
+
+---
+
+chunk_id: ITC_U5_002
+unit: BCH Codes
+topic: Minimal Polynomials
+
+content: Minimal polynomials, algebraic properties, and their role in coding theory and BCH codes.
+
+keywords: minimal polynomials, BCH codes
+
+---
+
+chunk_id: ITC_U5_003
+unit: BCH Codes
+topic: Generator Polynomials
+
+content: Construction of generator polynomials using minimal polynomials and their application in BCH coding schemes.
+
+keywords: generator polynomials, coding schemes
+
+---
+
+chunk_id: ITC_U5_004
+unit: BCH Codes
+topic: BCH Code Construction and Examples
+
+content: Design, encoding, decoding, and practical examples of BCH error-correcting codes.
+
+keywords: BCH codes, error correction
+
+---
+
+chunk_id: ITC_U6_001
+unit: Convolutional Codes
+topic: Tree Codes and Trellis Codes
+
+content: Tree code and trellis code structures, state representation, and sequential coding techniques.
+
+keywords: tree codes, trellis codes
+
+---
+
+chunk_id: ITC_U6_002
+unit: Convolutional Codes
+topic: Polynomial Description of Convolutional Codes
+
+content: Polynomial representation of convolutional codes and encoding operations using shift-register structures.
+
+keywords: convolutional codes, polynomial representation
+
+---
+
+chunk_id: ITC_U6_003
+unit: Convolutional Codes
+topic: Distance Measures for Convolutional Codes
+
+content: Distance concepts, free distance, and performance evaluation criteria for convolutional coding systems.
+
+keywords: free distance, convolutional code performance
+
+---
+
+chunk_id: ITC_U6_004
+unit: Convolutional Codes
+topic: Generating Functions and Matrix Representation
+
+content: Generating functions, matrix representation of convolutional codes, and analytical methods for code performance assessment.
+
+keywords: generating function, matrix representation
+
+---
+
+chunk_id: ITC_U6_005
+unit: Convolutional Codes
+topic: Decoding of Convolutional Codes
+
+content: Decoding algorithms for convolutional codes, Viterbi decoding, and error correction techniques.
+
+keywords: Viterbi decoding, convolutional decoding
+
+---
+
+chunk_id: ITC_U6_006
+unit: Convolutional Codes
+topic: Distance and Performance Bounds
+
+content: Distance properties, performance bounds, and theoretical analysis of convolutional coding systems.
+
+keywords: performance bounds, distance analysis
+
+---
+
+chunk_id: ITC_U6_007
+unit: Convolutional Codes
+topic: Examples of Convolutional Codes
+
+content: Practical examples of convolutional coding schemes and their implementation in communication systems.
+
+keywords: convolutional code examples, coding applications
+
+---
+
+chunk_id: ITC_U6_008
+unit: Convolutional Codes
+topic: Turbo Codes and Turbo Decoding
+
+content: Turbo codes, iterative decoding techniques, turbo decoding algorithms, and modern error correction systems.
+
+keywords: turbo codes, turbo decoding, iterative decoding

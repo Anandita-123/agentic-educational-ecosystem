@@ -1,0 +1,425 @@
+# SUBJECT_METADATA
+
+subject_name: E-Commerce & ERP
+paper_code: PEC-AIML702A
+category: Professional Elective
+
+---
+
+chunk_id: ECERP_U1_001
+unit: Introduction to E-Commerce
+topic: Overview of E-Commerce
+
+content: Introduction to electronic commerce, evolution of digital business, scope, objectives, and significance of e-commerce in modern organizations.
+
+keywords: e-commerce, digital business, electronic commerce
+
+---
+
+chunk_id: ECERP_U1_002
+unit: Introduction to E-Commerce
+topic: Definitions, Advantages and Disadvantages of E-Commerce
+
+content: Definitions of e-commerce, benefits such as global reach and cost reduction, and challenges including security and operational issues.
+
+keywords: e-commerce benefits, e-commerce challenges
+
+---
+
+chunk_id: ECERP_U1_003
+unit: Introduction to E-Commerce
+topic: Threats and Challenges in E-Commerce
+
+content: Security threats, fraud, privacy concerns, cyber attacks, and operational risks associated with e-commerce systems.
+
+keywords: e-commerce threats, cyber security
+
+---
+
+chunk_id: ECERP_U1_004
+unit: Introduction to E-Commerce
+topic: Managerial Perspective of E-Commerce
+
+content: Managerial aspects of e-commerce, strategic planning, implementation, and organizational transformation.
+
+keywords: e-commerce management, business strategy
+
+---
+
+chunk_id: ECERP_U1_005
+unit: Introduction to E-Commerce
+topic: Rules, Regulations and Cyber Laws
+
+content: Legal framework governing e-commerce, cyber laws, electronic transactions, digital contracts, and regulatory compliance.
+
+keywords: cyber laws, e-commerce regulations
+
+---
+
+chunk_id: ECERP_U2_001
+unit: E-Commerce Technologies
+topic: E-Commerce and Networking
+
+content: Relationship between networking technologies and e-commerce, communication infrastructure, and connectivity requirements.
+
+keywords: networking, e-commerce infrastructure
+
+---
+
+chunk_id: ECERP_U2_002
+unit: E-Commerce Technologies
+topic: Types of Networking Commerce
+
+content: Various networking models used in e-commerce environments and their applications in business communication.
+
+keywords: networking models, e-commerce communication
+
+---
+
+chunk_id: ECERP_U2_003
+unit: E-Commerce Technologies
+topic: Internet, Intranet and Extranet
+
+content: Internet, intranet, and extranet technologies, architectures, and their role in business operations and e-commerce.
+
+keywords: internet, intranet, extranet
+
+---
+
+chunk_id: ECERP_U2_004
+unit: E-Commerce Technologies
+topic: Electronic Data Interchange Systems
+
+content: EDI systems, electronic business communication, document exchange standards, and automation of transactions.
+
+keywords: EDI, electronic data interchange
+
+---
+
+chunk_id: ECERP_U2_005
+unit: E-Commerce Technologies
+topic: Wireless Application Protocol and Mobile Commerce
+
+content: Wireless Application Protocol (WAP), handheld devices, mobility solutions, and mobile commerce applications.
+
+keywords: WAP, mobile commerce, handheld devices
+
+---
+
+chunk_id: ECERP_U2_006
+unit: E-Commerce Technologies
+topic: Mobile Computing and Wireless Web
+
+content: Mobile computing technologies, wireless web services, mobile business applications, and communication systems.
+
+keywords: mobile computing, wireless web
+
+---
+
+chunk_id: ECERP_U2_007
+unit: E-Commerce Technologies
+topic: Web Security and Infrastructure Requirements
+
+content: Security mechanisms, web protection strategies, and infrastructure requirements necessary for secure e-commerce operations.
+
+keywords: web security, e-commerce infrastructure
+
+---
+
+chunk_id: ECERP_U3_001
+unit: Business Models of E-Commerce
+topic: Transaction-Based E-Commerce Models
+
+content: E-commerce business models classified according to transaction types and digital transaction mechanisms.
+
+keywords: business models, transaction types
+
+---
+
+chunk_id: ECERP_U3_002
+unit: Business Models of E-Commerce
+topic: B2B and B2C Models
+
+content: Business-to-Business (B2B) and Business-to-Consumer (B2C) models, characteristics, advantages, and applications.
+
+keywords: B2B, B2C
+
+---
+
+chunk_id: ECERP_U3_003
+unit: Business Models of E-Commerce
+topic: C2B and C2C Models
+
+content: Consumer-to-Business (C2B) and Consumer-to-Consumer (C2C) business models and their implementation in online marketplaces.
+
+keywords: C2B, C2C
+
+---
+
+chunk_id: ECERP_U3_004
+unit: Business Models of E-Commerce
+topic: E-Governance
+
+content: Electronic governance systems, digital public services, online citizen engagement, and government applications.
+
+keywords: e-governance, digital government
+
+---
+
+chunk_id: ECERP_U4_001
+unit: E-Commerce Strategy
+topic: E-Strategy Fundamentals
+
+content: Strategic planning for e-commerce initiatives, competitive positioning, and digital transformation approaches.
+
+keywords: e-strategy, digital transformation
+
+---
+
+chunk_id: ECERP_U4_002
+unit: E-Commerce Strategy
+topic: Strategic Methods for Developing E-Commerce
+
+content: Frameworks, methodologies, and best practices for developing successful e-commerce strategies.
+
+keywords: e-commerce strategy, strategic planning
+
+---
+
+chunk_id: ECERP_U5_001
+unit: Four C's of E-Commerce
+topic: Convergence in E-Commerce
+
+content: Technological convergence, types of convergence, implications for businesses, and integration with electronic commerce.
+
+keywords: convergence, technology integration
+
+---
+
+chunk_id: ECERP_U5_002
+unit: Four C's of E-Commerce
+topic: Collaborative Computing
+
+content: Collaborative product development, concurrent engineering, collaborative systems, and security considerations.
+
+keywords: collaborative computing, product development
+
+---
+
+chunk_id: ECERP_U5_003
+unit: Four C's of E-Commerce
+topic: Content Management Systems
+
+content: Content creation, authoring tools, repositories, content partnerships, web traffic management, and content marketing.
+
+keywords: content management, content marketing
+
+---
+
+chunk_id: ECERP_U5_004
+unit: Four C's of E-Commerce
+topic: Call Center Management
+
+content: Call center operations, customer support services, infrastructure, equipment, strengths, weaknesses, and customer premises equipment.
+
+keywords: call center, customer support
+
+---
+
+chunk_id: ECERP_U6_001
+unit: Supply Chain Management
+topic: E-Logistics and Supply Chain Portals
+
+content: Electronic logistics systems, supply chain portals, and integration of digital technologies into supply chain operations.
+
+keywords: e-logistics, supply chain portal
+
+---
+
+chunk_id: ECERP_U6_002
+unit: Supply Chain Management
+topic: Supply Chain Planning and Execution
+
+content: Supply Chain Planning (SCP) tools, Supply Chain Execution (SCE), framework design, and operational management.
+
+keywords: SCP, SCE, supply chain execution
+
+---
+
+chunk_id: ECERP_U6_003
+unit: Supply Chain Management
+topic: Internet and Supply Chain Power
+
+content: Impact of the Internet on supply chain relationships, collaboration, visibility, and business competitiveness.
+
+keywords: internet, supply chain management
+
+---
+
+chunk_id: ECERP_U7_001
+unit: E-Payment Mechanisms
+topic: Electronic Payment Systems
+
+content: Card-based payments, electronic cheque systems, electronic cash, and digital transaction mechanisms.
+
+keywords: e-payment, e-cash, e-cheque
+
+---
+
+chunk_id: ECERP_U7_002
+unit: E-Payment Mechanisms
+topic: Payment Threats and Protection
+
+content: Security threats to electronic payments and protection mechanisms for secure financial transactions.
+
+keywords: payment security, transaction protection
+
+---
+
+chunk_id: ECERP_U8_001
+unit: E-Marketing
+topic: Home Shopping and E-Marketing
+
+content: Online marketing strategies, home-shopping systems, digital advertising, and customer engagement techniques.
+
+keywords: e-marketing, online shopping
+
+---
+
+chunk_id: ECERP_U8_002
+unit: E-Marketing
+topic: Telemarketing
+
+content: Telemarketing concepts, communication strategies, customer outreach, and sales promotion techniques.
+
+keywords: telemarketing, customer outreach
+
+---
+
+chunk_id: ECERP_U9_001
+unit: Electronic Data Interchange
+topic: EDI Concepts and Benefits
+
+content: Meaning of EDI, benefits, applications, business integration, and automation of document exchange.
+
+keywords: EDI concepts, business integration
+
+---
+
+chunk_id: ECERP_U9_002
+unit: Electronic Data Interchange
+topic: EDI Models and Protocols
+
+content: EDI architecture, transaction models, UN/EDIFACT, ANSI X12 standards, and communication protocols.
+
+keywords: EDIFACT, ANSI X12, EDI protocols
+
+---
+
+chunk_id: ECERP_U9_003
+unit: Electronic Data Interchange
+topic: Data Encryption Techniques
+
+content: Data encryption fundamentals, DES and RSA algorithms, confidentiality, and secure communication.
+
+keywords: DES, RSA, encryption
+
+---
+
+chunk_id: ECERP_U10_001
+unit: E-Commerce Security and Risk
+topic: Risks in E-Commerce
+
+content: Security risks, vulnerabilities, fraud, cyber threats, and risk management practices in e-commerce environments.
+
+keywords: e-commerce risks, cyber threats
+
+---
+
+chunk_id: ECERP_U10_002
+unit: E-Commerce Security and Risk
+topic: Security Standards and Firewalls
+
+content: Security standards, firewall technologies, network protection mechanisms, and security implementation strategies.
+
+keywords: firewall, security standards
+
+---
+
+chunk_id: ECERP_U10_003
+unit: E-Commerce Security and Risk
+topic: Cryptography and Key Management
+
+content: Cryptographic techniques, key management systems, secure communication, and encryption protocols.
+
+keywords: cryptography, key management
+
+---
+
+chunk_id: ECERP_U10_004
+unit: E-Commerce Security and Risk
+topic: Password Systems, Digital Certificates and Digital Signatures
+
+content: Authentication mechanisms, password systems, digital certificates, digital signatures, and trust management.
+
+keywords: digital certificates, digital signatures, authentication
+
+---
+
+chunk_id: ECERP_U11_001
+unit: Enterprise Resource Planning
+topic: ERP Fundamentals
+
+content: Introduction to Enterprise Resource Planning, features, capabilities, benefits, and overview of ERP software solutions.
+
+keywords: ERP, enterprise resource planning
+
+---
+
+chunk_id: ECERP_U11_002
+unit: Enterprise Resource Planning
+topic: Business Process Reengineering
+
+content: Reengineering business processes, workflow optimization, IT-enabled transformation, and organizational change.
+
+keywords: business process reengineering, workflow optimization
+
+---
+
+chunk_id: ECERP_U11_003
+unit: Enterprise Resource Planning
+topic: Knowledge Engineering and Data Warehousing
+
+content: Knowledge engineering concepts, organizational knowledge management, and data warehousing technologies.
+
+keywords: knowledge engineering, data warehouse
+
+---
+
+chunk_id: ECERP_U11_004
+unit: Enterprise Resource Planning
+topic: ERP Business Modules
+
+content: ERP modules including Finance, Manufacturing, Human Resources, Plant Maintenance, Materials Management, Quality Management, and Sales & Distribution.
+
+keywords: ERP modules, finance, HR, manufacturing
+
+---
+
+chunk_id: ECERP_U11_005
+unit: Enterprise Resource Planning
+topic: ERP Packages and ERP Market
+
+content: Commercial ERP packages, ERP marketplace, and major vendors including SAP, Oracle, PeopleSoft, BAAN, and JD Edwards.
+
+keywords: SAP, Oracle ERP, ERP vendors
+
+---
+
+chunk_id: ECERP_U11_006
+unit: Enterprise Resource Planning
+topic: ERP Present and Future Trends
+
+content: Enterprise Application Integration (EAI), ERP integration with e-commerce and the Internet, and future directions of ERP systems.
+
+keywords: EAI, ERP trends, ERP future

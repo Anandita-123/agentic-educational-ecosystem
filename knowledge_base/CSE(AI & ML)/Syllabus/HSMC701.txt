@@ -1,0 +1,595 @@
+# SUBJECT_METADATA
+
+subject_name: Project Management and Entrepreneurship
+paper_code: HSMC701
+category: Humanities and Social Sciences
+
+---
+
+chunk_id: PME_U1_001
+unit: Entrepreneurship Fundamentals
+topic: Introduction to Entrepreneurship
+
+content: Meaning, concept, scope, and importance of entrepreneurship in economic and social development.
+
+keywords: entrepreneurship, entrepreneur, business creation
+
+---
+
+chunk_id: PME_U1_002
+unit: Entrepreneurship Fundamentals
+topic: Innovation and Entrepreneurship
+
+content: Relationship between innovation and entrepreneurship, innovation-driven business creation, and value generation.
+
+keywords: innovation, entrepreneurship, value creation
+
+---
+
+chunk_id: PME_U1_003
+unit: Entrepreneurship Fundamentals
+topic: Contributions of Entrepreneurs
+
+content: Role of entrepreneurs in economic growth, employment generation, technological advancement, and societal development.
+
+keywords: economic growth, entrepreneurs, development
+
+---
+
+chunk_id: PME_U1_004
+unit: Entrepreneurship Fundamentals
+topic: Risk and Opportunity Perspective
+
+content: Identification of business opportunities, entrepreneurial risks, risk assessment, and risk mitigation strategies.
+
+keywords: business opportunity, risk management
+
+---
+
+chunk_id: PME_U2_001
+unit: Entrepreneurship and Innovation Management
+topic: Entrepreneurship as an Innovation Process
+
+content: Entrepreneurship as a process of innovation, creativity, and transformation of ideas into viable business opportunities.
+
+keywords: innovation process, entrepreneurship
+
+---
+
+chunk_id: PME_U2_002
+unit: Entrepreneurship and Innovation Management
+topic: Challenges of Innovation
+
+content: Technical, financial, organizational, and market-related challenges faced during innovation.
+
+keywords: innovation challenges, business innovation
+
+---
+
+chunk_id: PME_U2_003
+unit: Entrepreneurship and Innovation Management
+topic: Innovation Management Process
+
+content: Steps involved in innovation management including idea generation, evaluation, implementation, and commercialization.
+
+keywords: innovation management, idea development
+
+---
+
+chunk_id: PME_U2_004
+unit: Entrepreneurship and Innovation Management
+topic: Idea Management Systems
+
+content: Systems and frameworks used to collect, evaluate, prioritize, and implement innovative ideas.
+
+keywords: idea management, innovation systems
+
+---
+
+chunk_id: PME_U2_005
+unit: Entrepreneurship and Innovation Management
+topic: Divergent and Convergent Thinking
+
+content: Creative thinking approaches for generating multiple ideas and selecting optimal solutions.
+
+keywords: divergent thinking, convergent thinking
+
+---
+
+chunk_id: PME_U2_006
+unit: Entrepreneurship and Innovation Management
+topic: Qualities of an Entrepreneur
+
+content: Characteristics, skills, attitudes, and competencies required for successful entrepreneurship.
+
+keywords: entrepreneurial qualities, leadership
+
+---
+
+chunk_id: PME_U3_001
+unit: Idea Incubation and Competitive Advantage
+topic: Idea Incubation
+
+content: Concept of incubation, nurturing business ideas, and transforming concepts into market-ready ventures.
+
+keywords: incubation, startup development
+
+---
+
+chunk_id: PME_U3_002
+unit: Idea Incubation and Competitive Advantage
+topic: Competitive Advantage
+
+content: Factors determining competitive advantage and sustainable business differentiation.
+
+keywords: competitive advantage, business strategy
+
+---
+
+chunk_id: PME_U3_003
+unit: Idea Incubation and Competitive Advantage
+topic: Market Segmentation
+
+content: Identification and analysis of target customer groups for business planning and marketing.
+
+keywords: market segmentation, target market
+
+---
+
+chunk_id: PME_U3_004
+unit: Idea Incubation and Competitive Advantage
+topic: Blue Ocean Strategy
+
+content: Creating uncontested market space through innovation and differentiation strategies.
+
+keywords: blue ocean strategy, market innovation
+
+---
+
+chunk_id: PME_U3_005
+unit: Idea Incubation and Competitive Advantage
+topic: Industry Analysis
+
+content: Analysis of industry structure, competition, growth potential, and market attractiveness.
+
+keywords: industry analysis, market structure
+
+---
+
+chunk_id: PME_U3_006
+unit: Idea Incubation and Competitive Advantage
+topic: Competitor Analysis
+
+content: Evaluation of competitors, market position, strengths, weaknesses, and strategic opportunities.
+
+keywords: competitor analysis, competitive intelligence
+
+---
+
+chunk_id: PME_U3_007
+unit: Idea Incubation and Competitive Advantage
+topic: Demand and Supply Analysis
+
+content: Assessment of market demand, supply conditions, and business feasibility.
+
+keywords: demand analysis, supply analysis
+
+---
+
+chunk_id: PME_U4_001
+unit: Entrepreneurial Motivation and Creativity
+topic: Design Thinking for Innovation
+
+content: Human-centered problem-solving methodology used to create innovative products, services, and business models.
+
+keywords: design thinking, innovation
+
+---
+
+chunk_id: PME_U4_002
+unit: Entrepreneurial Motivation and Creativity
+topic: TRIZ Theory
+
+content: Theory of Inventive Problem Solving (TRIZ) and its application in innovation and engineering design.
+
+keywords: TRIZ, inventive problem solving
+
+---
+
+chunk_id: PME_U4_003
+unit: Entrepreneurial Motivation and Creativity
+topic: Achievement Motivation Theory
+
+content: McClelland’s theory of achievement motivation and its role in entrepreneurial success.
+
+keywords: McClelland theory, achievement motivation
+
+---
+
+chunk_id: PME_U4_004
+unit: Entrepreneurial Motivation and Creativity
+topic: Harvesting Strategies
+
+content: Exit and value realization strategies adopted by entrepreneurs and investors.
+
+keywords: harvesting strategy, business exit
+
+---
+
+chunk_id: PME_U5_001
+unit: Entrepreneurial Support Systems
+topic: Government Incentives for Entrepreneurship
+
+content: Government schemes, subsidies, incentives, and policy support for entrepreneurs.
+
+keywords: government incentives, entrepreneurship support
+
+---
+
+chunk_id: PME_U5_002
+unit: Entrepreneurial Support Systems
+topic: Incubation and Acceleration Programs
+
+content: Startup incubation centers, accelerators, mentoring programs, and ecosystem support.
+
+keywords: incubators, accelerators
+
+---
+
+chunk_id: PME_U5_003
+unit: Entrepreneurial Support Systems
+topic: Startup Funding Methods
+
+content: Funding approaches including bootstrapping, crowdfunding, angel investment, and venture capital.
+
+keywords: startup funding, bootstrapping, crowdfunding
+
+---
+
+chunk_id: PME_U5_004
+unit: Entrepreneurial Support Systems
+topic: Government Agencies Supporting Entrepreneurship
+
+content: Role of SISI, KVIC, DGFT, SIDBI, Defence, Railways, and other agencies in entrepreneurial development.
+
+keywords: SIDBI, KVIC, DGFT, entrepreneurship programs
+
+---
+
+chunk_id: PME_U6_001
+unit: Sustaining Entrepreneurship
+topic: Sustaining Competitiveness
+
+content: Strategies for maintaining long-term competitiveness in dynamic business environments.
+
+keywords: competitiveness, business sustainability
+
+---
+
+chunk_id: PME_U6_002
+unit: Sustaining Entrepreneurship
+topic: Maintaining Competitive Advantage
+
+content: Techniques for preserving differentiation, innovation, and market leadership.
+
+keywords: competitive advantage, business growth
+
+---
+
+chunk_id: PME_U6_003
+unit: Sustaining Entrepreneurship
+topic: Changing Role of the Entrepreneur
+
+content: Evolution of entrepreneurial responsibilities in modern technology-driven markets.
+
+keywords: entrepreneur role, business leadership
+
+---
+
+chunk_id: PME_U7_001
+unit: Entrepreneurship Applications
+topic: Applications of Entrepreneurship
+
+content: Real-world entrepreneurial applications across industries and emerging business sectors.
+
+keywords: entrepreneurship applications, startups
+
+---
+
+chunk_id: PME_U7_002
+unit: Entrepreneurship Applications
+topic: Project Report Preparation
+
+content: Structure, format, and preparation of business plans and entrepreneurial project reports.
+
+keywords: project report, business plan
+
+---
+
+chunk_id: PME_U8_001
+unit: Project Management Fundamentals
+topic: Introduction to Project Management
+
+content: Definitions, objectives, principles, and importance of project management in organizations.
+
+keywords: project management, project planning
+
+---
+
+chunk_id: PME_U8_002
+unit: Project Management Fundamentals
+topic: Issues and Problems in Project Management
+
+content: Common challenges encountered during project planning, execution, monitoring, and closure.
+
+keywords: project issues, project challenges
+
+---
+
+chunk_id: PME_U8_003
+unit: Project Management Fundamentals
+topic: Project Life Cycle
+
+content: Stages of a project including initiation, planning, execution, monitoring, and closure.
+
+keywords: project life cycle, project phases
+
+---
+
+chunk_id: PME_U8_004
+unit: Project Management Fundamentals
+topic: Project Initiation and Conceptualization
+
+content: Project identification, opportunity analysis, objective definition, and feasibility considerations.
+
+keywords: project initiation, conceptualization
+
+---
+
+chunk_id: PME_U8_005
+unit: Project Management Fundamentals
+topic: Planning, Execution and Closure
+
+content: Activities involved in project planning, implementation, execution, and project termination.
+
+keywords: project planning, execution, closure
+
+---
+
+chunk_id: PME_U9_001
+unit: Project Feasibility Analysis
+topic: Pre-Feasibility and Feasibility Studies
+
+content: Evaluation of technical, economic, commercial, and operational feasibility of projects.
+
+keywords: feasibility study, project evaluation
+
+---
+
+chunk_id: PME_U9_002
+unit: Project Feasibility Analysis
+topic: Detailed Project Report (DPR)
+
+content: Preparation and components of a Detailed Project Report for project approval and implementation.
+
+keywords: DPR, project report
+
+---
+
+chunk_id: PME_U9_003
+unit: Project Feasibility Analysis
+topic: Technical Appraisal
+
+content: Assessment of technical viability, technology selection, and implementation feasibility.
+
+keywords: technical appraisal, project feasibility
+
+---
+
+chunk_id: PME_U9_004
+unit: Project Feasibility Analysis
+topic: Financial and Economic Appraisal
+
+content: Capital budgeting, financial evaluation, profitability assessment, and economic feasibility analysis.
+
+keywords: financial appraisal, capital budgeting
+
+---
+
+chunk_id: PME_U9_005
+unit: Project Feasibility Analysis
+topic: Social Cost Benefit Analysis
+
+content: Evaluation of social costs, benefits, and broader societal impact of projects.
+
+keywords: social cost benefit analysis
+
+---
+
+chunk_id: PME_U10_001
+unit: Project Planning Techniques
+topic: Importance of Project Planning
+
+content: Significance of systematic planning for successful project implementation and control.
+
+keywords: project planning, planning importance
+
+---
+
+chunk_id: PME_U10_002
+unit: Project Planning Techniques
+topic: Steps in Project Planning
+
+content: Sequential activities involved in developing comprehensive project plans.
+
+keywords: planning process, project steps
+
+---
+
+chunk_id: PME_U10_003
+unit: Project Planning Techniques
+topic: Project Scope Management
+
+content: Definition, documentation, and control of project scope and deliverables.
+
+keywords: project scope, deliverables
+
+---
+
+chunk_id: PME_U10_004
+unit: Project Planning Techniques
+topic: Work Breakdown Structure (WBS)
+
+content: Decomposition of project work into manageable tasks and activities.
+
+keywords: WBS, task decomposition
+
+---
+
+chunk_id: PME_U10_005
+unit: Project Planning Techniques
+topic: Organization Breakdown Structure (OBS)
+
+content: Organizational hierarchy and responsibility allocation for project activities.
+
+keywords: OBS, organizational structure
+
+---
+
+chunk_id: PME_U10_006
+unit: Project Planning Techniques
+topic: Phased Project Planning
+
+content: Planning approaches based on project phases and milestone-based execution.
+
+keywords: phased planning, milestones
+
+---
+
+chunk_id: PME_U11_001
+unit: Project Scheduling and Cost Management
+topic: Gantt Charts
+
+content: Graphical scheduling tools used for project planning, tracking, and resource allocation.
+
+keywords: Gantt chart, project schedule
+
+---
+
+chunk_id: PME_U11_002
+unit: Project Scheduling and Cost Management
+topic: CPM Analysis
+
+content: Critical Path Method for scheduling activities and determining project duration.
+
+keywords: CPM, critical path
+
+---
+
+chunk_id: PME_U11_003
+unit: Project Scheduling and Cost Management
+topic: PERT Analysis
+
+content: Program Evaluation and Review Technique for managing uncertainty in project schedules.
+
+keywords: PERT, project scheduling
+
+---
+
+chunk_id: PME_U11_004
+unit: Project Scheduling and Cost Management
+topic: Critical Path Identification
+
+content: Determining the sequence of activities that directly affects project completion time.
+
+keywords: critical path, project duration
+
+---
+
+chunk_id: PME_U11_005
+unit: Project Scheduling and Cost Management
+topic: Floats and Slacks
+
+content: Calculation and interpretation of float and slack times in project scheduling.
+
+keywords: float, slack
+
+---
+
+chunk_id: PME_U11_006
+unit: Project Scheduling and Cost Management
+topic: Crashing and Time-Cost Tradeoff
+
+content: Techniques for reducing project duration by balancing additional costs and schedule benefits.
+
+keywords: crashing, time cost tradeoff
+
+---
+
+chunk_id: PME_U11_007
+unit: Project Scheduling and Cost Management
+topic: Project Cost Reduction Methods
+
+content: Approaches to optimize project costs while maintaining quality and performance objectives.
+
+keywords: cost reduction, project optimization
+
+---
+
+chunk_id: PME_U12_001
+unit: Project Monitoring and Control
+topic: Project Monitoring
+
+content: Continuous tracking of project performance, progress, and resource utilization.
+
+keywords: project monitoring, performance tracking
+
+---
+
+chunk_id: PME_U12_002
+unit: Project Monitoring and Control
+topic: Role of the Project Manager
+
+content: Responsibilities, leadership functions, and decision-making roles of project managers.
+
+keywords: project manager, leadership
+
+---
+
+chunk_id: PME_U12_003
+unit: Project Monitoring and Control
+topic: Management Information Systems in Projects
+
+content: Use of MIS tools and systems for project reporting, monitoring, and decision support.
+
+keywords: MIS, project reporting
+
+---
+
+chunk_id: PME_U12_004
+unit: Project Monitoring and Control
+topic: Project Audit
+
+content: Evaluation of project performance, compliance, outcomes, and lessons learned.
+
+keywords: project audit, project evaluation
+
+---
+
+chunk_id: PME_U13_001
+unit: Project Management Applications
+topic: Case Studies in Project Management
+
+content: Analysis of real-world project management cases and practical problem-solving approaches.
+
+keywords: project case studies, project applications
+
+---
+
+chunk_id: PME_U13_002
+unit: Project Management Applications
+topic: MS Project Hands-on Training
+
+content: Practical use of Microsoft Project software for planning, scheduling, resource allocation, and monitoring projects.
+
+keywords: MS Project, project software

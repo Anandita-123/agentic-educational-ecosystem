@@ -1,0 +1,425 @@
+# SUBJECT_METADATA
+
+subject_name: Bioinformatics
+paper_code: OECAIML701B
+category: Open Elective
+
+---
+
+chunk_id: BIO_U1_001
+unit: Fundamentals of Molecular Biology
+topic: Concepts of Cell and Tissue
+
+content: Introduction to cells and tissues, classification of cells, cellular organization, and biological significance in living organisms.
+
+keywords: cell, tissue, cell types
+
+---
+
+chunk_id: BIO_U1_002
+unit: Fundamentals of Molecular Biology
+topic: Components of Cells and Organelles
+
+content: Structure and organization of cellular components including nucleus, mitochondria, ribosomes, endoplasmic reticulum, and other organelles.
+
+keywords: cell components, organelles
+
+---
+
+chunk_id: BIO_U1_003
+unit: Fundamentals of Molecular Biology
+topic: Functions of Cellular Organelles
+
+content: Functions of major organelles and their role in maintaining cellular activities and metabolism.
+
+keywords: organelle functions, cell biology
+
+---
+
+chunk_id: BIO_U1_004
+unit: Fundamentals of Molecular Biology
+topic: Structure of DNA
+
+content: Basic structure of DNA, nucleotide composition, sugar-phosphate backbone, and molecular organization.
+
+keywords: DNA structure, nucleotides
+
+---
+
+chunk_id: BIO_U1_005
+unit: Fundamentals of Molecular Biology
+topic: Double Helix and Watson-Crick Model
+
+content: Double helix structure of DNA, Watson-Crick model, complementary base pairing, and genetic information storage.
+
+keywords: double helix, Watson-Crick model
+
+---
+
+chunk_id: BIO_U1_006
+unit: Fundamentals of Molecular Biology
+topic: Genes, Exons and Introns
+
+content: Gene structure, coding and non-coding regions, exons, introns, and their significance in gene expression.
+
+keywords: genes, exons, introns
+
+---
+
+chunk_id: BIO_U1_007
+unit: Fundamentals of Molecular Biology
+topic: Structure of RNA
+
+content: Basic structure of RNA, nucleotide composition, and molecular organization of ribonucleic acid.
+
+keywords: RNA structure, ribonucleic acid
+
+---
+
+chunk_id: BIO_U1_008
+unit: Fundamentals of Molecular Biology
+topic: Differences Between DNA and RNA
+
+content: Structural and functional differences between DNA and RNA, stability, and biological roles.
+
+keywords: DNA vs RNA, nucleic acids
+
+---
+
+chunk_id: BIO_U1_009
+unit: Fundamentals of Molecular Biology
+topic: Types of RNA
+
+content: Messenger RNA (mRNA), Transfer RNA (tRNA), Ribosomal RNA (rRNA), and their biological functions.
+
+keywords: mRNA, tRNA, rRNA
+
+---
+
+chunk_id: BIO_U1_010
+unit: Fundamentals of Molecular Biology
+topic: Protein Structure and Components
+
+content: Amino acids, peptide bonds, protein structure, and biological functions of proteins.
+
+keywords: proteins, amino acids
+
+---
+
+chunk_id: BIO_U1_011
+unit: Fundamentals of Molecular Biology
+topic: Central Dogma of Molecular Biology
+
+content: Flow of genetic information from DNA to RNA to protein through transcription and translation processes.
+
+keywords: central dogma, transcription, translation
+
+---
+
+chunk_id: BIO_U1_012
+unit: Fundamentals of Molecular Biology
+topic: Introduction to Metabolic Pathways
+
+content: Overview of metabolic pathways, biochemical reactions, and their role in cellular metabolism.
+
+keywords: metabolic pathways, metabolism
+
+---
+
+chunk_id: BIO_U2_001
+unit: Bioinformatics Databases and Resources
+topic: Introduction to Bioinformatics
+
+content: Fundamentals of bioinformatics, scope, objectives, applications, and interdisciplinary nature of the field.
+
+keywords: bioinformatics, computational biology
+
+---
+
+chunk_id: BIO_U2_002
+unit: Bioinformatics Databases and Resources
+topic: Challenges in Bioinformatics
+
+content: Current challenges in bioinformatics including large-scale biological data analysis, storage, and interpretation.
+
+keywords: bioinformatics challenges, biological data
+
+---
+
+chunk_id: BIO_U2_003
+unit: Bioinformatics Databases and Resources
+topic: Protein Sequence Databases
+
+content: Biological databases containing protein sequences, annotation methods, and retrieval techniques.
+
+keywords: protein databases, sequence databases
+
+---
+
+chunk_id: BIO_U2_004
+unit: Bioinformatics Databases and Resources
+topic: DNA Sequence Databases
+
+content: DNA sequence repositories, genomic databases, sequence storage, and biological information management.
+
+keywords: DNA databases, genomic databases
+
+---
+
+chunk_id: BIO_U2_005
+unit: Bioinformatics Databases and Resources
+topic: Sequence Database Search Tools
+
+content: Sequence similarity search programs such as BLAST and FASTA for biological sequence analysis.
+
+keywords: BLAST, FASTA, sequence search
+
+---
+
+chunk_id: BIO_U2_006
+unit: Bioinformatics Databases and Resources
+topic: NCBI Resources
+
+content: National Center for Biotechnology Information resources and tools for biological data access and analysis.
+
+keywords: NCBI, biological databases
+
+---
+
+chunk_id: BIO_U2_007
+unit: Bioinformatics Databases and Resources
+topic: GenBank, OMIM, Taxonomy Browser and PubMed
+
+content: Major NCBI modules including GenBank, OMIM, Taxonomy Browser, and PubMed for genomic and biomedical information retrieval.
+
+keywords: GenBank, OMIM, PubMed, Taxonomy Browser
+
+---
+
+chunk_id: BIO_U3_001
+unit: DNA Sequence Analysis
+topic: DNA Mapping and Assembly
+
+content: Principles of DNA mapping, genome assembly, and reconstruction of long DNA sequences from sequence fragments.
+
+keywords: DNA mapping, genome assembly
+
+---
+
+chunk_id: BIO_U3_002
+unit: DNA Sequence Analysis
+topic: Human Genome Size and Organization
+
+content: Structure, organization, and size characteristics of the human genome.
+
+keywords: human genome, genome organization
+
+---
+
+chunk_id: BIO_U3_003
+unit: DNA Sequence Analysis
+topic: Polymerase Chain Reaction (PCR)
+
+content: PCR principles, amplification of DNA sequences, experimental procedures, and applications in molecular biology.
+
+keywords: PCR, DNA amplification
+
+---
+
+chunk_id: BIO_U3_004
+unit: DNA Sequence Analysis
+topic: Hybridization and Microarrays
+
+content: Hybridization techniques, DNA microarrays, gene expression analysis, and genomic applications.
+
+keywords: hybridization, microarrays
+
+---
+
+chunk_id: BIO_U3_005
+unit: DNA Sequence Analysis
+topic: DNA Fragmentation and Sequencing
+
+content: Methods for cutting DNA into fragments, sequencing short DNA molecules, and sequence determination techniques.
+
+keywords: DNA sequencing, DNA fragments
+
+---
+
+chunk_id: BIO_U3_006
+unit: DNA Sequence Analysis
+topic: Mapping Long DNA Molecules
+
+content: Techniques for mapping long DNA molecules and constructing genome maps.
+
+keywords: genome mapping, DNA molecules
+
+---
+
+chunk_id: BIO_U3_007
+unit: DNA Sequence Analysis
+topic: De Bruijn Graphs in Genome Assembly
+
+content: De Bruijn graph concepts, sequence assembly algorithms, and applications in computational genomics.
+
+keywords: De Bruijn graph, genome assembly
+
+---
+
+chunk_id: BIO_U3_008
+unit: DNA Sequence Analysis
+topic: Sequence Alignment Fundamentals
+
+content: Introduction to sequence alignment, similarity measurement, and biological sequence comparison.
+
+keywords: sequence alignment, biological sequences
+
+---
+
+chunk_id: BIO_U3_009
+unit: DNA Sequence Analysis
+topic: Local and Global Alignment
+
+content: Local and global sequence alignment techniques and their applications in comparative genomics.
+
+keywords: local alignment, global alignment
+
+---
+
+chunk_id: BIO_U3_010
+unit: DNA Sequence Analysis
+topic: Pairwise and Multiple Sequence Alignment
+
+content: Methods for pairwise and multiple sequence alignment and identification of conserved biological regions.
+
+keywords: pairwise alignment, multiple alignment
+
+---
+
+chunk_id: BIO_U3_011
+unit: DNA Sequence Analysis
+topic: Dynamic Programming for Sequence Analysis
+
+content: Dynamic programming concepts applied to sequence alignment and optimization problems.
+
+keywords: dynamic programming, sequence analysis
+
+---
+
+chunk_id: BIO_U3_012
+unit: DNA Sequence Analysis
+topic: Needleman-Wunsch Algorithm
+
+content: Global sequence alignment algorithm based on dynamic programming and optimal alignment computation.
+
+keywords: Needleman-Wunsch, global alignment
+
+---
+
+chunk_id: BIO_U3_013
+unit: DNA Sequence Analysis
+topic: Smith-Waterman Algorithm
+
+content: Local sequence alignment algorithm for identifying highly similar regions between biological sequences.
+
+keywords: Smith-Waterman, local alignment
+
+---
+
+chunk_id: BIO_U4_001
+unit: Probabilistic Models in Computational Biology
+topic: Introduction to Probabilistic Models
+
+content: Fundamentals of probabilistic modeling and its applications in computational biology and bioinformatics.
+
+keywords: probabilistic models, computational biology
+
+---
+
+chunk_id: BIO_U4_002
+unit: Probabilistic Models in Computational Biology
+topic: Hidden Markov Models
+
+content: Concepts, architecture, states, transitions, and probabilistic framework of Hidden Markov Models (HMMs).
+
+keywords: HMM, hidden Markov model
+
+---
+
+chunk_id: BIO_U4_003
+unit: Probabilistic Models in Computational Biology
+topic: Transition and Emission Matrices
+
+content: Transition probability matrices, emission probability matrices, and parameter estimation in HMMs.
+
+keywords: transition matrix, emission matrix
+
+---
+
+chunk_id: BIO_U4_004
+unit: Probabilistic Models in Computational Biology
+topic: Applications of HMM in Bioinformatics
+
+content: Use of Hidden Markov Models for gene prediction, profile searches, sequence alignment, and regulatory site identification.
+
+keywords: gene finding, profile search, HMM applications
+
+---
+
+chunk_id: BIO_U4_005
+unit: Probabilistic Models in Computational Biology
+topic: Bayesian Network Models
+
+content: Bayesian network architecture, probabilistic reasoning, dependency modeling, and inference mechanisms.
+
+keywords: Bayesian networks, probabilistic reasoning
+
+---
+
+chunk_id: BIO_U4_006
+unit: Probabilistic Models in Computational Biology
+topic: Applications of Bayesian Networks in Bioinformatics
+
+content: Applications of Bayesian networks in biological data analysis, disease prediction, and gene interaction studies.
+
+keywords: Bayesian applications, biological networks
+
+---
+
+chunk_id: BIO_U5_001
+unit: Biological Data Classification and Clustering
+topic: Biological Data Classification
+
+content: Classification techniques for biological datasets, predictive modeling, and computational approaches for biological knowledge discovery.
+
+keywords: biological classification, predictive models
+
+---
+
+chunk_id: BIO_U5_002
+unit: Biological Data Classification and Clustering
+topic: Protein Function Prediction
+
+content: Methods for assigning biological functions to proteins using computational and machine learning approaches.
+
+keywords: protein function prediction, protein annotation
+
+---
+
+chunk_id: BIO_U5_003
+unit: Biological Data Classification and Clustering
+topic: Splice Site Prediction
+
+content: Computational identification and prediction of splice sites in genomic sequences.
+
+keywords: splice sites, gene prediction
+
+---
+
+chunk_id: BIO_U5_004
+unit: Biological Data Classification and Clustering
+topic: Decision Trees for Bioinformatics
+
+content: Decision tree algorithms for biological data classification, knowledge extraction, and predictive analysis.
+
+keywords: decision trees, bioinformatics classification

@@ -1,0 +1,335 @@
+# SUBJECT_METADATA
+
+subject_name: Cryptography & Network Security
+paper_code: OEC-AIML601D
+category: Open Elective Course
+
+---
+
+chunk_id: CNS_U1_001
+unit: Fundamentals of Computer Security
+topic: Computer Security Concepts
+
+content: Introduction to computer security, security goals, threats, vulnerabilities, risks, and the importance of securing information systems.
+
+keywords: computer security, threats, vulnerabilities, risk management
+
+---
+
+chunk_id: CNS_U1_002
+unit: Fundamentals of Computer Security
+topic: OSI Security Architecture
+
+content: The OSI security architecture, framework for network security, security layers, and mechanisms used to protect communication systems.
+
+keywords: OSI security architecture, network security
+
+---
+
+chunk_id: CNS_U1_003
+unit: Fundamentals of Computer Security
+topic: Security Attacks, Services and Mechanisms
+
+content: Classification of security attacks, security services, security mechanisms, and methods for protecting systems against threats.
+
+keywords: security attacks, security services, security mechanisms
+
+---
+
+chunk_id: CNS_U1_004
+unit: Fundamentals of Computer Security
+topic: Network Security Model
+
+content: A model for network security, secure communication principles, trusted entities, and protection strategies for data transmission.
+
+keywords: network security model, secure communication
+
+---
+
+chunk_id: CNS_U2_001
+unit: Cryptographic Foundations
+topic: Classical Encryption Techniques
+
+content: Historical cryptographic techniques, principles of encryption, and the evolution of secure communication systems.
+
+keywords: classical cryptography, encryption techniques
+
+---
+
+chunk_id: CNS_U2_002
+unit: Cryptographic Foundations
+topic: Symmetric Cipher Model
+
+content: Symmetric key cryptography, encryption and decryption processes, secret key management, and confidentiality services.
+
+keywords: symmetric encryption, secret key cryptography
+
+---
+
+chunk_id: CNS_U2_003
+unit: Cryptographic Foundations
+topic: Substitution Techniques
+
+content: Substitution ciphers, monoalphabetic and polyalphabetic encryption methods, and cryptanalysis basics.
+
+keywords: substitution cipher, cryptanalysis
+
+---
+
+chunk_id: CNS_U2_004
+unit: Cryptographic Foundations
+topic: Transposition Techniques
+
+content: Transposition cipher methods, permutation-based encryption, and comparative analysis of classical ciphers.
+
+keywords: transposition cipher, permutation
+
+---
+
+chunk_id: CNS_U2_005
+unit: Cryptographic Foundations
+topic: Rotor Machines and Steganography
+
+content: Rotor machine-based cryptographic systems and steganography techniques for concealing information within digital media.
+
+keywords: rotor machines, steganography
+
+---
+
+chunk_id: CNS_U2_006
+unit: Cryptographic Foundations
+topic: Cryptographic Tools and Confidentiality
+
+content: Cryptographic tools, algorithms, and techniques used to ensure confidentiality through symmetric encryption methods.
+
+keywords: cryptographic tools, confidentiality
+
+---
+
+chunk_id: CNS_U3_001
+unit: Modern Cryptography
+topic: Message Authentication and Hash Functions
+
+content: Authentication techniques, cryptographic hash functions, integrity verification, and secure message authentication methods.
+
+keywords: message authentication, hash functions, integrity
+
+---
+
+chunk_id: CNS_U3_002
+unit: Modern Cryptography
+topic: Public-Key Encryption
+
+content: Asymmetric cryptography, public-private key pairs, encryption methods, and secure communication mechanisms.
+
+keywords: public key cryptography, asymmetric encryption
+
+---
+
+chunk_id: CNS_U3_003
+unit: Modern Cryptography
+topic: Digital Signatures and Key Management
+
+content: Digital signature algorithms, non-repudiation, key distribution, key management systems, and certificate-based security.
+
+keywords: digital signatures, key management
+
+---
+
+chunk_id: CNS_U3_004
+unit: Modern Cryptography
+topic: Random and Pseudorandom Numbers
+
+content: Generation of random and pseudorandom numbers, their importance in cryptographic protocols, and secure key generation.
+
+keywords: random numbers, pseudorandom numbers
+
+---
+
+chunk_id: CNS_U3_005
+unit: Modern Cryptography
+topic: Encryption of Stored Data
+
+content: Practical applications of encryption for securing stored information, databases, file systems, and cloud storage.
+
+keywords: data encryption, secure storage
+
+---
+
+chunk_id: CNS_U4_001
+unit: User Authentication
+topic: User Authentication Fundamentals
+
+content: Concepts of user authentication, identity verification, and authentication requirements in secure systems.
+
+keywords: user authentication, identity verification
+
+---
+
+chunk_id: CNS_U4_002
+unit: User Authentication
+topic: Means of Authentication
+
+content: Authentication methods based on knowledge, possession, and inherence factors used in secure access control systems.
+
+keywords: authentication methods, authentication factors
+
+---
+
+chunk_id: CNS_U4_003
+unit: User Authentication
+topic: Password-Based Authentication
+
+content: Password authentication mechanisms, password security, password attacks, and secure password management practices.
+
+keywords: password authentication, password security
+
+---
+
+chunk_id: CNS_U4_004
+unit: User Authentication
+topic: Token-Based Authentication
+
+content: Authentication using hardware tokens, software tokens, smart cards, and one-time password systems.
+
+keywords: token authentication, OTP, smart cards
+
+---
+
+chunk_id: CNS_U4_005
+unit: User Authentication
+topic: Biometric Authentication
+
+content: Biometric authentication techniques including fingerprint, iris, facial recognition, and behavioral biometrics.
+
+keywords: biometric authentication, fingerprint recognition
+
+---
+
+chunk_id: CNS_U4_006
+unit: User Authentication
+topic: Remote User Authentication and Security Issues
+
+content: Remote authentication protocols, authentication vulnerabilities, security challenges, and mitigation strategies.
+
+keywords: remote authentication, authentication security
+
+---
+
+chunk_id: CNS_U5_001
+unit: Malware and Cyber Threats
+topic: Introduction to Malware
+
+content: Types of malicious software, malware lifecycle, attack vectors, and impacts on computer systems and networks.
+
+keywords: malware, malicious software
+
+---
+
+chunk_id: CNS_U5_002
+unit: Malware and Cyber Threats
+topic: Viruses and Worms
+
+content: Virus propagation through infected content, worm propagation through vulnerability exploitation, and associated security risks.
+
+keywords: viruses, worms, malware propagation
+
+---
+
+chunk_id: CNS_U5_003
+unit: Malware and Cyber Threats
+topic: Social Engineering and SPAM
+
+content: Social engineering attacks, SPAM emails, manipulation techniques, and methods to defend against human-centered attacks.
+
+keywords: social engineering, spam email
+
+---
+
+chunk_id: CNS_U5_004
+unit: Malware and Cyber Threats
+topic: Trojans and System Corruption
+
+content: Trojan horse malware, system corruption attacks, malware installation techniques, and defensive measures.
+
+keywords: trojans, system corruption
+
+---
+
+chunk_id: CNS_U5_005
+unit: Malware and Cyber Threats
+topic: Bots and Zombie Systems
+
+content: Bots, botnets, zombie computers, distributed attack infrastructures, and cybercrime operations.
+
+keywords: bots, botnets, zombie systems
+
+---
+
+chunk_id: CNS_U5_006
+unit: Malware and Cyber Threats
+topic: Information Theft Malware
+
+content: Keyloggers, phishing attacks, spyware, credential theft techniques, and protection against information-stealing malware.
+
+keywords: keyloggers, phishing, spyware
+
+---
+
+chunk_id: CNS_U5_007
+unit: Malware and Cyber Threats
+topic: Backdoors, Rootkits and Countermeasures
+
+content: Backdoors, rootkits, stealth techniques, malware concealment strategies, detection methods, and security countermeasures.
+
+keywords: backdoors, rootkits, malware countermeasures
+
+---
+
+chunk_id: CNS_U6_001
+unit: Network Defense Mechanisms
+topic: Firewalls and Intrusion Prevention Systems
+
+content: Fundamentals of firewalls and intrusion prevention systems (IPS), network defense strategies, and security policy enforcement.
+
+keywords: firewalls, intrusion prevention systems
+
+---
+
+chunk_id: CNS_U6_002
+unit: Network Defense Mechanisms
+topic: Need and Characteristics of Firewalls
+
+content: Purpose of firewalls, security requirements, firewall characteristics, and their role in network protection.
+
+keywords: firewall characteristics, network protection
+
+---
+
+chunk_id: CNS_U6_003
+unit: Network Defense Mechanisms
+topic: Types of Firewalls
+
+content: Packet filtering firewalls, stateful inspection firewalls, proxy firewalls, next-generation firewalls, and deployment considerations.
+
+keywords: firewall types, packet filtering, stateful inspection
+
+---
+
+chunk_id: CNS_U6_004
+unit: Network Defense Mechanisms
+topic: Firewall Placement and Configuration
+
+content: Firewall basing strategies, firewall locations within networks, configuration techniques, and best deployment practices.
+
+keywords: firewall configuration, firewall placement
+
+---
+
+chunk_id: CNS_U6_005
+unit: Network Defense Mechanisms
+topic: Intrusion Prevention Systems
+
+content: Intrusion prevention system architecture, threat detection techniques, prevention mechanisms, and integration with enterprise security frameworks.
+
+keywords: intrusion prevention system, IPS, threat detection

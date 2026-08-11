@@ -1,0 +1,615 @@
+# SUBJECT_METADATA
+
+subject_name: Micro-electronics and VLSI Design
+paper_code: OECAIML801B
+category: Open Elective
+
+---
+
+chunk_id: MVLSI_U1_001
+unit: CMOS Circuits Fundamentals
+topic: Introduction to CMOS Circuits
+
+content: Overview of CMOS technology, characteristics of CMOS circuits, advantages, applications, and role in modern VLSI design.
+
+keywords: CMOS, VLSI, integrated circuits
+
+---
+
+chunk_id: MVLSI_U1_002
+unit: CMOS Circuits Fundamentals
+topic: MOS Transistors
+
+content: Structure, operation, characteristics, and working principles of MOS transistors used in CMOS circuit design.
+
+keywords: MOS transistor, NMOS, PMOS
+
+---
+
+chunk_id: MVLSI_U1_003
+unit: CMOS Circuits Fundamentals
+topic: MOS Transistor Switches
+
+content: Use of MOS transistors as switches in digital circuit implementations and logic design.
+
+keywords: MOS switch, transistor switching
+
+---
+
+chunk_id: MVLSI_U1_004
+unit: CMOS Circuits Fundamentals
+topic: CMOS Logic
+
+content: Fundamentals of CMOS logic families, logic levels, noise margins, and logic gate implementation.
+
+keywords: CMOS logic, digital circuits
+
+---
+
+chunk_id: MVLSI_U1_005
+unit: CMOS Circuits Fundamentals
+topic: CMOS Inverter
+
+content: Design, operation, voltage transfer characteristics, and performance analysis of CMOS inverters.
+
+keywords: CMOS inverter, logic inverter
+
+---
+
+chunk_id: MVLSI_U1_006
+unit: CMOS Circuits Fundamentals
+topic: Combinational Logic Design
+
+content: Implementation of combinational logic circuits using CMOS technology.
+
+keywords: combinational logic, CMOS design
+
+---
+
+chunk_id: MVLSI_U1_007
+unit: CMOS Circuits Fundamentals
+topic: NAND Gate Design
+
+content: CMOS implementation, operation, and characteristics of NAND gates.
+
+keywords: NAND gate, CMOS gates
+
+---
+
+chunk_id: MVLSI_U1_008
+unit: CMOS Circuits Fundamentals
+topic: NOT Gate Design
+
+content: Design and operation of CMOS-based NOT gates and inverters.
+
+keywords: NOT gate, inverter
+
+---
+
+chunk_id: MVLSI_U1_009
+unit: CMOS Circuits Fundamentals
+topic: Compound Gates
+
+content: Design and implementation of complex CMOS logic gates combining multiple logical functions.
+
+keywords: compound gates, CMOS logic
+
+---
+
+chunk_id: MVLSI_U1_010
+unit: CMOS Circuits Fundamentals
+topic: Multiplexers
+
+content: CMOS implementation and applications of multiplexers in digital systems.
+
+keywords: multiplexer, MUX
+
+---
+
+chunk_id: MVLSI_U1_011
+unit: CMOS Circuits Fundamentals
+topic: Memory Latches
+
+content: Structure, operation, and applications of latches for temporary data storage.
+
+keywords: latch, memory circuits
+
+---
+
+chunk_id: MVLSI_U1_012
+unit: CMOS Circuits Fundamentals
+topic: Registers
+
+content: Design and functionality of registers used for data storage and transfer in digital systems.
+
+keywords: registers, sequential circuits
+
+---
+
+chunk_id: MVLSI_U2_001
+unit: Semiconductor Processing Technology
+topic: Silicon Semiconductor Technology Overview
+
+content: Introduction to silicon semiconductor technology and manufacturing processes used in integrated circuit fabrication.
+
+keywords: semiconductor technology, silicon
+
+---
+
+chunk_id: MVLSI_U2_002
+unit: Semiconductor Processing Technology
+topic: Wafer Processing
+
+content: Silicon wafer preparation, cleaning, and processing techniques for IC fabrication.
+
+keywords: wafer processing, fabrication
+
+---
+
+chunk_id: MVLSI_U2_003
+unit: Semiconductor Processing Technology
+topic: Oxidation Process
+
+content: Thermal oxidation techniques used to create insulating silicon dioxide layers.
+
+keywords: oxidation, SiO2
+
+---
+
+chunk_id: MVLSI_U2_004
+unit: Semiconductor Processing Technology
+topic: Epitaxy Deposition
+
+content: Epitaxial growth processes for creating high-quality semiconductor layers.
+
+keywords: epitaxy, deposition
+
+---
+
+chunk_id: MVLSI_U2_005
+unit: Semiconductor Processing Technology
+topic: Ion Implantation
+
+content: Doping techniques using ion implantation to modify semiconductor properties.
+
+keywords: ion implantation, doping
+
+---
+
+chunk_id: MVLSI_U2_006
+unit: Semiconductor Processing Technology
+topic: Diffusion Process
+
+content: Diffusion methods for introducing impurities into semiconductor materials.
+
+keywords: diffusion, semiconductor fabrication
+
+---
+
+chunk_id: MVLSI_U2_007
+unit: Semiconductor Processing Technology
+topic: Silicon Gate Process
+
+content: Basic silicon gate CMOS fabrication technology and process flow.
+
+keywords: silicon gate, CMOS fabrication
+
+---
+
+chunk_id: MVLSI_U2_008
+unit: Semiconductor Processing Technology
+topic: Basic CMOS Technology
+
+content: Fundamental fabrication processes used in CMOS integrated circuits.
+
+keywords: CMOS technology, IC fabrication
+
+---
+
+chunk_id: MVLSI_U2_009
+unit: Semiconductor Processing Technology
+topic: N-Well CMOS Process
+
+content: Fabrication steps and characteristics of n-well CMOS technology.
+
+keywords: n-well CMOS, fabrication process
+
+---
+
+chunk_id: MVLSI_U2_010
+unit: Semiconductor Processing Technology
+topic: P-Well CMOS Process
+
+content: Fabrication methodology and features of p-well CMOS technology.
+
+keywords: p-well CMOS, semiconductor process
+
+---
+
+chunk_id: MVLSI_U2_011
+unit: Semiconductor Processing Technology
+topic: Twin-Tub Process
+
+content: Twin-tub CMOS technology and its advantages in circuit performance optimization.
+
+keywords: twin-tub process, CMOS fabrication
+
+---
+
+chunk_id: MVLSI_U2_012
+unit: Semiconductor Processing Technology
+topic: Silicon on Insulator (SOI)
+
+content: SOI technology, structure, fabrication methods, and advantages in VLSI design.
+
+keywords: SOI, silicon on insulator
+
+---
+
+chunk_id: MVLSI_U2_013
+unit: Semiconductor Processing Technology
+topic: CMOS Process Enhancement
+
+content: Advanced techniques for improving CMOS device performance and scalability.
+
+keywords: process enhancement, CMOS scaling
+
+---
+
+chunk_id: MVLSI_U2_014
+unit: Semiconductor Processing Technology
+topic: Interconnect Technology
+
+content: Materials and techniques used for signal routing and connectivity in integrated circuits.
+
+keywords: interconnect, routing
+
+---
+
+chunk_id: MVLSI_U2_015
+unit: Semiconductor Processing Technology
+topic: Circuit Elements and 3D CMOS
+
+content: Advanced CMOS structures including three-dimensional integration and circuit components.
+
+keywords: 3D CMOS, advanced VLSI
+
+---
+
+chunk_id: MVLSI_U3_001
+unit: Layout Design Rules
+topic: Layer Representation
+
+content: Representation of different fabrication layers in VLSI layout design.
+
+keywords: layer representation, layout design
+
+---
+
+chunk_id: MVLSI_U3_002
+unit: Layout Design Rules
+topic: CMOS N-Well Design Rules
+
+content: Design rules governing layout implementation in n-well CMOS technology.
+
+keywords: n-well rules, CMOS layout
+
+---
+
+chunk_id: MVLSI_U3_003
+unit: Layout Design Rules
+topic: Background Scribe Line Rules
+
+content: Layout requirements and design considerations for background scribe lines.
+
+keywords: scribe line, layout rules
+
+---
+
+chunk_id: MVLSI_U3_004
+unit: Layout Design Rules
+topic: Layer Assignment
+
+content: Allocation of fabrication layers during physical layout design.
+
+keywords: layer assignment, physical design
+
+---
+
+chunk_id: MVLSI_U3_005
+unit: Layout Design Rules
+topic: SOI Design Rules
+
+content: Layout and fabrication constraints specific to Silicon-on-Insulator technology.
+
+keywords: SOI rules, layout constraints
+
+---
+
+chunk_id: MVLSI_U4_001
+unit: Power Dissipation and Programmable Logic
+topic: Static Power Dissipation
+
+content: Sources and analysis of static power consumption in CMOS circuits.
+
+keywords: static power, leakage power
+
+---
+
+chunk_id: MVLSI_U4_002
+unit: Power Dissipation and Programmable Logic
+topic: Dynamic Power Dissipation
+
+content: Switching power consumption and techniques to minimize dynamic power.
+
+keywords: dynamic power, switching power
+
+---
+
+chunk_id: MVLSI_U4_003
+unit: Power Dissipation and Programmable Logic
+topic: Short-Circuit Power Dissipation
+
+content: Power losses due to simultaneous conduction of PMOS and NMOS transistors.
+
+keywords: short-circuit power, CMOS losses
+
+---
+
+chunk_id: MVLSI_U4_004
+unit: Power Dissipation and Programmable Logic
+topic: Total Power Dissipation
+
+content: Comprehensive analysis of power consumption in CMOS VLSI circuits.
+
+keywords: total power, power analysis
+
+---
+
+chunk_id: MVLSI_U4_005
+unit: Power Dissipation and Programmable Logic
+topic: Programmable Logic Devices
+
+content: Architecture and operation of programmable logic devices used in digital design.
+
+keywords: programmable logic, PLD
+
+---
+
+chunk_id: MVLSI_U4_006
+unit: Power Dissipation and Programmable Logic
+topic: Programmable Logic Structure
+
+content: Structural organization and functionality of programmable logic architectures.
+
+keywords: logic structure, PLD architecture
+
+---
+
+chunk_id: MVLSI_U4_007
+unit: Power Dissipation and Programmable Logic
+topic: Programmable Interconnect
+
+content: Configurable routing resources used in programmable devices.
+
+keywords: programmable interconnect, routing
+
+---
+
+chunk_id: MVLSI_U4_008
+unit: Power Dissipation and Programmable Logic
+topic: Reprogrammable Gate Arrays
+
+content: Concepts and operation of FPGA and reconfigurable hardware technologies.
+
+keywords: FPGA, reconfigurable computing
+
+---
+
+chunk_id: MVLSI_U4_009
+unit: Power Dissipation and Programmable Logic
+topic: Xilinx Programmable Gate Array
+
+content: Architecture and features of Xilinx FPGA devices and development environments.
+
+keywords: Xilinx FPGA, programmable gate array
+
+---
+
+chunk_id: MVLSI_U4_010
+unit: Power Dissipation and Programmable Logic
+topic: Behavioral Synthesis
+
+content: High-level design methodology converting behavioral descriptions into hardware implementations.
+
+keywords: behavioral synthesis, hardware design
+
+---
+
+chunk_id: MVLSI_U4_011
+unit: Power Dissipation and Programmable Logic
+topic: RTL Synthesis
+
+content: Register Transfer Level synthesis and conversion of RTL code into gate-level circuits.
+
+keywords: RTL synthesis, digital design
+
+---
+
+chunk_id: MVLSI_U5_001
+unit: Physical Design Automation
+topic: Placement in VLSI Design
+
+content: Physical placement of circuit components to optimize area, performance, and power.
+
+keywords: placement, physical design
+
+---
+
+chunk_id: MVLSI_U5_002
+unit: Physical Design Automation
+topic: Mincut-Based Placement
+
+content: Partitioning and placement techniques based on mincut optimization algorithms.
+
+keywords: mincut placement, partitioning
+
+---
+
+chunk_id: MVLSI_U5_003
+unit: Physical Design Automation
+topic: Iterative Improvement Placement
+
+content: Optimization-based placement refinement methods for improved circuit performance.
+
+keywords: iterative placement, optimization
+
+---
+
+chunk_id: MVLSI_U5_004
+unit: Physical Design Automation
+topic: Simulated Annealing Placement
+
+content: Placement optimization using simulated annealing algorithms.
+
+keywords: simulated annealing, placement optimization
+
+---
+
+chunk_id: MVLSI_U5_005
+unit: Physical Design Automation
+topic: Segmented Channel Routing
+
+content: Routing methodologies for connecting components through segmented routing channels.
+
+keywords: channel routing, VLSI routing
+
+---
+
+chunk_id: MVLSI_U5_006
+unit: Physical Design Automation
+topic: Maze Routing
+
+content: Routing algorithms based on pathfinding techniques for VLSI layouts.
+
+keywords: maze routing, routing algorithms
+
+---
+
+chunk_id: MVLSI_U5_007
+unit: Physical Design Automation
+topic: Routability and Routing Resources
+
+content: Evaluation of routing feasibility and resource utilization in integrated circuit layouts.
+
+keywords: routability, routing resources
+
+---
+
+chunk_id: MVLSI_U5_008
+unit: Physical Design Automation
+topic: Net Delays
+
+content: Delay estimation and optimization of signal propagation through interconnect networks.
+
+keywords: net delay, timing analysis
+
+---
+
+chunk_id: MVLSI_U6_001
+unit: Verification, Testing and VHDL
+topic: Verification versus Testing
+
+content: Differences, objectives, and methodologies of verification and testing in VLSI design.
+
+keywords: verification, testing
+
+---
+
+chunk_id: MVLSI_U6_002
+unit: Verification, Testing and VHDL
+topic: Logic Simulation and Design Validation
+
+content: Techniques for validating circuit functionality through simulation and verification.
+
+keywords: logic simulation, design validation
+
+---
+
+chunk_id: MVLSI_U6_003
+unit: Verification, Testing and VHDL
+topic: Timing Verification
+
+content: Analysis and verification of timing constraints in digital circuits.
+
+keywords: timing verification, timing analysis
+
+---
+
+chunk_id: MVLSI_U6_004
+unit: Verification, Testing and VHDL
+topic: Failure Mechanisms and Fault Models
+
+content: Types of failures, fault mechanisms, and fault modeling techniques in VLSI circuits.
+
+keywords: faults, failure analysis
+
+---
+
+chunk_id: MVLSI_U6_005
+unit: Verification, Testing and VHDL
+topic: Fault Coverage
+
+content: Measurement and improvement of fault detection effectiveness during testing.
+
+keywords: fault coverage, testing metrics
+
+---
+
+chunk_id: MVLSI_U6_006
+unit: Verification, Testing and VHDL
+topic: Automatic Test Pattern Generation (ATPG)
+
+content: Methods for generating test vectors to detect faults in digital circuits.
+
+keywords: ATPG, test pattern generation
+
+---
+
+chunk_id: MVLSI_U6_007
+unit: Verification, Testing and VHDL
+topic: Types of Tests
+
+content: Various testing methodologies including functional, structural, and manufacturing tests.
+
+keywords: testing methods, circuit testing
+
+---
+
+chunk_id: MVLSI_U6_008
+unit: Verification, Testing and VHDL
+topic: FPGA Programmability Failures
+
+content: Faults and reliability issues associated with programmable logic devices and FPGAs.
+
+keywords: FPGA testing, programmability failures
+
+---
+
+chunk_id: MVLSI_U6_009
+unit: Verification, Testing and VHDL
+topic: Design for Testability (DFT)
+
+content: Techniques for enhancing the testability of integrated circuits during design.
+
+keywords: DFT, testability
+
+---
+
+chunk_id: MVLSI_U6_010
+unit: Verification, Testing and VHDL
+topic: Overview of VHDL
+
+content: Introduction to VHDL, language constructs, modeling styles, and applications in digital system design.
+
+keywords: VHDL, hardware description language

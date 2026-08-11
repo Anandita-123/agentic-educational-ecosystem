@@ -1,0 +1,485 @@
+# SUBJECT_METADATA
+
+subject_name: Software Engineering
+paper_code: OECAIML801C
+category: Open Elective
+
+---
+
+chunk_id: SE_U1_001
+unit: System Analysis and Software Development Models
+topic: Overview of System Analysis and Design
+
+content: Introduction to system analysis and design, objectives, methodologies, and importance in software development.
+
+keywords: system analysis, system design
+
+---
+
+chunk_id: SE_U1_002
+unit: System Analysis and Software Development Models
+topic: Business System Concept
+
+content: Understanding business systems, organizational processes, information flow, and system requirements.
+
+keywords: business system, organizational processes
+
+---
+
+chunk_id: SE_U1_003
+unit: System Analysis and Software Development Models
+topic: System Development Life Cycle (SDLC)
+
+content: Phases of software development including planning, analysis, design, implementation, testing, deployment, and maintenance.
+
+keywords: SDLC, software lifecycle
+
+---
+
+chunk_id: SE_U1_004
+unit: System Analysis and Software Development Models
+topic: Waterfall Model
+
+content: Sequential software development model with distinct phases and documentation-driven processes.
+
+keywords: waterfall model, software process
+
+---
+
+chunk_id: SE_U1_005
+unit: System Analysis and Software Development Models
+topic: Spiral Model
+
+content: Iterative software development model combining risk analysis and prototyping for project management.
+
+keywords: spiral model, iterative development
+
+---
+
+chunk_id: SE_U1_006
+unit: System Analysis and Software Development Models
+topic: Feasibility Analysis
+
+content: Evaluation of project viability through technical, economic, operational, and schedule assessments.
+
+keywords: feasibility analysis, project evaluation
+
+---
+
+chunk_id: SE_U1_007
+unit: System Analysis and Software Development Models
+topic: Technical Feasibility
+
+content: Assessment of technological requirements, resources, and implementation capability for software projects.
+
+keywords: technical feasibility, technology assessment
+
+---
+
+chunk_id: SE_U1_008
+unit: System Analysis and Software Development Models
+topic: Cost-Benefit Analysis
+
+content: Economic evaluation of software projects by comparing development costs with expected benefits.
+
+keywords: cost-benefit analysis, project economics
+
+---
+
+chunk_id: SE_U1_009
+unit: System Analysis and Software Development Models
+topic: COCOMO Model
+
+content: Constructive Cost Model (COCOMO) for software effort estimation, cost prediction, and project planning.
+
+keywords: COCOMO, software estimation
+
+---
+
+chunk_id: SE_U2_001
+unit: System Design Techniques
+topic: Context Diagram
+
+content: High-level representation of a system showing external entities and data flow interactions.
+
+keywords: context diagram, system modeling
+
+---
+
+chunk_id: SE_U2_002
+unit: System Design Techniques
+topic: Data Flow Diagram (DFD)
+
+content: Graphical representation of data movement, processing, storage, and system interactions.
+
+keywords: DFD, data flow modeling
+
+---
+
+chunk_id: SE_U2_003
+unit: System Design Techniques
+topic: Problem Partitioning
+
+content: Decomposition of complex systems into manageable modules for effective development and maintenance.
+
+keywords: problem partitioning, modular design
+
+---
+
+chunk_id: SE_U2_004
+unit: System Design Techniques
+topic: Top-Down Design
+
+content: Design methodology that breaks a system into progressively smaller and detailed components.
+
+keywords: top-down design, decomposition
+
+---
+
+chunk_id: SE_U2_005
+unit: System Design Techniques
+topic: Bottom-Up Design
+
+content: Development approach that builds systems from lower-level modules toward complete integration.
+
+keywords: bottom-up design, modular development
+
+---
+
+chunk_id: SE_U2_006
+unit: System Design Techniques
+topic: Decision Tree
+
+content: Graphical decision-making tool representing conditions, alternatives, and outcomes.
+
+keywords: decision tree, system design
+
+---
+
+chunk_id: SE_U2_007
+unit: System Design Techniques
+topic: Decision Table
+
+content: Tabular representation of business rules, conditions, and corresponding actions.
+
+keywords: decision table, business rules
+
+---
+
+chunk_id: SE_U2_008
+unit: System Design Techniques
+topic: Structured English
+
+content: Use of simplified natural language to specify system logic and business processes.
+
+keywords: structured English, process specification
+
+---
+
+chunk_id: SE_U2_009
+unit: System Design Techniques
+topic: Functional Approach
+
+content: Software design methodology focused on functions, processes, and procedural decomposition.
+
+keywords: functional design, procedural approach
+
+---
+
+chunk_id: SE_U2_010
+unit: System Design Techniques
+topic: Object-Oriented Approach
+
+content: Design methodology based on objects, classes, encapsulation, inheritance, and polymorphism.
+
+keywords: object-oriented design, OOP
+
+---
+
+chunk_id: SE_U3_001
+unit: Coding, Documentation and Testing
+topic: Structured Programming
+
+content: Programming methodology emphasizing sequence, selection, iteration, and modularity.
+
+keywords: structured programming, coding practices
+
+---
+
+chunk_id: SE_U3_002
+unit: Coding, Documentation and Testing
+topic: Object-Oriented Programming
+
+content: Principles and implementation of object-oriented software development techniques.
+
+keywords: OOP, object-oriented programming
+
+---
+
+chunk_id: SE_U3_003
+unit: Coding, Documentation and Testing
+topic: Information Hiding
+
+content: Encapsulation technique that restricts direct access to implementation details of software components.
+
+keywords: information hiding, encapsulation
+
+---
+
+chunk_id: SE_U3_004
+unit: Coding, Documentation and Testing
+topic: Software Reuse
+
+content: Reusing existing software components, libraries, and frameworks to improve productivity and quality.
+
+keywords: software reuse, reusable components
+
+---
+
+chunk_id: SE_U3_005
+unit: Coding, Documentation and Testing
+topic: System Documentation
+
+content: Preparation and maintenance of technical, user, and operational documentation for software systems.
+
+keywords: documentation, software maintenance
+
+---
+
+chunk_id: SE_U3_006
+unit: Coding, Documentation and Testing
+topic: Software Testing Overview
+
+content: Objectives, importance, and methodologies of software testing for quality assurance.
+
+keywords: software testing, quality assurance
+
+---
+
+chunk_id: SE_U3_007
+unit: Coding, Documentation and Testing
+topic: Levels of Testing
+
+content: Unit testing, integration testing, system testing, and acceptance testing processes.
+
+keywords: testing levels, software quality
+
+---
+
+chunk_id: SE_U3_008
+unit: Coding, Documentation and Testing
+topic: Integration Testing
+
+content: Verification of interactions between software modules and subsystems.
+
+keywords: integration testing, module testing
+
+---
+
+chunk_id: SE_U3_009
+unit: Coding, Documentation and Testing
+topic: Test Case Specification
+
+content: Design and documentation of test cases to validate software functionality.
+
+keywords: test cases, test design
+
+---
+
+chunk_id: SE_U3_010
+unit: Coding, Documentation and Testing
+topic: Reliability Assessment
+
+content: Techniques for evaluating software reliability, availability, and fault tolerance.
+
+keywords: reliability assessment, software reliability
+
+---
+
+chunk_id: SE_U3_011
+unit: Coding, Documentation and Testing
+topic: Validation and Verification
+
+content: Methods for ensuring software correctness and compliance with user requirements.
+
+keywords: validation, verification
+
+---
+
+chunk_id: SE_U3_012
+unit: Coding, Documentation and Testing
+topic: Software Metrics
+
+content: Quantitative measures used to assess software quality, productivity, and performance.
+
+keywords: software metrics, quality measurement
+
+---
+
+chunk_id: SE_U3_013
+unit: Coding, Documentation and Testing
+topic: Monitoring and Control
+
+content: Techniques for tracking software project progress, quality, and performance.
+
+keywords: project monitoring, software control
+
+---
+
+chunk_id: SE_U4_001
+unit: Software Project Management
+topic: Introduction to Software Project Management
+
+content: Principles, objectives, and practices of planning, organizing, and managing software projects.
+
+keywords: software project management, project planning
+
+---
+
+chunk_id: SE_U4_002
+unit: Software Project Management
+topic: Project Scheduling
+
+content: Planning project activities, timelines, dependencies, and resource allocation.
+
+keywords: project scheduling, timeline management
+
+---
+
+chunk_id: SE_U4_003
+unit: Software Project Management
+topic: Staffing
+
+content: Human resource planning, team formation, and workforce management in software projects.
+
+keywords: staffing, team management
+
+---
+
+chunk_id: SE_U4_004
+unit: Software Project Management
+topic: Software Configuration Management
+
+content: Techniques for controlling software versions, changes, and development artifacts.
+
+keywords: configuration management, version control
+
+---
+
+chunk_id: SE_U4_005
+unit: Software Project Management
+topic: Quality Assurance
+
+content: Processes and standards used to ensure software quality throughout development.
+
+keywords: quality assurance, software quality
+
+---
+
+chunk_id: SE_U4_006
+unit: Software Project Management
+topic: Project Monitoring
+
+content: Continuous tracking of project progress, risks, schedules, and deliverables.
+
+keywords: project monitoring, project control
+
+---
+
+chunk_id: SE_U5_001
+unit: Software Modeling and UML
+topic: Static and Dynamic Models
+
+content: Representation of system structure and behavior using software modeling techniques.
+
+keywords: static model, dynamic model
+
+---
+
+chunk_id: SE_U5_002
+unit: Software Modeling and UML
+topic: Importance of Modeling
+
+content: Benefits of modeling for software visualization, communication, analysis, and design.
+
+keywords: software modeling, system design
+
+---
+
+chunk_id: SE_U5_003
+unit: Software Modeling and UML
+topic: Unified Modeling Language (UML)
+
+content: Standardized modeling language used for software specification, visualization, and documentation.
+
+keywords: UML, software modeling
+
+---
+
+chunk_id: SE_U5_004
+unit: Software Modeling and UML
+topic: Class Diagram
+
+content: UML diagram representing classes, attributes, methods, and relationships within a system.
+
+keywords: class diagram, UML
+
+---
+
+chunk_id: SE_U5_005
+unit: Software Modeling and UML
+topic: Interaction Diagram
+
+content: UML diagrams used to model interactions between objects and system components.
+
+keywords: interaction diagram, UML interactions
+
+---
+
+chunk_id: SE_U5_006
+unit: Software Modeling and UML
+topic: Collaboration Diagram
+
+content: UML diagram illustrating object interactions and communication relationships.
+
+keywords: collaboration diagram, UML
+
+---
+
+chunk_id: SE_U5_007
+unit: Software Modeling and UML
+topic: Sequence Diagram
+
+content: UML diagram showing the sequence of messages exchanged among system objects over time.
+
+keywords: sequence diagram, UML sequence
+
+---
+
+chunk_id: SE_U5_008
+unit: Software Modeling and UML
+topic: State Chart Diagram
+
+content: UML diagram representing states, transitions, and event-driven behavior of system objects.
+
+keywords: state chart, UML state diagram
+
+---
+
+chunk_id: SE_U5_009
+unit: Software Modeling and UML
+topic: Activity Diagram
+
+content: UML diagram used to model workflows, activities, and business processes.
+
+keywords: activity diagram, workflow modeling
+
+---
+
+chunk_id: SE_U5_010
+unit: Software Modeling and UML
+topic: Implementation Diagram
+
+content: UML diagrams representing physical deployment, components, and implementation architecture.
+
+keywords: implementation diagram, deployment diagram

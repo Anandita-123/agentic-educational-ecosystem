@@ -1,0 +1,365 @@
+# SUBJECT_METADATA
+
+subject_name: Pattern Recognition
+paper_code: PECAIML 501B
+category: Professional Elective
+
+---
+
+chunk_id: PR_U1_001
+unit: Pattern Recognition Fundamentals
+topic: Introduction to Pattern Recognition
+
+content: Definition of pattern recognition, objectives, applications, pattern representation, feature extraction, and classification problems.
+
+keywords: pattern recognition, pattern classification, feature extraction
+
+---
+
+chunk_id: PR_U1_002
+unit: Pattern Recognition Fundamentals
+topic: Pattern Recognition Applications
+
+content: Applications of pattern recognition in computer vision, speech recognition, handwriting recognition, biometrics, medical diagnosis, and machine learning.
+
+keywords: pattern recognition applications
+
+---
+
+chunk_id: PR_U2_001
+unit: Bayesian Decision Theory
+topic: Bayesian Decision Theory
+
+content: Fundamentals of Bayesian decision theory, probabilistic classification, risk minimization, and optimal decision-making under uncertainty.
+
+keywords: bayesian decision theory
+
+---
+
+chunk_id: PR_U2_002
+unit: Bayesian Decision Theory
+topic: Classifiers
+
+content: Concepts of classifiers, classification rules, supervised classification, and decision-making mechanisms.
+
+keywords: classifier
+
+---
+
+chunk_id: PR_U2_003
+unit: Bayesian Decision Theory
+topic: Discriminant Functions
+
+content: Mathematical functions used to separate classes and assign observations to categories.
+
+keywords: discriminant function
+
+---
+
+chunk_id: PR_U2_004
+unit: Bayesian Decision Theory
+topic: Decision Surfaces
+
+content: Geometric boundaries that partition feature space into classification regions.
+
+keywords: decision surface
+
+---
+
+chunk_id: PR_U2_005
+unit: Bayesian Decision Theory
+topic: Normal Density Functions
+
+content: Gaussian probability density functions and their role in statistical pattern classification.
+
+keywords: gaussian density, normal distribution
+
+---
+
+chunk_id: PR_U2_006
+unit: Bayesian Decision Theory
+topic: Gaussian Discriminant Functions
+
+content: Discriminant functions derived from Gaussian probability distributions for classification tasks.
+
+keywords: gaussian discriminant
+
+---
+
+chunk_id: PR_U2_007
+unit: Bayesian Decision Theory
+topic: Discrete Features
+
+content: Representation and classification of patterns using discrete-valued features.
+
+keywords: discrete features
+
+---
+
+chunk_id: PR_U3_001
+unit: Parameter Estimation
+topic: Parameter Estimation Methods
+
+content: Statistical estimation techniques used to determine model parameters from observed data.
+
+keywords: parameter estimation
+
+---
+
+chunk_id: PR_U3_002
+unit: Parameter Estimation
+topic: Maximum Likelihood Estimation
+
+content: Maximum Likelihood Estimation (MLE) for estimating unknown model parameters from training samples.
+
+keywords: MLE, maximum likelihood estimation
+
+---
+
+chunk_id: PR_U3_003
+unit: Parameter Estimation
+topic: Gaussian Mixture Models
+
+content: Gaussian Mixture Models (GMMs), probabilistic clustering, and density estimation using multiple Gaussian distributions.
+
+keywords: GMM, gaussian mixture model
+
+---
+
+chunk_id: PR_U3_004
+unit: Parameter Estimation
+topic: Expectation Maximization Algorithm
+
+content: Expectation-Maximization (EM) algorithm for iterative parameter estimation in latent variable models.
+
+keywords: EM algorithm
+
+---
+
+chunk_id: PR_U3_005
+unit: Parameter Estimation
+topic: Bayesian Estimation
+
+content: Bayesian parameter estimation using prior and posterior probability distributions.
+
+keywords: bayesian estimation
+
+---
+
+chunk_id: PR_U4_001
+unit: Hidden Markov Models
+topic: Hidden Markov Models
+
+content: Fundamentals of Hidden Markov Models (HMMs), hidden states, observations, and probabilistic sequence modeling.
+
+keywords: HMM, hidden markov model
+
+---
+
+chunk_id: PR_U4_002
+unit: Hidden Markov Models
+topic: Sequential Pattern Classification
+
+content: Pattern classification techniques for sequential and temporal data using probabilistic models.
+
+keywords: sequence classification
+
+---
+
+chunk_id: PR_U4_003
+unit: Hidden Markov Models
+topic: Discrete Hidden Markov Models
+
+content: Hidden Markov Models with discrete observation symbols and discrete state transitions.
+
+keywords: discrete HMM
+
+---
+
+chunk_id: PR_U4_004
+unit: Hidden Markov Models
+topic: Continuous Density Hidden Markov Models
+
+content: Hidden Markov Models using continuous probability density functions for observations.
+
+keywords: continuous HMM
+
+---
+
+chunk_id: PR_U5_001
+unit: Dimension Reduction
+topic: Dimension Reduction Techniques
+
+content: Methods for reducing feature space dimensionality while preserving important pattern information.
+
+keywords: dimensionality reduction
+
+---
+
+chunk_id: PR_U5_002
+unit: Dimension Reduction
+topic: Fisher Discriminant Analysis
+
+content: Fisher Linear Discriminant Analysis (LDA) for supervised dimensionality reduction and class separation.
+
+keywords: fisher discriminant analysis, LDA
+
+---
+
+chunk_id: PR_U5_003
+unit: Dimension Reduction
+topic: Principal Component Analysis
+
+content: Principal Component Analysis (PCA) for unsupervised dimensionality reduction and feature extraction.
+
+keywords: PCA, principal component analysis
+
+---
+
+chunk_id: PR_U6_001
+unit: Non-Parametric Density Estimation
+topic: Non-Parametric Density Estimation
+
+content: Density estimation methods that do not assume a predefined probability distribution model.
+
+keywords: non parametric estimation
+
+---
+
+chunk_id: PR_U6_002
+unit: Non-Parametric Density Estimation
+topic: Parzen Window Method
+
+content: Kernel-based density estimation technique using Parzen windows.
+
+keywords: parzen window
+
+---
+
+chunk_id: PR_U6_003
+unit: Non-Parametric Density Estimation
+topic: K Nearest Neighbor Density Estimation
+
+content: Density estimation and classification using K-Nearest Neighbor (KNN) approaches.
+
+keywords: KNN density estimation
+
+---
+
+chunk_id: PR_U7_001
+unit: Linear Discriminant Classifiers
+topic: Linear Discriminant Functions
+
+content: Classification using linear discriminant functions and linear decision boundaries.
+
+keywords: linear discriminant classifier
+
+---
+
+chunk_id: PR_U7_002
+unit: Linear Discriminant Classifiers
+topic: Perceptron
+
+content: Perceptron learning algorithm, decision boundaries, convergence properties, and classification.
+
+keywords: perceptron
+
+---
+
+chunk_id: PR_U7_003
+unit: Linear Discriminant Classifiers
+topic: Support Vector Machines
+
+content: Support Vector Machines (SVM), maximum margin classification, kernels, and decision boundaries.
+
+keywords: SVM, support vector machine
+
+---
+
+chunk_id: PR_U8_001
+unit: Non-Metric Pattern Classification
+topic: Non-Metric Classification
+
+content: Pattern classification methods for non-numeric, categorical, and nominal data.
+
+keywords: non metric classification
+
+---
+
+chunk_id: PR_U8_002
+unit: Non-Metric Pattern Classification
+topic: Nominal Data Classification
+
+content: Classification techniques designed for nominal and categorical attributes.
+
+keywords: nominal data
+
+---
+
+chunk_id: PR_U8_003
+unit: Non-Metric Pattern Classification
+topic: Decision Trees
+
+content: Tree-based classification models for pattern recognition and decision-making.
+
+keywords: decision tree
+
+---
+
+chunk_id: PR_U9_001
+unit: Unsupervised Learning and Clustering
+topic: Unsupervised Learning
+
+content: Learning patterns and structures from unlabeled data without predefined class labels.
+
+keywords: unsupervised learning
+
+---
+
+chunk_id: PR_U9_002
+unit: Unsupervised Learning and Clustering
+topic: Clustering Fundamentals
+
+content: Concepts, objectives, and evaluation criteria for clustering algorithms.
+
+keywords: clustering
+
+---
+
+chunk_id: PR_U9_003
+unit: Unsupervised Learning and Clustering
+topic: Clustering Criterion Functions
+
+content: Objective functions and optimization criteria used in clustering methods.
+
+keywords: clustering criterion
+
+---
+
+chunk_id: PR_U9_004
+unit: Unsupervised Learning and Clustering
+topic: K Means Clustering
+
+content: Partition-based clustering algorithm that groups observations into K clusters.
+
+keywords: k means
+
+---
+
+chunk_id: PR_U9_005
+unit: Unsupervised Learning and Clustering
+topic: Hierarchical Clustering
+
+content: Agglomerative and divisive clustering techniques that build hierarchical cluster structures.
+
+keywords: hierarchical clustering
+
+---
+
+chunk_id: PR_U9_006
+unit: Unsupervised Learning and Clustering
+topic: Advanced Clustering Methods
+
+content: Additional clustering algorithms and methods used for unsupervised pattern discovery.
+
+keywords: clustering algorithms

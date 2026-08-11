@@ -1,0 +1,385 @@
+# SUBJECT_METADATA
+
+subject_name: Mobile Computing
+paper_code: PECAIML801C
+category: Professional Elective
+
+---
+
+chunk_id: MC_U1_001
+unit: Mobile Communication Fundamentals
+topic: Introduction to Personal Communication Services (PCS)
+
+content: Overview of Personal Communication Services (PCS), mobile communication concepts, service requirements, and evolution of wireless communication systems.
+
+keywords: PCS, mobile communication, wireless services
+
+---
+
+chunk_id: MC_U1_002
+unit: Mobile Communication Fundamentals
+topic: PCS Architecture
+
+content: Architecture of Personal Communication Services including network components, service providers, mobile stations, and communication infrastructure.
+
+keywords: PCS architecture, mobile network
+
+---
+
+chunk_id: MC_U1_003
+unit: Mobile Communication Fundamentals
+topic: Mobility Management in PCS
+
+content: Techniques for tracking, locating, and managing mobile users across wireless networks.
+
+keywords: mobility management, location management
+
+---
+
+chunk_id: MC_U1_004
+unit: Mobile Communication Fundamentals
+topic: Network Signalling in Mobile Systems
+
+content: Signalling mechanisms used for call setup, routing, handoff, and mobility management in wireless networks.
+
+keywords: network signalling, mobile networks
+
+---
+
+chunk_id: MC_U1_005
+unit: Mobile Communication Fundamentals
+topic: GSM System Overview
+
+content: Introduction to the Global System for Mobile Communications (GSM), its services, standards, and network operation.
+
+keywords: GSM, mobile communication
+
+---
+
+chunk_id: MC_U1_006
+unit: Mobile Communication Fundamentals
+topic: GSM Architecture
+
+content: Components of GSM architecture including Mobile Station, Base Station Subsystem, and Network Switching Subsystem.
+
+keywords: GSM architecture, cellular network
+
+---
+
+chunk_id: MC_U1_007
+unit: Mobile Communication Fundamentals
+topic: Mobility Management in GSM
+
+content: Registration, location updates, roaming, and handoff management in GSM networks.
+
+keywords: GSM mobility management, roaming
+
+---
+
+chunk_id: MC_U1_008
+unit: Mobile Communication Fundamentals
+topic: GSM Network Signalling
+
+content: Signalling protocols and procedures used in GSM communication systems.
+
+keywords: GSM signalling, mobile protocols
+
+---
+
+chunk_id: MC_U2_001
+unit: Mobile Data Communication
+topic: Introduction to GPRS
+
+content: General Packet Radio Service (GPRS), packet-switched communication, and mobile internet access in GSM networks.
+
+keywords: GPRS, packet switching
+
+---
+
+chunk_id: MC_U2_002
+unit: Mobile Data Communication
+topic: GPRS Architecture
+
+content: Network architecture of GPRS including packet core networks and communication pathways.
+
+keywords: GPRS architecture, packet data network
+
+---
+
+chunk_id: MC_U2_003
+unit: Mobile Data Communication
+topic: GPRS Network Nodes
+
+content: Functions and roles of SGSN, GGSN, and other GPRS network elements.
+
+keywords: SGSN, GGSN, GPRS nodes
+
+---
+
+chunk_id: MC_U2_004
+unit: Mobile Data Communication
+topic: Mobile Data Communication Concepts
+
+content: Principles of wireless data transmission and mobile internet communication.
+
+keywords: mobile data communication, wireless data
+
+---
+
+chunk_id: MC_U2_005
+unit: Mobile Data Communication
+topic: Wireless Local Area Networks (WLAN)
+
+content: Fundamentals of wireless LAN technology, architecture, and applications.
+
+keywords: WLAN, wireless LAN
+
+---
+
+chunk_id: MC_U2_006
+unit: Mobile Data Communication
+topic: IEEE 802.11 Standard
+
+content: Wireless networking standards, protocols, and communication mechanisms defined by IEEE 802.11.
+
+keywords: IEEE 802.11, Wi-Fi
+
+---
+
+chunk_id: MC_U2_007
+unit: Mobile Data Communication
+topic: Mobile IP
+
+content: Protocols enabling seamless internet connectivity and mobility across different networks.
+
+keywords: Mobile IP, network mobility
+
+---
+
+chunk_id: MC_U3_001
+unit: Wireless Internet Technologies
+topic: Introduction to Wireless Application Protocol (WAP)
+
+content: Wireless Application Protocol architecture, objectives, and mobile internet communication standards.
+
+keywords: WAP, mobile internet
+
+---
+
+chunk_id: MC_U3_002
+unit: Wireless Internet Technologies
+topic: WAP Gateway
+
+content: Role of WAP gateway in connecting mobile devices to internet-based services.
+
+keywords: WAP gateway, mobile web
+
+---
+
+chunk_id: MC_U3_003
+unit: Wireless Internet Technologies
+topic: WAP Protocol Stack
+
+content: Communication protocols used within the Wireless Application Protocol framework.
+
+keywords: WAP protocols, protocol stack
+
+---
+
+chunk_id: MC_U3_004
+unit: Wireless Internet Technologies
+topic: Wireless Markup Language (WML)
+
+content: Markup language designed for developing mobile web applications under WAP environments.
+
+keywords: WML, mobile web development
+
+---
+
+chunk_id: MC_U3_005
+unit: Wireless Internet Technologies
+topic: Introduction to Wireless Local Loop (WLL)
+
+content: Concept, architecture, and deployment of Wireless Local Loop systems for last-mile connectivity.
+
+keywords: WLL, wireless local loop
+
+---
+
+chunk_id: MC_U3_006
+unit: Wireless Internet Technologies
+topic: WLL Architecture
+
+content: Components and operational architecture of Wireless Local Loop networks.
+
+keywords: WLL architecture, wireless access
+
+---
+
+chunk_id: MC_U3_007
+unit: Wireless Internet Technologies
+topic: Wireless Local Loop Technologies
+
+content: Technologies and standards used in wireless local loop communication systems.
+
+keywords: wireless technologies, WLL systems
+
+---
+
+chunk_id: MC_U4_001
+unit: Third Generation Mobile Networks
+topic: Introduction to 3G Mobile Services
+
+content: Evolution of third-generation mobile communication systems and their advanced service capabilities.
+
+keywords: 3G services, mobile communication
+
+---
+
+chunk_id: MC_U4_002
+unit: Third Generation Mobile Networks
+topic: IMT-2000 Vision
+
+content: International Mobile Telecommunications-2000 standards and objectives for global mobile communication.
+
+keywords: IMT-2000, mobile standards
+
+---
+
+chunk_id: MC_U4_003
+unit: Third Generation Mobile Networks
+topic: Wideband CDMA (W-CDMA)
+
+content: Principles, architecture, and applications of Wideband Code Division Multiple Access technology.
+
+keywords: W-CDMA, CDMA
+
+---
+
+chunk_id: MC_U4_004
+unit: Third Generation Mobile Networks
+topic: CDMA2000
+
+content: CDMA2000 architecture, features, and implementation in third-generation networks.
+
+keywords: CDMA2000, 3G networks
+
+---
+
+chunk_id: MC_U4_005
+unit: Third Generation Mobile Networks
+topic: Quality of Service in 3G Networks
+
+content: QoS mechanisms, performance requirements, and service differentiation in mobile communication systems.
+
+keywords: QoS, 3G performance
+
+---
+
+chunk_id: MC_U5_001
+unit: Satellite and Enterprise Wireless Networks
+topic: Global Mobile Satellite Systems
+
+content: Mobile communication through satellite networks and their global coverage capabilities.
+
+keywords: satellite communication, mobile satellites
+
+---
+
+chunk_id: MC_U5_002
+unit: Satellite and Enterprise Wireless Networks
+topic: IRIDIUM Satellite System
+
+content: Architecture, operation, and services provided by the IRIDIUM satellite communication network.
+
+keywords: IRIDIUM, satellite network
+
+---
+
+chunk_id: MC_U5_003
+unit: Satellite and Enterprise Wireless Networks
+topic: GLOBALSTAR Satellite System
+
+content: Overview, architecture, and applications of the GLOBALSTAR mobile satellite system.
+
+keywords: GLOBALSTAR, satellite communication
+
+---
+
+chunk_id: MC_U5_004
+unit: Satellite and Enterprise Wireless Networks
+topic: Wireless Enterprise Networks
+
+content: Enterprise-level wireless communication infrastructure and network management concepts.
+
+keywords: enterprise networks, wireless communication
+
+---
+
+chunk_id: MC_U5_005
+unit: Satellite and Enterprise Wireless Networks
+topic: Virtual Networks
+
+content: Concepts and implementation of virtual networking technologies in enterprise environments.
+
+keywords: virtual networks, network virtualization
+
+---
+
+chunk_id: MC_U5_006
+unit: Satellite and Enterprise Wireless Networks
+topic: Bluetooth Technology
+
+content: Wireless short-range communication technology, architecture, and applications.
+
+keywords: Bluetooth, wireless communication
+
+---
+
+chunk_id: MC_U5_007
+unit: Satellite and Enterprise Wireless Networks
+topic: Bluetooth Protocols
+
+content: Bluetooth protocol stack, communication procedures, and service profiles.
+
+keywords: Bluetooth protocols, protocol stack
+
+---
+
+chunk_id: MC_U6_001
+unit: Mobile Application Development
+topic: Server-Side Programming in Java
+
+content: Java-based server-side programming techniques for supporting mobile and web applications.
+
+keywords: Java programming, server-side development
+
+---
+
+chunk_id: MC_U6_002
+unit: Mobile Application Development
+topic: Pervasive Web Application Architecture
+
+content: Design and architecture of pervasive computing applications supporting ubiquitous access and connectivity.
+
+keywords: pervasive computing, web architecture
+
+---
+
+chunk_id: MC_U6_003
+unit: Mobile Application Development
+topic: Device Independent Applications
+
+content: Techniques for developing applications that operate across diverse mobile devices and platforms.
+
+keywords: device independence, cross-platform applications
+
+---
+
+chunk_id: MC_U6_004
+unit: Mobile Application Development
+topic: Example Mobile Application Development
+
+content: Practical implementation of mobile computing concepts through device-independent application development.
+
+keywords: mobile application, practical implementation

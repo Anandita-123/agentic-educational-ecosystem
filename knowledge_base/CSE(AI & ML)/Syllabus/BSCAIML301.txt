@@ -1,0 +1,355 @@
+# SUBJECT_METADATA
+
+subject_name: Linear Algebra
+paper_code: BSCAIML301
+program: AIML
+
+---
+
+chunk_id: LA_U1_001
+unit: Matrix Theory
+topic: Real Matrices
+
+content: Definition, properties, and operations of matrices whose entries are real numbers.
+
+keywords: real matrix, matrix algebra
+
+---
+
+chunk_id: LA_U1_002
+unit: Matrix Theory
+topic: Complex Matrices
+
+content: Definition, properties, and operations of matrices containing complex-valued elements.
+
+keywords: complex matrix
+
+---
+
+chunk_id: LA_U1_003
+unit: Matrix Theory
+topic: Hermitian Matrices
+
+content: Square matrices equal to their own conjugate transpose.
+
+keywords: Hermitian matrix
+
+---
+
+chunk_id: LA_U1_004
+unit: Matrix Theory
+topic: Skew-Hermitian Matrices
+
+content: Square matrices whose conjugate transpose equals the negative of the original matrix.
+
+keywords: skew Hermitian matrix
+
+---
+
+chunk_id: LA_U1_005
+unit: Matrix Theory
+topic: Unitary Matrices
+
+content: Complex matrices whose conjugate transpose equals their inverse.
+
+keywords: unitary matrix
+
+---
+
+chunk_id: LA_U1_006
+unit: Matrix Theory
+topic: Elementary Row Operations
+
+content: Operations performed on matrix rows including row swapping, scaling, and row replacement.
+
+keywords: elementary row operations
+
+---
+
+chunk_id: LA_U1_007
+unit: Matrix Theory
+topic: Elementary Column Operations
+
+content: Operations performed on matrix columns including column swapping, scaling, and column replacement.
+
+keywords: elementary column operations
+
+---
+
+chunk_id: LA_U1_008
+unit: Matrix Theory
+topic: Echelon Matrix
+
+content: Matrix in row-echelon form used for solving systems of linear equations.
+
+keywords: echelon form, row echelon matrix
+
+---
+
+chunk_id: LA_U1_009
+unit: Systems of Linear Equations
+topic: System of Linear Equations
+
+content: Collection of linear equations involving multiple variables and methods of obtaining solutions.
+
+keywords: system of linear equations
+
+---
+
+chunk_id: LA_U1_010
+unit: Systems of Linear Equations
+topic: LU Decomposition
+
+content: Matrix factorization technique that decomposes a matrix into lower and upper triangular matrices for solving linear systems.
+
+keywords: LU decomposition
+
+---
+
+chunk_id: LA_U1_011
+unit: Linear Transformations
+topic: Linear Mapping
+
+content: Function between vector spaces that preserves vector addition and scalar multiplication.
+
+keywords: linear mapping, linear transformation
+
+---
+
+chunk_id: LA_U1_012
+unit: Linear Transformations
+topic: Matrix Representation of a Linear Mapping
+
+content: Representation of a linear transformation using a matrix with respect to chosen bases.
+
+keywords: matrix of linear transformation
+
+---
+
+chunk_id: LA_U1_013
+unit: Linear Transformations
+topic: Null Space
+
+content: Set of vectors mapped to the zero vector by a linear transformation.
+
+keywords: null space, kernel
+
+---
+
+chunk_id: LA_U1_014
+unit: Linear Transformations
+topic: Range Space
+
+content: Set of all output vectors produced by a linear transformation.
+
+keywords: range space, image space
+
+---
+
+chunk_id: LA_U1_015
+unit: Linear Transformations
+topic: Injective Linear Mapping
+
+content: Linear transformation in which distinct inputs produce distinct outputs.
+
+keywords: injective mapping, one to one
+
+---
+
+chunk_id: LA_U1_016
+unit: Linear Transformations
+topic: Surjective Linear Mapping
+
+content: Linear transformation whose range equals the entire codomain.
+
+keywords: surjective mapping, onto
+
+---
+
+chunk_id: LA_U1_017
+unit: Linear Transformations
+topic: Composition of Linear Mappings
+
+content: Formation of a new linear transformation by applying one linear mapping after another.
+
+keywords: composition of transformations
+
+---
+
+chunk_id: LA_U1_018
+unit: Linear Transformations
+topic: Invertible Linear Mapping
+
+content: Linear transformation possessing a unique inverse transformation.
+
+keywords: invertible transformation
+
+---
+
+chunk_id: LA_U1_019
+unit: Linear Transformations
+topic: Linear Operators
+
+content: Linear transformations that map a vector space to itself.
+
+keywords: linear operator
+
+---
+
+chunk_id: LA_U1_020
+unit: Linear Transformations
+topic: Invertible Operators
+
+content: Linear operators having inverse operators.
+
+keywords: invertible operator
+
+---
+
+chunk_id: LA_U2_001
+unit: Inner Product Spaces
+topic: Inner Product Space
+
+content: Vector space equipped with an inner product used to define angles and lengths.
+
+keywords: inner product space
+
+---
+
+chunk_id: LA_U2_002
+unit: Inner Product Spaces
+topic: Properties of Inner Product Spaces
+
+content: Linearity, symmetry, positivity, and related properties of inner products.
+
+keywords: inner product properties
+
+---
+
+chunk_id: LA_U2_003
+unit: Inner Product Spaces
+topic: Orthogonality
+
+content: Concept of perpendicularity between vectors defined using inner products.
+
+keywords: orthogonality, orthogonal vectors
+
+---
+
+chunk_id: LA_U2_004
+unit: Inner Product Spaces
+topic: Cauchy-Schwarz Inequality
+
+content: Fundamental inequality relating inner products and vector norms.
+
+keywords: Cauchy Schwarz inequality
+
+---
+
+chunk_id: LA_U2_005
+unit: Inner Product Spaces
+topic: Norm of a Vector
+
+content: Measure of the magnitude or length of a vector.
+
+keywords: vector norm
+
+---
+
+chunk_id: LA_U2_006
+unit: Inner Product Spaces
+topic: Orthogonal Basis
+
+content: Basis consisting of mutually orthogonal vectors.
+
+keywords: orthogonal basis
+
+---
+
+chunk_id: LA_U2_007
+unit: Inner Product Spaces
+topic: Gram-Schmidt Orthonormalization
+
+content: Procedure for converting a set of linearly independent vectors into an orthonormal basis.
+
+keywords: Gram Schmidt process, orthonormalization
+
+---
+
+chunk_id: LA_U2_008
+unit: Advanced Linear Algebra
+topic: Schur's Theorem
+
+content: Theorem concerning the triangularization of matrices and linear operators.
+
+keywords: Schur theorem
+
+---
+
+chunk_id: LA_U2_009
+unit: Advanced Linear Algebra
+topic: Linear Functional
+
+content: Linear mapping from a vector space to its underlying field.
+
+keywords: linear functional
+
+---
+
+chunk_id: LA_U2_010
+unit: Advanced Linear Algebra
+topic: Riesz Representation Theorem
+
+content: Theorem relating linear functionals on inner product spaces to inner products with fixed vectors.
+
+keywords: Riesz representation theorem
+
+---
+
+chunk_id: LA_U2_011
+unit: Advanced Linear Algebra
+topic: Orthogonal Complement
+
+content: Set of vectors orthogonal to every vector in a given subspace.
+
+keywords: orthogonal complement
+
+---
+
+chunk_id: LA_U2_012
+unit: Advanced Linear Algebra
+topic: Dual Subspace
+
+content: Subspace associated with linear functionals and dual vector spaces.
+
+keywords: dual subspace, dual space
+
+---
+
+chunk_id: LA_U2_013
+unit: Singular Value Decomposition
+topic: Singular Values
+
+content: Non-negative values derived from a matrix that describe its geometric properties.
+
+keywords: singular values
+
+---
+
+chunk_id: LA_U2_014
+unit: Singular Value Decomposition
+topic: Singular Vectors
+
+content: Orthogonal vectors associated with singular values in matrix decomposition.
+
+keywords: singular vectors
+
+---
+
+chunk_id: LA_U2_015
+unit: Singular Value Decomposition
+topic: Singular Value Decomposition
+
+content: Matrix factorization technique expressing a matrix as the product of orthogonal and diagonal matrices.
+
+keywords: SVD, singular value decomposition

@@ -1,0 +1,925 @@
+# SUBJECT_METADATA
+
+subject_name: Environmental Sciences
+paper_code: MC-401
+program: AIML
+
+---
+
+chunk_id: EVS_U1_001
+unit: Environment Fundamentals
+topic: Environment
+
+content: Basic concept of environment and its components.
+
+keywords: environment, ecosystem
+
+---
+
+chunk_id: EVS_U1_002
+unit: Environment Fundamentals
+topic: Man-Society-Environment Relationship
+
+content: Interrelationship among humans, society, and the environment.
+
+keywords: society environment relationship
+
+---
+
+chunk_id: EVS_U1_003
+unit: Environment Fundamentals
+topic: Population Growth
+
+content: Mathematical models of population growth and associated environmental challenges.
+
+keywords: population growth
+
+---
+
+chunk_id: EVS_U1_004
+unit: Environment Fundamentals
+topic: Population Studies in Environmental Engineering
+
+content: Importance of population analysis for environmental planning and resource management.
+
+keywords: population studies
+
+---
+
+chunk_id: EVS_U1_005
+unit: Environment Fundamentals
+topic: Natural Resources
+
+content: Definition and classification of natural resources.
+
+keywords: natural resources
+
+---
+
+chunk_id: EVS_U1_006
+unit: Environment Fundamentals
+topic: Renewable Resources
+
+content: Resources that can be naturally replenished over time.
+
+keywords: renewable resources
+
+---
+
+chunk_id: EVS_U1_007
+unit: Environment Fundamentals
+topic: Non-Renewable Resources
+
+content: Resources that exist in finite quantities and cannot be replenished on human timescales.
+
+keywords: non renewable resources
+
+---
+
+chunk_id: EVS_U1_008
+unit: Environment Fundamentals
+topic: Potentially Renewable Resources
+
+content: Resources that can regenerate if managed sustainably.
+
+keywords: potentially renewable resources
+
+---
+
+chunk_id: EVS_U1_009
+unit: Environment Fundamentals
+topic: Resource Depletion
+
+content: Environmental effects of excessive resource utilization caused by population growth.
+
+keywords: resource depletion
+
+---
+
+chunk_id: EVS_U1_010
+unit: Environment Fundamentals
+topic: Sustainable Development
+
+content: Development that meets present needs without compromising future generations.
+
+keywords: sustainable development
+
+---
+
+chunk_id: EVS_U1_011
+unit: Environment Fundamentals
+topic: Material Balance
+
+content: Conservation principles applied to environmental systems.
+
+keywords: material balance
+
+---
+
+chunk_id: EVS_U1_012
+unit: Environment Fundamentals
+topic: Steady State Conservation Systems
+
+content: Environmental systems where mass input equals mass output.
+
+keywords: steady state system
+
+---
+
+chunk_id: EVS_U1_013
+unit: Environment Fundamentals
+topic: Non-Conservative Pollutants
+
+content: Pollutants that undergo transformation, decay, or reaction within environmental systems.
+
+keywords: non conservative pollutants
+
+---
+
+chunk_id: EVS_U1_014
+unit: Environment Fundamentals
+topic: Step Function Models
+
+content: Mathematical representation of sudden changes in environmental systems.
+
+keywords: step function
+
+---
+
+chunk_id: EVS_U1_015
+unit: Environment Fundamentals
+topic: Environmental Degradation
+
+content: Deterioration of environmental quality due to natural and human activities.
+
+keywords: environmental degradation
+
+---
+
+chunk_id: EVS_U1_016
+unit: Environment Fundamentals
+topic: Floods
+
+content: Causes, effects, and management of flood hazards.
+
+keywords: flood
+
+---
+
+chunk_id: EVS_U1_017
+unit: Environment Fundamentals
+topic: Earthquakes
+
+content: Causes, effects, and management of earthquake hazards.
+
+keywords: earthquake
+
+---
+
+chunk_id: EVS_U1_018
+unit: Environment Fundamentals
+topic: Landslides
+
+content: Causes, effects, and management of landslide hazards.
+
+keywords: landslide
+
+---
+
+chunk_id: EVS_U1_019
+unit: Environment Fundamentals
+topic: Acid Rain
+
+content: Causes, environmental effects, and control of acid rain.
+
+keywords: acid rain
+
+---
+
+chunk_id: EVS_U1_020
+unit: Environment Fundamentals
+topic: Environmental Science and Engineering
+
+content: Scope, objectives, and importance of environmental science and engineering.
+
+keywords: environmental science engineering
+
+---
+
+chunk_id: EVS_U2_001
+unit: Ecology and Biodiversity
+topic: Ecology
+
+content: Study of interactions among organisms and their environment.
+
+keywords: ecology
+
+---
+
+chunk_id: EVS_U2_002
+unit: Ecology and Biodiversity
+topic: Ecological Systems
+
+content: Open systems and closed systems in ecology.
+
+keywords: open system, closed system
+
+---
+
+chunk_id: EVS_U2_003
+unit: Ecology and Biodiversity
+topic: Species
+
+content: Basic biological unit used in classification.
+
+keywords: species
+
+---
+
+chunk_id: EVS_U2_004
+unit: Ecology and Biodiversity
+topic: Population
+
+content: Group of individuals of the same species living in a region.
+
+keywords: population ecology
+
+---
+
+chunk_id: EVS_U2_005
+unit: Ecology and Biodiversity
+topic: Community
+
+content: Collection of interacting populations in an ecosystem.
+
+keywords: ecological community
+
+---
+
+chunk_id: EVS_U2_006
+unit: Ecology and Biodiversity
+topic: Ecosystem
+
+content: Structure, components, and functions of ecosystems.
+
+keywords: ecosystem
+
+---
+
+chunk_id: EVS_U2_007
+unit: Ecology and Biodiversity
+topic: Forest Ecosystem
+
+content: Structure and functioning of forest ecosystems.
+
+keywords: forest ecosystem
+
+---
+
+chunk_id: EVS_U2_008
+unit: Ecology and Biodiversity
+topic: Grassland Ecosystem
+
+content: Structure and functioning of grassland ecosystems.
+
+keywords: grassland ecosystem
+
+---
+
+chunk_id: EVS_U2_009
+unit: Ecology and Biodiversity
+topic: Desert Ecosystem
+
+content: Structure and functioning of desert ecosystems.
+
+keywords: desert ecosystem
+
+---
+
+chunk_id: EVS_U2_010
+unit: Ecology and Biodiversity
+topic: Aquatic Ecosystem
+
+content: Structure and functioning of freshwater and marine ecosystems.
+
+keywords: aquatic ecosystem
+
+---
+
+chunk_id: EVS_U2_011
+unit: Ecology and Biodiversity
+topic: Mangrove Ecosystem
+
+content: Characteristics and ecological importance of mangrove ecosystems with reference to the Sundarbans.
+
+keywords: mangrove ecosystem, Sundarbans
+
+---
+
+chunk_id: EVS_U2_012
+unit: Ecology and Biodiversity
+topic: Food Chain
+
+content: Transfer of energy through feeding relationships.
+
+keywords: food chain
+
+---
+
+chunk_id: EVS_U2_013
+unit: Ecology and Biodiversity
+topic: Food Web
+
+content: Network of interconnected food chains.
+
+keywords: food web
+
+---
+
+chunk_id: EVS_U2_014
+unit: Ecology and Biodiversity
+topic: Biogeochemical Cycles
+
+content: Movement of chemical elements through biological and geological systems.
+
+keywords: biogeochemical cycle
+
+---
+
+chunk_id: EVS_U2_015
+unit: Ecology and Biodiversity
+topic: Carbon Cycle
+
+content: Movement of carbon among atmosphere, biosphere, hydrosphere, and lithosphere.
+
+keywords: carbon cycle
+
+---
+
+chunk_id: EVS_U2_016
+unit: Ecology and Biodiversity
+topic: Nitrogen Cycle
+
+content: Transformation and circulation of nitrogen in nature.
+
+keywords: nitrogen cycle
+
+---
+
+chunk_id: EVS_U2_017
+unit: Ecology and Biodiversity
+topic: Oxygen Cycle
+
+content: Circulation of oxygen among living organisms and the environment.
+
+keywords: oxygen cycle
+
+---
+
+chunk_id: EVS_U2_018
+unit: Ecology and Biodiversity
+topic: Phosphorus Cycle
+
+content: Cycling of phosphorus through ecosystems.
+
+keywords: phosphorus cycle
+
+---
+
+chunk_id: EVS_U2_019
+unit: Ecology and Biodiversity
+topic: Sulfur Cycle
+
+content: Cycling of sulfur through atmosphere, soil, and living organisms.
+
+keywords: sulfur cycle
+
+---
+
+chunk_id: EVS_U2_020
+unit: Ecology and Biodiversity
+topic: Biodiversity
+
+content: Variety of life forms at genetic, species, and ecosystem levels.
+
+keywords: biodiversity
+
+---
+
+chunk_id: EVS_U2_021
+unit: Ecology and Biodiversity
+topic: Endemic Species
+
+content: Species restricted to a specific geographical region.
+
+keywords: endemic species
+
+---
+
+chunk_id: EVS_U2_022
+unit: Ecology and Biodiversity
+topic: Biodiversity Hotspots
+
+content: Regions with exceptional biodiversity under threat.
+
+keywords: biodiversity hotspot
+
+---
+
+chunk_id: EVS_U2_023
+unit: Ecology and Biodiversity
+topic: Biodiversity Conservation
+
+content: Strategies and measures for protecting biodiversity.
+
+keywords: biodiversity conservation
+
+---
+
+chunk_id: EVS_U3_001
+unit: Atmospheric Environment
+topic: Atmospheric Layers
+
+content: Structure of Earth's atmosphere including Troposphere, Stratosphere, Mesosphere, and Thermosphere.
+
+keywords: atmosphere layers
+
+---
+
+chunk_id: EVS_U3_002
+unit: Atmospheric Environment
+topic: Troposphere
+
+content: Lowest atmospheric layer where weather occurs.
+
+keywords: troposphere
+
+---
+
+chunk_id: EVS_U3_003
+unit: Atmospheric Environment
+topic: Stratosphere
+
+content: Atmospheric layer containing the ozone layer.
+
+keywords: stratosphere
+
+---
+
+chunk_id: EVS_U3_004
+unit: Atmospheric Environment
+topic: Greenhouse Effect
+
+content: Trapping of heat by greenhouse gases in Earth's atmosphere.
+
+keywords: greenhouse effect
+
+---
+
+chunk_id: EVS_U3_005
+unit: Atmospheric Environment
+topic: Global Warming
+
+content: Increase in Earth's average temperature due to greenhouse gas accumulation.
+
+keywords: global warming
+
+---
+
+chunk_id: EVS_U3_006
+unit: Atmospheric Environment
+topic: Earth's Heat Budget
+
+content: Balance between incoming solar radiation and outgoing terrestrial radiation.
+
+keywords: earth heat budget
+
+---
+
+chunk_id: EVS_U3_007
+unit: Atmospheric Environment
+topic: Lapse Rate
+
+content: Variation of atmospheric temperature with altitude.
+
+keywords: lapse rate
+
+---
+
+chunk_id: EVS_U3_008
+unit: Atmospheric Environment
+topic: Temperature Inversion
+
+content: Atmospheric condition where temperature increases with altitude.
+
+keywords: temperature inversion
+
+---
+
+chunk_id: EVS_U3_009
+unit: Atmospheric Environment
+topic: Atmospheric Stability
+
+content: Atmospheric resistance to vertical air movement.
+
+keywords: atmospheric stability
+
+---
+
+chunk_id: EVS_U3_010
+unit: Atmospheric Environment
+topic: Atmospheric Dispersion
+
+content: Transport and dilution of pollutants in the atmosphere.
+
+keywords: atmospheric dispersion
+
+---
+
+chunk_id: EVS_U3_011
+unit: Atmospheric Environment
+topic: Gaussian Plume Model
+
+content: Mathematical model used to estimate pollutant dispersion.
+
+keywords: gaussian plume model
+
+---
+
+chunk_id: EVS_U3_012
+unit: Atmospheric Environment
+topic: Air Pollutants
+
+content: Harmful substances present in the atmosphere.
+
+keywords: air pollutants
+
+---
+
+chunk_id: EVS_U3_013
+unit: Atmospheric Environment
+topic: Primary Pollutants
+
+content: Pollutants emitted directly from sources.
+
+keywords: primary pollutants
+
+---
+
+chunk_id: EVS_U3_014
+unit: Atmospheric Environment
+topic: Secondary Pollutants
+
+content: Pollutants formed through atmospheric chemical reactions.
+
+keywords: secondary pollutants
+
+---
+
+chunk_id: EVS_U3_015
+unit: Atmospheric Environment
+topic: Smog
+
+content: Air pollution phenomenon formed by smoke and fog interactions.
+
+keywords: smog
+
+---
+
+chunk_id: EVS_U3_016
+unit: Atmospheric Environment
+topic: Photochemical Smog
+
+content: Smog produced by sunlight-driven reactions involving pollutants.
+
+keywords: photochemical smog
+
+---
+
+chunk_id: EVS_U3_017
+unit: Atmospheric Environment
+topic: London Smog
+
+content: Sulfur-rich smog associated with industrial pollution.
+
+keywords: London smog
+
+---
+
+chunk_id: EVS_U3_018
+unit: Atmospheric Environment
+topic: Ozone Layer Depletion
+
+content: Reduction of stratospheric ozone due to chemical pollutants.
+
+keywords: ozone depletion
+
+---
+
+chunk_id: EVS_U3_019
+unit: Atmospheric Environment
+topic: Chlorofluorocarbons
+
+content: Compounds responsible for ozone layer destruction.
+
+keywords: CFC
+
+---
+
+chunk_id: EVS_U3_020
+unit: Atmospheric Environment
+topic: Air Pollution Control Devices
+
+content: Devices including ESP, cyclone separator, bag filter, scrubber, and catalytic converter.
+
+keywords: ESP, cyclone separator, scrubber, catalytic converter
+
+---
+
+chunk_id: EVS_U4_001
+unit: Water Environment
+topic: Hydrosphere
+
+content: Total water resources present on Earth.
+
+keywords: hydrosphere
+
+---
+
+chunk_id: EVS_U4_002
+unit: Water Environment
+topic: Hydrological Cycle
+
+content: Continuous circulation of water through Earth's systems.
+
+keywords: hydrological cycle
+
+---
+
+chunk_id: EVS_U4_003
+unit: Water Environment
+topic: Water Pollutants
+
+content: Physical, chemical, and biological contaminants affecting water quality.
+
+keywords: water pollutants
+
+---
+
+chunk_id: EVS_U4_004
+unit: Water Environment
+topic: Biological Oxygen Demand
+
+content: Measurement of oxygen required by microorganisms to decompose organic matter.
+
+keywords: BOD
+
+---
+
+chunk_id: EVS_U4_005
+unit: Water Environment
+topic: Chemical Oxygen Demand
+
+content: Measurement of oxygen required for chemical oxidation of pollutants.
+
+keywords: COD
+
+---
+
+chunk_id: EVS_U4_006
+unit: Water Environment
+topic: Eutrophication
+
+content: Nutrient enrichment causing excessive growth of aquatic plants and algae.
+
+keywords: eutrophication
+
+---
+
+chunk_id: EVS_U4_007
+unit: Water Environment
+topic: Groundwater and Aquifers
+
+content: Underground water storage systems and groundwater movement.
+
+keywords: groundwater, aquifer
+
+---
+
+chunk_id: EVS_U4_008
+unit: Water Environment
+topic: Water Treatment
+
+content: Processes including coagulation, flocculation, sedimentation, filtration, and disinfection.
+
+keywords: water treatment
+
+---
+
+chunk_id: EVS_U4_009
+unit: Water Environment
+topic: Wastewater Treatment
+
+content: Primary, secondary, and tertiary treatment of wastewater.
+
+keywords: wastewater treatment
+
+---
+
+chunk_id: EVS_U4_010
+unit: Water Environment
+topic: Activated Sludge Process
+
+content: Biological wastewater treatment using microorganisms.
+
+keywords: activated sludge
+
+---
+
+chunk_id: EVS_U4_011
+unit: Water Environment
+topic: Oxidation Ponds
+
+content: Wastewater treatment ponds utilizing natural biological processes.
+
+keywords: oxidation pond
+
+---
+
+chunk_id: EVS_U4_012
+unit: Water Environment
+topic: Heavy Metal Pollution
+
+content: Water contamination by toxic metals such as lead, mercury, cadmium, and arsenic.
+
+keywords: heavy metals
+
+---
+
+chunk_id: EVS_U5_001
+unit: Solid Waste and Lithosphere
+topic: Lithosphere
+
+content: Earth's outer solid layer consisting of rocks and soil.
+
+keywords: lithosphere
+
+---
+
+chunk_id: EVS_U5_002
+unit: Solid Waste and Lithosphere
+topic: Solid Waste
+
+content: Municipal, industrial, agricultural, domestic, biomedical, and hazardous wastes.
+
+keywords: solid waste
+
+---
+
+chunk_id: EVS_U5_003
+unit: Solid Waste and Lithosphere
+topic: Landfilling
+
+content: Disposal of waste in engineered landfill sites.
+
+keywords: landfill
+
+---
+
+chunk_id: EVS_U5_004
+unit: Solid Waste and Lithosphere
+topic: Incineration
+
+content: Thermal destruction of solid waste.
+
+keywords: incineration
+
+---
+
+chunk_id: EVS_U5_005
+unit: Solid Waste and Lithosphere
+topic: Composting
+
+content: Biological decomposition of organic waste.
+
+keywords: composting
+
+---
+
+chunk_id: EVS_U5_006
+unit: Solid Waste and Lithosphere
+topic: Recycling
+
+content: Recovery and reuse of materials from waste streams.
+
+keywords: recycling
+
+---
+
+chunk_id: EVS_U5_007
+unit: Solid Waste and Lithosphere
+topic: Hazardous Waste Management
+
+content: Collection, treatment, and disposal of hazardous waste materials.
+
+keywords: hazardous waste
+
+---
+
+chunk_id: EVS_U5_008
+unit: Solid Waste and Lithosphere
+topic: Biomedical Waste Management
+
+content: Safe handling and disposal of healthcare-related waste.
+
+keywords: biomedical waste
+
+---
+
+chunk_id: EVS_U6_001
+unit: Noise Pollution
+topic: Noise Pollution
+
+content: Environmental pollution caused by unwanted sound.
+
+keywords: noise pollution
+
+---
+
+chunk_id: EVS_U6_002
+unit: Noise Pollution
+topic: Noise Classification
+
+content: Transport, occupational, and neighborhood noise categories.
+
+keywords: transport noise, occupational noise
+
+---
+
+chunk_id: EVS_U6_003
+unit: Noise Pollution
+topic: Noise Parameters
+
+content: Noise frequency, sound pressure, sound intensity, threshold limit values, and equivalent noise levels.
+
+keywords: noise parameters
+
+---
+
+chunk_id: EVS_U6_004
+unit: Noise Pollution
+topic: Noise Control
+
+content: Engineering and administrative methods used to reduce noise pollution.
+
+keywords: noise control
+
+---
+
+chunk_id: EVS_U7_001
+unit: Environmental Management
+topic: Environmental Impact Assessment
+
+content: Evaluation of environmental consequences of proposed projects and developments.
+
+keywords: EIA
+
+---
+
+chunk_id: EVS_U7_002
+unit: Environmental Management
+topic: Environmental Audit
+
+content: Systematic assessment of environmental performance and compliance.
+
+keywords: environmental audit
+
+---
+
+chunk_id: EVS_U7_003
+unit: Environmental Management
+topic: Environmental Laws in India
+
+content: Legal framework for environmental protection and pollution control in India.
+
+keywords: environmental laws India
+
+---
+
+chunk_id: EVS_U7_004
+unit: Environmental Management
+topic: Environmental Protection Act
+
+content: Major legislation governing environmental protection in India.
+
+keywords: environmental protection act
+
+---
+
+chunk_id: EVS_U7_005
+unit: Environmental Management
+topic: International Environmental Agreements
+
+content: Global treaties, protocols, and agreements addressing environmental challenges.
+
+keywords: environmental treaties, environmental protocols

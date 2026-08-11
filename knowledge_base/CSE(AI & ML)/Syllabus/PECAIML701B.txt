@@ -1,0 +1,295 @@
+# SUBJECT_METADATA
+
+subject_name: Computer Vision
+paper_code: PEC-AIML701B
+category: Professional Elective
+
+---
+
+chunk_id: CV_U1_001
+unit: Fundamentals of Computer Vision
+topic: Overview of Computer Vision
+
+content: Introduction to computer vision, objectives, applications, challenges, and the role of computer vision in artificial intelligence systems.
+
+keywords: computer vision, image processing, AI applications
+
+---
+
+chunk_id: CV_U1_002
+unit: Fundamentals of Computer Vision
+topic: Computer Imaging Systems
+
+content: Components of computer imaging systems, image acquisition devices, cameras, sensors, and imaging pipelines.
+
+keywords: imaging systems, image acquisition, sensors
+
+---
+
+chunk_id: CV_U1_003
+unit: Fundamentals of Computer Vision
+topic: Lenses and Image Formation
+
+content: Principles of lenses, optical systems, image formation, focal length, perspective projection, and camera models.
+
+keywords: lenses, image formation, camera models
+
+---
+
+chunk_id: CV_U1_004
+unit: Fundamentals of Computer Vision
+topic: Image Sensing and Acquisition
+
+content: Image sensing technologies, CCD and CMOS sensors, image capture mechanisms, and digital image generation.
+
+keywords: image sensing, CCD, CMOS
+
+---
+
+chunk_id: CV_U1_005
+unit: Fundamentals of Computer Vision
+topic: Image Analysis and Preprocessing
+
+content: Image analysis techniques, image enhancement, filtering, noise reduction, and preprocessing operations for vision applications.
+
+keywords: image analysis, preprocessing, image enhancement
+
+---
+
+chunk_id: CV_U1_006
+unit: Fundamentals of Computer Vision
+topic: Binary Image Analysis
+
+content: Binary image representation, thresholding methods, connected components, and binary image processing techniques.
+
+keywords: binary images, thresholding, connected components
+
+---
+
+chunk_id: CV_U2_001
+unit: Feature Detection
+topic: Edge Detection Fundamentals
+
+content: Edge detection concepts, gradient-based methods, edge operators, and extraction of object boundaries from images.
+
+keywords: edge detection, image gradients
+
+---
+
+chunk_id: CV_U2_002
+unit: Feature Detection
+topic: Edge Detection Performance
+
+content: Evaluation of edge detection techniques, accuracy measures, robustness, and performance assessment methods.
+
+keywords: edge detection performance, evaluation metrics
+
+---
+
+chunk_id: CV_U2_003
+unit: Feature Detection
+topic: Hough Transform
+
+content: Hough Transform for detection of lines, circles, and geometric shapes in digital images.
+
+keywords: Hough transform, shape detection
+
+---
+
+chunk_id: CV_U2_004
+unit: Feature Detection
+topic: Corner Detection
+
+content: Corner detection algorithms, feature point extraction, and applications in object recognition and tracking.
+
+keywords: corner detection, feature points
+
+---
+
+chunk_id: CV_U3_001
+unit: Image Segmentation and Transformations
+topic: Image Segmentation
+
+content: Segmentation techniques for partitioning images into meaningful regions and object extraction.
+
+keywords: image segmentation, region analysis
+
+---
+
+chunk_id: CV_U3_002
+unit: Image Segmentation and Transformations
+topic: Morphological Filtering
+
+content: Morphological operations including dilation, erosion, opening, and closing for image enhancement and analysis.
+
+keywords: morphology, dilation, erosion
+
+---
+
+chunk_id: CV_U3_003
+unit: Image Segmentation and Transformations
+topic: Fourier Transform in Image Processing
+
+content: Fourier Transform techniques, frequency-domain analysis, filtering, and image representation in the frequency domain.
+
+keywords: Fourier transform, frequency domain, image filtering
+
+---
+
+chunk_id: CV_U4_001
+unit: Feature Extraction and Analysis
+topic: Feature Extraction Fundamentals
+
+content: Concepts of feature extraction and representation for image classification, recognition, and analysis tasks.
+
+keywords: feature extraction, feature representation
+
+---
+
+chunk_id: CV_U4_002
+unit: Feature Extraction and Analysis
+topic: Shape-Based Features
+
+content: Shape descriptors, contour analysis, geometric features, and object representation techniques.
+
+keywords: shape features, contour analysis
+
+---
+
+chunk_id: CV_U4_003
+unit: Feature Extraction and Analysis
+topic: Histogram and Color Features
+
+content: Histogram-based image representation, color models, color feature extraction, and image characterization.
+
+keywords: histograms, color features, color models
+
+---
+
+chunk_id: CV_U4_004
+unit: Feature Extraction and Analysis
+topic: Spectral and Texture Features
+
+content: Spectral analysis, texture descriptors, statistical texture measures, and image pattern characterization.
+
+keywords: spectral features, texture analysis
+
+---
+
+chunk_id: CV_U4_005
+unit: Feature Extraction and Analysis
+topic: Feature Extraction Using CVIPtools
+
+content: Use of CVIPtools software for feature extraction, image processing experiments, and computer vision applications.
+
+keywords: CVIPtools, image processing tools
+
+---
+
+chunk_id: CV_U4_006
+unit: Feature Extraction and Analysis
+topic: Feature Analysis and Feature Vectors
+
+content: Construction and analysis of feature vectors, feature selection, dimensional representation, and classification preparation.
+
+keywords: feature vectors, feature analysis
+
+---
+
+chunk_id: CV_U4_007
+unit: Feature Extraction and Analysis
+topic: Similarity Measures and Data Preprocessing
+
+content: Distance and similarity measures, normalization techniques, and preprocessing methods for pattern analysis.
+
+keywords: similarity measures, distance metrics, data preprocessing
+
+---
+
+chunk_id: CV_U5_001
+unit: Pattern Analysis and Recognition
+topic: Clustering Techniques
+
+content: Unsupervised clustering methods including K-Means, K-Medoids, and Mixture of Gaussians for pattern discovery.
+
+keywords: clustering, K-Means, K-Medoids, Gaussian mixtures
+
+---
+
+chunk_id: CV_U5_002
+unit: Pattern Analysis and Recognition
+topic: Classification Fundamentals
+
+content: Concepts of classification, discriminant functions, supervised learning, unsupervised learning, and semi-supervised learning.
+
+keywords: classification, discriminant functions
+
+---
+
+chunk_id: CV_U5_003
+unit: Pattern Analysis and Recognition
+topic: Bayesian Classifiers
+
+content: Bayes classification methods, probabilistic decision-making, and statistical pattern recognition.
+
+keywords: Bayes classifier, probabilistic classification
+
+---
+
+chunk_id: CV_U5_004
+unit: Pattern Analysis and Recognition
+topic: K-Nearest Neighbor Classifier
+
+content: KNN classification algorithm, distance-based learning, parameter selection, and classification applications.
+
+keywords: KNN, nearest neighbor
+
+---
+
+chunk_id: CV_U5_005
+unit: Pattern Analysis and Recognition
+topic: Artificial Neural Network Classifiers
+
+content: Artificial neural networks for classification, learning architectures, training methods, and pattern recognition applications.
+
+keywords: ANN, neural networks, classification
+
+---
+
+chunk_id: CV_U5_006
+unit: Pattern Analysis and Recognition
+topic: Dimensionality Reduction Techniques
+
+content: Feature space reduction using Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Independent Component Analysis (ICA), and non-parametric approaches.
+
+keywords: PCA, LDA, ICA, dimensionality reduction
+
+---
+
+chunk_id: CV_U6_001
+unit: Recent Trends in Computer Vision
+topic: Activity Recognition
+
+content: Computer vision techniques for activity and action recognition, behavior analysis, and video understanding.
+
+keywords: activity recognition, video analytics
+
+---
+
+chunk_id: CV_U6_002
+unit: Recent Trends in Computer Vision
+topic: Computational Photography
+
+content: Computational photography methods, image enhancement, image synthesis, HDR imaging, and camera computation techniques.
+
+keywords: computational photography, image enhancement
+
+---
+
+chunk_id: CV_U6_003
+unit: Recent Trends in Computer Vision
+topic: Biometrics
+
+content: Biometric recognition systems including face recognition, fingerprint recognition, iris recognition, and security applications.
+
+keywords: biometrics, face recognition, fingerprint recognition
