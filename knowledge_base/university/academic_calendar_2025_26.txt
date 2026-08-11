@@ -1,0 +1,87 @@
+#METADATA
+Year: 2025-26
+Academic Calendar(MAKAUT)
+---
+
+# Chunk 1: University & Document Information
+
+**MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL**
+
+**Updated Academic Calendar for Even Semester 2025–26 for Affiliated Colleges**
+*(Based on obtaining views of the stakeholders)*
+
+---
+
+# Chunk 2: Even Semester 2025–26
+
+### Applicable for:
+
+* All **2nd Semester**
+* All **4th Semester (B.Tech and B.Pharm)**
+* **Odd Semester P2**
+
+| Activity                                                           | Start Date | End Date   |
+| ------------------------------------------------------------------ | ---------- | ---------- |
+| Commencement of Academic Programs (2nd & 4th Sem)                  | 30.03.2026 | —          |
+| Enrollment of Regular and Back Paper Students                      | 01.04.2026 | 08.04.2026 |
+| Submission of CA2 & PCA1 (All Even Semesters)                      | 27.04.2026 | 30.04.2026 |
+| Submission of CA3 (All Even Semesters)                             | 20.05.2026 | 25.05.2026 |
+| Submission of CA4 & PCA2 (All Even Semesters)                      | 08.06.2026 | 13.06.2026 |
+| Pre-Examination Activities (Form Fill-up etc.)                     | 16.06.2026 | 25.06.2026 |
+| Theory Examinations (Even Semester 2025–26)                        | 29.06.2026 | 15.07.2026 |
+| Practical, Sessional & Viva-Voce Examinations and Marks Submission | 17.07.2026 | 22.07.2026 |
+
+---
+
+# Chunk 3: Even Semester 2025–26
+
+### Applicable for:
+
+* 4th Semester
+* 6th Semester
+* 8th Semester
+* 10th Semester
+  *(Except 2nd Semester and 4th Semester B.Tech/B.Pharm students)*
+
+**Odd Semester P1**
+
+| Activity                                                           | Start Date | End Date   |
+| ------------------------------------------------------------------ | ---------- | ---------- |
+| Commencement of Academic Programs (4th, 6th, 8th, 10th Sem)        | 06.01.2026 | —          |
+| Enrollment of Students                                             | 12.01.2026 | 20.01.2026 |
+| Submission of CA1 (All Even Semesters)                             | 02.02.2026 | 07.02.2026 |
+| Submission of CA2 & PCA1 (All Even Semesters)                      | 02.03.2026 | 07.03.2026 |
+| Enrollment of Back Paper Students                                  | 01.04.2026 | 08.04.2026 |
+| Submission of CA3 (All Even Semesters)                             | 27.04.2026 | 05.05.2026 |
+| Submission of CA4 & PCA2 (All Even Semesters)                      | 08.06.2026 | 13.06.2026 |
+| Pre-Examination Activities (Form Fill-up etc.)                     | 16.06.2026 | 25.06.2026 |
+| Theory Examinations (Even Semester 2025–26)                        | 29.06.2026 | 15.07.2026 |
+| Practical, Sessional & Viva-Voce Examinations and Marks Submission | 17.07.2026 | 22.07.2026 |
+
+---
+
+# Chunk 4: MAR & MOOCs Schedule
+
+| Activity                                                              | Start Date                           | End Date   |
+| --------------------------------------------------------------------- | ------------------------------------ | ---------- |
+| MAR Upload by Colleges (Even Semester)                                | 01.02.2026                           | 31.05.2026 |
+| MOOCs Upload by Students and Verification by Colleges (Honours Cases) | 01.08.2025                           | 31.05.2026 |
+| MOOCs Records for Credit Transfer                                     | Within the End Semester Examinations | —          |
+
+---
+
+# Chunk 5: Important Notes
+
+1. The dates mentioned for **CA submissions** are only for:
+
+   * Marks upload
+   * Data upload
+   * Document upload
+
+2. Assessments may be conducted continuously according to the academic plan of the institute and must be uploaded within the specified deadlines.
+
+3. All dates are **tentative** and may change depending on circumstances.
+
+4. Project work, training, internships, and joining schedules for different batches should be planned flexibly by respective colleges to ensure smooth implementation of the academic calendar.
+
+---
