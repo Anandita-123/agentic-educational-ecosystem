@@ -1,0 +1,6 @@
+﻿streamlit==1.59.2
+supabase==2.24.0
+python-dotenv==1.2.2
+google-genai==2.8.0
+reportlab==4.5.1
+rapidfuzz==3.9.3
