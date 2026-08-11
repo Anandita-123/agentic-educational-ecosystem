@@ -1,0 +1,78 @@
+**METADATA**
+
+* **Paper Code:** PECAIDS801A/PECAIML801A
+* **Subject Name:** Natural Language Processing
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 008419
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAIDS801A_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the difference between rule-based and statistical POS tagging?
+2. State the main assumption behind Naïve Bayes text classification?
+3. Define Boolean retrieval in search engines.
+4. Explain the use tokenization in NLP?
+5. What is the function of the Forward Algorithm in HMM?
+6. Define sentiment analysis.
+7. Explain how phrase queries improve search engine accuracy.
+8. How does the Bayesian approach help in spell checking?
+9. Explain the term Part-of-speech (POS) tagging.
+10. How does a probabilistic context-free grammar (PCFG) differ from a standard CFG?
+11. Explain how combining multiple ranking features enhances search engine performance.
+12. Why is spell-checking harder in morphologically rich languages?
+
+---
+
+### ChunkID: PECAIDS801A_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Describe the various types of smoothing in n-grams. **[5]**
+2. Explain the concept of context-free grammars and their significance in natural language processing. **[5]**
+3. Define synonymy, homonymy, and polysemy in lexical semantics with suitable examples. **[5]**
+4. Discuss the importance of multi-word extraction in NLP applications like machine translation and search engines. **[5]**
+5. Given the phrase: "New York City is a great place for data science.", describe how an NLP system would identify "New York City" as a single entity. **[5]**
+
+---
+
+### ChunkID: PECAIDS801A_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What is Named Entity Recognition (NER)? List different types of named entities and provide an example sentence with labelled entities. **[7]**
+   (b) Explain the Bayesian approach to spell checking. How does it determine the most likely correct word for a misspelled word? **[8]**
+
+2. (a) Briefly discuss the HMM model for part of speech tagging. **[6]**
+   (b) Discuss the Viterbi algorithm for finding the optimal sequence of flags. **[5]**
+   (c) Describe a real-world application where accurate POS tagging is essential. **[4]**
+
+3. (a) Derive the bigram language model using maximum likelihood estimation, chain rule, and Markov assumption. **[7]**
+   (b) How a language model can be evaluated intrinsically and intrinsically? Define and deduce perplexity. **[5]**
+   (c) Discuss the notion of perplexity as a branching factor. **[3]**
+
+4. (a) How does query term proximity improve search accuracy in Information Retrieval? **[7]**
+   (b) Explain TF-IDF ranking with an example. **[8]**
+
+5. (a) Consider the following Context-Free Grammar (CFG):
+   1. S -> NP VP
+   2. NP -> Det N | N
+   3. VP -> V NP | V
+   4. Det -> the | a
+   5. N -> dog | man
+   6. V -> chases | sleeps
+   Perform top-down parsing on the input sentence: "The dog chases a man." **[7]**
+   (b) Identify two challenges of top-down parsing and explain how they can be addressed. **[5]**
+   (c) Identify two limitations of top-down parsing when applied to the given CFG for the sentence "The dog sees a man." **[3]**
+
+---
+
+***END OF PAPER***

@@ -1,0 +1,179 @@
+**METADATA**
+
+* **Paper Code:** BSCH101
+* **Subject Name:** Chemistry-I (Gr B)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001034
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: BSCH101_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Which spectroscopic technique is most useful to identify the presence of known impurity in a drug substance?
+2. Van der Waal's forces are directly proportional to which factor?
+3. Give one example of state function.
+4. Give an example of soft acid.
+5. Give one example of ionization isomerism.
+6. What is the reactivity order of alkyl halide in SN2 mechanism?
+7. What is fingerprint region range in IR spectra?
+8. Write down the formula of critical volume for Van der Waal's gas.
+9. State one application of first law of thermodynamics.
+10. What is the shielding constant value for 1s orbital electron?
+11. What will be the absorbance if % of Transmittance = 80?
+12. Write down the relation of critical temperature for Van der Waal's gas.
+
+---
+
+### ChunkID: BSCH101_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Why does germanium act as n-type semiconductor? What is the difference between n-type and p-type semiconductor? **[5]**
+
+2. Intensity of spectral line depends on which factor? What is Lambert-Beer Law? **[5]**
+
+3. Prove that
+
+[
+\left(V-\frac{h^2}{8\pi^2m\nabla^2}\right)\Psi = E\Psi
+]
+
+**[5]**
+
+4. What kind of molecules show IR spectra? "IR spectra is often characterized as molecular fingerprints". Justify the statement. **[5]**
+
+5. An electron is confined in a 1-D box of length (10^{-10},m) with potential energy equal to 0 inside ((V=0)) and (V=\infty) outside the box.
+
+Calculate the ground state energy and separation between the levels with quantum numbers 2 and 3.
+
+Given:
+
+* Mass of electron = (9.11\times10^{-31},kg)
+* Planck's constant = (6.627\times10^{-34},Js)
+
+The energy of electron inside a one-dimensional box is given by
+
+[
+E_n=\frac{n^2h^2}{8m_ea^2}
+]
+
+where (m_e) is mass of electron, (a) is box length, (h) is Planck's constant and (n) is quantum number ((n=1,2,3,\ldots)). **[5]**
+
+---
+
+### ChunkID: BSCH101_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Most absorption bands in the UV-Visible spectra are very broad. Give reasons. **[3]**
+
+**(b)** Why does 1,3-butadiene possess higher (\lambda_{max}) value than ethane? **[3]**
+
+**(c)** Why is the colour of sky blue? **[2]**
+
+**(d)** Predict the proton NMR spectra of (CH_4). **[3]**
+
+**(e)** Name any four surface characterization techniques. **[4]**
+
+---
+
+### 2.
+
+**(a)** Discuss types and conditions of hydrogen bonding. **[5]**
+
+**(b)** Write the equation of state for the real gas with proper notations. Mention the significance of constants (a) and (b). **[5]**
+
+**(c)** Discuss the critical phenomenon of real gas. **[2]**
+
+**(d)** Calculate the Boyle temperature for a gas whose van der Waals constants are:
+
+[
+a=7.18,L^2,atm,mol^{-2}
+]
+
+[
+b=0.854,L,mol^{-1}
+]
+
+and
+
+[
+R=0.082,L,atm,K^{-1},mol^{-1}
+]
+
+**[3]**
+
+---
+
+### 3.
+
+**(a)** Write the Nernst equation for the cell reaction in the Daniel cell. How will the (E_{cell}) be affected when the concentration of (Zn^{2+}) is increased? **[5]**
+
+**(b)** What do you mean by hardness of water? Explain how hard water fails to form lather with soap. What is alkalinity of water? **[5]**
+
+**(c)** What is corrosion? What are the different types of corrosion? **[5]**
+
+---
+
+### 4.
+
+**(a)** What do you mean by shielding and deshielding effects involved in NMR spectroscopy? **[3]**
+
+**(b)** Given that the spacing of the lines in the microwave spectrum of (^{27}Al^{1}H) is constant at
+
+[
+12.604;cm^{-1}
+]
+
+Calculate the moment of inertia and bond length of the molecule.
+
+Mass of (^{27}Al = 26.981,amu). **[5]**
+
+**(c)** Why is (^{13}C) NMR active while (^{12}C) is not? Explain. **[2]**
+
+**(d)** Predict the kind of electronic transition in:
+
+(i) (Cl_2)
+
+(ii) Carbonyl group
+
+Also give their intensity. **[5]**
+
+---
+
+### 5.
+
+**(a)**
+
+"The complexes of first transition series are mainly high-spin while those of second and third transition series are of low-spin type."
+
+Explain.
+
+First ionisation energies of 5d elements are higher than 3d and 4d elements. Give reason. **[5]**
+
+**(b)** Explain why the second ionization energies for copper and chromium are enormously high.
+
+Iron is a transition element but sodium is not. Explain. **[5]**
+
+**(c)** First ionisation energies of copper is higher than those of alkali metals while second and third energies are lower.
+
+Explain.
+
+Why are lanthanides and actinides placed in separate rows at the bottom of the periodic table? **[5]**
+
+---
+
+***END OF PAPER***

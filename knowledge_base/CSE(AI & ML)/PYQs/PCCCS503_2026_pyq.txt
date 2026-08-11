@@ -1,0 +1,100 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS503/PCCCS503/PCCCS503/PCCICB502
+* **Subject Name:** Object Oriented Programming
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005504
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: PCCCS503_2025-2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. The Inheritance property is used when there is an IS-A relationship between classes: TRUE or FALSE.
+2. Which container class doesn't contain title bar and menu bars but it can have other components like button, text field etc.?
+3. A class member declared protected becomes a member of subclass of which type?
+4. Which keyword is used to access the features of a package?
+5. Which of the following statements are true for interfaces in java?
+   i) Objects of an interface cannot be created.
+   ii) All the methods of an interface are either abstract or default or static.
+   iii) It does not contain constructors.
+6. In the model-view-controller (MVC) architecture, the model defines the ________ layer.
+7. All collection classes are available in ________ package.
+8. What would be the possible output if a constructor is declared with a return type?
+   a) Compilation error
+   b) Runtime error
+   c) Compilation and runs successfully
+   d) Only String return type is allowed
+9. main() method can be overloaded in Java. The above statement is true or false?
+10. A class inheriting an abstract class does not define or implement all of its abstract methods is called ________ class.
+11. What types of polymorphism is used in the following java program.
+    class Paint {
+        public void Color(int x) {...}
+        public void Color(int x, int y) {...}
+        public void Color(int x, int y, int z) {...}
+    }
+12. What is the output of following Java code?
+    class Test {
+        private int a=4;
+        private int b=1;
+        void getSum(int a, int b) {
+            a=a;
+            b=b;
+        }
+        System.out.println(this.a + this.b);
+    }
+    public class Main {
+        public static void main(String args[]) {
+            Test T = new Test();
+            T.getSum(3, 5);
+        }
+    }
+
+---
+
+### ChunkID: PCCCS503_2025-2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain different features of object oriented programming? **[5]**
+2. What are the differences between Procedural programming language and Object oriented programming language? **[5]**
+3. What is the use of static keyword in java? Write a program to explain the use of static variable and static method in java. **[5]**
+4. Explain the benefit of using interface in java with the help of an example. **[5]**
+5. Why multiple inheritance can be implemented by using Interfaces but not by classes? Explain with an example. **[5]**
+
+---
+
+### ChunkID: PCCCS503_2025-2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What is parametric and non parametric constructor? Explain with suitable example. **[5]**
+   (b) Illustrate the use of the this keyword with a suitable program. **[5]**
+   (c) What is constructor overloading? Explain it with a suitable example. **[5]**
+
+2. (a) What are the advantages of using design pattern in an organization? **[3]**
+   (b) Explain different types of design patterns with their use. **[6]**
+   (c) Explain the concept of model view controller pattern. What are the advantage of using it? **[6]**
+
+3. (a) Create a class shape with data members dimension1, dimension2, area. Write a abstract method calculate_area in it. Create two child classes circle, triangle and override the calculate_area method in the child classes. **[6]**
+   (b) How run time polymorphism is achieved by using method overriding explain with respect to the problem statement given in part (a). **[5]**
+   (c) What is super keyword. Explain its use with an example program. **[4]**
+
+4. (a) Write a program using swing to add two numbers and display the result. **[7]**
+   (b) Explain the working mechanism of Event delegation model. **[5]**
+   (c) Write some differences between Swing and AWT. **[3]**
+
+5. (a) Explain the concept of Iterator design pattern. **[4]**
+   (b) Explain its working with a suitable program. **[7]**
+   (c) What is a final method? explain with an example. **[4]**
+
+---
+
+***END OF PAPER***

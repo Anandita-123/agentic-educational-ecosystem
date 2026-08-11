@@ -1,0 +1,71 @@
+**METADATA**
+
+* **Paper Code:** ESC(CSBS)502/PCC-AI502/PCCAIML502
+* **Subject Name:** Introduction to Machine Learning
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005937
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: ESC(CSBS)502_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What are outliers?
+2. Which of the following ensemble model helps in reducing variance?
+3. ________ is the machine learning algorithms that can be used with labeled data.
+4. ________ is a part of machine learning that works with neural networks.
+5. Where does the Hidden Markov Model is used?
+6. How many types of Artificial Neural Networks?
+7. What is Auto Association Task?
+8. What are independent variables?
+9. Suppose you have picked the parameter for a model using 10-fold cross validation (CV). Which of the following is the best way to pick a final model to use and estimate its error?
+10. The model will be trained with data in one single batch is known as ________?
+11. ________ stands for Statistical Information Grid.
+12. Which suggests the existence of an efficient recursive algorithm for online smoothing?
+
+---
+
+### ChunkID: ESC(CSBS)502_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What are the different types of clustering algorithms available? Which one would you recommend for a given problem? **[5]**
+2. What is Overfitting? How can you avoid it? **[5]**
+3. What is the role of the Activation functions in Neural Networks? **[5]**
+4. Why SVM is an example of a large margin classifier? **[5]**
+5. Compare SVM and Logistic Regression in handling outliers. **[5]**
+
+---
+
+### ChunkID: ESC(CSBS)502_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Explain Perceptron. **[5]**
+   (b) What do you mean by Neural Network. **[5]**
+   (c) How do you choose the Scaling method used for Neural Networks? **[5]**
+
+2. (a) What is linear regression? **[4]**
+   (b) State the assumptions in a linear regression model. **[6]**
+   (c) What is feature engineering? How do you apply it in the process of modelling? **[5]**
+
+3. (a) Explain Random Forest method with suitable example. **[7]**
+   (b) Explain K-Means Clustering algorithm with suitable example. **[8]**
+
+4. (a) How do you select important variables while working on a data set? **[6]**
+   (b) There are many machine learning algorithms till now. If given a data set, how can one determine which algorithm to be used for that? **[6]**
+   (c) What is the main key difference between supervised and unsupervised machine learning? **[3]**
+
+5. (a) What do you mean Model Averaging? **[5]**
+   (b) How to Average Models? Explain with suitable example. **[10]**
+
+---
+
+***END OF PAPER***

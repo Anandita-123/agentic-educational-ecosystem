@@ -1,0 +1,175 @@
+**METADATA**
+
+* **Paper Code:** ES-CS401 / PCC-CS404 / PCC-CS404 / PCCCS404
+* **Subject Name:** Design & Analysis of Algorithms
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 004416
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: ESCS401_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. State True/False: Approximation algorithm guarantees the best quality of solution.
+
+2. State True/False:
+
+[
+O(\log n) > O(n)
+]
+
+3. What is the time complexity of Knapsack algorithm using Greedy method?
+
+4. State True/False: Adjacency Matrix and Path Matrix are same.
+
+5. State True/False: Ordered Searching algorithm is a Polynomial Algorithm.
+
+6. State True/False: Brute Force method gives the best quality of solution.
+
+7. State True/False: Travelling Salesman Problem is a Non-Polynomial problem.
+
+8. Name one heuristic method of searching.
+
+9. Best case time complexity of Binary Search algorithm is __________.
+
+10. The time complexity of Floyd’s algorithm is __________.
+
+11. Backtracking follows __________ traversal technique.
+
+12. What is Spanning Tree?
+
+---
+
+### ChunkID: ESCS401_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write down an algorithm to solve the Job Sequencing with Deadline Problem using Greedy Method.
+
+   What is the time complexity of your algorithm? **[5]**
+
+2. Find the Maximum Flow of the given network.
+
+   Mention each step clearly. **[5]**
+
+3. Write down an algorithm in Greedy Method to find the Minimum Spanning Tree using Prim’s Algorithm.
+
+   What is the complexity of your algorithm? **[5]**
+
+4. **(a)** State Cook’s Theorem. **[5]**
+
+   **(b)** Define Clique with example.
+
+5. Define the following terms:
+
+   **(i)** Brute Force Algorithm
+
+   **(ii)** Approximation Algorithm
+
+   **[5]**
+
+---
+
+### ChunkID: ESCS401_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Find the Minimum Spanning Tree using Prim’s Method from the given graph.
+
+Mention each step clearly. **[6]**
+
+**(b)** Write an algorithm to find all solutions of N-Queens Problem using Backtracking. **[4]**
+
+**(c)** What is the time complexity of your algorithm? **[1]**
+
+**(d)** Write an algorithm to find all-pairs shortest path using Floyd’s Method. **[4]**
+
+---
+
+### 2.
+
+**(a)** Write down an algorithm of Quick Sort. **[5]**
+
+**(b)** Derive the Best Case, Worst Case and Average Case Time Complexity of Quick Sort. **[2+3+5]**
+
+---
+
+### 3.
+
+**(a)** Find the minimum number of scalar operations needed to multiply the matrices:
+
+[
+A_1(30\times35),
+A_2(35\times15),
+A_3(15\times5),
+A_4(5\times10)
+]
+
+using Matrix Chain Multiplication. **[5]**
+
+**(b)** Write down an algorithm using Greedy Method to find Minimum Spanning Tree by Kruskal’s Algorithm. **[5]**
+
+**(c)** Find the time complexity of your algorithm. **[3]**
+
+**(d)** Differentiate between Backtracking and Branch & Bound. **[2]**
+
+---
+
+### 4.
+
+**(a)** Find the Transitive Closure of vertex (A) from the given directed graph. **[3]**
+
+**(b)** Define the following terms:
+
+* Directed Graph
+* Undirected Graph
+* In-Degree and Out-Degree
+* Complete Graph
+* Articulation Point
+* Bridge
+
+**[12]**
+
+---
+
+### 5.
+
+**(a)** Differentiate between Recursion and Iteration. **[3]**
+
+**(b)** Find the time complexity of the following recurrence relations using Master’s Theorem:
+
+**(i)**
+
+[
+T(n)=2T\left(\frac{n}{4}\right)+n^{0.51}
+]
+
+**[4]**
+
+**(ii)**
+
+[
+T(n)=\sqrt{2},T\left(\frac{n}{2}\right)+\log n
+]
+
+**[4]**
+
+**(c)** Define Little Omega ((\omega)) notation.
+
+Explain with an example. **[2+2]**
+
+---
+
+***END OF PAPER***

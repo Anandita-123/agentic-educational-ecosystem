@@ -1,0 +1,74 @@
+**METADATA**
+
+* **Paper Code:** PECAIML 601B
+* **Subject Name:** Data Mining
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006920
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is multicollinearity?
+2. What is a confusion matrix? Give an example.
+3. Name some major sources of abundant data in various domains with examples.
+4. What is an attribute? What are the different types of attributes?
+5. Define an association rule.
+6. What is the difference between an algorithm and a model?
+7. What are the different types of predictive models?
+8. What are the applications of KNN?
+9. What is LASSO regression?
+10. How different are ROC curves for discrete and probabilistic classifier?
+11. Are all mined knowledge interesting?
+12. How are discrete and continuous attributes different?
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is frequent itemset? What is the downward closure property and upward closure property? **[5]**
+2. What is predictive modeling? Discuss some of the most popular methods. **[5]**
+3. What is BIC (Bayesian Information Criteria)? How to find BIC? What does a lower BIC score indicate? **[5]**
+4. What is Bayesian belief network? Explain in details. **[5]**
+5. What are the different steps involved in a typical web mining framework? **[5]**
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Why do we pre-process the data? **[3]**
+   (b) Discuss briefly the various steps involved in pre-processing the data. **[6]**
+   (c) Write in brief about data cleaning. **[3]**
+   (d) What is imbalanced data and how to handle it? **[3]**
+
+2. (a) What is prediction? Explain about linear regression method. **[7]**
+   (b) Describe the working of SVM. **[8]**
+
+3. (a) What is backward elimination? Briefly discuss with a suitable example. **[5]**
+   (b) What is forward selection? Briefly discuss with a suitable example. **[5]**
+   (c) What is stepwise selection? Briefly discuss with a suitable example. **[5]**
+
+4. (a) What are the uses of predictive modeling? **[5]**
+   (b) Discuss few challenges of predictive modeling. **[5]**
+   (c) What are different types of predictive models? Describe any one. **[5]**
+
+5. (a) What is ensemble learning? **[3]**
+   (b) What is the difference between bagging and boosting? **[4]**
+   (c) Why does bagging performs well on the low bias high variance datasets? **[4]**
+   (d) How to calculate confusion matrix for a 2-class classification problem? **[4]**
+
+---
+
+***END OF PAPER***

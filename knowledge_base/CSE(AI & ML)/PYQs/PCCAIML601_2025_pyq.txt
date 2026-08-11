@@ -1,0 +1,79 @@
+**METADATA**
+
+* **Paper Code:** PCCAIML601
+* **Subject Name:** Machine Learning Applications
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006916
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PCCAIML601_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. In what type of regularization, weight sparsity is obtained?
+2. Given 3 data points in 2D space: (1,1), (2,2) and (3,3). What is the first principal component?
+3. Variance-Covariance matrix is real and symmetric. State True or False.
+4. How many layers can we add in a logistic regression model other than input and output?
+5. Can we model non-linear relationships of data with a linear regression?
+6. As uncertainty increases, entropy decreases. Is it True or False?
+7. In a logistic regression model, we predict the data in continuous form. Is it True or False?
+8. Boosting trees are built sequentially while random forest builds trees in parallel. Is it True or False?
+9. We have 1% training error and 2% validation error in case of low bias and low variance. Is it True or False?
+10. The values of Lagrange multipliers corresponding to the support vectors can be less than zero. Is it True or False?
+11. Reducing the number of leaves in a decision tree will increase the variance. Is it True or False?
+12. Lloyd's algorithm is always guaranteed to converge. State True or False.
+
+---
+
+### ChunkID: PCCAIML601_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Can we get a nonlinear decision boundary in a decision tree? How are axis labels used in a decision tree? What is pruning? What are stumps? **[5]**
+2. How many local minima can be encountered while solving the optimization for maximizing the margin for SVM? Justify your answer. **[5]**
+3. Eigenface approach is one practical application of PCA. Let us assume that we have 500 face images having dimension 64x64. How could you construct the covariance matrix to find the principal components? **[5]**
+4. What is the elbow method? State the application of it. What type of loss do we use in performing the elbow method? **[5]**
+5. Say h = g(b + w1*x1 + w2*x2) and w1 = 1, w2 = 1, b = -3. Write down the equation for the decision boundary. Assume that we have four classes. How can we represent these four classes using one-hot encoding? **[5]**
+
+---
+
+### ChunkID: PCCAIML601_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Why are SVMs fast? State 2–3 advantages of it. **[3]**
+   (b) Why are SVMs more accurate than logistic regression? State 2–3 reasons. **[3]**
+   (c) Find the width of the gutter in SVM, or find the distance from support vectors to the hyperplane. **[6]**
+   (d) What is the kernel trick? How can nonlinearly separable data be made linearly separable using a kernel? **[3]**
+
+2. (a) In a project, we have a set of data from patients who have visited ABCD hospital during the year 2022. A set of features (e.g., bmr, weight) have also been extracted for each patient. The goal of the project is to decide whether a new visiting patient has any of diabetes, heart disease, or neural disease (a patient can have one or more of these diseases). What are the features here? What is the basic course of the problem? Regression or Classification? **[3]**
+   (b) We have decided to use a neural network to solve this problem. We have two choices: either to train a separate neural network for each of the diseases or to train a single neural network with one output neuron for each disease, but with a shared hidden layer. Which method do you prefer? Justify your answer. **[6]**
+   (c) In our project, we first ask our model to predict whether a patient has a disease, and if the classifier is 80% confident that the patient has a disease, then we will collect additional patient features like temperatures etc. In this case, which classification methods do you recommend: neural networks, decision trees, or naive Bayes? Justify your answer. **[6]**
+
+3. (a) Say, we have 5 data points A, B, C, D, E and we are allowed to use 6 weak classifiers. We use decision tree stumps. The data points are at (1,5,A), (5,5,B), (3,3,C), (1,1,D), (5,1,E) in the form (x1, x2, data point). Find out the misclassification when x1 > 2, x1 < 2, x1 > 4, x1 < 4, x1 > 6, x1 < 6. **[6]**
+   (b) Update the weights for each data point up to round 3. **[3]**
+   (c) In each round, calculate the error rate. **[3]**
+   (d) In each round, calculate the strong classifier. **[2]**
+   (e) Can we stop after round 3? Explain. **[1]**
+
+4. (a) Can we use SGD for both ridge regression and lasso regression? If yes, explain why. If not, explain why and what other techniques we can use for optimization. **[2]**
+   (b) Derive the closed-form solution for the ridge regression model considering maximum likelihood estimation. **[5]**
+   (c) What is weight decay in ridge regression? **[1]**
+   (d) Why is data preprocessing a must in linear regression? **[1]**
+   (e) Let us say we have the data X = {(1.2, 30.43), (2.4, 506.3), (3.5, 112.7)}. Derive the preprocessed data. **[2]**
+   (f) If weights are initialized as (0,0) and learning rate = 3 for the above data, find the value of weights after the 2nd epoch. Consider a regularizing parameter value of 10. **[4]**
+
+5. (a) Consider the following design matrix: X = [[4,1], [2,3], [5,4], [1,0]], representing 4 2D data points. We want to reduce the dimension from 2 to 1 and represent the data. Show the detailed process with numerical steps. **[5]**
+   (b) Consider 4 data points as (1,0), (4,1), (2,3), and (5,4). We want a one-dimensional representation of the data. Draw the principal components with direction. Show all the projections of all four sample points onto the principal direction. **[6]**
+   (c) What is the disadvantage of K-means clustering? How can this be overcome by K-means++? **[4]**
+
+---
+
+***END OF PAPER***

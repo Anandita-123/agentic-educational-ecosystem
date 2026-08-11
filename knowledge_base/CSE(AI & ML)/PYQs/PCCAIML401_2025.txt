@@ -1,0 +1,211 @@
+**METADATA**
+
+* **Paper Code:** PCC-AI401 / PCCAIDS401 / PCCAIML401
+* **Subject Name:** Artificial Intelligence
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 004802
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: PCCAIML401_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Why Semantic is used in propositional logic?
+2. What is the difference between Crisp Set and Fuzzy Set?
+3. Explain Hypothesis Space with an example.
+4. What is a Rational Agent in AI?
+5. Are Uninformed Search and Blind Search the same? Is Iterative Deepening Search a Blind Search?
+6. What is Tautology in Propositional Logic?
+7. What does a Bayesian Network provide?
+8. State the differences between Supervised Learning and Unsupervised Learning.
+9. What are the features of a Reflex-Based Agent?
+10. Differentiate among Breadth First Search (BFS), Depth First Search (DFS) and Depth Limited Search (DLS) in terms of completeness.
+11. What is Modus Ponens in Propositional Logic?
+12. How can the compactness of a Bayesian Network be described?
+
+---
+
+### ChunkID: PCCAIML401_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. **(a)** What is Optimality of a Search Algorithm?
+
+   **(b)** What is Completeness of a Search Algorithm?
+
+   **(c)** What are the three major problems in Hill Climbing Search Algorithm?
+
+   **[5]**
+
+2. Explain Semantic Network in Artificial Intelligence. **[5]**
+
+3. Describe Bayesian Network in Artificial Intelligence. **[5]**
+
+4. Explain the features of Minimax Search Algorithm. **[5]**
+
+5. Prove the Chaining Rule using Wang’s Algorithm. **[5]**
+
+---
+
+### ChunkID: PCCAIML401_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** What is Schema?
+
+Define Order of Schema. **[2+1]**
+
+**(b)** Describe Crossover Probability in Genetic Algorithm (GA). **[4]**
+
+**(c)** Find solution by Genetic Algorithm cycle for
+
+[
+f(x)=x^2
+]
+
+in the interval
+
+[
+0 \le x \le 31
+]
+
+**[8]**
+
+---
+
+### 2.
+
+**(a)** What are the different types of Environment an Agent can have?
+
+Which type of environment is described in Chess Playing between two agents? **[7]**
+
+**(b)** How can an Agent’s behavior be best described? **[2]**
+
+**(c)** Distinguish between Percept-Based Agents and State-Based Agents with examples. **[6]**
+
+---
+
+### 3.
+
+**(a)** There are two jugs of size 4-gallon and 3-gallon respectively. Neither has any measuring mark on it. There is a pump which can be used to fill the jugs with water.
+
+How can we get exactly 2 gallons of water into one of the jugs?
+
+Implement A* Algorithm and obtain the solution for the given heuristics.
+
+[
+h(x)=2
+]
+
+when
+
+[
+0<X<4,\quad 0<Y<3
+]
+
+[
+h(x)=4
+]
+
+when
+
+[
+(X=0 \land Y=0)
+]
+
+or
+
+[
+(X=4 \land Y=3)
+]
+
+[
+h(x)=8
+]
+
+when
+
+[
+(X=0 \land Y=3)
+]
+
+or
+
+[
+(X=4 \land Y=0)
+]
+
+Consider (X) and (Y) as the amounts of water in the jugs at any moment of time. **[8]**
+
+**(b)** What are the different searching techniques under Uninformed Search? **[2]**
+
+**(c)** Describe the Learning Agent Structure. **[5]**
+
+---
+
+### 4.
+
+**(a)** Write down Wang’s Algorithm for theorem proving in Propositional Logic. **[5]**
+
+**(b)** Consider the following Knowledge Base:
+
+1. The-humidity-is-high ∨ The-sky-is-cloudy
+2. If The-sky-is-cloudy then It-will-rain
+3. If The-humidity-is-high then It-is-hot
+4. It-is-not-hot
+
+Goal:
+
+[
+\text{It-will-rain}
+]
+
+Prove by Resolution Theorem that the goal is derivable from the Knowledge Base. **[10]**
+
+---
+
+### 5.
+
+**(a)** What do you mean by Heuristic Function?
+
+What are Admissible and Consistent Heuristics?
+
+Justify the following statement:
+
+> "If a heuristic is consistent then it is admissible, but the reverse is not necessarily true."
+
+**[5]**
+
+**(b)** Consider the following problem:
+
+Three missionaries and three cannibals find themselves on one side of a river. They have agreed that they all would like to go to the other side.
+
+However, cannibals can attack missionaries if their number becomes greater than the number of missionaries on the same side.
+
+The only boat available can carry only two people at a time.
+
+Determine:
+
+* The Start State
+* The Goal State
+* The Legal Moves
+
+and draw the State Space Diagram for the problem.
+
+Explain how everyone can cross the river safely without any missionary being eaten. **[10]**
+
+---
+
+***END OF PAPER***

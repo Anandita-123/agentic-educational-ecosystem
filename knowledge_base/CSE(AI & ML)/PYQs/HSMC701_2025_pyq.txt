@@ -1,0 +1,66 @@
+**METADATA**
+
+* **Paper Code:** HSMC701 / HSMC701
+* **Subject Name:** Project Management and Entrepreneurship
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007559
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: HSMC701_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is entrepreneurship?
+2. What is convergent thinking?
+3. What is the role of incubation in entrepreneurship?
+4. Write the full form of SSI.
+5. State any two roles of entrepreneur.
+6. What is Project Life Cycle?
+7. What is CPM?
+8. If NPV > 1, the company ________ the proposal.
+9. What is design thinking?
+10. Design driven innovation is a ________ approach.
+11. Define the term Project Management.
+12. Define Work Breakdown Structure (WBS).
+
+---
+
+### ChunkID: HSMC701_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Briefly explain the steps in innovation management. **[5]**
+2. Discuss the 5 phases of project life cycle with the help of a chart. **[5]**
+3. Company C is planning to undertake a project requiring an initial investment of **$105 million**. The project is expected to generate **$25 million per year** in net cash flows for **7 years**. Calculate the payback period of the project. **[5]**
+4. Discuss the importance of Work Breakdown Structure (WBS). **[5]**
+5. Differentiate between PERT and CPM. **[5]**
+
+---
+
+### ChunkID: HSMC701_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Write a note about issues and problems in project management with examples. **[15]**
+
+2. (a) What is Blue Ocean Strategy? **[5]**
+   (b) What are the 5 principles of design thinking? **[5]**
+   (c) Is design driven innovation a push or pull approach? Explain. **[5]**
+
+3. Discuss the qualities of a prospective entrepreneur. **[15]**
+
+4. Discuss various types of funding options for an entrepreneur. **[15]**
+
+5. (a) What is TRIZ? **[10]**
+   (b) Explain McClelland’s theory in motivating entrepreneurs. **[5]**
+
+---
+
+***END OF PAPER***

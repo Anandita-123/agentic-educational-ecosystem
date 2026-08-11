@@ -1,0 +1,117 @@
+**METADATA**
+
+* **Paper Code:** BS-B401 / BSC401 / BSCA01 / BSC401
+* **Subject Name:** Biology
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 004408
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: BSB401_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. The portion of the growth curve where rapid growth of bacteria is observed is known as __________.
+2. The human eye can focus objects at different distances by adjusting the focal length of the eye lens. This is due to __________.
+3. What is meant by the term osmoregulation?
+4. Who is known as the father of genetics?
+5. What is meant by power of accommodation of the eye?
+6. Enzyme increases the rate of reaction by lowering the activation energy. Is this statement true or false?
+7. What is cistron?
+8. State two economically important uses of heterotrophic bacteria.
+9. What is the main function of kinase?
+10. The growth of bacterial population follows a geometric progression.
+
+(a) True
+
+(b) False
+
+11. Are viruses living or non-living?
+12. Fluid Thioglycollate medium is used for the cultivation of which type of organism?
+
+---
+
+### ChunkID: BSB401_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. How are cofactors different from prosthetic groups? **[5]**
+
+2. Give characteristics of genetic code. **[5]**
+
+3. Differentiate between DNA and RNA. **[5]**
+
+4. Explain Krebs Cycle. Draw a suitable flowchart for explanation. **[5]**
+
+5. The sequence of the coding strand of DNA in a transcription unit is mentioned below:
+
+[
+3' ; AATGCAGCTAATGG ; 5'
+]
+
+Write the sequence for:
+
+(i) Its complementary strand
+
+(ii) Its mRNA
+
+**[5]**
+
+---
+
+### ChunkID: BSB401_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+Illustrate the two models by which an enzyme holds the substrate. **[15]**
+
+---
+
+### 2.
+
+Explain the steps of Glycolysis in detail. **[15]**
+
+---
+
+### 3.
+
+Give functions of Proteins as receptors and structural elements. **[15]**
+
+---
+
+### 4.
+
+Describe the characteristics of the individuals with the following chromosomal abnormalities:
+
+* Trisomy at chromosome 21
+* XXY
+* XO
+
+**[15]**
+
+---
+
+### 5.
+
+A tall plant with red flowers (dominant) is crossed with a dwarf plant with white flowers (recessive).
+
+Work out a dihybrid cross and state the dihybrid ratio.
+
+What will be the effect on the dihybrid ratio if the two genes are interacting with each other?
+
+**[15]**
+
+---
+
+***END OF PAPER***

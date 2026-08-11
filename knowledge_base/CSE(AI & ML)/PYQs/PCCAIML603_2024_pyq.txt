@@ -1,0 +1,64 @@
+**METADATA**
+
+* **Paper Code:** PCCAIML603
+* **Subject Name:** Soft Computing
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006905
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCAIML603_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Computational power in ANNs is determined by ________
+2. The essential sites for recombination are known as ________
+3. How many types of random variables are there in fuzzy logic?
+4. What is the main intention of the defuzzyfication height method?
+5. Write some applications of Genetic Algorithm.
+6. Which process is carried out to separate chromosomal or genomic DNA?
+7. Automated vehicle is an example of ________
+8. Ultimate results are produced in ANN at ________
+9. Error correction learning is like "learning with teacher". Is it true or false?
+10. What is Simulated Annealing?
+11. Write down one example of active learning.
+12. In membership function graph, X axis represents which parameter?
+
+---
+
+### ChunkID: PCCAIML603_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write down the difference between hard computing and soft computing. **[5]**
+2. Explain how fuzzy logic is applied in home appliances? **[5]**
+3. State the difference between Adaline and Madaline networks. **[5]**
+4. Explain Crossover and Mutation with examples. **[5]**
+5. Write down the difference between crisp logic and fuzzy logic. **[5]**
+
+---
+
+### ChunkID: PCCAIML603_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Explain GA based clustering algorithm. **[15]**
+
+2. (a) The elements in two sets A and B are given as A = {2, 4} and B = {a, b, c}. Find the various Cartesian product of these two sets. **[10]**
+   (b) Explain convex fuzzy set and non-convex fuzzy set. **[5]**
+
+3. Write Short Notes on Particle Swarm Optimization (PSO). **[15]**
+
+4. Explain Mamdani fuzzy system. **[15]**
+
+5. Design a Hebb net to implement logical AND function. **[15]**
+
+---
+
+***END OF PAPER***

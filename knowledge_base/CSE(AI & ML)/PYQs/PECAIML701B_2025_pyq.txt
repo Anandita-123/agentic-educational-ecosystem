@@ -1,0 +1,99 @@
+**METADATA**
+
+* **Paper Code:** PECAIDS701B/PECAIML701B
+* **Subject Name:** Computer Vision
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007800
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAIDS701B_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. True or False: Morphological operations, such as erosion and dilation, are primarily used for sharpening image details.
+2. True or False: Feature extraction is the process of reducing the dimensionality of data while preserving relevant information.
+3. True or False: K-means is based on minimizing the sum of squared distances within clusters.
+4. True or False: Biometrics can include the analysis of physiological traits like fingerprints and iris patterns.
+5. What is the primary goal of edge detection in image processing?
+6. True or False: Edge detection is the process of identifying boundaries or sharp transitions in an image.
+7. True or False: In morphological operations, structuring elements are used to define the neighbourhood of each pixel in the image.
+8. True or False: The cosine similarity can be used to measure the similarity between documents in natural language processing.
+9. True or False: KNN is a non-parametric algorithm because it doesn't make assumptions about the underlying data distribution.
+10. True or False: In edge detection, the result is a binary image with edges highlighted in black and white.
+11. True or False: The LoG operator combines Gaussian smoothing and second-order derivative operations.
+12. True or False: The Sobel operator performs Gaussian smoothing as a preprocessing step.
+
+---
+
+### ChunkID: PECAIDS701B_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. You have an 8-bit grayscale image, and you want to compute its histogram. The image has the following pixel values: 100, 120, 130, 140, 120, 130, 130, 140, 150, 150, 160. Calculate the histogram for this image, showing the frequency of each pixel value. **[5]**
+2. How does FLDA differ from Principal Component Analysis (PCA)? **[5]**
+3. How is the Prewitt operator similar to the Sobel operator in edge detection? **[5]**
+4. Explain K-Medoids clustering technique. **[5]**
+5. Provide examples of real-world applications where PCA is commonly used for data analysis or feature reduction. **[5]**
+
+---
+
+### ChunkID: PECAIDS701B_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What is object detection in computer vision, and how does it differ from image classification and semantic segmentation? **[5]**
+   (b) Explain the concept of multimodal biometrics and how combining multiple biometric modalities can enhance recognition accuracy and security. **[5]**
+   (c) Describe a real-world application of activity recognition, such as human action recognition, and discuss its significance in fields like healthcare or security. **[5]**
+
+2. (a) In image enhancement, what role does contrast stretching play, and how does it improve image quality? **[6]**
+   (b) Give examples of common pre-processing techniques used to enhance image quality. **[4]**
+   (c) How is thresholding used in binary image analysis, and what are some common methods for selecting appropriate threshold values? **[5]**
+
+3. (a) What is the fundamental idea behind the K-nearest neighbors (KNN) algorithm? **[3]**
+   (b) How does the choice of the value of K affect the performance of the KNN algorithm? **[3]**
+   (c) What are the distance metrics commonly used in KNN, and how do they impact the algorithm's performance? **[6]**
+   (d) What is the curse of dimensionality, and how does it affect the KNN algorithm? **[3]**
+
+4. (a) Define semi-supervised learning in the context of computer vision and discuss its advantages compared to supervised and unsupervised learning. **[3]**
+   (b) What is the role of labeled and unlabeled data in semi-supervised learning, and how do they contribute to model training? **[3]**
+   (c) What are some real-world scenarios where semi-supervised learning is particularly useful in computer vision applications? **[3]**
+   (d) Discuss the trade-offs and challenges associated with semi-supervised learning, and how they impact its effectiveness in computer vision tasks. **[3]**
+   (e) Explain the concept of clustering in unsupervised learning and provide an example of its application in computer vision. **[3]**
+
+5. (a) Suppose you have a dataset with one-dimensional data points and you want to model it using a GMM with two components. You are given the following data points:
+   Data Points: [1.5, 2.0, 3.0, 3.5, 5.0, 5.5, 7.0, 7.5]
+   You decide to initialize the GMM with two components as follows:
+   Component 1:
+   - Mean (μ1): 2.0
+   - Standard Deviation (σ1): 1.0
+   - Weight (π1): 0.6
+   Component 2:
+   - Mean (μ2): 6.0
+   - Standard Deviation (σ2): 1.0
+   - Weight (π2): 0.4
+   Calculate the posterior probabilities of 1st data point belonging to each of the two components after one iteration of the Expectation-Maximization (EM) algorithm. **[8]**
+   (b) You have a dataset of one-dimensional data points with two components, and you want to model it using a Gaussian Mixture Model (GMM) with two components. You decide to apply the Expectation-Maximization (EM) algorithm to estimate the parameters of the GMM. You start with an initial guess for the model's parameters.
+   Initial Parameters:
+   Component 1:
+   - Mean (μ1): 2.0
+   - Standard Deviation (σ1): 1.0
+   - Weight (π1): 0.6
+   Component 2:
+   - Mean (μ2): 6.0
+   - Standard Deviation (σ2): 1.0
+   - Weight (π2): 0.4
+   Your goal is to perform one iteration of the EM algorithm to update the parameters of the GMM based on the given dataset.
+   1. Perform the Expectation step (E-step) to calculate the responsibilities (posterior probabilities) of each data point belonging to each component.
+   2. Perform the Maximization step (M-step) to update the parameters of the GMM based on the responsibilities.
+   Calculate the updated values of the parameters (μ, σ, and π) for both components after one iteration of the EM algorithm. **[7]**
+
+---
+
+***END OF PAPER***

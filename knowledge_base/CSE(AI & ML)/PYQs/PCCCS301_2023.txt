@@ -1,0 +1,149 @@
+**METADATA**
+
+* **Paper Code:** PCC-CSBS301 / PCC-CS301
+* **Subject Name:** Data Structure & Algorithms
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003443
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: PCCCS301_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the time complexity of an infix to postfix conversion algorithm?
+
+2. Which of the following is essential for converting an infix expression to postfix notation?
+
+3. A data structure is a particular way of __________ and __________ data either in computer memory or on disk storage so that it can be used efficiently.
+
+4. __________ is not a stable sorting algorithm.
+
+5. Time complexity of Bubble Sort in the best case is __________.
+
+6. When is a sorting technique called stable?
+
+7. What is the search complexity in direct addressing?
+
+8. What is the best case for Linear Search?
+
+9. Reverse Polish Notation is often known as __________.
+
+10. The values in a BST can be sorted in ascending order by using which traversal method?
+
+11. Which asymptotic notation comprises the set of all functions (h(n)) that are greater than or equal to
+
+[
+c \cdot g(n)
+]
+
+for all values of
+
+[
+n \ge n_0
+]
+
+?
+
+12. A circular queue is implemented using an array of size 10. The array index starts from 0, front = 6 and rear = 9.
+
+At which array index will the next insertion take place?
+
+---
+
+### ChunkID: PCCCS301_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write an algorithm for Binary Search Technique. **[5]**
+
+2. State the differences between Stack and Queue data structures. **[5]**
+
+3. Convert the following infix expression into postfix expression using Stack with detailed explanation:
+
+[
+A-(B/C+(D%E*F)/G)*H
+]
+
+**[5]**
+
+4. Show how the following polynomial can be represented using a Linked List:
+
+[
+7x^2y^2 - 4x^2y + 5xy^2 - 2
+]
+
+**[5]**
+
+5. Write the differences between B-Tree and B+ Tree. **[5]**
+
+---
+
+### ChunkID: PCCCS301_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Why is Circular Queue better than Simple Queue? **[3]**
+
+**(b)** Evaluate the postfix expression using Stack:
+
+[
+2\ 3\ 1\ *\ +\ 9\ -
+]
+
+**[4]**
+
+**(c)** Write a program to convert an infix expression into its equivalent postfix expression using Stack. **[8]**
+
+---
+
+### 2.
+
+Write the advantages, disadvantages and applications of Circular Linked List. **[15]**
+
+---
+
+### 3.
+
+**(a)** What are the Best Case, Worst Case and Average Case time complexities of Binary Search Algorithm? **[3]**
+
+**(b)** How does Linear Search differ from Binary Search? **[5]**
+
+**(c)** What are the preconditions for performing Binary Search on an array? **[2]**
+
+**(d)** Write a C program for Linear Search in an array. **[5]**
+
+---
+
+### 4.
+
+**(a)** What is a Stack ADT? Explain its operations. **[8]**
+
+**(b)** Write an algorithm to delete an item from a Circular Array Queue.
+
+Also determine the complexity of the algorithm. **[7]**
+
+---
+
+### 5.
+
+**(a)** Define Algorithm. **[2]**
+
+**(b)** What are the measures of performance of an algorithm? Explain. **[5]**
+
+**(c)** Define Asymptotic Notation and explain its types. **[8]**
+
+---
+
+***END OF PAPER***

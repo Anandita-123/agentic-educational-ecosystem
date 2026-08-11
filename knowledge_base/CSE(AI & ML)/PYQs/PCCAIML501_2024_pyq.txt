@@ -1,0 +1,120 @@
+**METADATA**
+
+* **Paper Code:** PCCAIDS501/PCCAIML501
+* **Subject Name:** Probability and Statistics
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005934
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCAIML501_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Find median and mode of the messages received on 9 consecutive days 15, 11, 9, 5, 18, 4, 15, 13, 17.
+   a) 13, 6
+   b) 13, 15
+   c) 18, 15
+   d) 15, 16
+2. A particular solution for an equation is derived by eliminating arbitrary constants.
+   a) True
+   b) False
+3. Suppose 5 men out of 100 men and 10 women out of 250 women are colour blind. Find the total probability of colour blind people. (Assume that both men and women are in equal numbers.)
+   a) 0.45
+   b) 0.045
+   c) 0.05
+   d) 0.5
+4. The probability that at least one of the events M and N occur is 0.6. If M and N have probability of occurring together as 0.2, then P(M) + P(N) is?
+   a) 0.4
+   b) 1.2
+   c) 0.8
+   d) Indeterminate
+5. Under ideal assumptions, what is the two-dimensional heat equation?
+   a) u_t = c∇²u = c(u_xx + u_yy)
+   b) u_t = c²u_xx
+   c) u_t = c²∇²u = c²(u_xx + u_yy)
+   d) u_t = ∇²u = (u_xx + u_yy)
+6. If the standard deviation of a population is 50 and the sample size is 16 then the standard deviation of the sampling distribution is
+   a) 11.25
+   b) 12.25
+   c) 13.25
+   d) 14.25
+7. Find the mean of a random variable X if f(x) = x - 5/2 for 0 < x < 1, = 2x for 1 < x < 2, = 0 otherwise.
+   a) 3.5
+   b) 3.75
+   c) 2.5
+   d) 2.75
+8. Chebyshev's inequality states that the probability of a "Six Sigma" event is less than
+   a) 10%
+   b) 20%
+   c) 30%
+   d) 3%
+9. Which of the following is an example for first order linear partial differential equation?
+   a) Lagrange's Partial Differential Equation
+   b) Clairaut's Partial Differential Equation
+   c) One-dimensional Wave Equation
+   d) One-dimensional Heat Equation
+10. Point out the correct statement.
+    a) Some cumulative distribution function F is non-decreasing and right-continuous
+    b) Every cumulative distribution function F is decreasing and right-continuous
+    c) Every cumulative distribution function F is increasing and left-continuous
+    d) None of the mentioned
+11. The probability that the political party A does a particular work is 30% and the political party B doing the same work is 40%. Then find the probability that the work is completed if the probability of choosing the political party A is 40% and that of B is 60%.
+    a) 0.12
+    b) 0.24
+    c) 0.36
+    d) 0.48
+12. The probability that a bomb dropped from a place will strike the target is 60% and 10 bombs are dropped. Find mean and variance.
+    a) 0.6, 0.24
+    b) 6, 2.4
+    c) 0.4, 0.16
+    d) 4, 1.6
+
+---
+
+### ChunkID: PCCAIML501_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. For a random sample space of size 20 it was found that mean and the standard deviation are respectively 20 and √35. After this computation were performed it was found that the sample values listed as 5 and 15 were incorrect. Find the mean and standard deviation of the correct sample if the above mentioned data were actually 9 and 12. **[5]**
+2. Solve: $(y^3x - 2x^4)p + (2y^4 - x^3y)q = 9z(x^2 - y^3)$ **[5]**
+3. One card is drawn from a deck of 52 cards, well-shuffled. Calculate the probability that the card will **[5]**
+   (i) be an ace,
+   (ii) not be an ace.
+4. Let p denote the probability of getting a head when a given coin is tossed once. Suppose that the hypothesis H0: p = 0.5 is rejected in favor of H1: p = 0.6 if 10 trials result in 7 or more heads. Calculate the probability of type I and type II errors. **[5]**
+5. A batch of 40 components contains 5 defectives. A component is drawn at random from the batch and tested and then a second component is drawn. Determine the probability that neither of the components is defective when drawn (a) with replacement and (b) without replacement. **[5]**
+
+---
+
+### ChunkID: PCCAIML501_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. In a binary communication channel the probability that transmitted zero is received as zero is 0.95 and the probability that a transmitted one is received as one as 0.9. Assuming that the probability that a zero is transmitted is 0.4. Find- **[7+8]**
+   a) The probability that a one is received.
+   b) The probability that a one was transmitted given that a one was received.
+
+2. Three students are removed at random from a CR committee of the stream CSE consisting of 9 students. Two of which are from first year, 3 from second year, and 4 from third year. Find the probability that **[5+5+5]**
+   a) all the 3 students belong to different classes.
+   b) two students belongs to same class.
+   c) all the 3 students belongs to the same class.
+
+3. There are two newspapers X and Y in a city. It is estimated from a survey that 60% read X, 40% read Y and 5% read both. Find the probabilities that a randomly selected person **[8+7]**
+   a) does not read any news paper.
+   b) reads only Y.
+
+4. There are three children in a family. What is the probability that **[7+8]**
+   a) All the children are boys it being given that eldest two are boys.
+   b) All the children are boys it being known that at least two of them are boys.
+
+5. Find the mean and variance of Poisson distribution. **[15]**
+
+---
+
+***END OF PAPER***

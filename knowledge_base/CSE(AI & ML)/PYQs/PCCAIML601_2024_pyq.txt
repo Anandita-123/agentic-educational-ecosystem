@@ -1,0 +1,71 @@
+**METADATA**
+
+* **Paper Code:** PCCAIML601
+* **Subject Name:** Machine Learning Applications
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006903
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCAIML601_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. ________ is the clustering method which takes care of variance in data.
+2. ________ clustering technique requires a merging approach.
+3. What does K stand for in K-means algorithm?
+4. ________ clusters formed in this method forms a tree-type structure based on the hierarchy.
+5. Concept learning is also known as ________
+6. The Candidate-Elimination Algorithm represents the ________
+7. Decision tree is a ________ algorithm.
+8. Suppose, your target variable is the price of a house using Decision tree. What type of tree do you need to predict the target variable?
+9. ________ algorithm is used for solving temporal probabilistic reasoning.
+10. ________ is the machine learning algorithms that can be used with unlabeled data.
+11. ________ is not a supervised learning.
+12. Deep reinforcement learning has produced ________
+
+---
+
+### ChunkID: PCCAIML601_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Compare SVM and Logistic Regression in handling outliers. **[5]**
+2. What are the differences between Linear Regression and Logistic Regression? **[5]**
+3. What do you understand by Reinforcement Learning technique? **[5]**
+4. What are some applications of Unsupervised Learning? **[5]**
+5. How can overfitting be avoided? **[5]**
+
+---
+
+### ChunkID: PCCAIML601_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What is 'Training set' and 'Test set'? **[5]**
+   (b) How do classification and regression differ? **[5]**
+   (c) What do you understand by Accuracy? **[5]**
+
+2. (a) Which should be preferred among Gini impurity and Entropy? Explain. **[7]**
+   (b) What do you understand about Information Gain? Also, explain the mathematical formulation associated with it. **[8]**
+
+3. (a) List down some popular algorithms used for deriving Decision Trees and their attribute selection measures. **[5]**
+   (b) Explain the CART Algorithm for Decision Trees. **[5]**
+   (c) Briefly explain the properties of Gini Impurity. **[5]**
+
+4. (a) What do you understand by the Confusion Matrix? **[7]**
+   (b) Explain True Positive, True Negative, False Positive, and False Negative in Confusion Matrix with an example. **[8]**
+
+5. (a) What is Bagging and Boosting? **[5]**
+   (b) What do you understand by Cluster Sampling? **[5]**
+   (c) Why are PCA, KPCA and ICA used? **[5]**
+
+---
+
+***END OF PAPER***

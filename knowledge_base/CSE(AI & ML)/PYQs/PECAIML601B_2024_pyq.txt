@@ -1,0 +1,69 @@
+**METADATA**
+
+* **Paper Code:** PECAIML601B
+* **Subject Name:** Data Mining
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006907
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Define data warehouse.
+2. Define underfitting.
+3. What is testing data?
+4. Provide one real-life example of regression analysis.
+5. Write down the full form of LARS.
+6. What is lift curve?
+7. Define sparse data.
+8. Define noise.
+9. Define standardization of data.
+10. Define the concept of high bias in relation training a model.
+11. Mention any important feature of random forest.
+12. Mention what learning rate defines about network parameters.
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write down the concept of linear regression with example. **[5]**
+2. State and explain the major tasks involved in data preprocessing. **[5]**
+3. Write down and explain the principle of Naive Bayes classifier. **[5]**
+4. State and discuss the major steps involved in the task of knowledge discovery. **[5]**
+5. Explain with example the geometric intuition behind SVM? **[5]**
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Discuss the various major components of a mining system with proper diagram. **[10]**
+   (b) Write down any 5 differences between prediction and classification. **[5]**
+
+2. (a) Explain feed forward neural network with respective relations and diagrams. **[8]**
+   (b) Write down the perceptron model with proper representation and diagram. **[7]**
+
+3. (a) Explain Decision tree classifier algorithm with proper diagram and mention the algorithm. **[10]**
+   (b) Explain any one (1) of the following terminologies associated with decision tree: Information Gain OR Gini Index **[5]**
+
+4. (a) What is association rule mining? Mention the steps associated it. **[3]**
+   (b) Mention the various metrics associated with association rule mining and describe them briefly with respective mathematical expressions. **[9]**
+   (c) What is F-P tree? Write any two advantages of it. **[3]**
+
+5. (a) Define confusion matrix and explain the same with corresponding metric name for each cell. **[6]**
+   (b) Define the following terms derived from confusion matrix with related equations: Sensitivity, Specificity, Precision. **[9]**
+
+---
+
+***END OF PAPER***

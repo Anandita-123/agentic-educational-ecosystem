@@ -1,0 +1,295 @@
+**METADATA**
+
+* **Paper Code:** PC-ECS301 / PCC-CS301 / PCC-CSBS301 / PCCCS301
+* **Subject Name:** Data Structure & Algorithms
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003443
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: PCCCS301_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the disadvantage of Array Data Structure?
+
+   (a) The amount of memory to be allocated should be known beforehand.
+
+   (b) Elements of an array can be accessed in constant time.
+
+   (c) Elements are stored in contiguous memory blocks.
+
+   (d) Multiple other data structures can be implemented using arrays.
+
+2. Which of the following data structures allow insertion and deletion from both ends?
+
+   (a) Stack
+
+   (b) Deque
+
+   (c) Queue
+
+   (d) Strings
+
+3. Which of the following sorting algorithms provides the best time complexity in the worst-case scenario?
+
+   (a) Merge Sort
+
+   (b) Quick Sort
+
+   (c) Bubble Sort
+
+   (d) Selection Sort
+
+4. Worst-case time complexity to access an element in a BST can be:
+
+[
+O(n)
+]
+
+[
+O(n\log n)
+]
+
+[
+O(1)
+]
+
+[
+O(\log n)
+]
+
+5. How are Strings represented in memory in C?
+
+   (a) An array of characters
+
+   (b) Object of some class
+
+   (c) Same as other primitive data types
+
+   (d) Linked list of characters
+
+6. Which of the following data structures can be used to implement Queues?
+
+   (a) Stack
+
+   (b) Arrays
+
+   (c) Linked List
+
+   (d) Both b and c
+
+7. Which of the following is a Divide and Conquer algorithm?
+
+   (a) Bubble Sort
+
+   (b) Selection Sort
+
+   (c) Heap Sort
+
+   (d) Merge Sort
+
+8. What is the best-case time complexity of Binary Search?
+
+   (a)
+
+[
+O(1)
+]
+
+(b)
+
+[
+O(n)
+]
+
+(c)
+
+[
+O(\log_2 n)
+]
+
+(d)
+
+[
+O(n^2)
+]
+
+9. What is the time complexity to insert an element at the front of a Linked List (head pointer given)?
+
+   (a)
+
+[
+O(n)
+]
+
+(b)
+
+[
+O(1)
+]
+
+(c)
+
+[
+O(\log n)
+]
+
+(d)
+
+[
+O(n\log n)
+]
+
+10. In a B+ Tree, both internal nodes and leaves have keys.
+
+State **True / False**.
+
+11. What is the time complexity of an Infix to Postfix conversion algorithm?
+
+(a)
+
+[
+O(N\log N)
+]
+
+(b)
+
+[
+O(N^2)
+]
+
+(c)
+
+[
+O(N)
+]
+
+(d)
+
+[
+O(\log N)
+]
+
+12. What is a Hash Table?
+
+(a) A structure that maps values to keys.
+
+(b) A structure that maps keys to values.
+
+(c) A structure used for storage.
+
+(d) A structure used to implement Stack and Queue.
+
+---
+
+### ChunkID: PCCCS301_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write an algorithm to create a Linear Linked List with (n) nodes. **[5]**
+
+2. Write an algorithm to insert an element in a Circular Queue. **[5]**
+
+3. Justify the statement with proper example:
+
+   > All Binary Search Trees are Binary Trees but all Binary Trees are not Binary Search Trees.
+
+   **[5]**
+
+4. Find the time complexity of the recursive algorithm of Tower of Hanoi. **[5]**
+
+5. Convert the following infix expression into postfix expression:
+
+[
+A * B * C - D $ F / H
+]
+
+**[5]**
+
+---
+
+### ChunkID: PCCCS301_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+Create an AVL Tree by inserting the following numbers in the given order:
+
+[
+17,\ 25,\ 19,\ 23,\ 75,\ 6
+]
+
+Explain each step with suitable diagrams. **[8]**
+
+What is a Threaded Binary Tree?
+
+What are its advantages? **[3+4]**
+
+---
+
+### 2.
+
+Define Queue and its applications.
+
+Write an algorithm for insertion and deletion from Queue. **[5+5+5]**
+
+---
+
+### 3.
+
+**(a)** Define Circular Linked List and Doubly Linked List. **[3+4]**
+
+**(b)** Write an algorithm to delete an element from a Doubly Linked List.
+
+Consider the following cases:
+
+* First node deletion
+* Last node deletion
+* Intermediate node deletion
+
+**[4+4]**
+
+---
+
+### 4.
+
+**(a)** Write a Quick Sort algorithm to sort a list.
+
+Explain with an example. **[9]**
+
+**(b)** Prove that the best-case time complexity of Quick Sort is
+
+[
+O(n\log n)
+]
+
+for input size (n). **[6]**
+
+---
+
+### 5.
+
+Write short notes on any three of the following: **[15]**
+
+(a) AVL Tree
+
+(b) Dequeue and Priority Queue
+
+(c) Collision Resolution Techniques in Hashing
+
+(d) BFS (Breadth First Search)
+
+---
+
+***END OF PAPER***

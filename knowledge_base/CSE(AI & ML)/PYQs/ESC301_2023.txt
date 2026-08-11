@@ -1,0 +1,209 @@
+**METADATA**
+
+* **Paper Code:** ESC301 / PC-ROB301
+* **Subject Name:** Analog and Digital Electronics
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003442
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: ESC301_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. In the astable multivibrator, up to what voltage does the capacitor charge?
+
+2. The state (1110) is a valid state in an 8-4-2-1 Binary Coded Decimal (BCD) counter.
+
+   State **True / False**.
+
+3. A 4-bit MOD-16 ripple counter uses JK flip-flops. If the propagation delay of each flip-flop is
+
+[
+100,ns
+]
+
+what will be the maximum clock frequency (in MHz) that can be used in the counter?
+
+4. In asynchronous circuits, race condition always arises.
+
+   State **True / False**.
+
+5. What is the minimum number of NAND gates required to design a Full Adder circuit?
+
+6. Which type of ADC (Analog-to-Digital Converter) is the slowest of all?
+
+7. Which A/D converter is used for high-speed operation?
+
+8. The input of a Schmitt Trigger is a sawtooth wave. What will be the shape of the output?
+
+9. The output (Y) of the logic circuit shown below is ________.
+
+10. Five JK flip-flops are cascaded to form the circuit shown in the figure. Clock pulses of frequency
+
+[
+1,MHz
+]
+
+are applied.
+
+What will be the frequency (in kHz) of the waveform at (Q_3)?
+
+11. If
+
+[
+(212)*X = (23)*{10}
+]
+
+where (X) is the base of the number system, find (X).
+
+12. A MOD-(n) counter using a synchronous binary up-counter with synchronous clear input is shown in the figure.
+
+What will be the value of (n)?
+
+---
+
+### ChunkID: ESC301_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Perform conversion of D Flip-Flop to JK Flip-Flop. **[5]**
+
+2. Perform conversion of SR Flip-Flop to JK Flip-Flop. **[5]**
+
+3. Design a (5)-to-(32) decoder using (3)-to-(8) decoder and (2)-to-(4) decoder. **[5]**
+
+4. Figure shows a (4:1) MUX to be used to implement the Sum (S) of a 1-bit Full Adder with input bits (P), (Q) and carry input (C_{in}).
+
+Find the combinations of inputs (I_0, I_1, I_2, I_3) of the MUX which will realize the Sum (S). **[5]**
+
+5. Find the oscillation frequency (f) of the phase shift oscillator when
+
+[
+R = 10,k\Omega
+]
+
+and
+
+[
+C = 6.5,nF
+]
+
+**[5]**
+
+---
+
+### ChunkID: ESC301_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** In the given MUX, the output is
+
+[
+F=A\oplus B
+]
+
+What will be the inputs
+
+[
+I_0,\ I_1,\ I_2,\ I_3
+]
+
+? **[5]**
+
+**(b)** Check the following digital circuit.
+
+What will be the equivalent logic gate of the whole circuit? **[5]**
+
+**(c)** What will be the minimized output (F) of the given circuit? **[5]**
+
+---
+
+### 2.
+
+**(a)** Define:
+
+* Voltage Amplifier
+* Current Amplifier
+* Power Amplifier
+
+**[3]**
+
+**(b)** Write the different classes of Power Amplifier. **[3]**
+
+**(c)** Draw the circuit diagram of a Class-B Push-Pull Transistor Amplifier and explain its operation. **[5]**
+
+**(d)** Derive the maximum efficiency of a Class-B Amplifier. **[4]**
+
+---
+
+### 3.
+
+**(a)** To realize the given truth table from the circuit shown in the figure, find the input to (J) in terms of (A) and (B). **[7]**
+
+The corresponding state table is:
+
+| A | B | (Q_{n+1})        |
+| - | - | ---------------- |
+| 0 | 0 | (\overline{Q_n}) |
+| 0 | 1 | 1                |
+| 1 | 0 | (Q_n)            |
+| 1 | 1 | 0                |
+
+**(b)** What is the equivalent flip-flop of the digital circuit shown below?
+
+Explain with reason. **[4]**
+
+**(c)** The clock frequency applied to the digital circuit shown below is
+
+[
+1,kHz
+]
+
+If the initial state of the flip-flop output is (0), determine the frequency of the output waveform (Q) in kHz. **[4]**
+
+---
+
+### 4.
+
+**(a)** Find the simplified form of the Boolean expression
+
+[
+Y=(A'BC+D)(A'D+B'C')
+]
+
+**[8]**
+
+**(b)** The output (F) of the decoder circuit can be realized with best logic gates.
+
+Find the Boolean expression. **[7]**
+
+---
+
+### 5.
+
+**(a)** Draw the circuit diagram of an Astable Multivibrator using IC 555 Timer. **[6]**
+
+**(b)** Derive the expression for:
+
+* Duty Cycle
+* Frequency of Oscillation
+
+for the Astable Multivibrator. **[6]**
+
+**(c)** Explain why this circuit is called a Free Running Oscillator. **[3]**
+
+---
+
+***END OF PAPER***

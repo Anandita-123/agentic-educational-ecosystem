@@ -1,0 +1,71 @@
+**METADATA**
+
+* **Paper Code:** PCCCS503
+* **Subject Name:** Object Oriented Programming
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005504
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCCS503_2023-2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Give an example of illegal identifier.
+2. What is bytecode in context of java?
+3. Applet can be used for generating static or dynamic webpage?
+4. Arrays in java are objects or classes?
+5. Java compiler is written in which language?
+6. What cannot be used for variable name in java?
+7. What is a package in java?
+8. Why java is called robust programming language?
+9. JVM is platform independent or not?
+10. The relation between classes can be represented by what?
+11. Exception created by try block is caught in which block?
+12. When finalize() method is called
+
+---
+
+### ChunkID: PCCCS503_2023-2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is thread? Explain thread creation methods. **[5]**
+2. Write down the differences between procedure-oriented and object-oriented programming. **[5]**
+3. What does the JVM do? Why java is called compiler-interpreter language? **[5]**
+4. How inheritance is incorporated in java? Is it possible in java to implement multiple inheritance? **[5]**
+5. Discuss Applet life cycle indicating the functions. **[5]**
+
+---
+
+### ChunkID: PCCCS503_2023-2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. a) What are exceptions? Explain the user defined exceptions and system defined exceptions with suitable examples.
+   b) How do we define try and catch block? Is it essential to catch all types of exceptions? **[15]**
+2. a) How applet is different from frame and panel? Explain.
+   b) How threads are made to communicate with each other? Explain with example.
+   c) Explain any three events with suitable example. **[15]**
+3. Write short notes from any three of the following:
+   a) Interface
+   b) Abstraction
+   c) Inheritance
+   d) Encapsulation
+   e) Virtual method table **[15]**
+4. a) Explain method overloading with an example.
+   b) What is class? How does it accomplish data hiding?
+   c) What is constructor? What does the finalize method() do? **[15]**
+5. a) Explain thread life cycle
+   b) Discuss Applet life cycle indicating the functions
+   c) What are wrapper classes? Why do we need wrapper classes? What is byte code? **[15]**
+
+---
+
+***END OF PAPER***

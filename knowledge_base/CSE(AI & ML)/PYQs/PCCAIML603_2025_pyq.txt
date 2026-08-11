@@ -1,0 +1,65 @@
+**METADATA**
+
+* **Paper Code:** PCCAIML603
+* **Subject Name:** Soft Computing
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006918
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PCCAIML603_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. To generate the final output, the sum is passed on to a non-linear filter called ________ activation function.
+2. If the associated pattern pairs (x,y) are different and if the model recalls a y given an x or vice versa, then it is termed as ________
+3. The structural constituent of a human brain is known as ________
+4. ________ is a Systematic method for training multilayer artificial neural network.
+5. ________ is the analogous version of ART.
+6. ________ is never assured of finding global minimum as in the simple layer delta rule case.
+7. What is Tabu Search?
+8. ________ function is a continuous function that varies gradually between the asymptotic values 0 and 1 or -1 and +1.
+9. Write the applications of Back Propagation.
+10. BAM stands for ________
+11. ________ of the network means that a pattern should not oscillate among different cluster units at different stages of training.
+12. What is Ant Colony Optimization (ACO)?
+
+---
+
+### ChunkID: PCCAIML603_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain the difference between hard and soft computing. **[5]**
+2. Explain Mamdani Fuzzy Models. **[5]**
+3. Explain Hebbian learning with suitable example. **[5]**
+4. Explain crossover and mutation with suitable example. **[5]**
+5. Explain Simulated Annealing in brief. **[5]**
+
+---
+
+### ChunkID: PCCAIML603_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Explain the single layer Neural Network architecture using Perceptron model with suitable diagram. **[10]**
+   (b) Explain perceptron convergence theorem. **[5]**
+
+2. Using Mamdani fuzzy model, Design a fuzzy logic controller to determine the wash time of domestic washing machine. Assume that the inputs are dirt and grease on cloths. Use 3 descriptors for each input variables and five descriptors for output variables. Derive necessary membership function and required fuzzy rules for the application. **[15]**
+
+3. Explain the Hopfield Networks. With the help of an example explain Supervised, Unsupervised, Reinforcement learning. What is ADALINE? Why it is trained using least mean square rule? **[15]**
+
+4. Explain the Roulette wheel technique for traditional GA selection. Describe the various stopping conditions for genetic algorithm flow. Compare and contrast traditional algorithm and genetic algorithm. **[15]**
+
+5. (a) Using inference approach, find the membership values for each of the triangular shapes (I, R, IR, E, T) for a triangle with angles 120°, 50°, 10°. Represent the standard fuzzy set operations using Venn diagram. **[8]**
+   (b) Examine the various aspects of sigmoidal activation function. List the drawbacks. **[7]**
+
+---
+
+***END OF PAPER***

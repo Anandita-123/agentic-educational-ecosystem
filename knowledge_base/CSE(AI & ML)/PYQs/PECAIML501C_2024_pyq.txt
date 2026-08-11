@@ -1,0 +1,70 @@
+**METADATA**
+
+* **Paper Code:** PECAIDS501D/PECAIML501C
+* **Subject Name:** Graph Theory
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005933
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PECAIDS501D_2023-2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Which of the following is a condition for graph isomorphism?
+2. The maximum number of times the decrease key operation performed in Dijkstra's algorithm will be equal to ________.
+3. What is a chromatic index?
+4. Floyd Warshall's Algorithm can be applied on ________.
+5. For a connected planar simple graph G = (V, E) with e = |E| = 16 and v = |V| = 9, what will be the number of regions in a planar representation of the graph?
+6. Dijkstra's Algorithm cannot be applied on ________.
+7. Number of edges in a maximum independent line set of G (β1) is ________.
+8. Given a graph G, the maximum clique size of G would be ________.
+9. An isomorphism of graphs G and H is a bijection of the vertex sets of G and H, such that any two vertices u and v of G are adjacent in G if and only if ________.
+10. How many solution/solutions are available for a graph having negative weight cycle?
+11. A Chordal Graph is a graph that ________.
+12. For a given graph G, when can we say it has a perfect matching?
+
+---
+
+### ChunkID: PECAIDS501D_2023-2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is the "Chinese Postman Problem"? Explain it with the help of the following diagram. **[5]**
+   
+   *[Diagram Description: An undirected, weighted graph with vertices A, B, C, D, E, F, G, H and edge weights: E-B=70, E-F=70, B-F=50, B-A=50, B-D=50, A-D=50, A-C=50, D-F=60, D-C=70, F-H=60, C-H=120, C-G=70, G-H=70]*
+
+2. What is adjacency of a graph? What is adjacency matrix? Calculate the adjacency matrix of the following graph: **[5]**
+   
+   *[Diagram Description: A directed graph with 6 vertices labeled 1 to 6. Directed edges exist between: 6->2, 2->1, 1->6, 6->1, 2->5, 1->5, 3->2, 3->5, 5->3, 5->6, 6->5, 4->6, 5->4]*
+
+3. What is the shortest path in an unweighted graph? How many ways we can possibly find the shortest path in a graph? Explain. **[5]**
+4. Can Dijkstra's Shortest Path algorithm be performed on graphs containing negative edge weights? Explain. **[5]**
+5. What is a Greedy Algorithm? What is a vertex-cover problem? Explain. **[5]**
+
+---
+
+### ChunkID: PECAIDS501D_2023-2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. What are connected graphs? Explain. What are single-source and all-pairs shortest paths? Explain Floyd-Warshall algorithm with suitable example. **[15]**
+2. What are cut-vertices and cut-edges? Explain with example. What will be cut vertices for the following graph? Explain. What are bridge and articulation point? **[15]**
+   
+   *[Diagram Description: A connected graph with vertices linked sequentially and in small clusters: a-b, b-c, c-d, c-g, d-f, g-f, f-e, e-h, h-i, i-o, i-j, j-k, j-l, k-l, l-m, l-n]*
+
+3. What is an Approximation Algorithm? Discuss the features of this algorithm. What is a Greedy Algorithm? What is a vertex-cover problem? Explain. **[15]**
+4. What is Brook's theorem for chromatic number? Explain with suitable example. What is graph coloring? What is the Vizing theorem? Explain. **[15]**
+5. Show whether the following graph is Hamiltonian or not. What is the degree(s) of a vertex? Explain with suitable examples. Elaborate an introductory idea on reducing a larger graph to smaller sub graphs. **[15]**
+   
+   *[Diagram Description: A cyclic hexagon graph with vertices A, B, C, D, E, F connected in a ring: A-B-C-D-E-F-A]*
+
+---
+
+***END OF PAPER***

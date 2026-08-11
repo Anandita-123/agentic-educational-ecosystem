@@ -1,0 +1,126 @@
+**METADATA**
+
+* **Paper Code:** HSMC301
+* **Subject Name:** Economics for Engineers (Humanities-II)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003446
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: HSMC301_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. How does inflation help in the redistribution of income?
+
+2. When market value of an asset is higher than book value, then depreciation is not charged. (True / False)
+
+3. What do you mean by Cash Flow Diagram?
+
+4. The cash flow method utilized by the Internal Rate of Return (IRR) and Net Present Value (NPV) method is known as __________.
+
+5. What is Inflation?
+
+6. If adequate maintenance expenditure is incurred, there is no need of charging depreciation. (True / False)
+
+7. Time Value of Money theory describes that money received at the current time is more valuable than money received in the future. (True / False)
+
+8. Cash flow from sale of investment by a non-financial enterprise is considered an investment activity. (True / False)
+
+9. The minimum expected rate of return needed to persuade an investor to purchase a security at a given risk is called __________ rate of return.
+
+10. The main objective of depreciation is calculation of net profit. (True / False)
+
+11. What is Working Capital?
+
+12. The degree of correlation between risk and return over a longer period of time is generally believed to be highly positive. (True / False)
+
+---
+
+### ChunkID: HSMC301_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What are the three types of cash flows presented in the Statement of Cash Flows? **[5]**
+
+2. What is Green Engineering? **[5]**
+
+3. Write a short note on expenditures for depreciable assets by business firms. **[5]**
+
+4. Is there any necessity of Discrete Probability Distribution? **[5]**
+
+5. "Estimation is the foundation of economic analysis." Explain. **[5]**
+
+---
+
+### ChunkID: HSMC301_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** What is the Benefit-Cost Ratio (BCR)? **[6]**
+
+**(b)** What is the Benefit-Cost Ratio (BCR) used for? **[1]**
+
+**(c)** What does a Benefit-Cost Ratio greater than 1.0 suggest? **[2]**
+
+**(d)** What are the limitations of BCR? **[6]**
+
+---
+
+### 2.
+
+**(a)** What is Time Value of Money? **[2]**
+
+**(b)** What is the difference between annually compounded interest and continuously compounded interest? **[4]**
+
+**(c)** What does Net Present Value (NPV) mean? **[5]**
+
+**(d)** Why is the Time Value of Money important? **[4]**
+
+---
+
+### 3.
+
+**(a)** Explain improvement with Learning Curve. **[7]**
+
+**(b)** What is Triangulation? **[8]**
+
+---
+
+### 4.
+
+**(a)** What are the advantages of Future Worth Method? **[8]**
+
+**(b)** What are the disadvantages of Future Worth Method? **[7]**
+
+---
+
+### 5.
+
+**(a)** How is Consumer Price Index (CPI) used to measure inflation? **[5]**
+
+**(b)** Does an increase in CPI mean inflation? **[2]**
+
+**(c)** What are the probability distributions for the annual benefit and project life for the following project?
+
+* The most likely annual benefit is **$8000** with a probability of **60%**.
+* There is a **30%** probability that the annual benefit will be **$5000**.
+* The highest likely annual benefit is **$10,000**.
+* A project life of **6 years** is twice as likely as a project life of **9 years**.
+
+**[8]**
+
+---
+
+***END OF PAPER***

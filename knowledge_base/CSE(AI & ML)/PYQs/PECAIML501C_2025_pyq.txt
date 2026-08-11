@@ -1,0 +1,82 @@
+**METADATA**
+
+* **Paper Code:** PECAI501C/PECAIDS501D/PECAIML501C
+* **Subject Name:** Graph Theory
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005933
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAI501C_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Does a graph with degree sequence {1, 3, 5, 6, 6} exist?
+2. What is the maximum number of edges in a connected simple graph with n vertices?
+3. Mention the important property of a bipartite graph $K_{m,n}.$
+4. What is the independence number of a star graph with 7 vertices?
+5. Can the chromatic number of a graph be larger than its order?
+6. Draw a graph that is regular but not complete.
+7. What is the termination condition for Dijkstra's algorithm?
+8. What does the Laplacian matrix of a graph represent?
+9. Write down the number of perfect matchings in $K_{6}$.
+10. Is the Gupta-Vizing bound always achievable?
+11. What is the primary difference between a subgraph and an induced subgraph?
+12. Mention the main difference between a connected graph and a strongly connected graph.
+
+---
+
+### ChunkID: PECAI501C_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What do you mean by a spanning tree? Illustrate with an example that every connected graph contains a spanning tree. **[5]**
+2. Define Perfect Matching. Find out the perfect matchings of the following graph. Then prove that every perfect matching is maximum matching. **[5]**
+   *[Diagram Description: A graph with 6 vertices $v_1$ to $v_6$. $v_1$ connects to $v_2, v_6$ via edges $e_1, e_6$. $v_2, v_3, v_5, v_6$ form a rectangle with a diagonal edge $e_8$ from $v_2$ to $v_5$. $v_3$ connects to a pendant vertex $v_4$ via edge $e_3$. Edges labeled $e_1$ to $e_8$.]*
+3. What Is a Digraph? Explain the Directed Hamiltonian Graph and Eulerian Graph with examples. **[5]**
+4. Show that the given pair of graphs are isomorphic. **[5]**
+   *[Diagram Description: Graph $G_1$ is a regular pentagon with vertices a, b, c, d, e forming a cycle. Graph $G_2$ is a pentagram (a 5-pointed star) with vertices a', b', c', d', e' forming an intersecting cycle pattern.]*
+5. Two large families have decided to enter into an alliance of marriage. The first family has 7 men and second, has 7 women. The ages of the two family members matchup. The families insist that everyone must marry someone of their own age or someone one position younger or older. The Graph representing agreeable marriage looks like this.
+   a) How many marriage agreements are possible if exactly 4 men marry women not their own age?
+   b) How many total marriage agreements for 7 men and 7 women?
+   c) Give a recurrence relation that fits the problem. **[5]**
+   *[Diagram Description: A bipartite graph representing a matching scenario between two sets of 7 nodes arranged in parallel lines. Each node connects to its direct parallel counterpart and to the immediate adjacent counterparts, forming a repeating 'W' or zigzag shape across the 14 nodes.]*
+
+---
+
+### ChunkID: PECAI501C_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Compute the number of spanning tree of $K_{4}$ using Kirchoff's matrix tree theorem and show that the number of spanning tree is $n^{n-2}$. **[5]**
+   (b) Use Fleury's Algorithm to construct an Euler circuit for the following graph. **[5]**
+   *[Diagram Description: A graph consisting of two diamond-shaped subgraphs (A-B-C-D with diagonal A-C, and E-F-G-H with diagonal E-G) connected by a single central edge C-E, and a long outer curving edge connecting A directly to G.]*
+   (c) Determine the existence of Euler path or Euler circuit in the following graph and trace it. **[5]**
+   *[Diagram Description: A multi-graph with vertices A, B, C, D. There are two parallel edges between A and B (labeled a and b). Other edges are A-D (c), D-C (d), B-C (e), and A-C (f).]*
+2. (a) What is maximum matching? Find out the five maximum matchings of the following graph. Write down the matching number of the graph. **[6]**
+   *[Diagram Description: A highly connected graph with 7 vertices ($v_1$ to $v_7$) and 9 edges ($e_1$ to $e_9$). The vertices are arranged with a horizontal line $v_5-v_2$ intersecting a diamond shape $v_6-v_7-v_1$ above and a triangle $v_4-v_3$ below it.]*
+   (b) State and prove Konig's theorem. **[4]**
+   (c) Define Covering. Find the vertex covering for the graph by approximation algorithm. **[5]**
+   *[Diagram Description: A simple connected graph with 7 vertices labeled 1 through 7. Edges exist between 1-4, 1-2, 2-5, 2-3, 5-3, 5-6, 3-6, and 3-7.]*
+3. (a) What is edge coloring in graph theory? What is a proper edge coloring? Give examples. **[4]**
+   (b) What do you mean by Chromatic index on graph G? How do you define the lower and upper values of chromatic index? Find the chromatic index for the following graph. **[6]**
+   *[Diagram Description: A graph with 5 vertices (A, B, C, D, E). Edges exist between A-B, A-C, A-D, B-C, B-E, C-D, C-E, and D-E. It resembles a pentagon with multiple intersecting diagonals.]*
+   (c) Describe Class I and Class II graphs with examples. Show that every bipartite graph is of class I and regular graphs of odd orders are class II graphs with diagrams. **[5]**
+4. (a) Explain the concept of cut-set, cut vertex, separable graphs, non-separable graphs, and blocks with suitable examples. **[8]**
+   (b) By Dijkstra's algorithm find the shortest path and the length of the shortest path from the vertex a to z in the following graph: **[7]**
+   *[Diagram Description: A directed/weighted multi-graph starting at 'a' and ending at 'z'. Nodes: a, b, c, d, e, f, z. Edge weights: a-b (2), a-c (1), a-d (4), b-c (2), d-c (2), b-e (3), c-e (5), c-f (7), d-f (4), e-z (1), f-z (3). There are parallel curved edges between b and e (weights 4 and 5), and a curved edge between d and f (weight 7).]*
+5. (a) State and prove Hall's theorem. **[6]**
+   (b) Define the following with examples: **[3+3+3]**
+       (i) Covering, Vertex covering, Covering number
+       (ii) M-alternating path and M-augmenting path.
+       (iii) Independent set, maximum independent set, and independence number.
+
+---
+
+***END OF PAPER***

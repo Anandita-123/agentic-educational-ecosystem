@@ -1,0 +1,68 @@
+**METADATA**
+
+* **Paper Code:** HSMC-501/HSMC501
+* **Subject Name:** Introduction to Industrial Management
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005508
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: HSMC501_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the full form of MRP in material management?
+2. What is EOQ?
+3. What do you mean by "Organizational Structure"?
+4. What is the full form of JIT?
+5. What is Management?
+6. What is the full form of PERT analysis in network analysis?
+7. Define the term "Materials Management".
+8. What is Gantt chart?
+9. What are the different types of floats in network analysis?
+10. What is ABC analysis in inventory management?
+11. What is Organizational Culture?
+12. Mention any two differences between PERT and CPM.
+
+---
+
+### ChunkID: HSMC501_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain the relations between morale and productivity. **[5]**
+2. Discuss the factors which influence job satisfaction. **[5]**
+3. Write a short note on "Just In Time". **[5]**
+4. What is division of labour? What are the advantages of it? **[5]**
+5. Illustrate DARSIRI method of value analysis. **[5]**
+
+---
+
+### ChunkID: HSMC501_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Discuss the importance of materials management. **[7]**
+   (b) Discuss various types of storage equipment. **[8]**
+
+2. (a) What is value analysis? **[5]**
+   (b) What are the process of value analysis? **[10]**
+
+3. (a) Discuss the need of Production Planning and Control. **[5]**
+   (b) Discuss the various types of production methods. **[10]**
+
+4. (a) What is organizational structure? What are the types of organizational structure? **[3]**
+   (b) What are the goals of organizational structure? **[8+4]**
+
+5. (a) What is Logistics? What are the benefits of logistics? **[3+4]**
+   (b) Explain the benefits of supply chain management. **[8]**
+
+---
+
+***END OF PAPER***

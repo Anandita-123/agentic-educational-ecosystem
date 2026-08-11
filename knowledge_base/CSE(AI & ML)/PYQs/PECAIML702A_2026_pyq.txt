@@ -1,0 +1,69 @@
+**METADATA**
+
+* **Paper Code:** PECAIDS702A/PECAIML702A/PECICB701C
+* **Subject Name:** Ecommerce and ERP
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007801
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: PECAIDS702A_2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What are the threats of E-commerce?
+2. What is Mobile Computing?
+3. What is E-Governance?
+4. What is E-strategy?
+5. What is Customer Premises Equipment (CPE)?
+6. What is the full form of B2B?
+7. What are E-payment Threats?
+8. What are the objectives of E-marketing?
+9. What are the benefits of EDI?
+10. What are the advantages of ecommerce?
+11. What is at the heart of any ERP system?
+12. What is Cryptograhy?
+
+---
+
+### ChunkID: PECAIDS702A_2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Define E-commerce from different perspective. Give the demerits of E-commerce. **[5]**
+2. Define Supply Chain Management. What is the Ultimate Objective of Supply Chain Management? **[5]**
+3. Differentiate between B2B and B2C business models. Give example **[5]**
+4. Compare and contrast Symmetric and Asymmetric key Cryptographic techniques. **[5]**
+5. How BPR is connected with ERP. Explain. **[5]**
+
+---
+
+### ChunkID: PECAIDS702A_2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What are the Benefits of EDI? **[5]**
+   (b) What does an EDI document, an EDI message or EDI transaction set, mean, is there a difference between them? **[5]**
+   (c) What are the EDI standards? **[5]**
+
+2. (a) Describe about the ERP functional modules i) Human capital Management ii) Financial management iii) Supply chain planning iv) Sales and service. **[10]**
+   (b) What is meant by business process reengineering?Explain **[5]**
+
+3. (a) Explain how E-commerce has helped through supply chain management and retail chain management. Draw suitable figure. **[10]**
+   (b) What role does SCM play in B2B e-commerce? **[5]**
+
+4. Give comparative analysis on different types of E-payment mechanism **[15]**
+
+5. (a) What are the reasons for the explosive growth of the ERP market? **[5]**
+   (b) What are the factors that are critical for the success of the ERP Implementation? **[5]**
+   (c) How do conventional application packages and ERP packages differ? **[5]**
+
+---
+
+***END OF PAPER***

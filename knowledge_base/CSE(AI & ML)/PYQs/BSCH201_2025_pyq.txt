@@ -1,0 +1,156 @@
+**METADATA**
+
+* **Paper Code:** BSCH201
+* **Subject Name:** Chemistry (Gr A)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003007
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: BSCH201_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Write the reagents of nitration of benzene.
+2. Write the value of quantum numbers (n), (l) and (m) for (2s) orbital.
+3. MRI is the application of which spectroscopic method?
+4. London forces or dispersion forces operate between ________.
+5. How does the entropy of the system change when water is frozen?
+6. What is Hard-Soft Acid Base (HSAB) principle?
+7. If two stereoisomers of tartaric acid have (2S,3R) and (2R,3S) configurations, then they are ________.
+8. What are the conditions of Cannizzaro reaction?
+9. State whether naphthalene is aromatic, antiaromatic or nonaromatic and give reason.
+10. Write the equation of rotational constant (B) of a molecule.
+11. What is the value of critical coefficient?
+12. Write the half-cell representation of saturated calomel electrode.
+
+---
+
+### ChunkID: BSCH201_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is the role of Lewis acid in halogenation of benzene?
+
+   Write the structure of the substrate which on ozonolysis will provide acetone as the only product. **[5]**
+
+2. Write the significance of van der Waals constants. **[5]**
+
+3. What are conformational isomers?
+
+   Explain by taking ethane as an example.
+
+   Draw the potential energy diagram of ethane. **[5]**
+
+4. Prove that for a constant pressure process, where work is only mechanical, the heat absorbed by the system ((Q_p)) is equal to the increase in enthalpy ((\Delta H)). **[5]**
+
+5. NO is paramagnetic while (NO^+) is diamagnetic.
+
+   Justify using MO diagram.
+
+   Write electronic configuration of NO. **[5]**
+
+---
+
+### ChunkID: BSCH201_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Define Standard Cell with example. **[3]**
+
+**(b)** Find the relation between (\Delta H) and (\Delta U) for an ideal gas undergoing a (P-V) type mechanical work process:
+
+[
+\Delta H = \Delta U + \Delta nRT
+]
+
+**[4]**
+
+**(c)** Discuss any one statement of First Law of Thermodynamics and explain it mathematically. **[4]**
+
+**(d)** Explain Galvanic cell corrosion. **[4]**
+
+---
+
+### 2.
+
+**(a)** Demonstrate the shape of the following compounds:
+
+(i) (ClF_3)
+
+(ii) (XeF_2)
+
+(iii) (BrF_5)
+
+(iv) (SCl_6)
+
+**[8]**
+
+**(b)** Arrange (NH_3), (H_2O), (CH_4) according to increasing bond angle stating the reason. **[4]**
+
+**(c)** Dipole moment of (BF_3) is zero while that of (NF_3) is (0.24D). Justify. **[3]**
+
+---
+
+### 3.
+
+**(a)** Derive Schrödinger Equation. **[5]**
+
+**(b)** Write the conditions of acceptable wave function (\Psi). **[5]**
+
+**(c)** Write short note on extrinsic semiconductor and its types. **[5]**
+
+---
+
+### 4.
+
+**(a)** What will be the product/products if
+
+[
+CH_3CH=CH_2
+]
+
+is reacted with HBr?
+
+Show the steps of reaction. **[5]**
+
+**(b)** What change will be observed in the above reaction if peroxide is added along with HBr? **[2]**
+
+**(c)** Choose the more suitable substrate for (E1) reaction between tertiary-butyl chloride and methyl chloride.
+
+Give reason. **[3]**
+
+**(d)** Explain the stereochemical aspects of (SN1) and (SN2) reactions with suitable examples. **[5]**
+
+---
+
+### 5.
+
+**(a)** Calculate the CFSE and magnetic moment of
+
+[
+K_3[FeF_6]
+]
+
+**[5]**
+
+**(b)** Calculate the CFSE of both high-spin and low-spin complexes of (d^7) and (d^4) configurations. **[5]**
+
+**(c)** Give the molecular energy level diagram of CO.
+
+Comment on magnetic behaviour and bond order. **[5]**
+
+---
+
+***END OF PAPER***

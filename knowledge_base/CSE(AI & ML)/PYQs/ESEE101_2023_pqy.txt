@@ -1,0 +1,157 @@
+**METADATA**
+
+* **Paper Code:** ESEE101
+* **Subject Name:** Basic Electrical Engineering
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001009
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: ESEE101_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is fuse?
+2. What is the efficiency of power transfer when maximum transfer of power occurs?
+3. In a series R-L-C circuit, what is the condition for resonance?
+4. What is core type transformer?
+5. What is basic principle of operation of Alternators / DC Generators?
+6. What is meant by duty-cycle?
+7. What is the function of a transformer?
+8. Define synchronous speed.
+9. What are the main classifications of inverter?
+10. What is secondary cell?
+11. What will be the impedance of a coil containing resistance of (8.0\Omega) and inductive reactance of (6.0\Omega)?
+12. The full-load copper loss of a transformer is (1600,W). At half-load, what will be the copper loss?
+
+---
+
+### ChunkID: ESEE101_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is the significance of form factor in AC circuit? **[5]**
+
+2. What are the salient features of distribution transformer? **[5]**
+
+3. An AC current is expressed as
+
+[
+i=14.14\sin(314t)
+]
+
+Determine:
+
+(a) RMS value
+
+(b) Frequency
+
+(c) Instantaneous value at
+
+[
+t=2,ms
+]
+
+**[5]**
+
+4. What is meant by Regulation in a Transformer? **[5]**
+
+5. Why are iron losses considered as constant losses in transformer? **[5]**
+
+---
+
+### ChunkID: ESEE101_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Explain the principle of series resonance. **[5]**
+
+**(b)** What is half power frequency? **[4]**
+
+**(c)** A coil of inductance (9,H) and resistance (50,\Omega) in series with a capacitor is supplied at constant voltage from a variable frequency source.
+
+If the maximum current of (1,A) occurs at (75,Hz), find the frequency when the current is (0.5,A). **[6]**
+
+---
+
+### 2.
+
+**(a)** What is shell type transformer? Explain in detail. **[6]**
+
+**(b)** The primary and secondary of a (25,kVA) transformer has (500) and (40) turns respectively.
+
+If the primary is connected to (3000,V,\ 50,Hz) mains, calculate:
+
+(i) Primary and secondary currents at full load.
+
+(ii) The secondary emf.
+
+(iii) The maximum flux in the core.
+
+Neglect magnetic leakage, resistance of the winding and the primary no-load current in relation to the full load current. **[9]**
+
+---
+
+### 3.
+
+**(a)** Justify that the average active power consumed by a purely inductive circuit is zero. **[7]**
+
+**(b)** Explain the phasor diagram of RC series circuit with a neat circuit diagram. **[8]**
+
+---
+
+### 4.
+
+**(a)** A (100,kVA,\ 3300/200,V,\ 50,Hz) single phase transformer has (40) turns on the secondary.
+
+Calculate:
+
+(i) The values of primary and secondary currents.
+
+(ii) The number of primary turns.
+
+(iii) The maximum value of the flux.
+
+If the transformer is to be used on a (25,Hz) system, calculate:
+
+(iv) The primary voltage, assuming that the flux is increased by (10%).
+
+(v) The kVA rating of the transformer assuming the current density in the windings to be unaltered. **[9]**
+
+**(b)** Derive the emf equation of a single phase transformer. **[6]**
+
+---
+
+### 5.
+
+**(a)** Derive the Norton equivalent circuit of the given figure. **[8]**
+
+Circuit Parameters:
+
+* Voltage Source = (25,V)
+* Resistors = (5\Omega,\ 20\Omega,\ 4\Omega)
+* Current Source = (3,A)
+* Output terminals = (a,b)
+
+**(b)** Find Thevenin equivalent circuit for the given network. **[7]**
+
+Circuit Parameters:
+
+* Voltage Source = (12,V)
+* Two resistors of (4\Omega)
+* Output terminals = (a,b)
+
+---
+
+***END OF PAPER***

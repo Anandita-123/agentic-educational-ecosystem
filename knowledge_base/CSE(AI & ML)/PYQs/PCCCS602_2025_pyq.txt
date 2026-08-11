@@ -1,0 +1,83 @@
+**METADATA**
+
+* **Paper Code:** EC602/PCC-CS602/PCCCS602
+* **Subject Name:** Computer Networks
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006596
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Define Data Rate in terms of transmission.
+2. Name one intradomain routing algorithm.
+3. Which transport layer protocol is used for SMTP?
+4. Write one advantage of VPN.
+5. If there are n number of nodes in a network, then how many physical links are required in case of MESH Topology?
+6. What is the maximum efficiency achievable in Pure Aloha?
+7. What is the purpose of class D address?
+8. The technique of temporarily delaying outgoing acknowledgements so that they can be hooked onto the next outgoing data frame is called ________
+9. What is DNS?
+10. Which technique is used to detect and correct single bit error?
+11. Which protocol is used to get the MAC address given any IP address?
+12. Which layer is responsible for Host-to-Host delivery?
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Compare and contrast between Circuit Switching and Packet Switching. **[5]**
+2. Discuss Mesh topology along with a diagram. **[5]**
+3. State one advantage and disadvantage of Independent Acknowledgement and Cumulative acknowledgement each. In Go Back N ARQ, if both the sender window size and receiver window size is 1, then what does it indicate? **[5]**
+4. Explain CRC with a suitable example. **[5]**
+5. What are the two possible transport services? What is meant by segment? What is congestion? **[5]**
+
+---
+
+### ChunkID: PECAIML601B_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Explain bit stuffing method with a suitable example. **[5]**
+   (b) Let us assume that data 111001101 is transmitted and the received code is 110001101. Now from the received code, let us detect and correct the error using hamming code. **[5]**
+   (c) State the functionalities of MAC Sublayer. **[5]**
+
+2. (a) Explain Distance Vector Routing algorithm with an example. **[10]**
+   (b) What do you mean by count to infinity problem? How this problem is addressed? **[5]**
+
+3. (a) Explain the functionalities of the Transport layer. **[5]**
+   (b) Explain Leaky Bucket algorithm. **[5]**
+   (c) Briefly explain different open loop congestion techniques. **[5]**
+
+4. Write short notes on (Any three):
+   i. DNS
+   ii. FTP
+   iii. Firewall
+   iv. TELNET **[15]**
+
+5. (a) An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 addresses). The ISP needs to distribute these addresses to three groups of customers as follows:
+   i. The first group has 64 customers; each needs 256 addresses.
+   ii. The second group has 128 customers; each needs 128 addresses.
+   iii. The third group has 128 customers; each needs 64 addresses.
+   Design the sub-blocks and find out how many addresses are still available after these allocations. **[8]**
+   (b) Classless Inter-domain Routing (CIDR) receives a packet with address 131.23.151.76. The router's routing table has the following entries:
+   * 131.16.0.0/12 -> Interface 3
+   * 131.28.0.0/14 -> Interface 5
+   * 131.19.0.0/16 -> Interface 2
+   * 131.22.0.0/15 -> Interface 1
+   Explain which interface the router would choose to forward the packet and why? **[5]**
+   (c) What do you mean by subnetting and supernetting? **[2]**
+
+---
+
+***END OF PAPER***

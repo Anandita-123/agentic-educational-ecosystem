@@ -1,0 +1,86 @@
+**METADATA**
+
+* **Paper Code:** ESC(CSBS)502/PCC-AI502/PCCAIML502
+* **Subject Name:** Introduction to Machine Learning
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005937
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: ESC(CSBS)502_2025-2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is Regression?
+2. Which algorithm is used for solving temporal probabilistic reasoning?
+3. Agglomerative clustering follows a ________ approach.
+4. What are the possible values of the variable?
+   A. Possible states of the world
+   B. Literals
+   C. Variables
+   D. Discrete variable
+5. How is the state of the process, described in HMM?
+6. What is the key principle used by the Apriori algorithm to reduce the number of candidate itemsets?
+7. Divisive clustering follows a ________ approach.
+8. ________ and ________ are the techniques of keyword normalization.
+9. What is an auto-associative network?
+10. ________ is an example of a deterministic algorithm.
+11. Which of the following is not considered a level of knowledge in language understanding?
+    A. Empirical
+    B. Phonological
+    C. Syntactic
+    D. Semantic?
+12. The action "STACK(A,B)" of a robot arm specifies to:
+    A. Place block B on Block A
+    B. Place blocks A, B on the table in that order
+    C. Place blocks B, A on the table in that order
+    D. Place block A on block B
+
+---
+
+### ChunkID: ESC(CSBS)502_2025-2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is Backpropagation? **[5]**
+2. Explain the concept of Elbow plot. Provide an illustrative example. **[5]**
+3. Explain One-Hot Encoding and Label Encoding. Does the dimensionality of the dataset increase or decrease after applying these techniques? **[5]**
+4. What are the applications of Naive Bayes? Is Naive Bayes is a discriminative classifier or generative classifier? **[5]**
+5. What is fuzzy c-means clustering? What do you understand about affinity propagation? What do you understand by the term silhouette coefficient? **[5]**
+
+---
+
+### ChunkID: ESC(CSBS)502_2025-2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Find the means of X and Y variables and the coefficient of correlation between them from the following two regression equations:
+   4X - 5Y + 33 = 0
+   20X - 9Y - 107 = 0 **[15]**
+
+2. (a) Explain the core idea behind the Gradient Boosting algorithm. **[5]**
+   (b) What role does the loss function play in Gradient Boosting? **[5]**
+   (c) List and briefly explain three common parameters in Gradient Boosting that help prevent overfitting. **[5]**
+
+3. (a) What is image tagging used for? Describe the stages of Image tagging? **[5]**
+   (b) What is tagging in machine learning? **[5]**
+   (c) How important is Machine Learning? **[5]**
+
+4. Describe the step-by-step process of FP-tree construction, where
+   Input: A transaction database DB and a minimum support threshold.
+   Output: FP-tree, the frequent-pattern tree of DB. **[15]**
+
+5. (a) You run your regression on different subsets of your data, and in each subset, the beta value for a certain variable varies wildly. What could be the issue here? **[4]**
+   (b) Your linear regression doesn't run and communicates that there is an infinite number of best estimates for the regression coefficients. What could be wrong? **[2]**
+   (c) What do you mean by adjusted R2? How is it different from R2? **[4]**
+   (d) What is heteroscedasticity? What are the consequences, and how can you overcome it? **[5]**
+
+---
+
+***END OF PAPER***

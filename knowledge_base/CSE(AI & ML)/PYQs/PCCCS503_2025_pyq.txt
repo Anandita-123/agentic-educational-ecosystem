@@ -1,0 +1,70 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS503/PCCCS503/PCCCS503/PCCICB502
+* **Subject Name:** Object Oriented Programming
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005504
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PCCCS503_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is an Abstract Data Type (ADT)?
+2. What is the purpose of the 'this' keyword in object-oriented programming?
+3. What is the purpose of design patterns in software engineering?
+4. What is the difference between abstract classes and interfaces in object-oriented programming?
+5. What is the purpose of the Swing library in Java?
+6. What is the significance of the Text example in understanding ADTs?
+7. How does encapsulation help in achieving data abstraction in object-oriented programming?
+8. Explain the concept of encapsulation in object-oriented programming.
+9. Give an example of how commands can be implemented as objects in an object-oriented language.
+10. What is the purpose of the Waterfall model in software development?
+11. Explain how the abstraction function can be used to ensure the correctness of an ADT implementation.
+12. Explain the concept of dynamic method dispatch in the context of polymorphism in object-oriented programming.
+
+---
+
+### ChunkID: PCCCS503_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write a Java program to create a simple GUI application with a button and a label. When the button is clicked, the label should display the current date and time. **[5]**
+2. Explain the concept of information hiding in the context of ADTs, and discuss its importance in software engineering. **[5]**
+3. Explain the different types of polymorphism in object-oriented programming with examples. Discuss the advantages and disadvantages of each type. **[5]**
+4. Describe the concept of method overriding and method overloading in object-oriented programming. Provide examples to illustrate their differences. **[5]**
+5. Explain the concept of data abstraction and its relationship with ADTs. Provide examples to illustrate the benefits of data abstraction in software design. **[5]**
+
+---
+
+### ChunkID: PCCCS503_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Design and implement a software system that demonstrates the use of inheritance and several design patterns, such as the Iterator, Observer, and Decorator patterns. **[8]**
+   (b) Provide a detailed explanation of your design choices, class diagrams, and the rationale behind your implementation decisions. **[7]**
+
+2. (a) Implement a drawing application using object-oriented principles and design patterns. The application should support different shapes (e.g., rectangles, circles, lines), allow users to draw and manipulate these shapes, and provide undo and redo functionality. **[9]**
+   (b) Explain the object-oriented design principles and patterns used in your implementation. **[6]**
+
+3. (a) Explain the Unified Process (UP) in software development. **[5]**
+   (b) Discuss its phases, disciplines, and best practices. **[5]**
+   (c) Provide examples of how UP can be applied to a software project. **[5]**
+
+4. (a) Analyze the time and space complexity of the operations in the ADTs you have implemented. **[8]**
+   (b) Identify potential areas for optimization and propose improvements to enhance efficiency. **[7]**
+
+5. (a) Discuss the importance of software documentation in the software development process. **[3]**
+   (b) Explain different types of documentation (e.g., requirements, design, user manuals) and their purposes. **[6]**
+   (c) Provide examples of how documentation can be effectively developed and maintained throughout the project lifecycle. **[6]**
+
+---
+
+***END OF PAPER***

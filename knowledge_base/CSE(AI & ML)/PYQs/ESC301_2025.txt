@@ -1,0 +1,231 @@
+**METADATA**
+
+* **Paper Code:** ESC301 / ESC301 / PC-ROB301
+* **Subject Name:** Analog and Digital Electronics
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003442
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: ESC301_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. The functional difference between an S-R Flip-Flop and a J-K Flip-Flop is that:
+
+   (a) J-K flip-flop is faster than S-R flip-flop
+
+   (b) J-K flip-flop has a feedback path
+
+   (c) J-K flip-flop accepts both inputs equal to 1
+
+   (d) J-K flip-flop does not require external clock
+
+2. Which of the following represents range of frequency measured by ADC?
+
+   (a) Bandwidth
+
+   (b) Threshold Frequency
+
+   (c) Peak Frequency
+
+   (d) None of the mentioned
+
+3. What is the maximum efficiency of a Class-B Power Amplifier?
+
+   (a) 50%
+
+   (b) 90%
+
+   (c) 25%
+
+   (d) 78.5%
+
+4. How many Half Adders are required to add two 8-bit numbers?
+
+   (a) 8
+
+   (b) 15
+
+   (c) 10
+
+   (d) 2
+
+5. The invalid state of an S-R latch occurs when S and R are ________.
+
+   (a) Both High
+
+   (b) Both Low
+
+   (c) S = High, R = Low
+
+   (d) S = Low, R = High
+
+6. Which A/D converter is considered to be the simplest, fastest and most expensive?
+
+   (a) Servo Converter
+
+   (b) Counter Type ADC
+
+   (c) Flash Type ADC
+
+   (d) None of the above
+
+7. Where does the Q-point lie for a Class-B Amplifier?
+
+   (a) Active Region
+
+   (b) Cut-off Region
+
+   (c) Saturation Region
+
+   (d) Between Saturation and Active Region
+
+8. Which of the following combinations cannot be combined into K-map groups?
+
+   (a) Overlapping combinations
+
+   (b) Diagonal corners
+
+   (c) Corners in the same column
+
+   (d) Corners in the same row
+
+9. A D Flip-Flop can be used as:
+
+   (a) Divide-by circuit
+
+   (b) Differentiator
+
+   (c) Delay switch
+
+   (d) Toggle circuit
+
+10. The fastest logic gate family is:
+
+(a) CMOS
+
+(b) ECL
+
+(c) TTL
+
+(d) RTL
+
+11. For a Class-B Amplifier, the utilized load power is
+
+[
+300W
+]
+
+and the DC power is
+
+[
+500W
+]
+
+Find the efficiency.
+
+(a) 30%
+
+(b) 60%
+
+(c) 90%
+
+(d) 100%
+
+12. An example of weighted code is:
+
+(a) 2421
+
+(b) GRAY
+
+(c) XS3
+
+(d) All of these
+
+---
+
+### ChunkID: ESC301_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is a Multiplexer?
+
+   Design a (4:1) Multiplexer using basic logic gates. **[5]**
+
+2. Distinguish between Latch and Flip-Flop.
+
+   Write down the difference between Combinational and Sequential Logic Circuits. **[5]**
+
+3. What is the function of Comparator in Analog-to-Digital Converter?
+
+   Write down the applications of Analog-to-Digital Converter. **[5]**
+
+4. What do you mean by Race Around Condition?
+
+   How can we overcome it? **[5]**
+
+5. Calculate the frequency of a 4-bit Ripple Counter if the time period of the last Flip-Flop is
+
+[
+64\ \mu s
+]
+
+**[5]**
+
+---
+
+### ChunkID: ESC301_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+What do you mean by Power Amplifier?
+
+What are the different types of Power Amplifier?
+
+Explain the operation of a Class-B Push-Pull Amplifier.
+
+What is crossover distortion? **[15]**
+
+---
+
+### 2.
+
+Explain the working of an R-2R Ladder Type DAC with a neat circuit diagram. **[15]**
+
+---
+
+### 3.
+
+Draw and explain Master-Slave JK Flip-Flop. **[15]**
+
+---
+
+### 4.
+
+Design a MOD-8 Asynchronous UP/DOWN Counter using JK Flip-Flops. **[15]**
+
+---
+
+### 5.
+
+Why does Dual Slope ADC provide excellent noise rejection of AC signals whose periods are integral multiples of the integration time?
+
+Find the resolution of a 12-bit DAC.
+
+What are the advantages and disadvantages of the R-2R Ladder DAC? **[15]**
+
+---
+
+***END OF PAPER***

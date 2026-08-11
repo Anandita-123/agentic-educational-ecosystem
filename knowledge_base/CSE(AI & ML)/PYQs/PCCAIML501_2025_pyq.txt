@@ -1,0 +1,69 @@
+**METADATA**
+
+* **Paper Code:** PCCAI501/PCCAIDS501/PCCAIML501
+* **Subject Name:** Probability and Statistics
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005934
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PCCAIDS501_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. If $Var(X)=1,$ then find out the value of $Var(2X+3)$.
+2. Which discrete distribution has same mean and variance?
+3. If $\overline{X}$ and $S^{2}$ are the mean and variance of a random sample of size n from a normal population with mean and the variance $\sigma^{2}.$ then what is the distribution of the statistic $\frac{\overline{X}-\mu}{S/\sqrt{n}}$?
+4. If for a distribution, the difference of first quartile and median is greater than the difference of median and third quartile, then state whether the distribution is positively or negatively skewed.
+5. What is P-value?
+6. Let X and Y be two random variables with their covariance $Cov(X,Y)$ and standard deviation $\sigma_{x}$ and $\sigma_{y}$ respectively. What is the correlation coefficient between X and Y?
+7. Obtain the general integral of the Lagrange's equation $z(xp-yq)=y^{2}-x^{2}$ where $p=\frac{\partial z}{\partial x}$ and $q=\frac{\partial z}{\partial y}$
+8. Obtain the general solution of the PDE $(D^{2}+2DD^{\prime}+D^{\prime2})z=cos(x+2y)$ where $D=\frac{\partial}{\partial x}$ and $D^{\prime}=\frac{\partial}{\partial y}$
+9. What is the skewness of t-distribution?
+10. For any symmetric distribution, what is the relation between mean, median and mode?
+11. Which continuous distribution does not have mean (or mean of the distribution does not exist)?
+12. Based on certain data, a null hypothesis is rejected at the 0.05 level of significance. Would it also be rejected at the 0.01 level of significance?
+
+---
+
+### ChunkID: PCCAIDS501_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Let n pairs of values of two variables x and y are given. The variances of x, y and $(x-y)$ are $\sigma_{x}^{2}$ and $\sigma_{y}^{2}$ and $\sigma_{x-y}^{2}$ respectively. Show that the correlation coefficient $r_{xy}$ between x and y is given by $\frac{\sigma_{x}^{2}+\sigma_{y}^{2}-\sigma_{x-y}^{2}}{2\sigma_{x}\sigma_{y}}.$ **[5]**
+2. Let X be random variable having the binomial distribution with parameter n and p. Consider another random variable $Y=\frac{X}{n}.$ Show that $E(Y)=p$ and $Var(Y)=\frac{p(1-p)}{n}$. **[5]**
+3. The central moments of certain distributions is given by $\mu_{2}=140,$ $\mu_{3}=148$ and $\mu_{4}= 6030$. Calculate skewness and kurtosis of the distribution and comment on the shape of the distribution. **[5]**
+4. Let variance of the random variable X be equal to 9. Let $8x-10y+66=0$ represent regression equation of x on y and $40x-18y=214$ represent regression equation of y on x. Find out mean of X and Y, correlation coefficient between X and Y and standard deviation of Y. **[5]**
+5. Solve the following linear PDE of first order $p+3q=5z+tan(y-3x)$, where $p=\frac{\partial z}{\partial x}$ and $q=\frac{\partial z}{\partial y}$ **[5]**
+
+---
+
+### ChunkID: PCCAIDS501_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Let $A_{1}$ and $A_{2}$ be two events. Prove that $P(A_{1}\cup A_{2})\le P(A_{1})+P(A_{2})$. **[5]**
+   (b) Two dice are thrown n times in succession. What is the probability of obtaining double sixes at least once? Hence find out the minimum number of throws so that the probability of obtaining double sixes at least once is less than $\frac{1}{2}$ **[5]**
+   (c) If $P(A|B)=1$ then prove that $P(A\cap B\cap C)=P(B\cap C)$. **[5]**
+
+2. (a) Human skulls are classified as A, B, C according as the length-breadth index is under 75, between 75 and 80, and over 80 respectively. Assuming that the distribution is normal, find out the mean and standard deviation of the length breadth index of a series of human skulls in which A are 58%, B are 38% and C are 4%. Given the standard normal values $\phi(0.20)=0.08$ and $\phi(1.75)=0.46$ **[8]**
+   (b) A random variable has a normal distribution with $\sigma=10.$ If the probability that the random variable will take on a value less than 82.5 is 0.8212, then what is the probability that it will take on a value greater than 58.3? Given the standard normal values $\phi(0.92)=0.0321$ and $\phi(1.5)=0.4332$. **[7]**
+
+3. (a) A normal population has a mean 0.1 and standard deviation 2.1. Find out the probability that the mean of a sample of size 900 will be negative. Given standard normal value is $\phi(1.43)=0.4236$. **[7]**
+   (b) From a normally distributed population samples are drawn of size 25. Let population mean be equal to the standard error of the sample mean of that sample. Next another sample of size 49 is drawn from the same population. What is the probability that the sample mean corresponding to the second sample is negative? Given standard normal value is $\phi(1.4)=0.4192.$ **[8]**
+
+4. (a) A random sample of size $n=81$ is taken from an infinite population with the mean $\mu=128$ and standard deviation $\sigma=6.3$. What is the probability that the value of $\overline{X}$ will not fall between 126.6 and 129.4? **[8]**
+   (b) Independent random sample of sizes $n_{1}=30$ and $n_{2}=50$ are taken from two normal populations having mean $\mu_{1}=78$ and $\mu_{2}=75$ and the variances $\sigma_{1}^{2}=150$ and $\sigma_{2}^{2}=200$. Find out the probability that the mean of the first sample will exceed that of the second sample by at least 4.8. **[7]**
+
+5. (a) Let $X_{11},X_{12},\cdot\cdot\cdot,X_{1n_{1}}$ and $X_{21},X_{22},\cdot\cdot\cdot,X_{2n_{2}}$ be two independent random variables, with the first $n_{1}$ constituting a random sample from an infinite population with the mean $\mu_{1}$ and the variance $\sigma_{1}^{2}$ and the other $n_{2}$ constituting a random sample from an infinite population with the mean $\mu_{2}$ and the variance $\sigma_{2}^{2}$ then prove that $E(\overline{X_{1}}-\overline{X_{2}})=\mu_{1}-\mu_{2}$ and $Var(\overline{X_{1}}-\overline{X_{2}})=\frac{\sigma_{1}^{2}}{n_{1}}+\frac{\sigma_{2}^{2}}{n_{2}}$. Use these facts to obtain a statistic for the difference of sample means and identify its distribution. **[7]**
+   (b) Distribution of life times of tyres manufactured by a company is normal. Samples of nine tyres are drawn and it is observed that the probability of the average life time of these nine tyres to be less than 75 months is 0.90 and to be more than 40 months is 0.46. Find the average life time and standard deviation of all the tyres manufactured by the company. Given the standard normal value $\phi(0.1)=0.04$ and $\phi(1.28)=0.4$ **[8]**
+
+---
+
+***END OF PAPER***

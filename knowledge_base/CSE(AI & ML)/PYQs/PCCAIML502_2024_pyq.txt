@@ -1,0 +1,75 @@
+**METADATA**
+
+* **Paper Code:** ESC(CSBS) 502/PCCAIML 502
+* **Subject Name:** Introduction to Machine Learning
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005937
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCAIML502_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Machine learning approaches can be traditionally categorized into ________ categories.
+2. Feature selection tries to eliminate features which are ________
+3. K-NN algorithm does more computation on test time rather than train time. [True or False]
+4. Which of the following helps in avoiding overfitting in decision trees?
+5. The mean absolute difference (MAD) computes ________
+6. In language understanding, the levels of knowledge that ________ does not include?
+7. Where does the additional variables are added in HMM?
+8. Replace missing values with mean/median/mode helps to handle missing or corrupted data in a dataset. True/False?
+9. ________ is the cleaning/transforming the data set in the supervised learning model.
+10. In Ridge regression, as the regularization parameter increases, do the regression coefficients decrease?
+11. In neural networks, what is the role of nonlinear activation functions such as sigmoid, tanh, and ReLU?
+12. After three iterations of Hierarchical Agglomerative Clustering using Euclidean distance between points, we get the 3 clusters: C1={2,4}, C2={7,8} and C3={12,14}. What is the distance between clusters C1 and C2 using Single Linkage and Complete Linkage?
+
+---
+
+### ChunkID: PCCAIML502_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is 'training Set' and 'test Set' in a Machine Learning Model? How Much Data Will You Allocate for Your Training, Validation, and Test Sets? **[5]**
+2. What Are the Different Types of Machine Learning? **[5]**
+3. What Are the Names of some popular Activation Functions used in Neural Networks? **[5]**
+4. What are the different types of Perceptrons? what is the use of the Loss Functions? **[5]**
+5. Why are Deep Neural Networks preferred over Shallow Neural Networks? **[5]**
+
+---
+
+### ChunkID: PCCAIML502_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) How are covariance and correlation different from one another? **[2]**
+   (b) State the differences between causality and correlation? **[2]**
+   (c) We look at machine learning software almost all the time. How do we apply Machine Learning to Hardware? **[2]**
+   (d) What is Bias, Variance and what do you mean by Bias-Variance Tradeoff? **[7]**
+   (e) How can we relate standard deviation and variance? **[2]**
+
+2. (a) While performing K-Means Clustering, how do you determine the value of K? **[5]**
+   (b) What is the Dunn Index? **[5]**
+   (c) What are some applications of K-means algorithm? **[5]**
+
+3. (a) What is the exploding gradient problem while using the back propagation technique? **[5]**
+   (b) Can you mention some advantages and disadvantages of decision trees? **[7]**
+   (c) What's a Fourier transform? **[3]**
+
+4. (a) How would you tune the Training Algorithm Hyperparameters to get the highest accuracy in a Neural Network? **[5]**
+   (b) What are some advantages of using Multilayer Perceptron over a Single-layer Perceptron? **[5]**
+   (c) What are some differences between SVMs and Neural Networks? **[5]**
+
+5. (a) What are some Stopping Criteria for k-Means Clustering? **[5]**
+   (b) What is the main difference between k-Means and k-Nearest Neighbours? **[5]**
+   (c) Compare Hierarchical Clustering and k-Means Clustering. **[5]**
+
+---
+
+***END OF PAPER***

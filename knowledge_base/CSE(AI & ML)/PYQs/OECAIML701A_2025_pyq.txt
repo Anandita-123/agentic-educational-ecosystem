@@ -1,0 +1,113 @@
+**METADATA**
+
+* **Paper Code:** OECAIDS701A/OECAIML701A
+* **Subject Name:** Internet of Things
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007816
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: OECAIDS701A_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Which component is critical in enhancing the accuracy of smart sensors?
+   a) Interface circuits
+   b) External memory
+   c) Power circuits
+   d) Fiber optics
+2. Why is environmental parameter monitoring important for IoT systems?
+   a) Reduces costs
+   b) Improves data security
+   c) Enhances real-time decision making
+   d) Improves internet speed
+3. Resistive sensors are commonly used to measure:
+   a) Pressure
+   b) Temperature
+   c) Humidity
+   d) All of the above
+4. Which of the following is a key characteristic of sensors?
+   a) Sensitivity
+   b) Cost
+   c) Brand
+   d) Color
+5. Surface Acoustic Wave (SAW) sensors are typically used for:
+   a) Temperature measurement
+   b) Gas detection
+   c) Humidity sensing
+   d) Pressure monitoring
+6. Why is silicon technology commonly used in smart sensors?
+   a) Cost effectiveness
+   b) Low processing speed
+   c) Scalability and flexibility
+   d) Lack of alternatives
+7. IoT-A stands for ________
+8. What is the primary role of loT in environmental monitoring?
+   a) Increasing data storage
+   b) Reducing environmental pollution
+   c) Real-time data collection and analysis
+   d) Enhancing sensor life
+9. What is the primary function of pressure sensors?
+   a) Measuring heat
+   b) Detecting chemical concentration
+   c) Measuring force exerted by a fluid
+   d) Measuring air quality
+10. What does fractional-order element refer to in sensor design?
+    a) Phase shift
+    b) Constant phase impedance
+    c) Sensor size
+    d) Signal frequency
+11. The adoption of smart sensors is important because they:
+    a) Are cheaper than traditional sensors
+    b) Provide real-time data with better accuracy
+    c) Have limited range
+    d) Are manually operated
+12. The sol-gel process is used in sensor fabrication for:
+    a) Gas sensing
+    b) Vapor deposition
+    c) Electrode deposition
+    d) Film deposition
+
+---
+
+### ChunkID: OECAIDS701A_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Why is the measurement and monitoring of environmental parameters crucial in IoT applications? **[5]**
+2. Classify different types of sensors used in IoT applications. **[5]**
+3. Discuss the importance of smart sensors in modern lot systems. **[5]**
+4. How is anodization used in smart sensor fabrication? **[5]**
+5. What are the emerging applications of smart sensors in healthcare and agriculture? **[5]**
+
+---
+
+### ChunkID: OECAIDS701A_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Explain the working principle of Acoustic Wave based Temperature sensor used in temperature measurement. **[8]**
+   (b) Explain the working principle of Humidity type sensors used in IoT applications. **[7]**
+
+2. (a) Explain the advantages of using silicon technology in smart sensors. **[10]**
+   (b) How do interface circuits affect the performance of smart sensors? **[5]**
+
+3. (a) Discuss the role of Al in enhancing the performance of smart sensors. **[8]**
+   (b) Predict the future impact of smart sensor technologies on consumer electronics. **[7]**
+
+4. (a) What is an equivalent circuit of a sensor, and why is it important in sensor design? **[8]**
+   (b) Describe impedance spectroscopy and its significance in sensor modeling. **[7]**
+
+5. (a) What are the different types of toxic gas present in the coal mines? **[5]**
+   (b) What types of sensors used to detect those? **[5]**
+   (c) How toxic gas is detected by using sensor in the coal mines. **[5]**
+
+---
+
+***END OF PAPER***

@@ -1,0 +1,211 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS302
+* **Subject Name:** Computer Organisation
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003444
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: PCCCS302_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is a Program Counter?
+
+2. Floating point representation is used to store what type of values?
+
+3. Is Excess-3 Code a weighted code?
+
+4. Convert
+
+[
+(2FA0C)_{16}
+]
+
+into binary form.
+
+5. A self-contained sequence of instructions that performs a given computational task is called __________.
+
+6. What are the parameters which influence the characteristics of a microprocessor?
+
+7. The addressing mode used in an instruction of the form
+
+[
+ADD\ X,\ Y
+]
+
+is __________ mode.
+
+8. Simplify the following Boolean expression using Boolean Algebra:
+
+[
+AB + AB'
+]
+
+9. The following transfer statement specifies a memory operation. Explain the operation:
+
+[
+M[AR] \leftarrow R3
+]
+
+10. A digital computer has a common bus system for 16 registers of 32 bits each. The bus is constructed with multiplexers. How many selection inputs are required in each multiplexer?
+
+11. How many flip-flops will be complemented in a 10-bit binary counter to reach the next count after
+
+[
+1001100111
+]
+
+?
+
+12. The XOR operation of
+
+[
+(4AC0)_H
+]
+
+and
+
+[
+(B53F)_H
+]
+
+results in ________ (Hexadecimal).
+
+---
+
+### ChunkID: PCCCS302_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain Flynn’s Classification with suitable examples. **[5]**
+
+2. Explain Floating Point Representation Technique for IEEE 754 Standard. **[5]**
+
+3. Describe Sign Extension Technique for signed number representation. **[5]**
+
+4. A machine has a 32-bit architecture with one-word long instructions. It has 64 registers, each of 32 bits. It needs to support 45 instructions, each having an immediate operand in addition to two register operands.
+
+Assuming that the immediate operand is an unsigned integer, determine the maximum value of the immediate operand. **[5]**
+
+5. State the differences between Hardwired Control Unit and Micro-programmed Control Unit. **[5]**
+
+---
+
+### ChunkID: PCCCS302_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Explain a 4-bit Ripple Carry Adder using Full Adders with a suitable block diagram. **[5]**
+
+**(b)** Convert the binary fraction
+
+[
+0.011010_2
+]
+
+into decimal. **[5]**
+
+**(c)** Convert
+
+[
+0.6875_{10}
+]
+
+into binary. **[5]**
+
+---
+
+### 2.
+
+**(a)** Consider a 4-way Set Associative Cache consisting of 128 lines with a line size of 64 words. The CPU generates a 20-bit address of a word in main memory.
+
+Find the number of bits in the:
+
+* TAG field
+* LINE field
+* WORD field
+
+**[7]**
+
+**(b)** Explain Virtual Memory with a suitable example. **[8]**
+
+---
+
+### 3.
+
+Explain the following instruction formats with suitable examples:
+
+* 0-address instruction format
+* 1-address instruction format
+* 2-address instruction format
+* 3-address instruction format
+
+**[15]**
+
+---
+
+### 4.
+
+**(a)** Explain Fixed Point Number System for signed numbers. **[9]**
+
+**(b)** Represent signed numbers using:
+
+* Sign Magnitude Representation
+* 1's Complement Representation
+* 2's Complement Representation
+
+for 4-bit numbers. **[6]**
+
+---
+
+### 5.
+
+**(a)** An 8 KB Direct-Mapped Write-Back Cache is organized into multiple blocks, each of size 32 bytes. The processor generates 32-bit addresses.
+
+The cache controller maintains the following information for each cache block:
+
+* 1 Valid Bit
+* 1 Modified Bit
+* Minimum number of Tag bits required to identify the memory block mapped into the cache
+
+Determine the total memory size required by the cache controller to store all metadata (tags). **[7]**
+
+**(b)** A computer has a
+
+[
+256\ KB
+]
+
+4-way Set Associative Write-Back Data Cache with block size
+
+[
+32\ Bytes
+]
+
+The processor sends 32-bit addresses to the cache controller.
+
+Each cache tag directory entry contains:
+
+* Address Tag
+* 2 Valid Bits
+* 1 Modified Bit
+* 1 Replacement Bit
+
+Determine the number of bits in the Tag field of an address. **[8]**
+
+---
+
+***END OF PAPER***

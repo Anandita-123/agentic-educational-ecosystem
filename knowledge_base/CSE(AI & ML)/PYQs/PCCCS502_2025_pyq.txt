@@ -1,0 +1,87 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS502/PCCCS502/PCCCS503/PCCCSD503
+* **Subject Name:** Operating Systems
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005507
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PCCCS502_2024-2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Demand paging is related to what type of memory?
+2. ________ is a real time operating system.
+3. If a process is of 128 KB and we have 247 KB, 185 KB, 351 KB, 293 KB and 142 KB holes in memory, then worst fit will place it in?
+4. What are the conditions that must be satisfied to solve the critical section problem?
+5. In paging, the logical partition of the Memory is called ________.
+6. Which mapping is used by TLB?
+7. The segment of code in which the process may change common variables, update tables, write into files is known as ________.
+8. In priority scheduling algorithm, when a process arrives at the ready queue, its priority is compared with the priority of which process state?
+9. Which field in page table can be used to reduce overhead incurred in page fault with replacement?
+10. Suppose in demand paging a process demands its page 6 but, it is not loaded, and all its allocated memory frames are already used by it, then what kind of solution can we have?
+11. In 16-bit system implementing Segmentation with Paging, if page size is set to 2KB, and maximum 4 segments is allowed per process, how many page tables per process and how many entries per page table?
+12. A procedure defined within a ________ can access only those variables declared locally within the ________ and its formal parameters.
+
+---
+
+### ChunkID: PCCCS502_2024-2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is a thread? Define user level thread (ULT) and kernel level thread (KLT). **[5]**
+2. Compare ready queue and waiting queue. Do all processes in ready queue get into waiting queue? If yes, explain your answer. If no, why not. **[5]**
+3. Briefly explain the role of Semaphore in critical section problem. **[5]**
+4. In Contiguous Memory Allocation what two fields are necessary for memory management in the PCB of a process? Suppose in a system following Contiguous Memory Allocation memory is free from 4262. A process P3 of size 4.2KB is submitted to OS. If the process is loaded onto memory, then what will be vales of the memory management fields in the PCB of process P3. Discuss the mapping of a CPU generated Logical Address (e.g. 526) to Physical Address in case of using Execution Time Address Binding. **[5]**
+5. What is Demand paging and how does it relate to the concept of virtual memory? What is the significance of Dirty Bit in page table? **[5]**
+
+---
+
+### ChunkID: PCCCS502_2024-2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) A computer system has a 36-bit virtual address space with a page size of 8K and 4 bytes per page table entry. How many pages are in the virtual address space? **[3]**
+   (b) What is the maximum size of addressable physical memory in this system? **[3]**
+   (c) If the average process size is 8GB, would you use a one-level, two-level or three-level page table? Why? **[2]**
+   (d) In a 32-bit machine we subdivide the virtual address into 4 pieces as follows: 8-bit, 4-bit, 8-bit, 12-bit. We use a 3-level page table, such that the first 8 bits are for the first level and so on. Physical addresses are 44 bits and there are 4 protection bits per page. Answer the following questions: Showing all the steps you take to reach the answer. A simple number will not receive any credit. What is the page size in such a system? Explain your answer (a number without justification will not get any credit). **[2]**
+   (e) How much memory is consumed by the page table and wasted by internal fragmentation for a process that has 64K of memory starting at address 0? **[5]**
+
+2. (a) Explain Seek Time and Latency Time. **[3]**
+   (b) What is the purpose of system call? **[3]**
+   (c) Mention one characteristic of Time Sharing System and Batch Processing System with one example. **[3]**
+   (d) Suppose a Disk Drive has 300 Cylinders numbered 0-299. The current head position of the Drive is 90. The queue for the pending request in FIFO order is 36, 79, 15, 120, 199, 270, 89, 170. Calculate the total distances in cylinders the Disk Arm moves to satisfy all the requests for the following algorithms: SSTF. **[3]**
+   (e) Suppose a Disk Drive has 300 Cylinders numbered 0-299. The current head position of the Drive is 90. The queue of the pending request in FIFO order is 36, 79, 15, 120, 199, 270, 89, 170. Calculate the total distances in cylinders the Disk Arm moves to satisfy all the requests for the following algorithms: C-SCAN. **[3]**
+
+3. (a) What is Readers-Writers problem? **[5]**
+   (b) How can it can be solved by Semaphore? Explain with the algorithm. **[10]**
+
+4. (a) Suppose in a 16 bit operating system following Paging with 4KB page size, A process P5 of size 14.6 KB is submitted. Suppose the following frames in Memory are Free 3, 7, 9, 10. Considering the above scenario answer the following questions: Explain the logical to physical address translation using a detailed schematic diagram, Showing the PCB (with PID related memory management fields), Page Table (fields, entries and values after allocation), Memory (showing frames and allocations) and related CPU registers. **[10]**
+   (b) What is the amount of internal fragmentation for this process? **[1]**
+   (c) If P5 generates a logical address 2 1254 in CPU what will be the address translated Physical Address? **[4]**
+
+5. Consider the following table for a Banker's Algorithm problem:
+
+   | Process | Allocation (A B C D) | Max (A B C D) | Total (A B C D) |
+   | :---: | :---: | :---: | :---: |
+   | P1 | 1 0 1 2 | 3 1 1 3 | 8 15 18 17 |
+   | P2 | 2 2 3 0 | 2 2 4 4 | |
+   | P3 | 1 2 3 4 | 7 9 5 6 | |
+   | P4 | 2 3 5 4 | 2 4 7 5 | |
+   | P5 | 2 3 6 4 | 8 3 2 3 | |
+
+   (a) Calculate the available matrix. 
+   (b) If the request gets granted, What will be the safe sequence? 
+   (c) Consider the Resource Allocation State, Will the resource request by P2 for 1 instances of B and 1 instances of C and 2 instances of D i.e. if Req[P2]=(0,1,1,2) arrives to the System, Determine whether the request will be granted or not using the Pseudo allocation state and Banker's Algorithm be granted (will it lead to a Safe state)? 
+   (d) Calculate the need matrix.
+
+---
+
+***END OF PAPER***

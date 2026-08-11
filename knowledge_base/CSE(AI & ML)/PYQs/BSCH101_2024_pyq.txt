@@ -1,0 +1,154 @@
+**METADATA**
+
+* **Paper Code:** BS-CH101 / BSCH101
+* **Subject Name:** Chemistry-I (Gr B)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001034
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: BSCH101_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Write name of a molecule which have infrared active vibrations.
+2. The strength of van der Waals forces depends upon which factor?
+3. Write one process where entropy decreases.
+4. What is the shape of (XeF_4) molecule?
+5. For n-butane which type of conformation is the least stable?
+6. In SN1 type reaction which type of solvent is used?
+7. If uncertainty in position and momentum are equal then what will be the uncertainty in velocity?
+8. Which is detected by IR spectra?
+9. Which interaction is the strongest interaction?
+10. What is the internal energy change for a cyclic process?
+11. Write the increasing order of effective nuclear charge in Na, Al, Mg and Si.
+12. Give one example of ambidentate ligand.
+
+---
+
+### ChunkID: BSCH101_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Define van der Waals forces. Discuss their nature. **[5]**
+
+2. (a) Explain the term chemical potential. **[5]**
+
+   (b) Derive the relation of EMF of cell with (\Delta G) and (\Delta H).
+
+3. State the reason for the presence of only one electron in the 4s subshell of chromium.
+
+   Which of the following has larger size and why?
+
+   (i) (Mg^{2+})
+
+   (ii) (N^{3-})
+
+   **[5]**
+
+4. (a) Distinguish between constitutional isomers and stereoisomers. **[5]**
+
+   (b) What is chirality?
+
+   (c) Does presence of two chiral carbon atoms always make the molecule optically active? Explain.
+
+5. "All adiabatic reversions lead to a fall of temperature." Comment or justify. **[5]**
+
+---
+
+### ChunkID: BSCH101_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Phenol on treatment with (Br_2) in (CS_2) at low temperature gives two isomeric monobromophenols X and Y. But phenol on treatment with bromine water gives a white precipitate Z.
+
+Identify the products X, Y and Z with chemical reactions. **[6]**
+
+**(b)** What do you mean by enantiomer and diastereomer? Differentiate them with examples. **[4]**
+
+**(c)** Explain the difference between a meso-isomer and a racemic mixture.
+
+What characteristics do they have in common? **[5]**
+
+---
+
+### 2.
+
+**(a)** Draw the (\pi)-molecular orbital diagram of Benzene.
+
+Predict whether the following compounds are aromatic, anti-aromatic or non-aromatic:
+
+(i) Furan
+
+(ii) Cyclopentadienyl cation
+
+**[5]**
+
+**(b)** Write notes on synthesis of paracetamol. **[5]**
+
+**(c)** Nitration is possible in absence of (H_2SO_4), yet (H_2SO_4) has no effect on benzene under the conditions employed.
+
+Show the mechanism of nitration of benzene. **[5]**
+
+---
+
+### 3.
+
+**(a)** Set up the Schrödinger equation for a particle in a one-dimensional box. **[5]**
+
+**(b)** Show how the model of particle in a box can be applied to calculate the energy spectra of polyene. **[4]**
+
+**(c)** What is zero point energy of a particle in one-dimensional box?
+
+Why cannot the energy of this particle be zero?
+
+If the zero point energy of the particle in one-dimensional box is (2.5,eV), what is the next higher energy value? **[6]**
+
+---
+
+### 4.
+
+**(a)** What is the difference between ionization energy and electron affinity?
+
+The first ionization energy of carbon is greater than that of boron whereas the reverse is true for the second ionization energy. **[5]**
+
+**(b)** Why does Mn(II) have (3d^5)?
+
+Would you classify Zn as a transition element?
+
+Give reasons for your answer. **[5]**
+
+**(c)** Explain that ionisation energy of neon is more than any other element of the second period.
+
+Why do the transition elements form complexes readily? **[5]**
+
+---
+
+### 5.
+
+**(a)** What would have happened to the gas if the molecular collisions were not elastic? **[3]**
+
+**(b)** (CO_2) is heavier than (O_2) and (N_2) gases present in the air but it does not form the lower layer of the atmosphere. Why? **[3]**
+
+**(c)** Why in case of hydrogen and helium, the compressibility factor is always greater than 1 and increases with increase in pressure? **[3]**
+
+**(d)** Why can gases be liquefied by cooling? **[3]**
+
+**(e)** Which type of liquids will have higher boiling points?
+
+"Polar or Non-polar liquids" — Give reason for your answer. **[3]**
+
+---
+
+***END OF PAPER***

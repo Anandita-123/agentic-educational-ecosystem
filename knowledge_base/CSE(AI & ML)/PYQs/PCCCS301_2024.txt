@@ -1,0 +1,39 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS301 / PCC-CSBS301 / PCCCS301
+* **Subject Name:** Data Structure & Algorithms
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003443
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: PCCCS301_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Which type of linked list contains a pointer to the next as well as the previous node in the sequence?
+
+2. The time complexity of Heap Sort in the worst case is __________.
+
+3. The running time complexity of a linear-time algorithm is given as __________.
+
+4. A linear list in which elements can be added or removed at either end but not in the middle is known as __________.
+
+5. If the elements of a data structure are stored sequentially, then it is a __________.
+
+6. Merge Sort uses __________ technique.
+
+7. Where is Linear Searching used?
+
+8. Stack can be implemented using __________ and __________.
+
+9. In C language, `malloc()` returns __________.
+
+10. What is the number of edges present in a complete graph having (n) vertices?
+
+11. __________ notation

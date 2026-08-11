@@ -1,0 +1,280 @@
+**METADATA**
+
+* **Paper Code:** ESC301 / ESC301 / PC-ROB301
+* **Subject Name:** Analog and Digital Electronics
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003442
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: ESC301_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What will be the minimal Product-of-Sums (POS) function described by the K-map given in the figure?
+
+2. Arrange the classes of power amplifier according to their efficiency (low to high):
+
+   * Class A
+   * Class B
+   * Class C
+   * Class AB
+
+3. What will be the output of the logic gate shown in the figure?
+
+4. In the latch circuit shown, the NAND gates have non-zero but unequal propagation delays. The present input condition is
+
+[
+P=Q=0
+]
+
+If the input condition is changed simultaneously to
+
+[
+P=Q=1
+]
+
+what will be the outputs (X) and (Y)?
+
+5. If the input to the digital circuit consisting of a cascade of 20 XOR gates is (X), what will be the output (Y)?
+
+6. The circuit shown is an IC 555 Timer connected as an Astable Multivibrator. The capacitor value is
+
+[
+C=10,nF
+]
+
+Find the values of resistors
+
+[
+R_A \quad \text{and} \quad R_B
+]
+
+for a frequency of
+
+[
+10,kHz
+]
+
+and duty cycle
+
+[
+0.75
+]
+
+for the output voltage.
+
+7. What will be the minimum number of (2:1) multiplexers required to realize a (4:1) multiplexer?
+
+8. Consider the given circuit. Explain whether race-around condition will occur or not.
+
+9. Which A/D converter is used for Hum Rejection?
+
+10. The AC output power of a Class-B Push-Pull Power Amplifier is
+
+[
+10,W
+]
+
+What will be the DC input power drawn from the power supply when the efficiency is maximum?
+
+11. What is the octal value of
+
+[
+(2^6)_{10}
+]
+
+?
+
+12. Statement 1: Astable Multivibrator can be used for generating Square Wave.
+
+Statement 2: Bistable Multivibrator can be used for storing Binary Information.
+
+State whether the statements are True or False.
+
+---
+
+### ChunkID: ESC301_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. In a JK Flip-Flop,
+
+[
+J=Q'
+]
+
+and
+
+[
+K=1
+]
+
+Assuming the flip-flop was initially cleared and then clocked for 6 pulses, what will be the sequence at the output (Q)? **[5]**
+
+2. Derive the maximum efficiency of a Class-B Amplifier. **[5]**
+
+3. Explain the operation of a Transformer Coupled Class-A Amplifier. **[5]**
+
+4. Find out the modulus of the counter shown in the figure. **[5]**
+
+5. Design a Full Subtractor ((X,Y,\text{Borrow})) using a (4:1) Multiplexer. **[5]**
+
+---
+
+### ChunkID: ESC301_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Find the output expression for the Karnaugh Map shown below. **[5]**
+
+**(b)** Find the output (F) in terms of (A) and (B) for the given multiplexer circuit. **[3]**
+
+**(c)** Find the output expression (F) for the following Karnaugh Map and realize it using logic gates. **[7]**
+
+---
+
+### 2.
+
+**(a)** A digital circuit compares two numbers
+
+[
+A_3A_2A_1A_0
+]
+
+and
+
+[
+B_3B_2B_1B_0
+]
+
+as shown in the figure.
+
+Find the pair (A,B) for which
+
+[
+Y=0
+]
+
+**[5]**
+
+**(b)** Consider the multiplexer-based logic circuit shown in the figure.
+
+Find the Boolean function realized by the circuit. **[5]**
+
+**(c)** A 4-bit MOD-16 ripple counter uses JK Flip-Flops. If the propagation delay of each flip-flop is
+
+[
+50,ns
+]
+
+find the maximum clock frequency that can be used in this counter. **[5]**
+
+---
+
+### 3.
+
+**(a)** Find the output
+
+[
+Z
+]
+
+in terms of (X) and (Y) for the given (4:1) multiplexer circuit. **[8]**
+
+**(b)** A Boolean function
+
+[
+F(A,B,C,D)=\pi(1,5,12,15)
+]
+
+is to be implemented using an (8:1) multiplexer where (A) is the MSB and inputs (A,B,C) are connected to select lines
+
+[
+S_2,S_1,S_0
+]
+
+respectively.
+
+Find the correct inputs to pins
+
+[
+0,1,2,3,4,5,6,7
+]
+
+in order. **[7]**
+
+---
+
+### 4.
+
+**(a)** A 3-bit Gray Counter is used to control the output of a multiplexer as shown in the figure.
+
+The initial state of the counter is
+
+[
+000_2
+]
+
+The output is pulled high.
+
+Find the sequence of the output of the circuit. **[8]**
+
+**(b)** A (3)-to-(8) line decoder with active-low outputs is used to implement a 3-variable Boolean function as shown in the figure.
+
+Find the simplified form of Boolean function
+
+[
+F(A,B,C)
+]
+
+implemented in Product-of-Sums (POS) form. **[7]**
+
+---
+
+### 5.
+
+**(a)** Digital input signals (A,B,C) with (A) as MSB and (C) as LSB are used to realize the Boolean function
+
+[
+F=m_0+m_2+m_3+m_5+m_7
+]
+
+where (m_i) denotes the (i^{th}) minterm.
+
+In addition,
+
+[
+F
+]
+
+has a don't care condition for
+
+[
+m_1
+]
+
+Find the simplified expression for (F). **[10]**
+
+**(b)** Find the prime implicants in the Sum-of-Products function
+
+[
+F(X,Y,Z)=\Sigma(2,3,4,5)
+]
+
+**[5]**
+
+---
+
+***END OF PAPER***

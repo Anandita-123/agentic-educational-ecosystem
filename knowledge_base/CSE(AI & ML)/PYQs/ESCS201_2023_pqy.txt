@@ -1,0 +1,155 @@
+**METADATA**
+
+* **Paper Code:** ESCS201
+* **Subject Name:** Programming for Problem Solving
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 002008
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: ESCS201_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the use of `continue` in loop?
+2. What is the string function used to reverse a string?
+3. What is the time complexity of Bubble Sort?
+4. What are preprocessor directives?
+5. Recursion uses which data structure?
+6. What header file is used for string operations?
+7. What is nested `if-else`?
+8. What is the use of `goto` statement?
+9. What is linear searching in an array?
+10. What is Macro?
+11. What is the value of the following if (a = 2)?
+
+```c
+printf("%d", -a);
+```
+
+12. What is `goto` statement in C?
+
+---
+
+### ChunkID: ESCS201_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is structure?
+
+   What is array of structures? Show with an example. **[5]**
+
+2. Write a program to find roots of a quadratic equation. **[5]**
+
+3. Draw a flowchart to evaluate factorial of a number. **[5]**
+
+4. What is conditional operator? **[5]**
+
+5. What will be the output of the code below?
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a[5] = {1, 2, 3, 4, 5};
+    int i;
+
+    for(i = 0; i < 5; i++)
+        if((char)a[i] == '5')
+            printf("%d\n", a[i]);
+        else
+            printf("FAIL\n");
+}
+```
+
+**[5]**
+
+---
+
+### ChunkID: ESCS201_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** What is the difference between Array and Structure? Show with example. **[4]**
+
+**(b)** What are the differences between Structure and Union? Show with example. **[3]**
+
+**(c)** Write a program using structure to take 10 students' name, roll, marks and print the records with average marks. **[8]**
+
+---
+
+### 2.
+
+**(a)** Write a program to check a number is even or odd. **[5]**
+
+**(b)** Write a program to check a number is prime or not. **[5]**
+
+**(c)** Add all even numbers from an array. **[5]**
+
+---
+
+### 3.
+
+**(a)** What is an Operating System? **[4]**
+
+**(b)** What are the functions of Operating System? **[4]**
+
+**(c)** What is booting? **[3]**
+
+**(d)** What are the differences between Compiler and Interpreter? **[4]**
+
+---
+
+### 4.
+
+**(a)** Write a program to print diagonal matrix from (5 \times 5) matrix. **[5]**
+
+**(b)** Write a program to concatenate two strings without using `strcat()` function in C. **[5]**
+
+**(c)** Write a program to sort (n) elements of an array. **[5]**
+
+---
+
+### 5.
+
+**(a)** Convert Binary to Decimal
+
+[
+(1101.01)_2
+]
+
+**[4]**
+
+**(b)** What is 2's Complement? Show by example. **[4]**
+
+**(c)** Using 2's Complement perform
+
+[
+10101_2 - 00111_2
+]
+
+**[4]**
+
+**(d)** Convert Decimal to Octal
+
+[
+(5673)_{10}
+]
+
+**[3]**
+
+---
+
+***END OF PAPER***

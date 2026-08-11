@@ -1,0 +1,67 @@
+**METADATA**
+
+* **Paper Code:** HSMC501
+* **Subject Name:** Introduction to Industrial Management (Humanities III)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005508
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: HSMC501_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Define material management. State its objective.
+2. What is Master Scheduling?
+3. State advantage of value analysis.
+4. Define ERP.
+5. Define Organization.
+6. The expected time (Te) of a PERT activity in terms of optimistic time (To), pessimistic (Tp) and most likely time (Tm) is given by ________
+7. What is Economic Order Quantity? State its formula.
+8. What are the phases of PPC?
+9. What are unnecessary costs in value engineering?
+10. What is supply chain management?
+11. Difference between "strike" and "lockout".
+12. Define critical path in network diagram.
+
+---
+
+### ChunkID: HSMC501_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What are the five phases of value engineering? **[5]**
+2. State the benefits and demerits of JIT production system. **[5]**
+3. Differentiate between "Line organization" and "Functional Organization". **[5]**
+4. Define the term: (a) Events, (b) Activity, (c) Critical activity, (d) Non Critical activity, (e) Dummy activity. **[5]**
+5. Explain Organizational culture and climate in detail. **[5]**
+
+---
+
+### ChunkID: HSMC501_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. The ABC manufacturing company requires 1250 components per month throughout the year for manufacturing electronic equipment. If ordering cost is Rs. 50 per order, unit cost is Rs. 5.00 per component and annual inventory carrying cost are 10%, Find EOQ. If the company decides to operate with a back order inventory policy then taking back order cost to be Rs. 7.50 per unit per year, find revised EOQ. **[15]**
+
+2. What are the main elements of Production Planning and Control? Explain in detail. **[15]**
+
+3. (a) Explain value analysis procedure. **[10]**
+   (b) State the conditions in which value analysis must be applied. **[5]**
+
+4. Draw and explain ERP cycle. State its merits and demerits. **[10+5]**
+
+5. Write short notes on any three of the following:
+   1. Value engineering
+   2. Test for value analysis
+   3. Stages in value analysis **[5+5+5]**
+
+---
+
+***END OF PAPER***

@@ -1,0 +1,160 @@
+**METADATA**
+
+* **Paper Code:** PCC-AI401 / PCCAIDS401 / PCCAIML401
+* **Subject Name:** Artificial Intelligence
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 004802
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: PCCAIML401_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What do you mean by knowledge representation?
+2. What is the negation of the statement "for all (x), (P(x))" in predicate logic?
+3. Write the process of analyzing the structure of a sentence.
+4. Define rational agent.
+5. In what type of problems are heuristic search strategies particularly useful?
+6. What is a frame in knowledge representation?
+7. What is the negation of the CNF
+
+[
+(p \lor q) \land (r \lor s)
+]
+
+?
+8. What is the purpose of Named Entity Recognition (NER) in NLP?
+9. What is perception in the context of AI agents?
+10. Which heuristic search strategy is particularly useful for problems where the goal state is not well-defined?
+11. What is the goal of Alpha-Beta Pruning?
+12. An event in probability that will never happen is called as __________.
+
+---
+
+### ChunkID: PCCAIML401_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Differentiate between Forward Reasoning and Backward Reasoning. **[5]**
+
+2. Convert the following facts into First Order Logic (FOL):
+
+   * All humans are mortal.
+   * Some birds can fly.
+   * Socrates is a philosopher.
+   * The sky is blue.
+   * John is taller than Mary.
+   * All dogs have four legs.
+
+   **[5]**
+
+3. Write an example of a problem for which Breadth First Search (BFS) would work better than Depth First Search (DFS).
+
+   Give proper explanations. **[5]**
+
+4. What are the different types of environments in AI? **[5]**
+
+5. Explain the Steepest Hill Climbing Algorithm. **[5]**
+
+---
+
+### ChunkID: PCCAIML401_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Explain each of the following with an example:
+
+(i) Constraint Graph
+
+(ii) Constraint Satisfaction Problem (CSP)
+
+**[8]**
+
+**(b)** Explain Graph Colouring in the context of CSP. **[7]**
+
+---
+
+### 2.
+
+**(a)** What are Fuzzy Sets?
+
+List the properties of Fuzzy Sets. **[5]**
+
+**(b)** Write a short note on Bayesian Network. **[5]**
+
+**(c)** Prove the following using either Resolution or Traditional Logic, using these propositions:
+
+Let
+
+[
+S : \text{I study}
+]
+
+[
+G : \text{I get good grades}
+]
+
+[
+E : \text{I enjoy}
+]
+
+Given:
+
+1. If I study, I get good grades.
+2. If I do not study, I enjoy.
+
+Prove that:
+
+[
+G \lor E
+]
+
+(i.e., Either I get good grades or I enjoy.)
+
+**[5]**
+
+---
+
+### 3.
+
+**(a)** Define an Expert System.
+
+List the characteristics of an Expert System. **[5]**
+
+**(b)** What is Meta Knowledge?
+
+How is Meta Knowledge represented in Rule-Based Expert Systems? **[5]**
+
+**(c)** List out the problem areas addressed by Expert Systems. **[5]**
+
+---
+
+### 4.
+
+Write the A* Algorithm and explain it with an 8-Puzzle Problem. **[15]**
+
+---
+
+### 5.
+
+**(a)** Explain Semantic Nets and Frames. **[5]**
+
+**(b)** Briefly explain the Frame Problem. **[5]**
+
+**(c)** Compare Non-Monotonic Reasoning and Statistical Reasoning. **[5]**
+
+---
+
+***END OF PAPER***

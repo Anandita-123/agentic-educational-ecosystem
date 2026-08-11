@@ -1,0 +1,69 @@
+**METADATA**
+
+* **Paper Code:** OECAIML 601A
+* **Subject Name:** Database Management System
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006910
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: OECAIML601A_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is an E-R or entity relationship model?
+2. Explain cross product of a relation with example.
+3. Define hashing.
+4. What is the need of dbms?
+5. Explain what is DDL in DBMS?
+6. Name the relationship that exist in Entity relationship model.
+7. What is primary key?
+8. What is a composite attribute? Give examples.
+9. Define Functional Dependency.
+10. What is Serializability?
+11. Name different types of views in DBMS.
+12. What is commercial database?
+
+---
+
+### ChunkID: OECAIML601A_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain mapping cardinality using ER diagram. **[5]**
+2. Explain Specialization with suitable example. **[5]**
+3. Describe the ACID Properties of a transaction. **[5]**
+4. Write short note on:
+   i) Primary and Secondary indexing.
+   ii) Sparse and Dense indexing. **[5]**
+5. With a neat Sketch explain the states of a transaction. **[5]**
+
+---
+
+### ChunkID: OECAIML601A_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. What is relational algebra? Explain in detail all the basic relational operations in brief. **[15]**
+2. (a) Create B tree and B+ tree to insert the following key values (the order of the tree is three) 32, 11, 15, 13, 7, 22, 15, 44, 67, 4. **[10]**
+   (b) Differentiate Static Hashing and Dynamic Hashing. **[5]**
+3. Consider the relational table given below and assess about the following SQL queries:
+   Employee (Empno, Name, Department, Salary).
+   (i) list all the employees whose name starts with the letter 'L'.
+   (ii) Find the maximum salary given to employees in each department.
+   (iii) Find the number of employees working in 'accounts' department.
+   (iv) Find the second maximum salary from the table.
+   (v) Find the employee who is getting the minimum Salary. **[15]**
+4. Explain about the two-phase locking with suitable example. **[15]**
+5. (a) Evaluate how reliability can be improved through redundancy. **[7]**
+   (b) How records are represented and organized in a file. Explain it with suitable example. **[8]**
+
+---
+
+***END OF PAPER***

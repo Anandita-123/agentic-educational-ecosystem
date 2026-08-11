@@ -1,0 +1,72 @@
+**METADATA**
+
+* **Paper Code:** PECAIDS702A/PECAIML702A/PECICB701C
+* **Subject Name:** Ecommerce and ERP
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007801
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: PECAIDS702A_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Write one importance of cyber law.
+2. What does E-Commerce represent?
+3. What is the Full form of C2B and C2C?
+4. Mention 1 strategy to improve your E-Commerce revenue.
+5. What are the 4 C's in E-Commerce.
+6. What is supply chain management.
+7. What is e-cheque?
+8. What is tele marketing.
+9. Give one example of Home-shopping.
+10. What are the disadvantages of E-Commerce.
+11. What is full form of WAP?
+12. State the key element of a business model used in E-Commerce.
+
+---
+
+### ChunkID: PECAIDS702A_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is a cyber crime? What are the different measures to prevent cyber crime? **[5]**
+2. What are the challenges in supply chain management? **[5]**
+3. Discuss about secure Electronic transaction. **[5]**
+4. Discuss about a call center with respect to tasks handled, mode of operation and equipment required. **[5]**
+5. Discuss about electronic funds transfer. **[5]**
+
+---
+
+### ChunkID: PECAIDS702A_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What are the steps involved during transaction flow in e cash system. **[8]**
+   (b) Discuss about the risks involved in electronic payment system. **[7]**
+
+2. (a) Define E-Commerce. **[5]**
+   (b) Describe some of the advantages and limitations of E-Commerce. **[5]**
+   (c) What are the rules and regulations for controlling E-Commerce. **[5]**
+
+3. (a) Define WAP. Explain its importance in E-Commerce. **[2+3]**
+   (b) What are handheld devices **[5]**
+   (c) Discuss about infrastructure requirement for E-Commerce **[5]**
+
+4. (a) Discuss about a firewall with respect to its benefits. **[5]**
+   (b) What are the functions of the firewall with respect to E-Commerce? **[5]**
+   (c) What are the different categories of a firewall? **[5]**
+
+5. (a) What is EDI? **[5]**
+   (b) Discuss its layered structure. **[5]**
+   (c) Describe about EDI agreement. **[5]**
+
+---
+
+***END OF PAPER***

@@ -1,0 +1,136 @@
+**METADATA**
+
+* **Paper Code:** MC401 / MC-401 / MC401
+* **Subject Name:** Environmental Sciences
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 004421
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: MC401_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What are causes of acid rain and what are its effects on natural environment?
+2. What do you understand by GCM?
+3. What are In-situ and Ex-situ conservation methods of biodiversity?
+4. Graphically explain the relationship between BOD and DO.
+5. What are the various sources of water pollution?
+6. Mention names of a few gases generated from an Incineration Plant.
+7. Mention various types of noise pollution and its effects on human beings.
+8. What authorizes the Central Government of India in the Environmental Protection Act, 1986?
+9. What are the various types of earthquake waves generated in the earth surface?
+10. Mention the types and functions of various components of ecosystem.
+11. Mention the various elements of air pollution as per NAAQS.
+12. What is meant by 5-day BOD and Ultimate BOD?
+
+---
+
+### ChunkID: MC401_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. **(i)** Explain with neat diagram the internal structure of the Earth. **[5]**
+
+   **(ii)** What do you mean by Rock Cycle? **[5]**
+
+2. **(i)** What do you mean by Maximum Mixing Depth? **[5]**
+
+   **(ii)** Differentiate between Ambient Lapse Rate and Adiabatic Lapse Rate. **[5]**
+
+3. **(i)** Define Flood and how can it be mitigated and controlled? **[5]**
+
+   **(ii)** What do you understand by Anthropogenic Environmental Degradation? **[5]**
+
+4. **(i)** Write the equation for population growth and explain the notations. **[5]**
+
+   **(ii)** How to calculate Natural Increase Rate? **[5]**
+
+5. **(i)** How does arsenic get dissolved in groundwater in the aquifer system? **[5]**
+
+   **(ii)** How many districts in West Bengal are exposed to groundwater arsenic contamination? **[5]**
+
+---
+
+### ChunkID: MC401_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(i)** What are different types of solid wastes? **[4]**
+
+**(ii)** What are the methods of solid waste disposal and management? **[6]**
+
+**(iii)** What are the advantages and disadvantages of Landfilling of solid waste? **[5]**
+
+---
+
+### 2.
+
+**(i)** What are Nutrient Cycles and how are they important for our environment? **[4]**
+
+**(ii)** Draw a flowchart for Nitrogen Cycle. **[6]**
+
+**(iii)** Explain Biogeochemical Cycle by a diagram. **[5]**
+
+---
+
+### 3.
+
+**(i)** Mention various types of greenhouse gases and their effects on terrestrial ecosystems. **[6]**
+
+**(ii)** How are Global Warming and Climate Change related? **[5]**
+
+**(iii)** What are Short Wave and Long Wave Radiations? **[4]**
+
+---
+
+### 4.
+
+**(i)** Why is Sustainable Growth considered a modern concept of development? **[5]**
+
+**(ii)** How can population growth in India be controlled? **[3]**
+
+**(iii)** If the present population of the World is
+
+[
+8.00 \text{ billion}
+]
+
+what would be the population of the World after
+
+[
+25 \text{ years}
+]
+
+with a growth rate of
+
+[
+1% \text{ per year}
+]
+
+? **[7]**
+
+---
+
+### 5.
+
+**(i)** What is a groundwater aquifer, aquiclude and aquitard? Explain with neat diagram. **[6]**
+
+**(ii)** How is groundwater recharged? **[4]**
+
+**(iii)** What do you understand by Rooftop Rainwater Harvesting? **[5]**
+
+---
+
+***END OF PAPER***

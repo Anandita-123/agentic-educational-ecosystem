@@ -1,0 +1,170 @@
+**METADATA**
+
+* **Paper Code:** ES-EE101 / ESEE101
+* **Subject Name:** Basic Electrical Engineering
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001009
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: ESEE101_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Define the time constant for an R-L series circuit.
+2. What is the effect of frequency on capacitive reactance?
+3. Which material is used in the core of a transformer?
+4. What is the condition for maximum starting torque of an induction motor?
+5. What is the need for controlling the output voltage of an inverter?
+6. What is fuse link?
+7. Convert a (4A) source with its parallel resistance of (15\Omega) into its equivalent voltage source.
+8. In series circuit analysis why is current taken as reference phasor?
+9. In a transformer, maximum voltage regulation occurs at ________.
+10. What is meant by rotor frequency in a 3-phase induction motor?
+11. When is steady-state ripple maximum for chopper?
+12. What is the current that is considered safe for the human body?
+
+---
+
+### ChunkID: ESEE101_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What are the different kinds of battery? What are the important characteristics of battery? **[5]**
+
+2. Discuss the phase relation between applied voltage and line current when AC flows through RC circuit. **[5]**
+
+3. Draw a neat phasor diagram of a transformer with the load having lagging power factor. **[5]**
+
+4. Derive the torque equation of a 3-phase induction motor. **[5]**
+
+5. A single phase, (50Hz) transformer has 80 turns on the primary winding and 280 turns in the secondary winding.
+
+The voltage applied across the primary winding is (240V).
+
+The net cross-sectional area of the core can be taken as
+
+[
+200;cm^2
+]
+
+Calculate:
+
+(i) The maximum flux density in the core.
+
+(ii) Induced emf in the secondary winding.
+
+**[5]**
+
+---
+
+### ChunkID: ESEE101_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Draw and explain the phasor diagram of R-L-C series circuit and give the condition for resonance in this circuit. **[5]**
+
+**(b)** Define the bandwidth of a resonant circuit.
+
+Give the relationship of quality factor in terms of bandwidth and resonant frequency. **[5]**
+
+**(c)** Why is the series resonance called voltage resonance? **[2]**
+
+**(d)** Discuss in brief about auto-transformer. **[3]**
+
+---
+
+### 2.
+
+**(a)** "The voltage regulation of a transformer will be zero for a leading power factor load."
+
+Justify the statement. **[5]**
+
+**(b)** What do you understand by the term "Ideal Transformer"? **[7]**
+
+**(c)** Describe any two techniques of speed control of 3-phase induction motor. **[3]**
+
+---
+
+### 3.
+
+**(a)** The input power to a 6-pole, 3-phase, 50Hz induction motor is (42kW).
+
+The speed is (970rpm).
+
+The stator losses are (1.2kW) and friction and windage losses are (1.8kW).
+
+Find:
+
+(i) The slip
+
+(ii) The rotor copper losses
+
+(iii) Efficiency of motor
+
+**[3+3+3]**
+
+---
+
+### 4.
+
+**(a)** Describe the working of a single phase full bridge inverter with the help of voltage waveform. **[8]**
+
+**(b)** Discuss how output power in a single phase full bridge inverter becomes 4 times the power supplied by a single phase half bridge inverter. **[7]**
+
+---
+
+### 5.
+
+**(a)** In what way a practical transformer differs from an ideal transformer? **[3]**
+
+**(b)** Develop an equivalent circuit for the practical transformer. **[6]**
+
+**(c)** A (10kVA), single phase transformer with
+
+[
+2000/400V
+]
+
+at no load has resistance and leakage reactance of primary winding
+
+[
+5.5\Omega
+]
+
+and
+
+[
+12\Omega
+]
+
+respectively.
+
+The corresponding values of secondary winding are
+
+[
+0.2\Omega
+]
+
+and
+
+[
+0.45\Omega
+]
+
+Determine the value of secondary voltage at full load, (0.8) power factor lagging, when the primary applied voltage is (2000V). **[6]**
+
+---
+
+***END OF PAPER***

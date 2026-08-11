@@ -1,0 +1,283 @@
+**METADATA**
+
+* **Paper Code:** BS-M101 / BSM101
+* **Subject Name:** Mathematics – IA
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001004
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: BSM101_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. (f(x)=|x|) satisfies Rolle's theorem in ([-1,1]). State True or False with reasons.
+
+2. Every square matrix (A) can be expressed as a sum of symmetric and skew-symmetric matrices and it can be expressed as ________.
+
+3. Collection of vectors containing null vectors is linearly ________.
+
+4. If the eigen values of matrix (A) are (a) and (b), then what are the eigen values of (A^2)?
+
+5. Find the value of
+
+[
+\Gamma\left(\frac{5}{2}\right)
+]
+
+6. Evaluate
+
+[
+\lim_{x\to0}\frac{1-\cos x}{\sin x}
+]
+
+7. Find the value of (C) for which the vectors ((1,2)) and ((3,C)) are linearly independent.
+
+8. A set of vectors in a vector space (V) over a field (F) is orthogonal if
+
+[
+|a|=\underline{\hspace{1cm}}
+]
+
+9. What is eigen value of a square matrix?
+
+   Find the eigen values of the matrix
+
+[
+A=
+\begin{bmatrix}
+1 & 0 & 0\
+0 & 2 & 0\
+0 & 0 & 3
+\end{bmatrix}
+]
+
+10. Define Beta and Gamma functions.
+
+11. The product of two orthogonal matrices is ________ matrix.
+
+12. The product of any matrix and its transpose is ________ matrix.
+
+---
+
+### ChunkID: BSM101_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Check whether the vectors
+
+[
+{(1,1,0),(1,1,1),(0,1,-1)}
+]
+
+form a basis in (R^3) or not. **[5]**
+
+2. State Lagrange's Mean Value Theorem.
+
+Prove that
+
+[
+\frac{x}{1+x}<\log(1+x)<x,
+\qquad x>0
+]
+
+**[5]**
+
+3. Solve the following equations by matrix inversion method, if possible:
+
+[
+2x+3y+z=6
+]
+
+[
+y+5z=8
+]
+
+[
+-x+y=0
+]
+
+**[5]**
+
+4. Define subspace of a vector space.
+
+Let
+
+[
+V=\left{
+\begin{bmatrix}
+a & b\
+c & d
+\end{bmatrix}
+:a,b,c,d\in R
+\right}
+]
+
+be the set of all (2\times2) matrices and (S) be the subset of (V) such that
+
+[
+S=
+\left{
+\begin{bmatrix}
+a & b\
+c & d
+\end{bmatrix}
+:a+b=0
+\right}
+]
+
+Show that (S) is a subspace of (V). **[5]**
+
+5. Prove that
+
+[
+B(m,n)=B(n,m)
+]
+
+Also write the relation between Beta and Gamma functions and find
+
+[
+B(3,4)
+]
+
+**[5]**
+
+---
+
+### ChunkID: BSM101_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. **(a)** Define kernel of a linear transformation between two vector spaces.
+
+Is
+
+[
+f(x)=\sin x
+]
+
+a linear transformation? Justify your answer. **[5]**
+
+**(b)** State Cayley-Hamilton Theorem for matrices.
+
+What is the characteristic equation of a square matrix? Explain with an example. **[4]**
+
+**(c)** What is eigen vector?
+
+Find the eigen values and eigen vectors of the matrix
+
+[
+\begin{bmatrix}
+2 & -1\
+1 & 4
+\end{bmatrix}
+]
+
+**[6]**
+
+---
+
+2. Show that the set of all complex numbers is a vector space over real field with respect to the usual addition between two complex numbers and multiplication between a real number and a complex number.
+
+Find a basis of this space and hence determine the dimension. **[15]**
+
+---
+
+3. What is diagonalization of matrix?
+
+Diagonalise the matrix
+
+[
+A=
+\begin{bmatrix}
+6 & 4 & -2\
+4 & 12 & -4\
+-2 & -4 & 13
+\end{bmatrix}
+]
+
+Write the matrix (P) such that
+
+[
+P^{-1}AP
+]
+
+is a diagonal matrix.
+
+Also show that
+
+[
+P^{-1}AP=D
+]
+
+**[15]**
+
+---
+
+4. **(a)** Prove that
+
+[
+\int_0^{\infty}
+\frac{1}{(1+x^2)^5},dx
+======================
+
+\frac{35\pi}{256}
+]
+
+**[7]**
+
+**(b)** Obtain the evolute of the parabola
+
+[
+y^2=4ax
+]
+
+**[8]**
+
+---
+
+5. **(a)** Verify Lagrange's Mean Value Theorem for
+
+[
+f(x)=x(x-1)(x-2)
+]
+
+in
+
+[
+\left[0,\frac12\right]
+]
+
+**[5]**
+
+**(b)** Expand the following function in powers of (x) in infinite series stating in each case the condition under which the expression is valid:
+
+[
+f(x)=\cos x
+]
+
+**[5]**
+
+**(c)** Evaluate
+
+[
+\Gamma\left(\frac12\right)
+\Gamma\left(\frac32\right)
+\Gamma\left(\frac52\right)
+\Gamma\left(\frac72\right)
+]
+
+**[5]**
+
+---
+
+***END OF PAPER***

@@ -1,0 +1,72 @@
+**METADATA**
+
+* **Paper Code:** EC602/PCC-CS602/PCCCS602
+* **Subject Name:** Computer Networks
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006596
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is DNS in computer network?
+2. Which multiplexing technique shifts each signal to a different carrier frequency?
+3. What is the Hamming Distance between two equal codewords?
+4. What are autonomous systems in computer networks?
+5. TCP assigns a sequence number to each segment that is being sent. The sequence number for each segment is the number of the ________ byte carried in that segment.
+6. What are the transmission modes in FTP?
+7. In synchronous TDM, for n signal sources of the same data rate, what will be the number of slots in each frame?
+8. In bit stuffing when is an extra 0 bit stuffed to the data section of the frame?
+9. What are the number of bits required for IPv4 addresses when expressed in binary?
+10. In the ________ bucket algorithm, bursty chunks are stored in bucket and sent out at an average rate.
+11. Why is PGP needed?
+12. The point where the secure internal network and untrusted external network meet and a firewall is installed is known as ________
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. How does FTP Work? **[5]**
+2. Describe the functions of session layer of the OSI reference model. **[5]**
+3. What is piggybacking? Discuss its advantages. **[5]**
+4. What is the first address of a block of classless addresses if one of the addresses is 12.2.2.76/27 **[5]**
+5. Suppose that the UDP receiver computes the Internet checksum for the received UDP segment and finds that it matches the value carried in the checksum field. Can the receiver be absolutely sure that no bit errors have occurred? Explain. Would things be different with TCP? **[5]**
+
+---
+
+### ChunkID: PECAIML601B_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What are the functions of MAC sublayer? **[4]**
+   (b) Discuss the working principle of pure ALOHA and slotted ALOHA. What is the vulnerable time in pure and slotted ALOHA? **[3+2]**
+   (c) With diagram explain Go-Back-N protocol. **[6]**
+
+2. (a) What do you mean by private IP address? Why is it needed? **[5]**
+   (b) Explain the DHCP state transition diagram. **[6]**
+   (c) A block of 16 addresses is granted to a small organization. If one of the addresses is 205.16.37.39/28, what are the first and last addresses in the block? **[4]**
+
+3. (a) With diagram explain three way handshaking in TCP. **[4]**
+   (b) What is the importance of port number? Consider a TCP connection between Host A and Host B. Suppose that the TCP segments travelling from Host A to Host B have source port number x and destination port number y. What are the source and destination port numbers for the segments travelling from Host B to Host A? **[2+1]**
+   (c) Explain briefly how the leaky-bucket and token bucket algorithm works. How can these two algorithms (leaky -bucket and token-bucket) be combined to get the most optimized quality of service? **[4+2]**
+
+4. (a) How does a packet filter firewall work? **[7]**
+   (b) With a block diagram explain symmetric key encryption. **[8]**
+
+5. (a) Explain the two node instability problem in Distance vector routing. **[5]**
+   (b) Discuss the possible solutions of the two node instability problem in Distance vector routing. **[5]**
+   (c) Assume a packet has to visit two routers during transmission from source to destination. Determine how many times the packet has to visit the network layer and the data link layer. **[5]**
+
+---
+
+***END OF PAPER***

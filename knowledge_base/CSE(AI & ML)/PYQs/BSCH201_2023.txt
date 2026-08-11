@@ -1,0 +1,141 @@
+**METADATA**
+
+* **Paper Code:** BSCH201
+* **Subject Name:** Chemistry-I (Gr-A)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 002002
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2022-2023
+
+---
+
+### ChunkID: BSCH201_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Which type of isomerism is observed in (CH_3CH_2OH) and (CH_3OCH_3)?
+2. A nucleophile must possess ________.
+3. Which type of semiconductor is formed when Germanium is doped with Aluminium?
+4. In UV spectroscopy, shift of (\lambda_{max}) towards shorter wavelength is called ________.
+5. Write the expression of critical pressure.
+6. Give example of a reference electrode.
+7. Write two types of luminescence.
+8. When do real gases behave as ideal gases?
+9. Write 3 ions which cause alkalinity of water.
+10. Arrange (NaF), (NaCl), (NaBr), (NaI) in order of increasing melting point.
+11. Write the criteria for a compound to be aromatic.
+12. How many NMR signals are obtained for isopropanol ([CH_3CH(OH)CH_3])?
+
+---
+
+### ChunkID: BSCH201_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write the differences between p-type semiconductor and n-type semiconductor. **[5]**
+
+2. Explain about chromophore and auxochrome with examples. Give the range of UV spectra. **[5]**
+
+3. What is MRI? State its uses. **[5]**
+
+4. Explain the following two observations:
+
+   * The boiling point of n-pentane is higher than that of neo-pentane.
+   * (H_2O) is liquid while (H_2S) is gas.
+
+   **[5]**
+
+5. Starting from the expression of free energy
+
+[
+G = H - TS
+]
+
+derive Gibbs–Helmholtz equation for constant pressure. **[5]**
+
+---
+
+### ChunkID: BSCH201_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Show the splitting of d-orbitals in a tetrahedral field. **[5]**
+
+**(b)** Low spin complexes are not obtained in tetrahedral crystal field – Give reason. **[3]**
+
+**(c)** On the basis of band theory differentiate between conductors, semiconductors and insulators. **[4]**
+
+**(d)** What are anti-aromatic compounds? Give examples. **[3]**
+
+---
+
+### 2.
+
+**(a)** State Lambert-Beer's Law. Show that absorption is linearly proportional to the concentration of the solution. **[5]**
+
+**(b)** Which molecules are IR inactive? Give example. **[3]**
+
+**(c)** What do you mean by Bathochromic shift and Hypsochromic shift in UV spectroscopy? **[4]**
+
+**(d)** Which shift is observed if conjugation is increased? Give reason. **[3]**
+
+---
+
+### 3.
+
+**(a)** Discuss Fluorescence process with diagram. Explain its uses. **[6]**
+
+**(b)** Which electronic transitions are UV active for formaldehyde? Comment on their intensities of absorption. **[3]**
+
+**(c)** Which atoms are NMR inactive and why? **[3]**
+
+**(d)** What is chemical shift of proton? **[3]**
+
+---
+
+### 4.
+
+**(a)** Write van der Waals equation mentioning the terms involved. Show the form of van der Waals equation at high pressure and at low pressure. **[4]**
+
+**(b)** What is Boyle temperature? Show the relation of Boyle temperature with van der Waals constants. **[3]**
+
+**(c)** What is compressibility factor? What is its value for ideal gas? **[3]**
+
+**(d)** Can we liquefy a gas by increasing pressure alone? Why? **[3]**
+
+**(e)** What is van der Waals force? **[2]**
+
+---
+
+### 5.
+
+**(a)** With the help of a diagram, show the different electronic transitions between the molecular orbitals and comment on their energy differences. **[5]**
+
+**(b)** How can you differentiate 1,3-pentadiene and 1,4-pentadiene by UV spectroscopy? **[5]**
+
+**(c)** A heteronuclear molecule of reduced mass
+
+[
+1.63 \times 10^{-24};g
+]
+
+absorbs at
+
+[
+2880;cm^{-1}
+]
+
+Calculate the force constant ((k)) assuming harmonic oscillator model. **[5]**
+
+---
+
+***END OF PAPER***

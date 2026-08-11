@@ -1,0 +1,142 @@
+**METADATA**
+
+* **Paper Code:** BS-PH101 / BSPH101
+* **Subject Name:** Physics-I
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001003
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025
+
+---
+
+### ChunkID: BSPH101_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Write an expression for Compton wavelength of an electron.
+2. MB statistics is applicable for photons. State True or False.
+3. What is the displacement of a particle executing SHM, when the velocity is maximum?
+4. What is polarization inversion?
+5. For which type of materials magnetic susceptibility is negative?
+6. Phase velocity and group velocity are equal when the medium is ________.
+7. Which statistical distribution is followed by free electrons in a conductor?
+8. Write the differential equation for SHM.
+9. What is Optic Axis of a crystal?
+10. What is the dimension of μ₀ε₀?
+11. An electron and a proton are accelerated through the same potential difference. The de Broglie wavelength of the proton is larger than that of the electron. State True or False.
+12. Give one example of Uniaxial Crystal.
+
+---
+
+### ChunkID: BSPH101_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. (a) Draw the plot for blackbody radiation against wavelength for three different temperatures T₁ < T₂ < T₃. **[5]**
+
+   (b) What do you mean by Ultra-Violet Catastrophe?
+
+2. (a) Show that the gradient of a scalar field u(x,y,z) is perpendicular to the surface u(x,y,z)=constant. **[5]**
+
+   (b) Find Gradient of the following scalar field at the point (1, -2, -1):
+
+   [
+   u(x,y,z)=xy^2z+4x
+   ]
+
+3. State Brewster's Law. Calculate the polarizing angle for light travelling from water to glass. Refractive index of glass = 1.53 and water = 1.33. **[5]**
+
+4. Differentiate between Amplitude resonance and velocity resonance. What is logarithmic decrement in damped oscillation? **[5]**
+
+5. A particle is trapped in an infinite one-dimensional potential well of width (L). Write its wavefunction and probability density function in its first excited state. Find the probability density at (x=L/2). **[5]**
+
+---
+
+### ChunkID: BSPH101_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Show that the gradient of a scalar function is an irrotational vector. **[3]**
+
+   (b) Show that Curl of position vector is zero. **[3]**
+
+   (c) Is the magnetic field an irrotational vector or a solenoidal vector? Is the electric field an irrotational vector or a solenoidal vector? **[2]**
+
+   (d) Solve the following:
+
+   If
+
+   [
+   \psi(x,y,z)=3xy^2-5x^2z+2z^2
+   ]
+
+   find
+
+   [
+   \nabla^2 \psi
+   ]
+
+   **[4]**
+
+   (e) Determine the constant (q) so that the following field is solenoidal:
+
+   [
+   \vec F=(2x+3yz)\hat i+(3y-z^2)\hat j+(y^3+qx)\hat k
+   ]
+
+   **[3]**
+
+2. (a) Distinguish between Fresnel and Fraunhofer Diffraction. **[3]**
+
+   (b) Write the characteristics of LASER. **[4]**
+
+   (c) Mention three methods of producing plane polarized beam of light. **[3]**
+
+   (d) Explain briefly what you mean by double refraction. **[3]**
+
+   (e) State Malus Law. **[2]**
+
+3. (a) What is Grating element? Write and plot the intensity distribution of a single slit diffraction pattern and find the positions of maxima, minima and secondary maxima. **[2+1+2+4+4]**
+
+   (b) Find the minimum thickness of a half wave plate and a quarter wave plate for a light wave of wavelength 5893 Å.
+
+   Given:
+
+   [
+   \mu_o=1.66,\quad \mu_e=1.47
+   ]
+
+   **[2]**
+
+   (c) What are the three basic components of a LASER? What is an optical resonator? **[2+3]**
+
+4. (a) X-Ray photon of wavelength 2 Å is scattered at an angle of 45° by a carbon block.
+
+   (i) Calculate the wavelength of scattered X-ray.
+
+   (ii) Find the fraction of energy lost by the X-ray photon during this event.
+
+   **[5+2]**
+
+   (b) A particle of mass (m) is confined in an infinite potential well between (x=0) and (x=L). Solve the time independent Schrödinger equation for such a system and find the normalized eigenfunctions and eigenvalues. Using the normalized eigenfunctions find the expectation value of (x). **[3]**
+
+   (c) Plot the Fermi distribution of a particle at (T=0,K) and (T>0,K). **[4]**
+
+5. (a) Calculate the number of photons emitted per second by a 20 W source of monochromatic light of wavelength 431 nm. **[4]**
+
+   (b) What do you mean by degeneracy? **[2]**
+
+   (c) State the Heisenberg's Uncertainty Principle. The average time interval that elapses between the excitation of an atom and the time it radiates energy is (10^{-8}) seconds. Calculate the uncertainty in energy of emitted photons. **[2+3]**
+
+   (d) Compare Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac Statistics on the basis of minimum three characteristics. **[4]**
+
+---
+
+***END OF PAPER***

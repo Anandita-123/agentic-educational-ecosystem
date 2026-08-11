@@ -1,0 +1,69 @@
+**METADATA**
+
+* **Paper Code:** OECAIML601A
+* **Subject Name:** Database Management System
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006910
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: OECAIML601A_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What are the different schema in dbms?
+2. What are the different types of constrains in DBMS?
+3. What is orderby clause?
+4. Explain two types of query language.
+5. Explain closure property with example?
+6. Name all the data models in DBMS.
+7. What is Serializability?
+8. What is DDL in DBMS?
+9. What is SQL?
+10. What is BCNF?
+11. What is DML in DBMS?
+12. What is group by clause?
+
+---
+
+### ChunkID: OECAIML601A_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain mapping cardinality using ER diagram. **[5]**
+2. Explain Specialization with suitable example. **[5]**
+3. Explain views in DBMS. **[5]**
+4. What are the different joins in DBMS? **[5]**
+5. Explain Armstrong Axioms with suitable examples. **[5]**
+
+---
+
+### ChunkID: OECAIML601A_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Draw an ER diagram for Library Management System. How you can convert ER model to Relational model. **[15]**
+2. Describe with suitable example in relational algebra:
+   i) Union
+   ii) Natural Join
+   iii) Intersection
+   iv) Set Difference
+   v) Selection and Projection **[15]**
+3. If a relation R(ABCDEF) and following are the functional dependencies:
+   AB->C
+   C->DE
+   E->F
+   F->A
+   Explain the Multivalued Dependency (MVD) with suitable example. **[15]**
+4. Explain different types of keys in DBMS with examples. Explain different types of indexing in RDBMS. **[15]**
+5. What is transaction? Explain ACID properties of transaction. A relation R(A,B,C,D,E) and FDs are A->BC, CD->E, B->D, E->A, find all the candidate keys? Check the highest normal form. **[15]**
+
+---
+
+***END OF PAPER***

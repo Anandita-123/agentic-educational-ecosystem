@@ -1,0 +1,65 @@
+**METADATA**
+
+* **Paper Code:** OECAIDS701A/OECAIML701A
+* **Subject Name:** Internet of Things
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007816
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: OECAIDS701A_2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Why is monitoring air quality important for lot applications?
+2. What is the basic working principle of a resistive sensor?
+3. Define constant phase impedance.
+4. What is the primary function of a sensing element in a smart sensor?
+5. What is the purpose of interfacing electronic circuits with smart sensors?
+6. What does the sensitivity of a sensor refer to?
+7. What is the function of a pressure sensor?
+8. What is one advantage of using integrated circuits (ICs) in smart sensor designs?
+9. How is the equivalent circuit of a sensor used in modeling?
+10. Explain the purpose of a power management system in smart sensors.
+11. What is a common application of smart sensors in industrial automation?
+12. Give an example of a smart sensor application in agriculture.
+
+---
+
+### ChunkID: OECAIDS701A_2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Explain the role of smart sensors in enhancing daily life through health monitoring. **[5]**
+2. Discuss the effects of adverse environmental parameters on human health and how loT can mitigate them. **[5]**
+3. Describe the structure and function of a resistive humidity sensor. **[5]**
+4. Explain the architecture of smart sensors, detailing the key components and their respective roles in sensor functionality. **[5]**
+5. How can adverse environmental conditions affect the performance of lot networks, and what are the solutions? **[5]**
+
+---
+
+### ChunkID: OECAIDS701A_2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Evaluate the significance of real-time environmental monitoring in healthcare and urban planning using IoT technologies. **[15]**
+
+2. Discuss in detail the working principles of capacitive, resistive, and SAW sensors. Provide a practical example for each sensor type. **[15]**
+
+3. (a) Describe the role of impedance spectroscopy in the characterization of sensors. **[5]**
+   (b) Include a discussion of its methodology and applications in various sensing environments. **[10]**
+
+4. (a) Evaluate the fabrication techniques of electrodes in smart sensors, focusing on screen printing, photolithography, and electroplating. **[5]**
+   (b) Discuss their processes, advantages, limitations, and applications. **[10]**
+
+5. Illustrate the future scope of research in smart sensors, focusing on emerging technologies and their potential applications across various sectors. **[15]**
+
+---
+
+***END OF PAPER***

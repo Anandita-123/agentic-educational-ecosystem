@@ -1,0 +1,182 @@
+**METADATA**
+
+* **Paper Code:** HSMC301 / HSMC-301 / HSMC301
+* **Subject Name:** Economics for Engineers (Humanities-II)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003446
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: HSMC301_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. The combination of stagnation and inflation is known as __________.
+
+2. In the situation of bankruptcy, a stock which is recorded above common stock and below debt account is __________.
+
+3. What is WPI?
+
+4. Sensitivity of demand to change in price is known as __________.
+
+5. Decision Tree Algorithm belongs to the __________ family.
+
+6. A firm buys products but does not pay suppliers instantly. This is recorded as __________.
+
+7. What is the usage of Power-Sizing Model?
+
+8. The owner of a debenture is qualified for fixed-rate interest.
+
+   **(True / False)**
+
+9. A portfolio having two risky securities can be turned riskless if __________.
+
+10. On a Balance Sheet, accruals, notes payable and accounts payable are listed under current liabilities.
+
+**(True / False)**
+
+11. A company that issues stocks and bonds to raise funds results in __________.
+
+12. What is the Benefit-Cost Ratio (BCR)?
+
+---
+
+### ChunkID: HSMC301_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is Income Statement? **[5]**
+
+2. What is a Patent? **[5]**
+
+3. What are Recurring Cost and Non-Recurring Cost? **[5]**
+
+4. How can GST give relief to the overall tax burden? **[5]**
+
+5. Is there any importance of Ethics in Engineering and Engineering Economy? **[5]**
+
+---
+
+### ChunkID: HSMC301_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Explain the types of property in the context of Depreciation. **[5]**
+
+**(b)** “Almost all tangible property can be depreciated.” Explain. **[4]**
+
+**(c)** “One important exception is land, which is never depreciated.” Explain. **[6]**
+
+---
+
+### 2.
+
+**(a)** Suppose a professional golfer wants to invest some recent golf winnings in her hometown bank for one year.
+
+Currently, the bank is paying a rate of:
+
+[
+5.5%
+]
+
+compounded annually.
+
+Assume inflation is expected to be:
+
+[
+2%
+]
+
+per year.
+
+Identify:
+
+* (i)
+* (f)
+* (i')
+
+Repeat the calculation for inflation of:
+
+[
+8%
+]
+
+per year. **[6]**
+
+**(b)** What is CPI (Consumer Price Index) or Retail Inflation? **[9]**
+
+---
+
+### 3.
+
+**(a)** A firm expanded one of its manufacturing operations inside an existing building.
+
+New processing and packaging equipment was purchased for:
+
+[
+$800,000
+]
+
+Sales revenue for the year:
+
+[
+$1.25 \text{ million}
+]
+
+Operating expenses (excluding capital expenditure):
+
+[
+$360,000
+]
+
+The new equipment qualifies for **100% Bonus Depreciation**.
+
+Determine:
+
+1. First-year depreciation charge.
+2. First-year taxable income.
+3. Federal income taxes for the year.
+
+**[8]**
+
+**(b)** Illustrate the model of a Balance Sheet. **[7]**
+
+---
+
+### 4.
+
+**(a)** What are the steps involved in the Rational Decision-Making Process? **[8]**
+
+**(b)** What do you know about the unusual aspects of Engineering Decision Making? **[7]**
+
+---
+
+### 5.
+
+**(a)** How is CPI used to measure Inflation? **[5]**
+
+**(b)** Does an increase in CPI mean Inflation? **[2]**
+
+**(c)** What are the probability distributions for the annual benefit and life for the following project?
+
+* Most likely annual benefit = **$8000** with probability **60%**
+* Annual benefit = **$5000** with probability **30%**
+* Highest likely annual benefit = **$10,000**
+* A project life of **6 years** is twice as likely as a project life of **9 years**
+
+Determine the probability distributions of annual benefit and project life. **[8]**
+
+---
+
+***END OF PAPER***

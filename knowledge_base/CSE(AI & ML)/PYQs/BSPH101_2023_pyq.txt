@@ -1,0 +1,234 @@
+**METADATA**
+
+* **Paper Code:** BSPH101
+* **Subject Name:** Physics-I
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001003
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023
+
+---
+
+### ChunkID: BSPH101_2023_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Calculate the wavelength of an electron of energy (10,eV).
+2. Why do not we observe the de Broglie wavelength with a fast moving cricket ball?
+3. What is the phase difference between displacement and velocity of a particle executing SHM?
+4. Fill in the blank: Planck's formula for black body radiation can be derived from ________ statistics.
+5. Why does sound wave not show the phenomenon of polarization?
+6. What is the expression of separation between interference fringes in double slit diffraction?
+7. A conductor of length (L) is placed in a magnetic field of magnetic flux density (B). If current (I) is flowing through the conductor then how much force will be experienced by it?
+8. What would be the amount of change in wavelength of a monochromatic X-ray photon, when it is scattered by carbon atoms at an angle (180^\circ)?
+9. In which statistics, Pauli's exclusion principle is valid?
+10. Find
+
+[
+\nabla \cdot \vec r
+]
+
+11. The differential equation of motion of a freely oscillating body is given by
+
+[
+\frac{d^2x}{dt^2}+36\pi^2x=0
+]
+
+Find the natural frequency of the body.
+
+12. At absolute zero temperature, what is the Fermi distribution of electrons when the energy of the system is greater than Fermi energy?
+
+---
+
+### ChunkID: BSPH101_2023_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What do you mean by harmonic motion?
+
+   Give a graphical comparison among the following four types of harmonic motion:
+
+   (i) Simple harmonic motion
+
+   (ii) Underdamped harmonic motion
+
+   (iii) Overdamped harmonic motion
+
+   (iv) Critically damped harmonic motion
+
+   **[5]**
+
+2. (a) Deduce Brewster's Law.
+
+   (b) Find the Brewster's angle of a glass slab of refractive index (1.5). If the slab is immersed in water of refractive index (4/3), find the angle of polarization.
+
+   **[5]**
+
+3. What do you mean by irrotational vector?
+
+   Show that
+
+[
+\vec A=(6x^2+z^3)\hat i+(3x^2-z-y)\hat j
+]
+
+is irrotational.
+
+**[5]**
+
+4. Write down the expression for the intensity of light due to Fraunhofer diffraction in a single slit and hence find the conditions for maxima and minima in the diffraction pattern. **[5]**
+
+5. Evaluate
+
+[
+\nabla\cdot\left(\frac{\vec r}{r^3}\right)
+]
+
+**[5]**
+
+---
+
+### ChunkID: BSPH101_2023_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** What are positive and negative crystals? Give examples. What is optic axis of a crystal? **[1+1+1+1]**
+
+**(b)** How can you distinguish between circularly polarized light and unpolarized light with the help of quarter wave plate and Nicol prism? **[4]**
+
+**(c)** Explain why light wave can be polarized but sound wave cannot be polarized. **[2]**
+
+**(d)** Find the state of polarization when (x) and (y) components of the electric fields are given by
+
+[
+E_x=E_0\sin(\omega t+kz)
+]
+
+and
+
+[
+E_y=E_0\cos(\omega t+kz)
+]
+
+**[2]**
+
+**(e)** A plane polarized light of wavelength (600,nm) changes to circularly polarized light on passing through a quartz crystal cut parallel to optic axis.
+
+Calculate the minimum thickness to produce such effect.
+
+Given
+
+[
+(\mu_e-\mu_o)=0.005
+]
+
+**[3]**
+
+---
+
+### 2.
+
+**(a)** Define magnetic susceptibility and permeability. Obtain the relation between them. **[2+3]**
+
+**(b)** Write the differences between diamagnetic, paramagnetic and ferromagnetic substances. **[4]**
+
+**(c)** What is hysteresis? Draw a hysteresis curve for a sample of iron. Explain the curve step by step. **[1+2+3]**
+
+---
+
+### 3.
+
+**(a)** What are dielectrics? Differentiate between polar and non-polar dielectrics with examples. **[4]**
+
+**(b)** Find the relation between electronic polarizability and atomic radius. **[4]**
+
+**(c)** Establish the relation
+
+[
+\vec D=\varepsilon_0\vec E+\vec P
+]
+
+where the parameters have their usual meaning. **[3]**
+
+**(d)** A potential of (10,V) is applied across a parallel plate capacitor having area
+
+[
+6.45\times10^{-4}m^2
+]
+
+and plate separation
+
+[
+0.002m
+]
+
+If a material having dielectric constant (6.0) is placed within the region between the plates, calculate the amount of charge stored in the plates and the net amount of polarization. **[4]**
+
+---
+
+### 4.
+
+**(a)** Write down the expression for intensity distribution of single slit diffraction and explain the symbols used. **[2]**
+
+**(b)** Sketch how the intensity varies with angle of diffraction. **[2]**
+
+**(c)** Find the values of the angle at which minima are located. **[2]**
+
+**(d)** Find the condition that angle satisfies in order to be the position of a secondary maximum. **[2]**
+
+**(e)** Describe the fringe pattern when white light is incident on a plane transmission grating. **[3]**
+
+**(f)** A light of wavelength
+
+[
+6\times10^{-5}cm
+]
+
+falls normally on a slit of width
+
+[
+0.2mm
+]
+
+Calculate:
+
+(i) The total angular width of the central maximum.
+
+(ii) The linear width of the central maximum on a screen placed (2,m) away.
+
+**[4]**
+
+---
+
+### 5.
+
+**(a)** Write down Maxwell's wave equations for free space with their physical significance. Hence prove that the velocity of EM wave is equal to the velocity of light. **[5]**
+
+**(b)** Write down Maxwell's modification of Ampere's law.
+
+An electric wave is represented by
+
+[
+E_y=E_0\cos(1000t-5000x)
+]
+
+Calculate the wavelength and speed of propagation of the wave.
+
+Show that the displacement current is negligible compared to the conduction current at any frequency when the conductor is subjected to an alternating field. **[2+2]**
+
+**(c)** A circular conducting disc of radius (5,cm) maintains an angular motion of (1000,rpm) with its plane perpendicular to the magnetic field.
+
+If due to this motion, the induced e.m.f. between the center and the edge of the disc is (3.22,mV), calculate the magnetic flux density. **[4]**
+
+---
+
+***END OF PAPER***

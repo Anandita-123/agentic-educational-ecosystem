@@ -1,0 +1,93 @@
+**METADATA**
+
+* **Paper Code:** PECAI501C/PECAIDS501D/PECAIML501C
+* **Subject Name:** Graph Theory
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005933
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: PECAI501C_2025-2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. In the Dijkstra algorithm the process of finding the shortest path starts with a tree with ________ node(s).
+2. In which graph, the vertex set and the edge set are finite sets?
+3. For an undirected graph G with n vertices and e edges, the sum of the degrees of each vertex is: ________
+4. What happens when the value of k is ________ in the Floyd Warshall Algorithm?
+5. Triangle free graphs have the property of clique number ________.
+6. What is an Articulation Point in cut vertex?
+7. Euler and Hierholzer theorem emphasize about which principles?
+8. The maximum number of times the decrease key operation performed in Dijkstra's algorithm will be equal to ________.
+9. Suppose a binary tree is constructed with n nodes, such that each node has exactly either zero or two children. The maximum height of the tree will be?
+10. There is a matching of size A if and only if every set S A of vertices is: ________
+11. In Mycielski's construction, one can get a graph M(G), by which principle?
+12. Given a graph G, a graph composition of G is a partition of the vertex set such that ________.
+
+---
+
+### ChunkID: PECAI501C_2025-2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. How the all-pair shortest path is calculated using the Floyd-Warshall algorithm? **[5]**
+2. Prove whether the following graphs are isomorphic or not: **[5]**
+   *[Diagram Description: 
+   Graph 1: A quadrilateral with vertices labeled a1, b1, c1, d1. The precise edge connections are: (a1, b1), (b1, c1), (c1, d1), and (d1, a1).
+   Graph 2: An hourglass-shaped quadrilateral with vertices labeled a2, b2, c2, d2. The precise edge connections are: (d2, a2) forming a top horizontal line, (b2, c2) forming a bottom horizontal line, and crossing diagonal edges (a2, b2) and (d2, c2).]*
+3. What is distance in graphs? (2) What are diameter and radius of any graph? (3) **[5]**
+4. What is Brook's theorem for chromatic number? Explain with suitable example. **[5]**
+5. What is the Hajos theorem? What is a critical k-chromatic graph? Explain. **[5]**
+
+---
+
+### ChunkID: PECAI501C_2025-2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. What is the degree of a vertex? Explain. (4)
+   What is the degree of a graph? Explain with suitable example. (5)
+   Determine the degrees of each vertex in the following graph G, find out the degree of graph G. (6) **[15]**
+   *[Diagram Description: A planar graph with 7 vertices labeled 'a' through 'g'. The precise edge connections are:
+   - Vertex a connects to: b, c, d, e, g
+   - Vertex b connects to: a, c
+   - Vertex c connects to: a, b, d, g
+   - Vertex d connects to: a, c, e, g
+   - Vertex e connects to: a, d, f, g
+   - Vertex f connects to: e, g
+   - Vertex g connects to: a, c, d, e, f]*
+
+2. What is the Incidence Matrix? (3)
+   How is the Incidence Matrix similar to the Kirchhoff's Current Law? (4)
+   Find out the incidence adjacency matrix for the following graph: (8) **[15]**
+   *[Diagram Description: A tree-like graph with 9 vertices (A to I) and 10 explicitly labeled edges (v1 to v10). The precise connections are:
+   - Edge v1 connects A and B
+   - Edge v2 connects A and C
+   - Edge v3 connects A and D
+   - Edge v4 connects C and D
+   - Edge v5 connects B and E
+   - Edge v6 connects B and F
+   - Edge v7 connects E and I
+   - Edge v8 connects C and G
+   - Edge v9 connects D and G
+   - Edge v10 connects D and H]*
+
+3. What is the "Chinese Postman Problem"? Explain it with suitable diagram.
+   What is a Bipartite graph? How the bipartite property is defined? Explain. **[15]**
+
+4. How the all-pair shortest path is calculated using the Floyd-Warshall algorithm? (7)
+   What are directed, and undirected graph? (4)
+   What is a connected graph, connected vertices, and path? (4) **[15]**
+
+5. What is a block graph? Explain with suitable example. (7)
+   What is graph trail? What is walk? Explain both with suitable examples. (8) **[15]**
+
+---
+
+***END OF PAPER***

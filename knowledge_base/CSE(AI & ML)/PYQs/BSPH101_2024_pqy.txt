@@ -1,0 +1,194 @@
+**METADATA**
+
+* **Paper Code:** BS-PH101 / BSPH101
+* **Subject Name:** Physics-I
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 001003
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: BSPH101_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the emissivity of an ideal black body?
+2. What is the dimension of phase space?
+3. The Curl of a conservative vector field is ________.
+4. In Fraunhofer diffraction, the incident wavefront is ________.
+5. The displacement current arises due to ________.
+6. For an ideal blackbody, the power emitted per unit area is proportional to ________.
+7. At absolute zero temperature what is the probability of occupancy of an electron in an energy state above the Fermi level?
+8. Find the angle between the vectors (\hat{i}) and (2\hat{i}+\hat{j}).
+9. Diffraction is actually a form of interference. True or False?
+10. Dimension of polarizability in SI units is ________.
+11. If (E_1) is the energy of the ground state of a one-dimensional potential well of length (L) and (E_2) be the energy of the ground state of a one-dimensional potential well of length (L/2), what is the relation between (E_1) and (E_2)?
+12. What is the average energy of electrons in a metal at (0) Kelvin?
+
+---
+
+### ChunkID: BSPH101_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. State five applications of LASER. **[5]**
+
+2. Mention the criteria for the applicability of Bose-Einstein statistics. **[5]**
+
+3. Find the value of the given commutator and explain the significance of the result:
+
+[
+[\hat{x},\hat{P}_x]
+]
+
+**[5]**
+
+4. What do you mean by Macrostate and Microstate? Explain with suitable example. **[5]**
+
+5. Compute the smallest possible uncertainty in the position of an electron moving with speed
+
+[
+3\times10^7 , m/s
+]
+
+**[5]**
+
+---
+
+### ChunkID: BSPH101_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+**(a)** Give one example of Solid, Liquid and Gaseous Dielectric material. **[3]**
+
+**(b)** State three applications of Dielectric Materials. **[3]**
+
+**(c)** What is Dielectric Constant? What is its value in vacuum and conductor? **[2+1+1]**
+
+**(d)** A capacitor is made up of a dielectric material of
+
+[
+\varepsilon_r = 4.2
+]
+
+It has an effective surface area of
+
+[
+0.09,m^2
+]
+
+and capacitance
+
+[
+10,\mu F
+]
+
+Calculate the field strength if a potential difference of (5V) exists across the capacitor.
+
+Given
+
+[
+\varepsilon_0 = 8.85\times10^{-12} Fm^{-1}
+]
+
+**[5]**
+
+---
+
+### 2.
+
+**(a)** State the Planck's radiation law explaining all terms and show that the law reduces to Wien's radiation law and Rayleigh-Jeans law in opposite limits. **[2+2+2+2]**
+
+**(b)** Define group velocity and phase velocity.
+
+Show that the product of group velocity and phase velocity is a constant. **[2+3]**
+
+**(c)** Write down the time dependent Schrödinger equation clearly mentioning the terms.
+
+Explain the physical significance of a wave function. **[2+2]**
+
+---
+
+### 3.
+
+**(a)** A particle is executing simple harmonic oscillation and has a velocity of (5,m/s) when the displacement is (2,m) and reduces to (2,m/s) when the displacement is (5,m).
+
+Calculate:
+
+(i) Amplitude
+
+(ii) Frequency
+
+(iii) Time period
+
+of the above oscillation. **[4+2+2]**
+
+**(b)** Define holonomic and non-holonomic constraints with examples of each. **[2+2]**
+
+**(c)** What is a conservative vector field? Give one example. **[2+1]**
+
+---
+
+### 4.
+
+**(a)** Compare diamagnetic, paramagnetic and ferromagnetic materials. **[6]**
+
+**(b)** Differentiate between Soft and Hard magnetic materials. **[3]**
+
+**(c)** The value of permeability of a material is
+
+[
+0.12 , N/A^2
+]
+
+What is the relative permeability and magnetic susceptibility? **[2+2]**
+
+**(d)** Define magnetic domain of ferromagnetic materials. **[2]**
+
+---
+
+### 5.
+
+**(a)** Find the minimum number of lines of a grating which can resolve in the second order spectrum two lines having wavelengths
+
+[
+5890\ \text{Å}
+]
+
+and
+
+[
+5896\ \text{Å}
+]
+
+**[5]**
+
+**(b)** Two polarisers are placed at crossed position. At what angle should a third polariser be placed so that the intensity of the emergent light is one-fourth of the intensity of incident light? **[5]**
+
+**(c)** What is the highest order spectrum which may be observed with monochromatic light of wavelength
+
+[
+200,nm
+]
+
+using a grating with
+
+[
+2000 \text{ lines/cm}
+]
+
+? **[5]**
+
+---
+
+***END OF PAPER***

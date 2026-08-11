@@ -1,0 +1,67 @@
+**METADATA**
+
+* **Paper Code:** HM-HU501/HSMC-501/HSMC501
+* **Subject Name:** Introduction to Industrial Management (Humanities III)
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 005508
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: HSMC501_2025-2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. On which factors, the re-order level is dependent?
+2. Why Gnatt chart is mostly used?
+3. Write the full form of PERT.
+4. ERP stands for ________.
+5. What is MRP?
+6. What is Critical Path Method?
+7. What is Value Analysis?
+8. What do you mean by PPC?
+9. What is project scheduling?
+10. In which country JUST IN TIME is practiced?
+11. What is Supply Chain Management?
+12. Mention any two differences between CPM and PERT.
+
+---
+
+### ChunkID: HSMC501_2025-2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Write a note on "Enterprise Resource Planning". **[5]**
+2. Explain the importance of Span of Control. **[5]**
+3. What is Floats? What are the different types of floats? **[5]**
+4. What is ABC Analysis in Inventory Control? **[5]**
+5. Write some prominent features of ERP application. **[5]**
+
+---
+
+### ChunkID: HSMC501_2025-2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. Discuss various types of production techniques. **[15]**
+
+2. (a) What is replenishment Model. **[5]**
+   (b) Write some objectives of replenishment model. **[5]**
+   (c) What is two bin inventory control? **[5]**
+
+3. Discuss about the needs and benefits of logistic management. **[15]**
+
+4. (a) Define centralization and decentralization. **[5]**
+   (b) Write pros and cons of centralization and decentralization. **[10]**
+
+5. (a) Write the functions of storekeeping. **[5]**
+   (b) Write the advantages of disadvantages of centralized and decentralized storekeeping. **[10]**
+
+---
+
+***END OF PAPER***

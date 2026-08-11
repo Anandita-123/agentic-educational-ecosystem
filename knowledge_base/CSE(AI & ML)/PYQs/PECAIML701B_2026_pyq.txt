@@ -1,0 +1,82 @@
+**METADATA**
+
+* **Paper Code:** PEC-AI701B/PECAIDS701B/PECAIML701B
+* **Subject Name:** Computer Vision
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 007800
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2025-2026
+
+---
+
+### ChunkID: PECAIDS701B_2026_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. True or False: Morphological operations, such as erosion and dilation, are primarily used for sharpening image details.
+2. True or False: The Prewitt operator is used for edge detection but is not sensitive to diagonal edges.
+3. True or False: K-means can be applied to time series data for pattern recognition.
+4. True or False: K-means can be used for both vector quantization and clustering.
+5. True or False: PCA can be applied to both numerical and categorical data.
+6. True or False: Edge detection is an unsupervised learning technique.
+7. The Bayes classifier is a discriminative model that directly models the decision boundary between classes.
+8. True or False: ANNs can automatically learn and adapt to extract discriminative features from raw data.
+9. True or False: ANNs can only perform pattern recognition tasks when the patterns are predefined and labeled.
+10. True or False: The first principal component captures the least amount of variance in the data.
+11. True or False: The Bayes classifier assumes that features are conditionally independent given the class label.
+12. True or False: The LoG operator is computationally faster than other edge detection methods like Canny.
+
+---
+
+### ChunkID: PECAIDS701B_2026_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. You have a binary image with a resolution of 800 pixels by 600 pixels. In this image, there are 150,000 white pixels (pixel value = 1 and the rest are black pixels (pixel value = 0). Calculate the percentage of white pixels in the image. **[5]**
+2. You have an 8-bit grayscale image, and you want to compute its histogram. The image has the following pixel values: 100, 120, 130, 140, 120, 130, 130, 140, 150, 150, 160. Calculate the histogram for this image, showing the frequency of each pixel value. **[5]**
+3. What are opening and closing operations, and how are they used to process binary images? **[5]**
+4. How does a small "k" value impact KNN predictions compared to a large "k" value? **[5]**
+5. Why are principal components orthogonal to each other in PCA, and what does this property signify? **[5]**
+
+---
+
+### ChunkID: PECAIDS701B_2026_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Suppose you have the following data points in a two-dimensional space: (2, 3), (3, 4), (5, 6), (10, 12), (12, 15). Perform K-means clustering with K=2, starting with the initial cluster centroids at (3, 4) and (10, 12). After one iteration, what are the updated cluster centroids? **[5]**
+   (b) For the same datapoint, perform K-means clustering with K=3 starting with the initial cluster centroids at (2, 3), (5, 6), and (10, 12). After two iterations, what are the updated cluster centroids for each cluster? **[8]**
+   (c) Explain the notion of local optima in K-means clustering. How can you improve the chances of finding the global optimum solution? **[2]**
+
+2. (a) What is feature analysis in the context of image processing, and why is it important? **[3]**
+   (b) Describe the difference between global and local features in Image analysis. Provide examples of each. **[3]**
+   (c) How can the Euler number be used to distinguish between different types of shapes? Provide examples. **[3]**
+   (d) How can a histogram help In image segmentation and object recognition tasks? **[3]**
+   (e) In shape analysis, what are some commonly used shape descriptors, and how do they help in characterizing objects in images? **[3]**
+
+3. (a) What are some common challenges and considerations when designing neural networks for real-world applications? **[6]**
+   (b) What is the primary purpose of the "backpropagation" algorithm in training neural networks? **[4]**
+   (c) What is the role of activation functions in artificial neural networks, and why are they necessary? **[5]**
+
+4. (a) Explain the key characteristics that make a point in an Image a "corner" according to the Harris corner detection algorithm. **[3]**
+   (b) Describe the steps involved in the Harris corner detection process, including the calculation of the Harris corner response. **[4]**
+   (c) Given a small 3x3 image region with pixel Intensity values:
+       [100 150 100,
+        150 200 150,
+        100 150 100]
+       Calculate the Harris corner response at the central pixel (200) using the Harris corner detection formula:
+       R = det(M) - k * (trace(M))^2
+       k = 0.04 **[8]**
+
+5. (a) Explain the key steps involved in the Canny edge detection algorithm and their significance. **[3]**
+   (b) What are the main parameters in the Canny edge detection algorithm, such as the high and low thresholds, and how do they affect the detection of edges? **[3]**
+   (c) How does non-maximum suppression contribute to the effectiveness of Canny edge detection, and what does it aim to achieve? **[3]**
+   (d) Describe the role of edge tracking by hysteresis in Canny edge detection. How does it help in distinguishing between strong and weak edges? **[6]**
+
+---
+
+***END OF PAPER***

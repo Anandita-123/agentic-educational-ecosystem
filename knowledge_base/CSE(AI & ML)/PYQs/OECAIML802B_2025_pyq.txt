@@ -1,0 +1,67 @@
+**METADATA**
+
+* **Paper Code:** OECAIDS802B/OECAIML802B
+* **Subject Name:** Research Methodology
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 008426
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: OECAIDS802B_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is the main purpose of a conclusion in a report?
+2. Expand IMRAD.
+3. What is the key difference between research methods and methodology?
+4. What does ANOVA stand for?
+5. What does TRIPS stand for?
+6. What is the first step in report writing?
+7. What is a working hypothesis?
+8. Name any one non-probability sampling technique.
+9. What is the meaning of reproducibility in research?
+10. What is meant by an oral presentation?
+11. Mention one source of research literature other than journals.
+12. What is the full form of SigmaStat?
+
+---
+
+### ChunkID: OECAIDS802B_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What are the key steps involved in selecting and formulating a research problem? **[5]**
+2. What are the key features of SPSS used in data analysis? **[5]**
+3. Explain the importance of citation and proper acknowledgement in scholarly publishing. **[5]**
+4. Explain the meaning and purpose of interpretation in research. **[5]**
+5. What precautions should be taken while identifying research gaps? **[5]**
+
+---
+
+### ChunkID: OECAIDS802B_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Discuss the common errors made during interpretation and report writing and how they can be avoided. **[5]**
+   (b) Describe the complete process of writing and presenting a research project from data interpretation to final conclusion. **[10]**
+
+2. Compare and explain various types of research: Descriptive vs Analytical, Applied vs Fundamental, Quantitative vs Qualitative. **[15]**
+
+3. (a) Compare and contrast different sampling methods with appropriate examples. **[9]**
+   (b) Explain method validation thoroughly, including its principles, process, and significance in research. **[6]**
+
+4. (a) Discuss the ethical considerations in research involving human and animal subjects. Include the role and function of ethical committees. **[5]**
+   (b) Explain intellectual property rights in detail. Discuss the differences between patents, copyrights, and trademarks with examples. **[10]**
+
+5. (a) Analyze the challenges in data collection and how they can be minimized. **[8]**
+   (b) Describe how observational methods are used in data collection and their relevance in qualitative research. **[7]**
+
+---
+
+***END OF PAPER***

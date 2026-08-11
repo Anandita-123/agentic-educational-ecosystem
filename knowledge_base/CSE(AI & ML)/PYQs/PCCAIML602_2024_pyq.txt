@@ -1,0 +1,66 @@
+**METADATA**
+
+* **Paper Code:** PCCAIML602
+* **Subject Name:** Deep Learning
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 006904
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2023-2024
+
+---
+
+### ChunkID: PCCAIML602_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. Neural Networks are complex ________ with many parameters.
+2. What is "Rectified Linear Unit Function"?
+3. Bayes network consist of ________
+4. Why linearly separable problems are of interest for neural network researchers?
+5. Define Entropy.
+6. A 4-input neuron has weights 1, 2, 3 and 4. The transfer function is linear with the constant of proportionality being equal to 2. The inputs are 4, 10, 5 and 20 respectively. What will be the output?
+7. What is sigmoid function?
+8. In a Convolutional Neural Network (CNN), how can you fix the constant validation accuracy?
+9. What is Batch Gradient Descent?
+10. What do you mean by an epoch in the context of deep learning?
+11. What are the advantages of transfer learning?
+12. What is Sparse Coding?
+
+---
+
+### ChunkID: PCCAIML602_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is the meaning of overfitting? **[5]**
+2. Explain the application of deep learning in Object Recognition. **[5]**
+3. Explain Hidden Markov Model. **[5]**
+4. What is the use of the loss function? **[5]**
+5. Explain backpropagation in brief. **[5]**
+
+---
+
+### ChunkID: PCCAIML602_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) What are the different types of supervised learning? Explain with example. **[10]**
+   (b) State the differences between Supervised and Unsupervised learning. **[5]**
+
+2. (a) What is "Log loss"? **[5]**
+   (b) Explain the concept of penalty and reward in reinforcement learning? **[10]**
+
+3. Explain the architecture of convolutional neural network (CNN) with suitable diagram. **[15]**
+
+4. (a) State the differences between Deep and Shallow Network. **[5]**
+   (b) Explain Recurrent Neural Network (RNN) and its applications in Deep Learning. **[10]**
+
+5. Explain PCA (Principal Component Analysis) and its applications in brief. **[15]**
+
+---
+
+***END OF PAPER***

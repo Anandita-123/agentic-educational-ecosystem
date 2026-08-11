@@ -1,0 +1,120 @@
+**METADATA**
+
+* **Paper Code:** PCC-CS302 / PCCCS302
+* **Subject Name:** Computer Organisation
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 003444
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024
+
+---
+
+### ChunkID: PCCCS302_2024_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What are the different categories of Memory/Storage?
+
+2. Write one advantage of Pipelining.
+
+3. Which type of program acts as an intermediary between a user of a computer and the computer hardware?
+
+4. The 2's complement of 15 is ________.
+
+5. Name some types of devices used for Auxiliary Memory.
+
+6. What is an Interpreter?
+
+7. What are the functions of the Operating System?
+
+8. Carry and Overflow are also called ________.
+
+9. Which memory has the fastest speed in the computer memory hierarchy?
+
+10. What is the full form of CISC?
+
+11. Which bus is bidirectional?
+
+12. Which algorithms are based on Add/Subtract and Shift category?
+
+---
+
+### ChunkID: PCCCS302_2024_SectionB
+
+**Group-B (Short Answer Type Questions)**
+
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. What is Von Neumann Bottleneck? **[5]**
+
+2. Describe IEEE 754 Standard Format for Floating Point Representation. **[5]**
+
+3. Explain the Reading and Writing Operations of SRAM. **[5]**
+
+4. Explain DMA Controller. **[5]**
+
+5. Explain the concept of Handshaking in I/O Operation. **[5]**
+
+---
+
+### ChunkID: PCCCS302_2024_SectionC
+
+**Group-C (Long Answer Type Questions)**
+
+**Answer any three of the following** **[15 × 3 = 45]**
+
+### 1.
+
+What are the advantages of Carry Look Ahead (CLA) Adder over Ripple Carry Adder?
+
+Explain with suitable diagram. **[7+8]**
+
+---
+
+### 2.
+
+Explain the concept of Virtual Memory.
+
+What do you understand by Page Fault? **[8+7]**
+
+---
+
+### 3.
+
+Explain the difference between:
+
+* Instruction Pipeline
+* Arithmetic Pipeline
+
+**[15]**
+
+---
+
+### 4.
+
+What is an Operating System?
+
+What are the different roles of an Operating System? **[15]**
+
+---
+
+### 5.
+
+Explain the difference between:
+
+* Fully Associative Cache Mapping
+* Direct Mapped Cache Mapping
+
+Also explain:
+
+* Write Through Policy
+* Write Back Policy
+
+in Cache Memory. **[8+7]**
+
+---
+
+***END OF PAPER***

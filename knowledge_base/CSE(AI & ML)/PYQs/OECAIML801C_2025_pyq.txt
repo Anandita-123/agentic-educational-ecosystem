@@ -1,0 +1,77 @@
+**METADATA**
+
+* **Paper Code:** OECAIDS801C/OECAIML801C
+* **Subject Name:** Software Engineering
+* **University:** Maulana Abul Kalam Azad University of Technology, West Bengal
+* **UPID:** 008424
+* **Time Allotted:** 3 Hours
+* **Full Marks:** 70
+* **Year:** 2024-2025
+
+---
+
+### ChunkID: OECAIDS801C_2025_SectionA
+
+**Group-A (Very Short Answer Type Questions)**
+**Answer any ten of the following** **[1 × 10 = 10]**
+
+1. What is Software Engineering?
+2. The software requirements specification (SRS) document should avoid discussing the ________
+3. What is the main goal of software testing in the software development lifecycle?
+4. Which one of the following is true for a critical path in a PERT chart?
+   (a) It is the path having maximum number of tasks
+   (b) It is the shortest path in terms of time
+   (c) It is the longest path in terms of time
+   (d) It is the path with the largest amount of slack time
+5. Fill in the blank: In a Collaboration diagram, objects are represented by ________
+6. State True/False: Spiral life cycle model is not suitable for products that are vulnerable to large number of risks.
+7. The extent of data interchange between two modules is called ________
+8. What is the main use of a State chart diagram?
+9. In a software project, COCOMO is used to estimate ________
+10. What is the primary purpose of a Class diagram?
+11. Among development phases of software life cycle, ________ phase typically consumes the maximum effort.
+12. What is Code Inspection in software engineering?
+
+---
+
+### ChunkID: OECAIDS801C_2025_SectionB
+
+**Group-B (Short Answer Type Questions)**
+**Answer any three of the following** **[5 × 3 = 15]**
+
+1. Distinguish between alpha, beta, and acceptance testing. **[5]**
+2. Discuss the concept of Project Monitoring in Software Engineering. Explain how effective project monitoring contributes to the successful completion of software development projects. **[5]**
+3. What are the differences between Essential Use case and Real Use case? **[5]**
+4. Explain the difference between the traditional Waterfall model and the Agile model. **[5]**
+5. What are the shortcomings of Capability Maturity Model (CMM)? **[5]**
+
+---
+
+### ChunkID: OECAIDS801C_2025_SectionC
+
+**Group-C (Long Answer Type Questions)**
+**Answer any three of the following** **[15 × 3 = 45]**
+
+1. (a) Identify the causes of and solutions for software crisis. **[5]**
+   (b) Identify at least four basic characteristics that differentiate a simple program from a software product. **[5]**
+   (c) Explain what problems would occur if no life cycle model is followed. **[5]**
+
+2. (a) What are the main shortcomings of the DFD model? **[4]**
+   (b) Draw the ER diagram of Library Management System and also explain it. **[7]**
+   (c) What is Data Flow Diagrams? Write the essential observations about DFD. **[4]**
+
+3. (a) What is Scrum and Agile methodology? **[4]**
+   (b) What are the features of Scrum? **[4]**
+   (c) How does Scrum framework work? **[7]**
+
+4. (a) What is Coupling and Cohesion? **[2]**
+   (b) How many types of Coupling? Describe about all types of Coupling. **[6]**
+   (c) How many types of Cohesion? Describe about all types of Cohesion. **[7]**
+
+5. (a) The nominal effort and duration of a project have been estimated to be 1000PM and 15 months. The project cost has been negotiated to be '200,000,000. The needs the product to be developed and delivered in 12 month time. What should be the new cost to be negotiated? **[5]**
+   (b) Why it is necessary to break down project activities into tasks? **[6]**
+   (c) Write about the necessity of Software Configuration Management. **[4]**
+
+---
+
+***END OF PAPER***
